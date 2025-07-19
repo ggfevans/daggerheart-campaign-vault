@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:03-WORLD/npcs",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.40198289777611,
+  "scale": 0.3628873693012141,
   "close": false
 }
