@@ -1,5 +1,6 @@
 ---
 tags:
+  - location
   - location/[region]
   - location/[type]
   - visited/[yes|no]

@@ -9,7 +9,7 @@ created: 2025-07-18
 last-updated: 2025-07-18
 ---
 
-# Captain Howling Moon Banjo
+# Captain Howling Banjo
 
 ## 📊 Core Stats
 **Class**: Rogue (Nightwalker)
@@ -55,7 +55,7 @@ last-updated: 2025-07-18
 ## 🌙 Character Concept
 
 ### The Shadow Prankster
-Captain Howling Moon Banjo is a natural prodigy at moving unseen through the dark tunnels of the Undergarden. What started as elaborate pranks using their exceptional stealth abilities has evolved into valuable security and scouting work for their underground community. Their simian agility and instinctive understanding of shadows makes them nearly invisible when they want to be.
+Captain Howling Banjo is a natural prodigy at moving unseen through the dark tunnels of the Undergarden. What started as elaborate pranks using their exceptional stealth abilities has evolved into valuable security and scouting work for their underground community. Their simian agility and instinctive understanding of shadows makes them nearly invisible when they want to be.
 
 ### Experiences
 **Acrobat** - Enhanced agility and movement abilities, perfect for navigating the vertical tunnel systems and performing spectacular pranks that involve impossible positioning and timing.
@@ -90,7 +90,7 @@ Captain Howling Moon Banjo is a natural prodigy at moving unseen through the dar
 ## 🎭 Character Details
 
 ### Backstory
-Born in the bustling tunnels of the Undergarden, Captain Howling Moon Banjo discovered their extraordinary stealth abilities during childhood pranks. What began as harmless tricks - appearing from air vents to startle tunnel merchants, rearranging goods in impossible ways while shopkeepers weren't looking - revealed a natural prodigy's talent for moving unseen through shadows.
+Born in the bustling tunnels of the Undergarden, Captain Howling Banjo discovered their extraordinary stealth abilities during childhood pranks. What began as harmless tricks - appearing from air vents to startle tunnel merchants, rearranging goods in impossible ways while shopkeepers weren't looking - revealed a natural prodigy's talent for moving unseen through shadows.
 
 The "Captain" title came from their time working the surface rivers with a kind riverboat captain who treated them as crew rather than cargo. When they returned to the Undergarden, the name stuck, and their shipboard experiences gave them a unique perspective on navigation that translated perfectly to the tunnel systems.
 

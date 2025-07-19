@@ -8,7 +8,7 @@ created: 2025-07-18
 last-updated: 2025-07-18
 ---
 
-# Captain Howling Moon Banjo - Character Arc
+# Captain Howling Banjo - Character Arc
 
 ## 🌱 Character Evolution
 
@@ -67,6 +67,37 @@ last-updated: 2025-07-18
 - **Surface Contacts**: Building networks through scouting missions
 
 ## 📚 Backstory Reveals
+
+## 🔮 Session 0 Questions for Development
+*Character development prompts from Geoff to explore*
+
+### Community Origins & Departure
+- **Why did Captain Howling Banjo leave their original community?**
+  - *Initial thoughts*: Perhaps the Undergarden community wasn't their first home? Maybe they came from another underground settlement, or even started on the surface before finding the tunnels?
+  - *What called them away*: Adventure? Responsibility? A specific event or person?
+  - *Current status of original community*: Does it still exist? What remains? Are there ties to maintain or wounds to heal?
+
+### Oracle Sight & Aether Attunement
+- **Does Captain Howling Banjo have burgeoning oracle sight?**
+  - *Aether sensitivity*: As a Nightwalker, are there visions creeping in during shadow-stepping?
+  - *Visions of horror*: Glimpses of things trying to break through the veil during stealth work?
+  - *Cosmic horror elements*: Cthulhu-esque monsters threatening reality's fabric?
+  - *How this affects the character*: Does it drive the protective instincts? Add weight to the pranks as coping mechanisms?
+
+### Core Character Goal
+- **What is Captain Howling Banjo's primary goal?**
+  - *Personal mission*: Beyond community protection, what drives them?
+  - *Long-term aspiration*: What would success look like for this character?
+  - *Connection to larger story*: How does this goal tie into the campaign's themes?
+
+### Character Development Notes
+*Space for ongoing exploration of these themes*
+- [ ] Decide on original community details
+- [ ] Determine level of oracle sight/aether sensitivity
+- [ ] Define core character goal and how it evolves
+- [ ] Connect these elements to party dynamics and campaign story
+
+
 
 ### The "Captain" Title
 **Established**: From riverboat captain who treated Banjo as crew

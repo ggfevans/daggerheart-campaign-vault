@@ -4,6 +4,7 @@ tags:
   - faction/[affiliation]
   - relationship/[ally|neutral|enemy|unknown]
   - location/[primary-location]
+  - template
 created: YYYY-MM-DD
 last-interaction: YYYY-MM-DD
 ---

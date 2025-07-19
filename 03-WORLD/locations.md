@@ -3,258 +3,113 @@ tags:
   - world/locations
   - campaign/daggerheart
   - setting/age-of-umbra
+  - index-redirect
 created: 2025-07-18
-updated: 2025-07-18
+updated: 2025-07-19
 ---
 
 # Locations in the Age of Umbra
 
-*See [[03-WORLD/locations/major-locations]] for detailed descriptions of key places*
+> **📁 Location Files Reorganized!**  
+> Individual location details have been moved to dedicated files in the `locations/` folder.  
+> **See [[03-WORLD/locations/README]] for the complete locations index and detailed files.**
 
-## 🏙️ Major Settlements
-*The beacon cities that stand against the darkness*
+## 🗂️ Quick Navigation
 
-### Haven's Light
-**Type**: Fortress City (Population: ~15,000)
-**Status**: Capital of the Lightkeeper Order
-**Notable Features**:
-- The Eternal Beacon (largest remaining solar crystal)
-- The Dimming Academy (school for light magic)
-- New Archive (rebuilt library)
+### Major Location Files
+- **[[03-WORLD/locations/README]]** - Complete locations index
+- **[[Last-Light]]** - Starting location (✅ Visited)
+- **[[Havens-Light]]** - Lightkeeper capital
+- **[[Ironhold]]** - Mountain fortress
+- **[[Sanctuary]]** - Underground city
+- **[[The-Twilight-Forest]]** - Nearby wilderness
 
-**Key NPCs**:
-- High Keeper Solaris Dawnward (Lightkeeper leader)
-- Master Helios Dawnstrider (Last Solar Archmage)
+### Recent Updates (2025-07-19)
+✅ **Completed**: Split locations.md into individual location files  
+✅ **Created**: 8 detailed location files using proper templates  
+✅ **Added**: 3 new NPC files for key figures  
+✅ **Organized**: Comprehensive index with tags and cross-references
 
-### Ironhold  
-**Type**: Mountain Fortress (Population: ~8,000)
-**Status**: Military capital, controls mountain pass
-**Notable Features**:
-- The Iron Gates (massive defensive entrance)
-- The Deep Forges (underground weapons workshops)
-- The Signal Tower (communication relay)
+## 📋 File Structure Overview
 
-### Sanctuary
-**Type**: Underground City (Population: ~20,000)
-**Status**: Largest surviving settlement
-**Notable Features**:
-- The Crystal Ceiling (artificial sky)
-- The Mushroom Farms (primary food production)
-- The Deep Archives (underground library)
+```
+03-WORLD/locations/
+├── README.md                    # Main index (START HERE)
+├── havens-light.md             # Lightkeeper capital
+├── ironhold.md                 # Mountain fortress  
+├── sanctuary.md                # Underground city
+├── dawnwall.md                 # Coastal fortress
+├── last-light.md               # Starting village ✅
+├── solheart-the-lost-capital.md # Dangerous ruins
+├── the-twilight-forest.md      # Corrupted woodland
+├── the-beacon-road.md          # Main trade route
+└── the-wanderers-rest.md       # Neutral meeting place
+```
 
-### Dawnwall
-**Type**: Coastal Fortress (Population: ~6,000)
-**Status**: Naval power and lighthouse hub
-**Notable Features**:
-- The Great Lighthouse (massive beacon)
-- The Harbor Wall (defensive breakwater)
-- The Navigator's Guild (sea travel experts)
+## 🎯 For Session Use
 
----
+### Quick Location Access
+- **Current Base**: [[Last-Light]] 
+- **Nearby Areas**: [[The-Twilight-Forest]]
+- **Major Destinations**: [[Havens-Light]], [[Ironhold]], [[Sanctuary]]
+- **Travel Route**: [[The-Beacon-Road]]
 
-## 🏛️ Ruined Cities
-*Echoes of the world that was*
-
-### Solheart (The Lost Capital)
-**Type**: Ruined Metropolis
-**Status**: Abandoned, extremely dangerous
-**Hazards**: Crystal storms, temporal rifts, guardian constructs
-**Treasures**: Memory crystals, solar artifacts, historical records
-
-### Prismhaven (The Military Ruin)
-**Type**: Fortress Complex  
-**Status**: Occupied by Umbral Cultists
-**Threats**: Whispering Dark cult, corrupted guardians
-**Resources**: Military knowledge, weapons, tactical manuals
-
-### Dawnport (The Sunken Harbor)
-**Type**: Coastal Ruins
-**Status**: Half-flooded, monster-infested
-**Features**: Above and underwater ruins
-**Dangers**: Aquatic Umbral creatures, unstable architecture
+### NPC Quick Links
+- **[[reese-blackwood]]** - Huntmaster at Last Light ✅
+- **[[solaris-dawnward]]** - High Keeper at Haven's Light
+- **[[helios-dawnstrider]]** - Academy Master at Haven's Light
 
 ---
 
-## 🌲 Wilderness Areas
-*The dangerous lands between settlements*
+## 🔍 What Changed
 
-### The Twilight Forest
-**Type**: Corrupted Woodland
-**Status**: Partially tamed by Verdant Circle
-**Features**: Shadow-tolerant plants, adapted creatures
-**Opportunities**: Medicinal plants, natural shelter
+### Before (Single File)
+- All locations in one large file
+- Basic descriptions only  
+- Limited detail for session use
+- No proper cross-referencing
 
-### The Darkmoon Mountains  
-**Type**: Mountain Range
-**Status**: Mostly unexplored
-**Hazards**: Supernatural darkness, temperature extremes
-**Resources**: Rare minerals, crystal formations
-
-### The Umbral Sea
-**Type**: Corrupted Ocean
-**Status**: Navigable but dangerous
-**Challenges**: Dark currents, corrupted marine life
-**Features**: Unnatural weather, phantom islands
+### After (Individual Files)
+- Each location has detailed file using template
+- Complete NPC information and relationships
+- Story hooks and adventure seeds
+- Session history tracking
+- Proper tags and organization
+- Cross-links between related elements
 
 ---
 
-## 🏺 Special Locations
-*Unique sites with particular significance*
+## 🚀 Benefits of New Structure
 
-### The Nexus Point
-**Type**: Magical Anomaly
-**Status**: Guarded by Scholars of Dawn
-**Phenomena**: Energy convergence, temporal fluctuations
-**Importance**: Key to understanding the Eclipse
+### For Sessions
+- **Faster Reference**: Jump directly to specific location details
+- **Better Preparation**: Complete information for each location
+- **Session Tracking**: History maintained per location
+- **Story Integration**: Adventure hooks built into each file
 
-### The Wanderer's Rest
-**Type**: Neutral Territory
-**Status**: Protected by all factions
-**Features**: Travelling inn, neutral meeting ground
-**Services**: Information hub, safe haven
-
-### The Broken Spire
-**Type**: Ruined Tower (former Tower of Mysteries)
-**Status**: Avoided, occasionally explored
-**Dangers**: Gravity anomalies, reality cracks
-**Rewards**: Forbidden knowledge, unique spells
-
-### The Last Garden
-**Type**: Protected Sanctuary
-**Status**: Hidden Verdant Circle location
-**Features**: Pre-Eclipse ecosystem preserved
-**Value**: Seed vault, hope symbol
+### For Campaign Management  
+- **Scalable**: Easy to add new locations as discovered
+- **Organized**: Consistent structure using templates
+- **Connected**: Proper linking between locations, NPCs, and story threads
+- **Searchable**: Comprehensive tagging for quick finding
 
 ---
 
-## 🛣️ Major Trade Routes
+## 📝 Next Steps
 
-### The Beacon Road
-**Route**: Haven's Light ↔ Ironhold ↔ Sanctuary
-**Distance**: ~200 miles total
-**Status**: Safest, most travelled route
-**Features**: Light beacon markers, fortified waypoints
+### Immediate
+- Use [[03-WORLD/locations/README]] for session planning
+- Reference individual location files during play
+- Update session history as locations are visited
 
-### The Coastal Circuit
-**Route**: Maritime connections between coastal settlements
-**Status**: Dangerous but necessary
-**Challenges**: Umbral storms, sea monsters
-
-### The Underground Ways
-**Route**: Tunnel networks between settlements
-**Status**: Safer but slower than surface travel
-**Features**: Natural caves, old mines, constructed passages
+### Ongoing
+- Create additional location files as new places are discovered
+- Develop NPC files for location-specific characters
+- Expand story threads connecting different locations
 
 ---
 
-## 🗺️ Regional Overview
+*This file now serves as a redirect to the new location file structure.*  
+*For all location details, see: [[03-WORLD/locations/README]]*
 
-### The Central Lands
-**Population**: Highest concentration of settlements
-**Features**: River valleys, agricultural areas
-**Resources**: Fresh water, farmland
-
-### The Northern Reaches  
-**Population**: Sparse mining communities
-**Features**: Mountains, tundra, crystal deposits
-**Resources**: Rare metals, magical materials
-
-### The Southern Expanse
-**Population**: Isolated druidic communities  
-**Features**: Swamplands, dense forests
-**Resources**: Medicinal plants, natural materials
-
-### The Eastern Frontier
-**Population**: Nomadic tribes, oasis settlements
-**Features**: Desert conditions, salt flats
-**Resources**: Salt, ancient ruins
-
-### The Western Coast
-**Population**: Fishing villages, lighthouse keepers
-**Features**: Cliffs, storms, rocky islands
-**Resources**: Seafood, maritime access
-
----
-
-## 🔍 Exploration Opportunities
-
-### Recently Discovered
-- The Echo Chambers (acoustic communication caves)
-- The Star Pool (starlight-collecting formation)
-- The Wandering Stones (mobile megalithic structures)
-
-### Rumored Locations
-- The Sanctuary of Hours (temporal anomaly site)
-- The Mirror Lake (reflects non-existent things)
-- The Sleeping City (population in magical slumber)
-
-### Lost but Sought
-- The World Crystal (Eclipse control artifact)
-- The Last Laboratory (final pre-Eclipse research facility)
-- The Escape Route (passage beyond Eclipse reach)
-
----
-
-## 🗒️ Session Notes
-*To be filled as locations are visited*
-
-### Visited Locations
-*Track where the party has been*
-
-### Location Discoveries
-*Record new places found during play*
-
-### Important Events by Location
-*Note significant happenings at specific places*
-
----
-
-## 🔗 Related Files
-- [[age-of-umbra-overview]] - World context
-- [[03-WORLD/factions/major-groups]] - Who controls what
-- [[npcs]] - People found at these locations
-- [[story-threads]] - Events happening at various places
-
----
-
-*Last Updated: 2025-07-18*
-*Next Update: After location discoveries through play*
-
-## 🏘️ Last Light
-**Type**: Small frontier settlement  
-**Size**: Small community  
-**Government**: Local leadership (Huntmaster Reese Blackwood)  
-**Economy**: Frontier trade, hunting, wilderness services
-
-### Description
-A smaller settlement serving as a starting point for wilderness adventures. Last Light represents a frontier community where travelers, hunters, and adventurers gather before venturing into the unknown lands beyond.
-
-### Key Locations
-
-#### Hope's Call Pub
-- **Type**: Tavern and social hub
-- **Significance**: Central meeting place for the community
-- **Patrons**: Local residents, travelers, adventurers
-- **Services**: Food, drink, rooms, information exchange
-- **Atmosphere**: [To be established in play]
-- **Notable Features**: Where adventures begin
-
-#### Huntmaster's Operations
-- **Leader**: Reese Blackwood
-- **Services**: Wilderness contracts, tracking, monster hunting
-- **Location**: Based from Hope's Call pub
-- **Role**: Quest provider and local authority
-
-### Notable NPCs
-- **Huntmaster Reese Blackwood**: Local authority and quest giver
-
-### Connections
-- Starting location for party adventures
-- Gateway to wilderness exploration
-- Hub for hunting and tracking contracts
-
-### Threats & Opportunities
-- [To be established in play]
-- Wilderness dangers requiring huntmaster services
-- Trading opportunities with travelers
-- Community defence needs
+*Reorganization completed: 2025-07-19*

@@ -26,6 +26,40 @@ created: 2025-07-18
 - [ ] Tie characters to campaign world
 - [ ] Define party dynamics and roles
 
+
+### Session 0 - Character Development Questions ✅
+**Completed**: 2025-07-18
+**Focus**: Character background exploration and campaign themes
+
+#### Geoff's Character Development Prompts
+These questions emerged from Session 0 to guide ongoing character and story development:
+
+**Community Origins & Connections**
+- If characters hailed from different communities, why did they leave?
+- What called them away from their original homes?
+- Do their home communities still exist? What remains of them?
+- How do these origins affect current motivations?
+
+**Oracle Sight & Aether Attunement**
+- Are any characters burdened with burgeoning oracle sight?
+- This refers to those with attunement to aether
+- Potential elements include:
+  - Visions of horrid things trying to break through the veil
+  - Cthulhu-esque monsters attempting to breach reality
+  - How these visions affect character behavior and goals
+
+**Core Character Goals**
+- What is each character's primary personal goal?
+- How do individual goals interconnect with party objectives?
+- Connection to larger campaign themes and story arcs
+
+#### Implementation Notes
+- [ ] Each player should explore these themes in their character development
+- [ ] Geoff can weave answers into ongoing storylines
+- [ ] Oracle sight elements suggest cosmic horror undertones to campaign
+- [ ] Community origins may create opportunities for return visits or complications
+
+
 ## 🌟 Session Ideas & Hooks
 ### Opening Scenarios
 - Scenario 1: [Brief description]

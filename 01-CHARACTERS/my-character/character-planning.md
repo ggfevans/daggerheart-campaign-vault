@@ -8,12 +8,12 @@ created: 2025-07-18
 last-updated: 2025-07-18
 ---
 
-# Captain Howling Moon Banjo - Character Planning
+# Captain Howling Banjo - Character Planning
 
 ## ✅ Character Creation Complete
 
 ### Final Character Build
-**Name**: Captain Howling Moon Banjo
+**Name**: Captain Howling Banjo
 **Class**: Rogue (Nightwalker)
 **Heritage**: Simian
 **Community**: Undergarden

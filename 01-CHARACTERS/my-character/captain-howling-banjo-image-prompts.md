@@ -5,10 +5,10 @@ tags:
   - class/rogue
   - heritage/simian
 created: 2025-07-18
-character: captain-howling-moon-banjo
+character: captain-howling-banjo
 ---
 
-# Captain Howling Moon Banjo - Image Generation Prompts
+# Captain Howling Banjo - Image Generation Prompts
 
 *Art reference prompts for Leonardo.ai and other AI image generators*
 
@@ -161,7 +161,7 @@ Always include these core elements for recognizable results:
 ---
 
 *Created: 2025-07-18*
-*Character: Captain Howling Moon Banjo*
+*Character: Captain Howling Banjo*
 *Purpose: AI art generation reference*
 
 ---

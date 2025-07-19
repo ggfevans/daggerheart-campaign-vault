@@ -16,6 +16,12 @@ location: Last Light - Hope's Call Pub
 **Players**: Gareth, Andi, Mark, Luie
 **Setting**: Hope's Call pub in the settlement of Last Light
 
+## 🎯 Session 1 Goals
+- [ ] Character introductions and connections
+- [ ] Safety tools and boundaries discussion
+- [ ] House rules clarification
+- [ ] Party composition review
+- [ ] Opening scene setup
 ### Planned Opening
 - Characters meet at Hope's Call pub
 - Introduction to Huntmaster Reese Blackwood
@@ -32,7 +38,7 @@ A smaller frontier settlement where adventures begin.
 
 ## 👥 Key NPCs
 
-### Huntmaster Reese Blackwood
+### Huntmaster [[reese-blackwood]]
 - **Role**: Quest giver and local authority figure
 - **Location**: Operates from/frequents Hope's Call pub
 - **Relationship**: Professional contact for adventuring work

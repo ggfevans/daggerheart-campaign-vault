@@ -1,7 +1,9 @@
 ---
 tags:
-  - world/locations
-  - setting/age-of-umbra
+  - location
+  - location/central-lands
+  - location/underground
+  - visited/no
   - community/underground
   - security/tunnels
   - character/background
@@ -157,7 +159,7 @@ The Undergarden operates on an inverted schedule compared to most communities. R
 ## 🎯 Notable Locations Within the Undergarden
 
 ### The Captain's Chamber
-A strategic command post located at the intersection of major patrol routes. Contains maps (carved into stone walls), intelligence reports, and coordination equipment for Night Shift operations. Currently serves as Captain Howling Moon Banjo's base of operations.
+A strategic command post located at the intersection of major patrol routes. Contains maps (carved into stone walls), intelligence reports, and coordination equipment for Night Shift operations. Currently serves as Captain Howling Banjo's base of operations.
 
 ### The Echo Hall
 A naturally resonant chamber used for community meetings and the practice of silent communication techniques. The acoustics allow for whispered conversations that can be heard clearly by the intended audience while remaining inaudible to others.
@@ -193,7 +195,7 @@ A carefully concealed observation post with access to multiple surface exit poin
 
 ## 🌟 Key NPCs
 
-### Captain Howling Moon Banjo
+### Captain Howling Banjo
 **Role**: Current Night Shift Captain (PC character)  
 **Background**: Former surface dweller with riverboat experience who adapted to tunnel life and earned leadership through skilled protection work and community-building pranks.  
 **Reputation**: Known for innovative security techniques and the ability to balance serious protective responsibilities with community morale maintenance.  
@@ -235,7 +237,7 @@ Proven systems for maintaining morale, resolving disputes, and balancing individ
 
 ## 🔗 Related Files
 - [[03-WORLD/locations/major-locations]] - Context of larger underground city Sanctuary
-- [[01-CHARACTERS/my-character/character-arc]] - Captain Howling Moon Banjo's background
+- [[01-CHARACTERS/my-character/character-arc]] - Captain Howling Banjo's background
 - [[00-CAMPAIGN/campaign-overview]] - Age of Umbra setting information
 - [[03-WORLD/npcs]] - Additional community members and contacts
 
@@ -243,4 +245,4 @@ Proven systems for maintaining morale, resolving disputes, and balancing individ
 
 *Last Updated: 2025-07-18*  
 *Next Update: As community develops through gameplay*  
-*Created for: Captain Howling Moon Banjo's character background*
+*Created for: Captain Howling Banjo's character background*

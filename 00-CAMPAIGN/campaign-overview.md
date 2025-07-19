@@ -29,7 +29,7 @@ As heroic survivors, the party will:
 
 ## 👥 Party Composition
 ### Active Characters
-- **Captain Howling Moon Banjo** (User): Wildblood Sorcerer (Primal Origin) - Lunar-powered simian sorcerer with connection to corrupted Moonwell
+- **Captain Howling Banjo** (User): Simian Nightwalker Rogue from Undergarden - Shadow-stepping prankster who protects their tunnel community
 - **[[vaerenth-character-sheet|Vaerenth]]** (Andi): Goblin Ranger (Beastbound) - Wanderborne archer with Hogdog companion, specializing in mobility and entangling spells
 - **[Captorstrike's Character]**: [Class] - [Brief description]  
 - **[Luie's Character]**: [Class] - [Brief description]

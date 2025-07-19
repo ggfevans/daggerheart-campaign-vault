@@ -18,7 +18,7 @@ created: 2025-07-18
 *Notes about their character, personality, backstory, and interactions will be added during play*
 
 ## 🔗 Relationships
-### With Captain Howling Moon Banjo
+### With Captain Howling Banjo
 *Relationship dynamics to be developed through play*
 
 ### With Other Party Members

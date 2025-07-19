@@ -15,31 +15,22 @@ status: in-progress
 ## 📋 Session Overview
 **Duration**: Currently in progress (started 4:00 PM)
 **Location**: Online
-**Players**: User (Captain Howling Moon Banjo), Andi, Captorstrike, Luie, Mark
+**Players**: User (Captain Howling Banjo), Andi, Captorstrike, Luie, Mark
 **GM**: Geoff
 **Status**: 🔴 LIVE SESSION - Session 0 in progress
 
 ## 🎯 Session 0 Goals
-- [ ] Character introductions and connections
-- [ ] World overview and tone setting
-- [ ] Safety tools and boundaries discussion
-- [ ] House rules clarification
-- [ ] Party composition review
-- [ ] Opening scene setup
+- [x] World overview and tone setting
+
 
 ## 👥 Character Introductions
 
-### Captain Howling Moon Banjo (Gareth)
-**Class**: Wildblood Sorcerer (Primal/Lunar)
+### Captain Howling Banjo (Gareth)
+**Class**: Simian Nightwalker Rogue from Undergarden
 **Key Traits**: [Notes from introductions]
 **Connections**: [Links to other PCs discovered]
 
 ### [Andi's Character]
-**Class**: [To be filled]
-**Key Traits**: [Notes from introductions]
-**Connections**: [Links to other PCs discovered]
-
-### [Captorstrike's Character]
 **Class**: [To be filled]
 **Key Traits**: [Notes from introductions]
 **Connections**: [Links to other PCs discovered]
@@ -120,7 +111,7 @@ status: in-progress
 
 ### Character Updates Needed
 - [ ] Update party member character files with revealed info
-- [ ] Add relationship details to Captain Howling Moon Banjo's file
+- [ ] Add relationship details to Captain Howling Banjo's file
 - [ ] Note any backstory connections established
 
 ## 💭 Initial Impressions
@@ -147,8 +138,3 @@ status: in-progress
 
 
 
-- if you all hailed from different communities, why did you leave? what called you? do your home communities still exist? what remains of them?
-- are any of you burdened with a burgeoning oracle sight? Refers to those with atunement to aether
-	- visions of horrid things trying to break through the veil
-	- Cthulu-esque monsters trying to break through
-- what is my characters goal?
