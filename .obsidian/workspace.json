@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-CHARACTERS/mark-character/character-sheet.md",
+                "file": "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "character-sheet"
+              "title": "vaerenth-character-sheet"
             }
           }
         ]
@@ -189,16 +189,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bec1758fed759104",
+  "active": "93af021a30cd21d3",
   "lastOpenFiles": [
+    "06-RULES-MASTERY/early-mid-game-damage-optimization.md",
+    "01-CHARACTERS/mark-character/augustus-penhallow-character-sheet.md",
     "04-RESOURCES/dh-srd/dh-classes-overview.md",
-    "01-CHARACTERS/aster-luferi/aster-luferi-progression.md",
-    "01-CHARACTERS/aster-luferi/aster-luferi-development.md",
-    "01-CHARACTERS/aster-luferi/aster-luferi-character-sheet.md",
+    "01-CHARACTERS/luie-character/aster-luferi-progression.md",
+    "01-CHARACTERS/luie-character/aster-luferi-development.md",
+    "01-CHARACTERS/luie-character/aster-luferi-character-sheet.md",
     "01-CHARACTERS/aster-luferi",
-    "01-CHARACTERS/mark-character/level-progression.md",
-    "01-CHARACTERS/mark-character/character-arc.md",
-    "01-CHARACTERS/mark-character/character-sheet.md",
+    "01-CHARACTERS/mark-character/augustus-penhallow-progression.md",
+    "01-CHARACTERS/mark-character/augustus-penhallow-development.md",
     "06-RULES-MASTERY/ultimate-damage-tier-list.md",
     "06-RULES-MASTERY/rogue-shadowalker-build.md",
     "06-RULES-MASTERY/high-damage-caster-builds.md",
@@ -218,7 +219,6 @@
     "05-LORE/age-of-umbra/sacred-pyres.md",
     "05-LORE/age-of-umbra/halcyon-domain-geography.md",
     "03-WORLD/locations/README.md",
-    "03-WORLD/npcs/helios-dawnstrider.md",
     "03-WORLD/npcs",
     "05-LORE/age-of-umbra",
     "05-LORE",
