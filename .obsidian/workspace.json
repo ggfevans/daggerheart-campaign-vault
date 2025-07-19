@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-RESOURCES/dh-srd/dh-classes-overview.md",
+                "file": "01-CHARACTERS/mark-character/character-sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dh-classes-overview"
+              "title": "character-sheet"
             }
           }
         ]
@@ -189,8 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93af021a30cd21d3",
+  "active": "bec1758fed759104",
   "lastOpenFiles": [
+    "04-RESOURCES/dh-srd/dh-classes-overview.md",
+    "01-CHARACTERS/aster-luferi/aster-luferi-progression.md",
+    "01-CHARACTERS/aster-luferi/aster-luferi-development.md",
+    "01-CHARACTERS/aster-luferi/aster-luferi-character-sheet.md",
+    "01-CHARACTERS/aster-luferi",
     "01-CHARACTERS/mark-character/level-progression.md",
     "01-CHARACTERS/mark-character/character-arc.md",
     "01-CHARACTERS/mark-character/character-sheet.md",
@@ -214,10 +219,6 @@
     "05-LORE/age-of-umbra/halcyon-domain-geography.md",
     "03-WORLD/locations/README.md",
     "03-WORLD/npcs/helios-dawnstrider.md",
-    "03-WORLD/npcs/reese-blackwood.md",
-    "03-WORLD/npcs/solaris-dawnward.md",
-    "03-WORLD/locations/Ironhold.md",
-    "03-WORLD/locations/The-Beacon-Road.md",
     "03-WORLD/npcs",
     "05-LORE/age-of-umbra",
     "05-LORE",
@@ -226,7 +227,6 @@
     "99-CONFIG",
     "04-RESOURCES/dh-srd",
     "03-WORLD/threats",
-    "03-WORLD/locations",
-    "03-WORLD/magic"
+    "03-WORLD/locations"
   ]
 }
