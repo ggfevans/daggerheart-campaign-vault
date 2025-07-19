@@ -1,0 +1,33 @@
+{
+  "activePreset": "Default",
+  "activeFullscreenPreset": "Default",
+  "separateFullscreenPreset": false,
+  "presets": {
+    "Default": {
+      "plugin-backlink;1": {
+        "position": 1,
+        "visible": true
+      },
+      "plugin-editor-status;1": {
+        "position": 2,
+        "visible": true
+      },
+      "plugin-word-count;1": {
+        "position": 3,
+        "visible": true
+      },
+      "plugin-sync;1": {
+        "position": 4,
+        "visible": false
+      },
+      "plugin-semantic-vault-mcp;1": {
+        "position": 5,
+        "visible": true
+      }
+    }
+  },
+  "presetsOrder": [
+    "Default"
+  ],
+  "version": "2.1.4"
+}

@@ -1,0 +1,26 @@
+{
+  "pluginList": [
+    "aaronsb/obsidian-mcp-plugin",
+    "ggfevans/obsidian-copy-path"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "aaronsb/obsidian-mcp-plugin",
+      "version": "latest"
+    },
+    {
+      "repo": "ggfevans/obsidian-copy-path",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}

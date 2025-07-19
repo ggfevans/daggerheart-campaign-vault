@@ -1,0 +1,12 @@
+{
+  "httpEnabled": true,
+  "httpPort": 3003,
+  "debugLogging": false,
+  "showConnectionStatus": true,
+  "autoDetectPortConflicts": true,
+  "enableConcurrentSessions": false,
+  "maxConcurrentConnections": 32,
+  "apiKey": "Zwa2vwWXWmMhB-oEGf60hp7tuM6ywQIrhfbJzVPVpzI",
+  "dangerouslyDisableAuth": true,
+  "readOnlyMode": false
+}
