@@ -189,8 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bec1758fed759104",
+  "active": "93af021a30cd21d3",
   "lastOpenFiles": [
+    "01-CHARACTERS/mark-character/level-progression.md",
+    "01-CHARACTERS/mark-character/character-arc.md",
+    "01-CHARACTERS/mark-character/character-sheet.md",
     "06-RULES-MASTERY/ultimate-damage-tier-list.md",
     "06-RULES-MASTERY/rogue-shadowalker-build.md",
     "06-RULES-MASTERY/high-damage-caster-builds.md",
@@ -215,9 +218,6 @@
     "03-WORLD/npcs/solaris-dawnward.md",
     "03-WORLD/locations/Ironhold.md",
     "03-WORLD/locations/The-Beacon-Road.md",
-    "03-WORLD/locations/Solheart-The-Lost-Capital.md",
-    "04-RESOURCES/dh-srd/dh-action-rolls.md",
-    "03-WORLD/locations/The-Wanderers-Rest.md",
     "03-WORLD/npcs",
     "05-LORE/age-of-umbra",
     "05-LORE",
