@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-CONFIG/daggerheart-lore-master-instructions.md",
+                "file": "01-CHARACTERS/my-character/captain-howling-moon-banjo-image-prompts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "daggerheart-lore-master-instructions"
+              "title": "captain-howling-moon-banjo-image-prompts"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99-CONFIG/daggerheart-lore-master-instructions.md",
+                "file": "01-CHARACTERS/my-character/captain-howling-moon-banjo-image-prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for daggerheart-lore-master-instructions"
+              "title": "Backlinks for captain-howling-moon-banjo-image-prompts"
             }
           },
           {
@@ -202,8 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e00d33ba05d60e0f",
+  "active": "787228014826da01",
   "lastOpenFiles": [
+    "01-CHARACTERS/my-character/captain-howling-moon-banjo-sheet.md",
+    "99-CONFIG/daggerheart-lore-master-instructions.md",
     "05-LORE/age-of-umbra/magic-in-umbra.md",
     "05-LORE/age-of-umbra/umbra-corruption.md",
     "05-LORE/age-of-umbra/sacred-pyres.md",
@@ -216,7 +218,6 @@
     "99-CONFIG/templates/location-template.md",
     "99-CONFIG/templates",
     "03-WORLD/locations/The_Age_of_Umbra_-_MarcoMaps.jpg",
-    "99-CONFIG/daggerheart-lore-master-instructions.md",
     "03-WORLD/locations/major-locations.md",
     "99-CONFIG",
     "03-WORLD/locations.md",
@@ -235,7 +236,6 @@
     "00-CAMPAIGN/house-rules.md",
     "03-WORLD/history/pre-eclipse-era.md",
     "01-CHARACTERS/my-character/captain-howling-moon-banjo-image-prompts.md",
-    "01-CHARACTERS/my-character/captain-howling-moon-banjo-sheet.md",
     "03-WORLD/threats",
     "03-WORLD/locations",
     "03-WORLD/magic",
