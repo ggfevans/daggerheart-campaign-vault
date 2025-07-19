@@ -11,24 +11,10 @@
             "id": "bec1758fed759104",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "vaerenth-character-sheet"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -176,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 456.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93af021a30cd21d3",
+  "active": "bec1758fed759104",
   "lastOpenFiles": [
+    "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
     "06-RULES-MASTERY/early-mid-game-damage-optimization.md",
     "01-CHARACTERS/mark-character/augustus-penhallow-character-sheet.md",
     "04-RESOURCES/dh-srd/dh-classes-overview.md",
@@ -218,7 +206,6 @@
     "02-SESSIONS/session-planning.md",
     "05-LORE/age-of-umbra/sacred-pyres.md",
     "05-LORE/age-of-umbra/halcyon-domain-geography.md",
-    "03-WORLD/locations/README.md",
     "03-WORLD/npcs",
     "05-LORE/age-of-umbra",
     "05-LORE",
