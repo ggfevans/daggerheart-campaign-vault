@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-CHARACTERS/my-character/captain-howling-moon-banjo-image-prompts.md",
+                "file": "99-CONFIG/daggerheart-lore-master-instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for captain-howling-moon-banjo-image-prompts"
+              "title": "Backlinks for daggerheart-lore-master-instructions"
             }
           },
           {
@@ -172,13 +172,23 @@
               "icon": "lucide-list",
               "title": "Outline of captain-howling-moon-banjo-image-prompts"
             }
+          },
+          {
+            "id": "e00d33ba05d60e0f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,6 +204,9 @@
   },
   "active": "787228014826da01",
   "lastOpenFiles": [
+    "05-LORE/age-of-umbra/sacred-pyres.md",
+    "05-LORE/age-of-umbra/the-apostasy.md",
+    "05-LORE/age-of-umbra/halcyon-domain-geography.md",
     "05-LORE/age-of-umbra/age-of-umbra-overview.md",
     "05-LORE/age-of-umbra",
     "05-LORE",
@@ -223,9 +236,6 @@
     "01-CHARACTERS/my-character/captain-howling-moon-banjo-sheet.md",
     "03-WORLD/locations/Undergarden.md",
     "03-WORLD/factions/major-groups.md",
-    "04-RESOURCES/dh-srd/dh-leveling-up.md",
-    "04-RESOURCES/dh-srd/dh-stress.md",
-    "04-RESOURCES/dh-srd/dh-attacking.md",
     "03-WORLD/threats",
     "03-WORLD/locations",
     "03-WORLD/magic",
