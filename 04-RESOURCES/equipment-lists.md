@@ -1,8 +1,9 @@
 ---
 tags:
-  - resources/equipment
-  - daggerheart/reference
+- resources/equipment
+- daggerheart/reference
 created: 2025-07-18
+heading: Equipment Lists
 ---
 
 # Equipment Lists

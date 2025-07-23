@@ -1,11 +1,12 @@
 ---
 tags:
-  - lore/index
-  - reference/quick-access
-  - source/official
-  - relevance/critical
+- lore/index
+- reference/quick-access
+- source/official
+- relevance/critical
 created: 2025-07-18
 last-verified: 2025-07-18
+heading: Lore Index
 ---
 
 # Age of Umbra Lore Index

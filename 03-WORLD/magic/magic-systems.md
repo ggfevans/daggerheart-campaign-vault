@@ -1,9 +1,10 @@
 ---
 tags:
-  - world/magic
-  - setting/age-of-umbra
-  - mechanics/magic-systems
+- world/magic
+- setting/age-of-umbra
+- mechanics/magic-systems
 created: 2025-07-18
+heading: Magic Systems
 ---
 
 # Magic in the Age of Umbra

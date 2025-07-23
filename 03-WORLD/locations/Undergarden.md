@@ -1,14 +1,15 @@
 ---
 tags:
-  - location
-  - location/central-lands
-  - location/underground
-  - visited/no
-  - community/underground
-  - security/tunnels
-  - character/background
+- location
+- location/central-lands
+- location/underground
+- visited/no
+- community/underground
+- security/tunnels
+- character/background
 created: 2025-07-18
 last-updated: 2025-07-18
+heading: Undergarden
 ---
 
 # The Undergarden

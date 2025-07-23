@@ -1,12 +1,13 @@
 ---
 tags:
-  - lore/corruption
-  - lore/threat
-  - source/official
-  - relevance/critical
-  - enemy/primary
+- lore/corruption
+- lore/threat
+- source/official
+- relevance/critical
+- enemy/primary
 created: 2025-07-18
 last-verified: 2025-07-18
+heading: Umbra Corruption
 ---
 
 # Umbra Corruption

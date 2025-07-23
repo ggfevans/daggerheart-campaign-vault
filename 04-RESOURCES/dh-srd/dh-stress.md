@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/stress
-  - reference/mechanics
-  - ttrpg/resources
+- daggerheart/stress
+- reference/mechanics
+- ttrpg/resources
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Stress
 ---
 
 # Stress

@@ -1,11 +1,12 @@
 ---
 tags:
-  - location
-  - location/frontier
-  - location/village
-  - visited/yes
+- location
+- location/frontier
+- location/village
+- visited/yes
 created: 2025-07-19
 last-visited: 2025-07-18
+heading: Last Light
 ---
 
 # Last Light

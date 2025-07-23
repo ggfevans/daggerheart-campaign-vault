@@ -1,12 +1,13 @@
 ---
 tags:
-  - lore/magic
-  - lore/culture
-  - source/official
-  - relevance/high
-  - social/tension
+- lore/magic
+- lore/culture
+- source/official
+- relevance/high
+- social/tension
 created: 2025-07-18
 last-verified: 2025-07-18
+heading: Magic In Umbra
 ---
 
 # Magic in the Age of Umbra

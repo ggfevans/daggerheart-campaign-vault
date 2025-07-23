@@ -1,11 +1,12 @@
 ---
 tags:
-  - location
-  - location/western-coast
-  - location/fortress
-  - visited/no
+- location
+- location/western-coast
+- location/fortress
+- visited/no
 created: 2025-07-19
 last-visited: never
+heading: Dawnwall
 ---
 
 # Dawnwall

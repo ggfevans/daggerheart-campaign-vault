@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/communities
-  - reference/pc-heritage
-  - ttrpg/characters
+- daggerheart/communities
+- reference/pc-heritage
+- ttrpg/characters
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Communities Overview
 ---
 
 # Communities

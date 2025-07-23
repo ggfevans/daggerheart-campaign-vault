@@ -1,11 +1,12 @@
 ---
 tags:
-  - character/player
-  - planning/character
-  - class/rogue
-  - subclass/nightwalker
+- character/player
+- planning/character
+- class/rogue
+- subclass/nightwalker
 created: 2025-07-18
 last-updated: 2025-07-18
+heading: Character Planning
 ---
 
 # Captain Howling Banjo - Character Planning

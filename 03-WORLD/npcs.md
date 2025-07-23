@@ -1,10 +1,11 @@
 ---
 tags:
-  - world/npcs
-  - campaign/daggerheart
-  - index
+- world/npcs
+- campaign/daggerheart
+- index
 created: 2025-07-18
 last-updated: 2025-07-19
+heading: Npcs
 ---
 
 # Non-Player Characters Index

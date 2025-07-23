@@ -1,11 +1,12 @@
 ---
 tags:
-  - location
-  - location/[region]
-  - location/[type]
-  - visited/[yes|no]
+- location
+- location/[region]
+- location/[type]
+- visited/[yes|no]
 created: YYYY-MM-DD
 last-visited: YYYY-MM-DD
+heading: 'Template: location-template'
 ---
 
 # [Location Name]

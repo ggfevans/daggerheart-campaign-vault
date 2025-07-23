@@ -1,9 +1,10 @@
 ---
 tags:
-  - world/overview
-  - campaign/daggerheart
-  - setting/age-of-umbra
+- world/overview
+- campaign/daggerheart
+- setting/age-of-umbra
 created: 2025-07-18
+heading: Age Of Umbra Overview
 ---
 
 # The Age of Umbra: World Overview

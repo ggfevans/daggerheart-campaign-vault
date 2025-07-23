@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/gm-guidance
-  - reference/gm-advice
-  - ttrpg/running-games
+- daggerheart/gm-guidance
+- reference/gm-advice
+- ttrpg/running-games
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Gm Guidance
 ---
 
 # GM Guidance

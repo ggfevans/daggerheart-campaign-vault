@@ -1,11 +1,12 @@
 ---
 tags:
-  - daggerheart/srd
-  - reference/index
-  - ttrpg/rules
+- daggerheart/srd
+- reference/index
+- ttrpg/rules
 created: 2025-07-18
 source: https://github.com/seansbox/daggerheart-srd
 license: Darrington Press Community Gaming License
+heading: Daggerheart Srd Index
 ---
 
 # Daggerheart SRD - Resource Index

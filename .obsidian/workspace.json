@@ -180,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,19 +190,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93af021a30cd21d3",
+  "active": "bec1758fed759104",
   "lastOpenFiles": [
+    "01-CHARACTERS/luie-character/aster-luferi-development.md",
     "01-CHARACTERS/luie-character/aster-luferi-progression.md",
     "01-CHARACTERS/luie-character/character-notes.md",
-    "01-CHARACTERS/luie-character/aster-luferi-development.md",
     "01-CHARACTERS/luie-character/aster-luferi-character-sheet.md",
-    "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
-    "06-RULES-MASTERY/early-mid-game-damage-optimization.md",
-    "01-CHARACTERS/mark-character/augustus-penhallow-character-sheet.md",
-    "04-RESOURCES/dh-srd/dh-classes-overview.md",
-    "01-CHARACTERS/aster-luferi",
     "01-CHARACTERS/mark-character/augustus-penhallow-progression.md",
     "01-CHARACTERS/mark-character/augustus-penhallow-development.md",
+    "01-CHARACTERS/mark-character/augustus-penhallow-character-sheet.md",
+    "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
+    "06-RULES-MASTERY/early-mid-game-damage-optimization.md",
+    "04-RESOURCES/dh-srd/dh-classes-overview.md",
+    "01-CHARACTERS/aster-luferi",
     "06-RULES-MASTERY/ultimate-damage-tier-list.md",
     "06-RULES-MASTERY/rogue-shadowalker-build.md",
     "06-RULES-MASTERY/high-damage-caster-builds.md",

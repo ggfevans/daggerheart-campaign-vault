@@ -1,11 +1,12 @@
 ---
 tags:
-  - lore/history
-  - source/official
-  - relevance/critical
-  - event/catastrophic
+- lore/history
+- source/official
+- relevance/critical
+- event/catastrophic
 created: 2025-07-18
 last-verified: 2025-07-18
+heading: The Apostasy
 ---
 
 # The Apostasy

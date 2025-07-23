@@ -1,13 +1,14 @@
 ---
 tags:
-  - location
-  - location/southeast
-  - location/village
-  - visited/no
-  - faction/sacred-pyre
-  - region/jungles-of-aveidoora
+- location
+- location/southeast
+- location/village
+- visited/no
+- faction/sacred-pyre
+- region/jungles-of-aveidoora
 created: 2025-07-19
 last-visited: Not yet visited
+heading: Dragonshadow
 ---
 
 # Dragonshadow

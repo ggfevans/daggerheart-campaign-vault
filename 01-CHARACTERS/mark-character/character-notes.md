@@ -1,10 +1,11 @@
 ---
 tags:
-  - character/party-member
-  - player/mark
-  - character/augustus-penhallow
+- character/party-member
+- player/mark
+- character/augustus-penhallow
 created: 2025-07-18
 last-updated: 2025-07-19
+heading: Character Notes
 ---
 
 # Augustus Penhallow

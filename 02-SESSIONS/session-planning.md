@@ -1,8 +1,9 @@
 ---
 tags:
-  - planning/session
-  - campaign/daggerheart
+- planning/session
+- campaign/daggerheart
 created: 2025-07-18
+heading: Session Planning
 ---
 
 # Session Planning & Prep

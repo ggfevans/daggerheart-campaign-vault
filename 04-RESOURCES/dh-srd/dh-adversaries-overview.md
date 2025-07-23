@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/adversaries
-  - reference/gm-tools
-  - ttrpg/monsters
+- daggerheart/adversaries
+- reference/gm-tools
+- ttrpg/monsters
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Adversaries Overview
 ---
 
 # Adversaries Guide

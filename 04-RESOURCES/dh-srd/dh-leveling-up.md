@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/advancement
-  - reference/leveling
-  - ttrpg/progression
+- daggerheart/advancement
+- reference/leveling
+- ttrpg/progression
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Leveling Up
 ---
 
 # Leveling Up

@@ -1,12 +1,13 @@
 ---
 tags:
-  - lore/religion
-  - lore/history
-  - source/official
-  - relevance/critical
-  - divine/abandoned
+- lore/religion
+- lore/history
+- source/official
+- relevance/critical
+- divine/abandoned
 created: 2025-07-18
 last-verified: 2025-07-18
+heading: Veiled Gods
 ---
 
 # The Veiled Gods

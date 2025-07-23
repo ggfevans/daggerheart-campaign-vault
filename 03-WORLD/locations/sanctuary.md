@@ -1,11 +1,12 @@
 ---
 tags:
-  - location
-  - location/central-lands
-  - location/city
-  - visited/no
+- location
+- location/central-lands
+- location/city
+- visited/no
 created: 2025-07-19
 last-visited: never
+heading: Sanctuary
 ---
 
 # Sanctuary

@@ -1,8 +1,9 @@
 ---
 tags:
-  - campaign/logistics
-  - platform/startplaying
+- campaign/logistics
+- platform/startplaying
 created: 2025-07-18
+heading: Session Logistics
 ---
 
 # Session Logistics & Technical Setup

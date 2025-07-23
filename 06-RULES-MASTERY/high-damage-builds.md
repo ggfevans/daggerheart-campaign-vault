@@ -1,10 +1,11 @@
 ---
 tags:
-  - rules/optimization
-  - character/builds
-  - combat/damage
+- rules/optimization
+- character/builds
+- combat/damage
 created: 2025-07-19
 last-reviewed: 2025-07-19
+heading: High Damage Builds
 ---
 
 # High Damage Character Builds

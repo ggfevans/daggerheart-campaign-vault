@@ -1,11 +1,12 @@
 ---
 tags:
-  - world/locations
-  - index
-  - campaign/daggerheart
-  - setting/age-of-umbra
+- world/locations
+- index
+- campaign/daggerheart
+- setting/age-of-umbra
 created: 2025-07-19
 updated: 2025-07-19
+heading: Locations - README
 ---
 
 # Locations Index

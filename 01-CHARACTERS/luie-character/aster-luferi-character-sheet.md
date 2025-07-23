@@ -1,5 +1,3 @@
-# Aster Luferi - Character Sheet
-
 ---
 tags:
   - character/player
@@ -8,7 +6,9 @@ tags:
   - community/highborne
 created: 2025-07-19
 last-updated: 2025-07-19
+heading: Aster Luferi Character Sheet
 ---
+# Aster Luferi - Character Sheet
 
 ## Basic Information
 - **Name**: Aster Luferi

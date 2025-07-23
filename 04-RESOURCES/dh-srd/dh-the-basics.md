@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/core-rules
-  - reference/basics
-  - ttrpg/rules
+- daggerheart/core-rules
+- reference/basics
+- ttrpg/rules
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh The Basics
 ---
 
 # The Basics

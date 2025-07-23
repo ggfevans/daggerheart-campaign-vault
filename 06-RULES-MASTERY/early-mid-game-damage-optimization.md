@@ -1,12 +1,13 @@
 ---
 tags:
-  - rules/optimization
-  - character/builds
-  - combat/damage
-  - early-game/mid-game
-  - levels/1-7
+- rules/optimization
+- character/builds
+- combat/damage
+- early-game/mid-game
+- levels/1-7
 created: 2025-07-19
 last-reviewed: 2025-07-19
+heading: Early Mid Game Damage Optimization
 ---
 
 # Early & Mid-Game Damage Optimization (Levels 1-7)

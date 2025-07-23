@@ -1,10 +1,11 @@
 ---
 tags:
-  - character/mark
-  - arc/development
-  - backstory/military
+- character/mark
+- arc/development
+- backstory/military
 created: 2025-07-19
 last-updated: 2025-07-19
+heading: Augustus Penhallow Development
 ---
 
 # Augustus Penhallow - Character Arc & Development

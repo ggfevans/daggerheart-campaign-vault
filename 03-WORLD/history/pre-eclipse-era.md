@@ -1,9 +1,10 @@
 ---
 tags:
-  - world/history
-  - setting/age-of-umbra
-  - timeline/pre-eclipse
+- world/history
+- setting/age-of-umbra
+- timeline/pre-eclipse
 created: 2025-07-18
+heading: Pre Eclipse Era
 ---
 
 # Pre-Eclipse Era: The Luminous Age

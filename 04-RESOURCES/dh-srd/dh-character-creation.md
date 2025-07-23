@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/character-creation
-  - reference/pc-creation
-  - ttrpg/characters
+- daggerheart/character-creation
+- reference/pc-creation
+- ttrpg/characters
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Character Creation
 ---
 
 # Character Creation

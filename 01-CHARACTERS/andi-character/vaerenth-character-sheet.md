@@ -1,15 +1,16 @@
 ---
 tags:
-  - character/andi
-  - character/vaerenth
-  - daggerheart/character
-  - class/ranger
-  - ancestry/goblin
-  - community/wanderborne
+- character/andi
+- character/vaerenth
+- daggerheart/character
+- class/ranger
+- ancestry/goblin
+- community/wanderborne
 created: 2025-07-18
 last-updated: 2025-07-18
 player: Andi
 level: 1
+heading: Vaerenth Character Sheet
 ---
 
 # Vaerenth (Andi's Character)

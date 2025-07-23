@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/core-rules
-  - reference/gameplay
-  - ttrpg/procedures
+- daggerheart/core-rules
+- reference/gameplay
+- ttrpg/procedures
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Core Gameplay Loop
 ---
 
 # Core Gameplay Loop

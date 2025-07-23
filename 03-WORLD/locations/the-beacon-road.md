@@ -1,11 +1,12 @@
 ---
 tags:
-  - location
-  - location/route
-  - location/infrastructure
-  - visited/no
+- location
+- location/route
+- location/infrastructure
+- visited/no
 created: 2025-07-19
 last-visited: never
+heading: The Beacon Road
 ---
 
 # The Beacon Road

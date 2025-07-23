@@ -1,12 +1,13 @@
-# Aster Luferi - Level Progression Tracking
-
 ---
+heading: Aster Luferi Progression
 tags:
   - character/player
   - character/progression
   - class/seraph
 created: 2025-07-19
 ---
+# Aster Luferi - Level Progression Tracking
+
 
 ## Current Status
 - **Current Level**: 1

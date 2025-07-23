@@ -1,3 +1,6 @@
+---
+heading: Daggerheart Lore Master Instructions
+---
 # Daggerheart Lore Master & Campaign Assistant Instructions
 
 ## 🎯 Enhanced Purpose

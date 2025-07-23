@@ -1,11 +1,12 @@
 ---
 tags:
-  - location
-  - location/southern-expanse
-  - location/wilderness
-  - visited/no
+- location
+- location/southern-expanse
+- location/wilderness
+- visited/no
 created: 2025-07-19
 last-visited: never
+heading: The Twilight Forest
 ---
 
 # The Twilight Forest

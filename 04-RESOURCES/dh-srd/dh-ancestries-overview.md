@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/ancestries
-  - reference/pc-heritage
-  - ttrpg/characters
+- daggerheart/ancestries
+- reference/pc-heritage
+- ttrpg/characters
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Ancestries Overview
 ---
 
 # Ancestries

@@ -1,9 +1,10 @@
 ---
 tags:
-  - world/factions
-  - setting/age-of-umbra
-  - organizations/active
+- world/factions
+- setting/age-of-umbra
+- organizations/active
 created: 2025-07-18
+heading: Major Groups
 ---
 
 # Major Factions of the Age of Umbra

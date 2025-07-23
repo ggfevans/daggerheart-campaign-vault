@@ -1,13 +1,14 @@
 ---
 tags:
-  - npc/major
-  - relationship/ally
-  - location/last-light
-  - faction/last-light-community
-  - profession/huntmaster
-  - npc
+- npc/major
+- relationship/ally
+- location/last-light
+- faction/last-light-community
+- profession/huntmaster
+- npc
 created: 2025-07-19
 last-interaction: 2025-07-18
+heading: Reese Blackwood
 ---
 
 # Huntmaster Reese Blackwood

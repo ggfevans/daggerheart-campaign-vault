@@ -1,11 +1,12 @@
 ---
 tags:
-  - character/player
-  - character/mark
-  - class/guardian
-  - ancestry/highborne
+- character/player
+- character/mark
+- class/guardian
+- ancestry/highborne
 created: 2025-07-19
 last-updated: 2025-07-19
+heading: Augustus Penhallow Character Sheet
 ---
 
 # Augustus Penhallow - Character Sheet

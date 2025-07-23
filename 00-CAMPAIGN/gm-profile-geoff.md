@@ -1,8 +1,9 @@
 ---
 tags:
-  - gm/profile
-  - startplaying/reviews
+- gm/profile
+- startplaying/reviews
 created: 2025-07-18
+heading: Gm Profile Geoff
 ---
 
 # GM Profile: Geoff

@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/domains
-  - reference/magic-system
-  - ttrpg/characters
+- daggerheart/domains
+- reference/magic-system
+- ttrpg/characters
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Domains Overview
 ---
 
 # Domains

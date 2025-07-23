@@ -1,12 +1,13 @@
 ---
 tags:
-  - lore/magic
-  - lore/protection
-  - source/official
-  - relevance/critical
-  - survival/essential
+- lore/magic
+- lore/protection
+- source/official
+- relevance/critical
+- survival/essential
 created: 2025-07-18
 last-verified: 2025-07-18
+heading: Sacred Pyres
 ---
 
 # Sacred Pyres

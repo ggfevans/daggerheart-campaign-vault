@@ -1,8 +1,9 @@
 ---
 tags:
-  - campaign/daggerheart
-  - world/overview
+- campaign/daggerheart
+- world/overview
 created: 2025-07-18
+heading: Campaign Overview
 ---
 
 # Daggerheart Campaign Overview

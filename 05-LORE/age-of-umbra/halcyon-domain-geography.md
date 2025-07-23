@@ -1,11 +1,12 @@
 ---
 tags:
-  - lore/geography
-  - source/official
-  - relevance/critical
-  - location/domain
+- lore/geography
+- source/official
+- relevance/critical
+- location/domain
 created: 2025-07-18
 last-verified: 2025-07-18
+heading: Halcyon Domain Geography
 ---
 
 # Halcyon Domain Geography

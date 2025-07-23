@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/classes
-  - reference/pc-classes
-  - ttrpg/characters
+- daggerheart/classes
+- reference/pc-classes
+- ttrpg/characters
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Classes Overview
 ---
 
 # Classes & Domains

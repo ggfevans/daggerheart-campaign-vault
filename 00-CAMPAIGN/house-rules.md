@@ -1,8 +1,9 @@
 ---
 tags:
-  - campaign/daggerheart
-  - rules/house-rules
+- campaign/daggerheart
+- rules/house-rules
 created: 2025-07-18
+heading: House Rules
 ---
 
 # House Rules & Agreements

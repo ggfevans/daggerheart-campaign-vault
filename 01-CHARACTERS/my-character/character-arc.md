@@ -1,11 +1,12 @@
 ---
 tags:
-  - character/player
-  - development/arc
-  - class/rogue
-  - subclass/nightwalker
+- character/player
+- development/arc
+- class/rogue
+- subclass/nightwalker
 created: 2025-07-18
 last-updated: 2025-07-18
+heading: Character Arc
 ---
 
 # Captain Howling Banjo - Character Arc

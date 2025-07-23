@@ -1,11 +1,12 @@
 ---
 tags:
-  - location
-  - location/neutral
-  - location/special
-  - visited/no
+- location
+- location/neutral
+- location/special
+- visited/no
 created: 2025-07-19
 last-visited: never
+heading: The Wanderers REST
 ---
 
 # The Wanderer's Rest

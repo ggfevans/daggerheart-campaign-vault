@@ -1,11 +1,12 @@
 ---
 tags:
-  - character/player
-  - reference/art-prompts
-  - class/rogue
-  - heritage/simian
+- character/player
+- reference/art-prompts
+- class/rogue
+- heritage/simian
 created: 2025-07-18
 character: captain-howling-banjo
+heading: Captain Howling Banjo Image Prompts
 ---
 
 # Captain Howling Banjo - Image Generation Prompts

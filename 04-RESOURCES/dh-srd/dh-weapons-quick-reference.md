@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/weapons
-  - reference/equipment
-  - ttrpg/gear
+- daggerheart/weapons
+- reference/equipment
+- ttrpg/gear
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Weapons Quick Reference
 ---
 
 # Weapons Reference - Quick Guide

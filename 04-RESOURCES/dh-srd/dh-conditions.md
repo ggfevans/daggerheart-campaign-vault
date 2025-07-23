@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/conditions
-  - reference/status-effects
-  - ttrpg/mechanics
+- daggerheart/conditions
+- reference/status-effects
+- ttrpg/mechanics
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Conditions
 ---
 
 # Conditions

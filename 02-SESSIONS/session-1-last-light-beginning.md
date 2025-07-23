@@ -1,11 +1,14 @@
 ---
 tags:
-  - session/daggerheart
-  - date/2025-07-25
+- session/daggerheart
+- date/2025-07-25
 session-number: 1
 date: 2025-07-25
-participants: [User, Andi]
+participants:
+- User
+- Andi
 location: Last Light - Hope's Call Pub
+heading: Session 1 Last Light Beginning
 ---
 
 # Session 1 - Starting in Last Light

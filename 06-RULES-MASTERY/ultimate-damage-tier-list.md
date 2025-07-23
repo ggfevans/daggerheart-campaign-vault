@@ -1,11 +1,12 @@
 ---
 tags:
-  - rules/optimization
-  - character/builds
-  - combat/damage
-  - tier-list/damage
+- rules/optimization
+- character/builds
+- combat/damage
+- tier-list/damage
 created: 2025-07-19
 last-reviewed: 2025-07-19
+heading: Ultimate Damage Tier List
 ---
 
 # Ultimate Damage Build Tier List

@@ -1,12 +1,13 @@
 ---
 tags:
-  - character/player
-  - class/rogue
-  - subclass/nightwalker
-  - heritage/simian
-  - community/undergarden
+- character/player
+- class/rogue
+- subclass/nightwalker
+- heritage/simian
+- community/undergarden
 created: 2025-07-18
 last-updated: 2025-07-18
+heading: Captain Howling Banjo Sheet
 ---
 
 # Captain Howling Banjo

@@ -1,11 +1,12 @@
 ---
 tags:
-  - rules/optimization
-  - character/builds
-  - combat/damage
-  - magic/casters
+- rules/optimization
+- character/builds
+- combat/damage
+- magic/casters
 created: 2025-07-19
 last-reviewed: 2025-07-19
+heading: High Damage Caster Builds
 ---
 
 # High Damage Caster Builds

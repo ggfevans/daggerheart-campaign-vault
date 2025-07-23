@@ -1,12 +1,13 @@
 ---
 tags:
-  - rules/optimization
-  - character/builds
-  - combat/damage
-  - stealth/shadow
-  - rogue/specialist
+- rules/optimization
+- character/builds
+- combat/damage
+- stealth/shadow
+- rogue/specialist
 created: 2025-07-19
 last-reviewed: 2025-07-19
+heading: Rogue Shadowalker Build
 ---
 
 # Rogue Shadowalker Optimization Guide

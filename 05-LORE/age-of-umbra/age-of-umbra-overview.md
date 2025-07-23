@@ -1,11 +1,12 @@
 ---
 tags:
-  - lore/setting
-  - source/official
-  - relevance/critical
-  - campaign-frame/age-of-umbra
+- lore/setting
+- source/official
+- relevance/critical
+- campaign-frame/age-of-umbra
 created: 2025-07-18
 last-verified: 2025-07-18
+heading: Age Of Umbra Overview
 ---
 
 # Age of Umbra Overview

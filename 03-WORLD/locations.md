@@ -1,11 +1,12 @@
 ---
 tags:
-  - world/locations
-  - campaign/daggerheart
-  - setting/age-of-umbra
-  - index-redirect
+- world/locations
+- campaign/daggerheart
+- setting/age-of-umbra
+- index-redirect
 created: 2025-07-18
 updated: 2025-07-19
+heading: Locations
 ---
 
 # Locations in the Age of Umbra

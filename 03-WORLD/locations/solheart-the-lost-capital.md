@@ -1,11 +1,12 @@
 ---
 tags:
-  - location
-  - location/central-lands
-  - location/ruins
-  - visited/no
+- location
+- location/central-lands
+- location/ruins
+- visited/no
 created: 2025-07-19
 last-visited: never
+heading: Solheart The Lost Capital
 ---
 
 # Solheart (The Lost Capital)

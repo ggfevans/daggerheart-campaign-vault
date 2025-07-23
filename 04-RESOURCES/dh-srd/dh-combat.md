@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/combat
-  - reference/hp-damage
-  - ttrpg/mechanics
+- daggerheart/combat
+- reference/hp-damage
+- ttrpg/mechanics
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Combat
 ---
 
 # Combat

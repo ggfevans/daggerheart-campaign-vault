@@ -1,8 +1,9 @@
 ---
 tags:
-  - resources/spells
-  - daggerheart/reference
+- resources/spells
+- daggerheart/reference
 created: 2025-07-18
+heading: Spell Reference
 ---
 
 # Spell Reference

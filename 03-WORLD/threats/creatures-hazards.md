@@ -1,9 +1,10 @@
 ---
 tags:
-  - world/creatures
-  - setting/age-of-umbra
-  - threats/bestiary
+- world/creatures
+- setting/age-of-umbra
+- threats/bestiary
 created: 2025-07-18
+heading: Creatures Hazards
 ---
 
 # Threats & Creatures of the Age of Umbra

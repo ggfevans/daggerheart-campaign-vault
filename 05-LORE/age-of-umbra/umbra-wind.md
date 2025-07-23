@@ -1,12 +1,13 @@
 ---
 tags:
-  - lore/phenomenon
-  - lore/threat
-  - source/official
-  - relevance/high
-  - survival/periodic-danger
+- lore/phenomenon
+- lore/threat
+- source/official
+- relevance/high
+- survival/periodic-danger
 created: 2025-07-18
 last-verified: 2025-07-18
+heading: Umbra Wind
 ---
 
 # The Umbra Wind

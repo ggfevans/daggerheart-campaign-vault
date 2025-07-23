@@ -1,3 +1,6 @@
+---
+heading: Npcs - README
+---
 # NPCs Directory
 
 This directory contains individual files for each Non-Player Character in the campaign.

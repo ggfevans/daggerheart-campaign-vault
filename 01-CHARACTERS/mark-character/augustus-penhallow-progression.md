@@ -1,10 +1,11 @@
 ---
 tags:
-  - character/mark
-  - progression/tracking
-  - mechanical/advancement
+- character/mark
+- progression/tracking
+- mechanical/advancement
 created: 2025-07-19
 last-updated: 2025-07-19
+heading: Augustus Penhallow Progression
 ---
 
 # Augustus Penhallow - Level Progression & Advancement

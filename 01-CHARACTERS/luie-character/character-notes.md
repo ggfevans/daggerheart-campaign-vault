@@ -1,8 +1,9 @@
 ---
 tags:
-  - character/party-member
-  - player/luie
+- character/party-member
+- player/luie
 created: 2025-07-18
+heading: Character Notes
 ---
 
 # [Luie's Character Name]

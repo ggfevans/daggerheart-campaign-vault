@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/core-rules
-  - reference/action-rolls
-  - ttrpg/mechanics
+- daggerheart/core-rules
+- reference/action-rolls
+- ttrpg/mechanics
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Action Rolls
 ---
 
 # Making Moves & Taking Action

@@ -1,3 +1,6 @@
+---
+heading: Aster Luferi Development
+---
 # Aster Luferi - Character Development
 
 ---

@@ -1,12 +1,13 @@
 ---
 tags:
-  - npc/major
-  - faction/lightkeeper-order
-  - relationship/unknown
-  - location/havens-light
-  - npc
+- npc/major
+- faction/lightkeeper-order
+- relationship/unknown
+- location/havens-light
+- npc
 created: 2025-07-19
 last-interaction: never
+heading: Solaris Dawnward
 ---
 
 # High Keeper Solaris Dawnward

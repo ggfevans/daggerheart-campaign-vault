@@ -1,8 +1,9 @@
 ---
 tags:
-  - resources/rules
-  - daggerheart/reference
+- resources/rules
+- daggerheart/reference
 created: 2025-07-18
+heading: Quick Rules
 ---
 
 # Quick Rules Reference

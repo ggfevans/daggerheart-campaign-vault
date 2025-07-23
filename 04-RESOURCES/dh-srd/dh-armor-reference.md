@@ -1,10 +1,11 @@
 ---
 tags:
-  - daggerheart/armor
-  - reference/equipment
-  - ttrpg/gear
+- daggerheart/armor
+- reference/equipment
+- ttrpg/gear
 source: https://github.com/seansbox/daggerheart-srd
 created: 2025-07-18
+heading: Dh Armor Reference
 ---
 
 # Armor Reference

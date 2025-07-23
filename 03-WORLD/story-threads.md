@@ -1,8 +1,9 @@
 ---
 tags:
-  - world/story
-  - campaign/daggerheart
+- world/story
+- campaign/daggerheart
 created: 2025-07-18
+heading: Story Threads
 ---
 
 # Story Threads

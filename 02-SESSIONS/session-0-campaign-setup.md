@@ -1,13 +1,19 @@
 ---
 tags:
-  - session/daggerheart
-  - session/session-0
-  - date/2025-07-18
+- session/daggerheart
+- session/session-0
+- date/2025-07-18
 session-number: 0
 date: 2025-07-18
-participants: [User, Andi, Captorstrike, Luie, Mark]
+participants:
+- User
+- Andi
+- Captorstrike
+- Luie
+- Mark
 gm: Geoff
 status: in-progress
+heading: Session 0 Campaign Setup
 ---
 
 # Session 0 - Campaign Setup

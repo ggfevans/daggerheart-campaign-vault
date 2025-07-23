@@ -1,8 +1,9 @@
 ---
 tags:
-  - campaign/daggerheart
-  - tracking/sessions
+- campaign/daggerheart
+- tracking/sessions
 created: 2025-07-18
+heading: Session Tracker
 ---
 
 # Session Tracker

@@ -1,12 +1,13 @@
 ---
 tags:
-  - npc/[category]
-  - faction/[affiliation]
-  - relationship/[ally|neutral|enemy|unknown]
-  - location/[primary-location]
-  - template
+- npc/[category]
+- faction/[affiliation]
+- relationship/[ally|neutral|enemy|unknown]
+- location/[primary-location]
+- template
 created: YYYY-MM-DD
 last-interaction: YYYY-MM-DD
+heading: 'Template: npc-template'
 ---
 
 # [NPC Name]
