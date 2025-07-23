@@ -6,7 +6,6 @@ tags:
   - character/progression
   - class/seraph
 created: 2025-07-19
-last-updated: 2025-07-19
 ---
 
 ## Current Status

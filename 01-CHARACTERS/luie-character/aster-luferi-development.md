@@ -2,9 +2,9 @@
 
 ---
 tags:
-  - character/player
-  - character/development
-  - ancestry/infernis
+  - #character/player
+  - #character/development
+  - #ancestry/infernis
   - community/highborne
 created: 2025-07-19
 last-updated: 2025-07-19
