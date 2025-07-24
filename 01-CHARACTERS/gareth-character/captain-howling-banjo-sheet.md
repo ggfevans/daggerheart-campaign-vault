@@ -47,11 +47,13 @@ heading: Captain Howling Banjo Umbral Stalker
 ### **Weapons**
 - **Returning Blade** (Primary)
   - Attack: +2 Finesse
-  - Damage: 1d8 mag
+  - Damage: 1d8 magical
+  - Range: Close
   - Features: Magical, one-handed, returns after thrown
 - **Small Dagger** (Secondary) 
   - Attack: +2 Finesse
   - Damage: 1d8 physical
+  - Range: Melee
   - Features: One-handed, concealable, throwable
 
 ### **Combat Role**
@@ -71,7 +73,7 @@ heading: Captain Howling Banjo Umbral Stalker
 - **Experience Bonuses**: +2 situational from Umbral Stalker
 - **Returning Blade**: Magical weapon that returns after throwing
 
-## dYOý Heritage & Abilities
+## Heritage & Abilities
 
 ### **Simian Ancestry**
 - **Enhanced Climbing**: Natural wall-scaling and vertical mobility
@@ -89,7 +91,7 @@ heading: Captain Howling Banjo Umbral Stalker
 - **Shadow Mastery**: Enhanced stealth and darkness manipulation
 - **Domain Access**: Midnight (shadow magic) + Grace (mobility)
 
-## dYZ_ Experience Applications
+##  Experience Applications
 
 ### **Umbral Stalker +2**
 *Shadow magic combined with primal hunting instincts*
@@ -132,7 +134,7 @@ heading: Captain Howling Banjo Umbral Stalker
 - Functioning effectively despite grief and loss
 - Understanding sacrifice for the greater good
 
-## dYZ- Character Description
+## Character Description
 
 ### **Physical Appearance**
 
@@ -148,7 +150,7 @@ heading: Captain Howling Banjo Umbral Stalker
 
 **Body Markings**: Obsidian-dark fur that blends naturally with shadows, marked by darker shadow patches that seem to shift slightly in dim light, emphasizing the dramatic length of his arms. Healed battle scars streak across his fur like silver lightning - remnants of desperate fights that left him stronger but forever marked by survival.
 
-**Clothing**: Dark monastic-style robes in deep charcoal and shadow-black with teal/seafoam colored inner layers and sash. Tattered and weathered from the harsh Age of Umbra - frayed edges, worn patches, and damage from practical use rather than decoration. The flowing fabric moves silently despite its wear, perfectly accommodating his dramatically long arms. Hidden pockets and climbing tools sewn discretely throughout, with old river-barge work clothes worn beneath as a cherished memento from before the darkness fell.
+**Clothing**: Dark monastic-style robes in deep charcoal and shadow-black. Tattered and weathered from the harsh Age of Umbra - frayed edges, worn patches, and damage from practical use rather than decoration. The flowing fabric moves silently despite its wear, perfectly accommodating his dramatically long arms. Hidden pockets and climbing tools sewn discretely throughout, with salvaged scraps of gambeson armour worn underneath.
 
 **Accessories**: Collection of small moon-phase charms and reflective objects that catch what little light exists, often dangling from his extraordinary extended reach - the only bright spots in his otherwise shadow-focused appearance.
 
@@ -175,7 +177,7 @@ heading: Captain Howling Banjo Umbral Stalker
 
 **Combat Readiness**: Despite his playful nature, there is always an undercurrent of lethal readiness. His relaxed posture can shift to deadly precision in a heartbeat, and those long arms that seem so graceful in normal circumstances become weapons of surprising reach and speed. Even his pranks often serve to test reflexes, awareness, or security - play with a deadly serious purpose.
 
-## dY"? Background & History
+## Background & History
 
 ### **The Exile**
 You were caught ruthlessly eliminating corrupted community members using shadow magic that awakened during a life-threatening attack. The Underground Council only saw the aftermath - zombie carnage and reports of you "shadowwalking and killing" - which they interpreted as evidence you were an agent of evil. Interrupted mid-purge, one corrupted survivor escaped your incomplete elimination.
@@ -195,7 +197,7 @@ Your Wildborne community relies on the Last Wolf Pack's spirit for protection - 
 ### **Apocalyptic Vision**
 You've witnessed Umbra creatures hunting in organized packs with disturbing intelligence, and encountered corrupted nature spirits from fallen forests actively hunting the remaining pure spirits. The corruption is not random anymore - it is strategic, and it is coming for everything you have left to protect.
 
-## dYO` Umbra Corruption Integration
+## Umbra Corruption Integration
 
 ### **Living Weapon Mechanics**
 - **Corruption Scars**: Each scar adds +1 damage but brings you closer to full corruption
@@ -206,7 +208,7 @@ You've witnessed Umbra creatures hunting in organized packs with disturbing inte
 ### **Character Stakes**
 Your corruption level affects not just you, but creates urgency for your entire party. Each scar represents both growing power and diminishing time to make a difference in the world.
 
-## dYZ_ Party Role & Relationships
+## Party Role & Relationships
 
 ### **Combat Specialization**
 - **Priority Target Elimination**: Remove spellcasters, archers, leaders others cannot reach
@@ -220,7 +222,7 @@ You do what others cannot - both in terms of accessing unreachable positions and
 ### **Social Dynamics**
 Others may question your methods, but they cannot argue with results. You carry the moral weight so your companions can maintain their principles, making you both essential and isolated within the group. Your moments of genuine playfulness remind everyone that humanity can survive even in the Age of Umbra.
 
-## dY" Signature Abilities Summary
+##  Signature Abilities Summary
 
 ### **The Phantom Strike** (Combat Sequence)
 Your signature move combining all abilities: silent shadow approach, impossible vertical positioning, devastating sneak attack with magical returning blade, and supernatural escape - often executed with an almost playful flourish that unnerves enemies.
@@ -232,7 +234,7 @@ Using Purge Veteran experience to identify corruption signs, assess threat level
 Umbral Stalker abilities allow tracking and hunting corrupted beings through terrain others cannot navigate, using shadow magic and primal instincts while maintaining the capacity for strategic mischief.
 
 ### **Moral Anchor** (Social/Mental)
-Despite your dark methods, you serve as the party's moral anchor for impossible decisions - you have already paid the price others fear, allowing you to guide them through ethical complexity while somehow maintaining hope and humor in a hopeless world.
+Despite your dark methods, you serve as the party's moral anchor for impossible decisions - you have already paid the price others fear, allowing you to guide them through ethical complexity while somehow maintaining hope and humour in a hopeless world.
 
 ---
 
