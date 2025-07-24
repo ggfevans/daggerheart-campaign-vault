@@ -1,16 +1,162 @@
 ---
 tags:
 - character/player
+- character/gareth
 - class/rogue
 - subclass/nightwalker
-- heritage/simian
-- community/undergarden
+- ancestry/simian
+- community/wildborne
+- respec/active
 created: 2025-07-18
-last-updated: 2025-07-18
-heading: Captain Howling Banjo Sheet
+last-updated: 2025-07-24
+heading: Captain Howling Banjo Umbral Stalker
 ---
 
-# Captain Howling Banjo
+# Captain Howling Banjo - The Umbral Stalker
+
+## 📊 Core Stats (CURRENT BUILD)
+**Class**: Rogue (Nightwalker)
+**Ancestry**: Simian
+**Community**: Wildborne
+**Level**: 1
+**Experience**: Acrobat +2, Observant +2
+
+### Attributes
+- **Agility**: +1 (climbing, stealth, defense)
+- **Strength**: -1 (dump stat)
+- **Finesse**: +2 (PRIMARY - dagger attacks, precision)
+- **Instinct**: +0 (perception, awareness)
+- **Presence**: +0 (social backup)
+- **Knowledge**: +1 (investigation, tactics)
+
+### Resources
+- **Hit Points**: 0/7 Marked
+- **Stress**: 0/4 Marked
+- **Hope**: 0/4 Marked
+- **Evasion**: 11 (7 base + 2 Finesse + 2 armor)
+- **Armor Score**: 2 (light armor)
+
+## ⚔️ Combat Build
+
+### Weapons
+**Primary**: Dagger
+- Attack: +2 Finesse
+- Damage: d8+1 physical
+- Range: Melee
+- Burden: One-Handed
+- Perfect for stealth kills and sneak attacks
+
+**Secondary**: Shortsword
+- Backup weapon for sustained combat
+- One-handed for climbing compatibility
+
+### Class Features
+**Nightwalker Rogue**:
+- Sneak Attack: Extra damage when attacking with advantage
+- Stealth mastery and shadow manipulation
+- Enhanced mobility in darkness
+
+### Domains
+**Midnight Domain**: Stealth enhancement, shadow magic
+**Grace Domain**: Mobility improvement, finesse bonuses
+
+## 🌲 Heritage Features
+
+### Simian Ancestry
+- **Enhanced Climbing**: Natural wall-scaling abilities
+- **7-Foot Reach**: Dramatically long arms for impossible positioning
+- **Acrobatic Prowess**: Superior jumping and movement
+- **Compact Frame**: 4-foot height, harder to detect
+
+### Wildborne Community
+- **Lightfoot**: Advantage on movement rolls (silent movement)
+- **Forest Survival**: Beyond Sacred Pyre protection experience
+- **Natural Stealth**: Learned silence means survival
+
+## 🎭 Character Concept: The Forest Predator
+
+### Transformation Story
+Once a mischievous underground prankster, the Umbra's corruption forced a dark evolution. When the shadows breached the tunnels and destroyed your community, you fled to the wild forests. There, beyond the protection of Sacred Pyres, you learned that survival meant becoming something others fear.
+
+Your climbing skills that once served elaborate pranks now deliver silent death. The forest taught you that predators move without sound, strike without warning, and vanish without trace. You've returned to civilization as something changed - a necessary monster who hunts other monsters.
+
+### Current Role
+**The Eliminator**: While your party controls the battlefield, you remove the biggest threats. Using impossible vertical positioning and forest-learned stealth, you deliver devastating strikes that end fights before they begin.
+
+### Personality Shift
+- **Before**: Playful trickster using agility for entertainment
+- **After**: Grim predator using same skills for elimination  
+- **Core Conflict**: Struggling with what you've become vs. what you must do
+- **Umbra Integration**: Each scar brings more power but less humanity
+
+## 🌑 Umbra Corruption Mechanics
+
+### High-Risk/High-Reward
+- **Corruption Damage**: +1 damage per scar from Umbra exposure
+- **Progressive Risk**: Each scar brings you closer to full corruption
+- **Tactical Choice**: Deliberately take risks for extra damage
+- **Living Weapon**: Racing against time to accomplish something meaningful
+
+### Combat Applications
+**Burst Damage Formula**: Sneak Attack + d8+1 base + Umbra corruption + advantage
+**Signature Tactic**: "The Phantom Strike" - impossible position assassination
+
+## 🎯 Party Integration
+
+### Combat Synergy
+- **Augustus (Guardian)**: You eliminate threats before they reach him
+- **Aster (Seraph)**: She buffs your strikes, you protect her flanks
+- **Vaerenth (Ranger)**: She spots enemies, you infiltrate and eliminate
+
+### Unique Capabilities
+- **Priority Target Removal**: Spellcasters, archers, leaders
+- **Vertical Battlefield Control**: Positions others cannot reach
+- **Silent Infiltration**: Scout and eliminate without alerts
+- **Crowd Control**: Remove key enemies to break formations
+
+## 🔥 Signature Combat Sequence
+
+### "The Phantom Strike"
+1. **Silent Approach**: Lightfoot advantage + Midnight Domain stealth
+2. **Impossible Position**: Simian climbing to unreachable vantage point
+3. **Precise Elimination**: Dagger sneak attack + Umbra corruption damage
+4. **Vanish**: Grace Domain mobility to escape to new position
+5. **Reposition**: Set up next angle of attack
+
+### Environmental Mastery
+- **Urban**: Pipes, beams, architectural climbing routes
+- **Wilderness**: Trees, cliffs, natural vertical terrain  
+- **Underground**: Original tunnel knowledge + new deadly skills
+- **Any Terrain**: 7-foot reach extends "melee" range significantly
+
+## 🎪 Appearance & Demeanor
+
+### Physical Description
+- **Build**: Compact 4-foot Simian with dramatically disproportionate limbs
+- **Arms**: Spectacularly long with 7-foot reach, nearly twice body height
+- **Eyes**: Once bright seafoam, now hold predatory intensity
+- **Fur**: Obsidian black with shadow markings that seem to shift
+- **Movement**: Flows like liquid shadow, utterly silent
+
+### Clothing & Gear
+- **Forest Leathers**: Dark, practical armor adapted for silent movement
+- **Climbing Tools**: Integrated into gear for vertical access
+- **Weapons**: Concealed but always within reach
+- **Umbra Marks**: Visible scars that hint at corruption's influence
+
+### Attitude Evolution
+- **Lost Innocence**: Mischievous energy replaced by predatory focus
+- **Necessary Evil**: Does what others cannot for greater good
+- **Moral Complexity**: Questions own humanity while protecting others
+- **Professional Efficiency**: Wastes no motion, no words, no time
+
+---
+
+*Character Evolution: From Underground Prankster to Forest Predator*  
+*Current Status: Umbral Stalker - The Party's Surgical Strike Specialist*  
+*Theme: What We Become When Survival Demands It*
+
+
 
 ## 📊 Core Stats
 **Class**: Rogue (Nightwalker)
