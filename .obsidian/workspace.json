@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-SESSIONS/session-0-campaign-setup.md",
+                "file": "01-CHARACTERS/gareth-character/character-arc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "session-0-campaign-setup"
+              "title": "character-arc"
             }
           }
         ]
@@ -192,16 +192,19 @@
   },
   "active": "bec1758fed759104",
   "lastOpenFiles": [
+    "01-CHARACTERS/gareth-character/captain-howling-banjo-image-prompts.md",
+    "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet.md",
+    "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
+    "01-CHARACTERS/mark-character/augustus-penhallow-character-sheet.md",
+    "01-CHARACTERS/mark-character/augustus-penhallow-progression.md",
+    "01-CHARACTERS/luie-character/aster-luferi-character-sheet.md",
+    "02-SESSIONS/session-0-campaign-setup.md",
     "00-CAMPAIGN/session-tracker.md",
     "00-CAMPAIGN/session-logistics.md",
-    "01-CHARACTERS/luie-character/aster-luferi-character-sheet.md",
     "01-CHARACTERS/luie-character/aster-luferi-development.md",
     "01-CHARACTERS/luie-character/aster-luferi-progression.md",
     "01-CHARACTERS/luie-character/character-notes.md",
-    "01-CHARACTERS/mark-character/augustus-penhallow-progression.md",
     "01-CHARACTERS/mark-character/augustus-penhallow-development.md",
-    "01-CHARACTERS/mark-character/augustus-penhallow-character-sheet.md",
-    "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
     "06-RULES-MASTERY/early-mid-game-damage-optimization.md",
     "04-RESOURCES/dh-srd/dh-classes-overview.md",
     "01-CHARACTERS/aster-luferi",
@@ -210,7 +213,6 @@
     "06-RULES-MASTERY/high-damage-caster-builds.md",
     "06-RULES-MASTERY/high-damage-builds.md",
     "06-RULES-MASTERY",
-    "01-CHARACTERS/gareth-character/captain-howling-banjo-image-prompts.md",
     "03-WORLD/locations/Sanctuary.md",
     "03-WORLD/locations/Havens-Light.md",
     "99-CONFIG/templates/npc-template.md",
@@ -218,8 +220,6 @@
     "04-RESOURCES/equipment-lists.md",
     "04-RESOURCES/dh-srd/dh-core-gameplay-loop.md",
     "03-WORLD/npcs/README.md",
-    "02-SESSIONS/session-1-last-light-beginning.md",
-    "02-SESSIONS/session-0-campaign-setup.md",
     "03-WORLD/npcs",
     "05-LORE/age-of-umbra",
     "05-LORE",
