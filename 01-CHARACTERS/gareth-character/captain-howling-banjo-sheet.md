@@ -32,11 +32,11 @@ heading: Captain Howling Banjo Umbral Stalker
 - **Strength**: -1 (dump stat)
 
 ### **Resources**
-- **Hit Points**: 0/7 Marked
+- **Hit Points**: 0/6 Marked (Minor: 6, Major: 12, Severe: Mark 3 HP)
 - **Stress**: 0/4 Marked  
-- **Hope**: 0/4 Marked
-- **Evasion**: 12 (base Rogue evasion + potential Simian bonus)
-- **Armor Score**: 2 (patched forest leather)
+- **Hope**: 2/6 Current
+- **Evasion**: 14
+- **Armor Score**: 3 (Gambeson Armor)
 
 ### **Experiences**
 - **Umbral Stalker +2**: Hunt using shadow magic and primal Simian brutality
@@ -45,13 +45,14 @@ heading: Captain Howling Banjo Umbral Stalker
 ## ⚔️ Combat Capabilities
 
 ### **Weapons**
-- **Dagger** (Primary)
+- **Returning Blade** (Primary)
   - Attack: +2 Finesse
-  - Damage: d8+1 physical
-  - Features: One-handed, concealable, perfect for sneak attacks
-- **Shortsword** (Secondary)
-  - Backup weapon for sustained combat
-  - One-handed for climbing compatibility
+  - Damage: 1d8 physical
+  - Features: Magical, one-handed, returns after thrown
+- **Small Dagger** (Secondary) 
+  - Attack: +2 Finesse
+  - Damage: 1d8 physical
+  - Features: One-handed, concealable, throwable
 
 ### **Combat Role**
 **The Eliminator**: Burst damage specialist who removes priority targets through impossible positioning and devastating sneak attacks.
@@ -59,14 +60,16 @@ heading: Captain Howling Banjo Umbral Stalker
 ### **Signature Tactic: "The Phantom Strike"**
 1. **Silent Approach**: Use Wildborne Lightfoot + shadow magic for undetected movement
 2. **Impossible Position**: Simian climbing to reach unreachable vantage points
-3. **Precise Elimination**: Dagger sneak attack enhanced by Umbra corruption
-4. **Vanish**: Escape to new position before enemies can react
+3. **Precise Elimination**: Returning Blade sneak attack enhanced by Umbra corruption
+4. **Magical Return**: Blade returns to hand automatically after strike
+5. **Vanish**: Escape to new position before enemies can react
 
 ### **Damage Sources**
-- **Base Weapon**: d8+1 dagger damage
+- **Base Weapons**: 1d8 physical damage (both weapons)
 - **Sneak Attack**: Extra dice when attacking with advantage
 - **Umbra Corruption**: +1 damage per scar (high-risk power)
 - **Experience Bonuses**: +2 situational from Umbral Stalker
+- **Returning Blade**: Magical weapon that returns after throwing
 
 ## 🌲 Heritage & Abilities
 
@@ -190,6 +193,18 @@ You do what others cannot - both in terms of accessing unreachable positions and
 Others may question your methods, but they cannot argue with results. You carry the moral weight so your companions can maintain their principles, making you both essential and isolated within the group.
 
 ## 🔥 Signature Abilities Summary
+
+### **The Phantom Strike** (Combat Sequence)
+Your signature move combining all abilities: silent shadow approach, impossible vertical positioning, devastating sneak attack with magical returning blade, and supernatural escape.
+
+### **Corruption Hunter** (Investigation)
+Using Purge Veteran experience to identify corruption signs, assess threat levels, and make tactical decisions about elimination versus mercy.
+
+### **Shadow Predator** (Stealth/Tracking)
+Umbral Stalker abilities allow tracking and hunting corrupted beings through terrain others cannot navigate, using shadow magic and primal instincts.
+
+### **Moral Anchor** (Social/Mental)
+Despite your dark methods, you serve as the party's moral anchor for impossible decisions - you've already paid the price others fear, allowing you to guide them through ethical complexity.
 
 ### **The Phantom Strike** (Combat Sequence)
 Your signature move combining all abilities: silent shadow approach, impossible vertical positioning, devastating sneak attack, and supernatural escape.
