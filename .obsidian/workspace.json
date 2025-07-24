@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
+                "file": "01-CHARACTERS/gareth-character/banjo-ai-art-prompts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "vaerenth-character-sheet"
+              "title": "banjo-ai-art-prompts"
             }
           }
         ]
@@ -193,9 +193,10 @@
   },
   "active": "bec1758fed759104",
   "lastOpenFiles": [
+    "01-CHARACTERS/andi-character/vaerenth-ai-art-prompts.md",
+    "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
     "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet.md",
     "01-CHARACTERS/gareth-character/banjo-ai-art-prompts.md",
-    "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
     "01-CHARACTERS/gareth-character/banjo-ai-art-prompts (1).md",
     "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet (1).md",
     "01-CHARACTERS/gareth-character/character-planning.md",
@@ -219,7 +220,6 @@
     "06-RULES-MASTERY/ultimate-damage-tier-list.md",
     "06-RULES-MASTERY/rogue-shadowalker-build.md",
     "06-RULES-MASTERY/high-damage-caster-builds.md",
-    "06-RULES-MASTERY/high-damage-builds.md",
     "06-RULES-MASTERY",
     "03-WORLD/npcs",
     "05-LORE/age-of-umbra",
