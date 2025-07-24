@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-CHARACTERS/gareth-character/character-arc.md",
+                "file": "01-CHARACTERS/luie-character/aster-luferi-character-sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "character-arc"
+              "title": "aster-luferi-character-sheet"
             }
           }
         ]
@@ -190,8 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bec1758fed759104",
+  "active": "93af021a30cd21d3",
   "lastOpenFiles": [
+    "01-CHARACTERS/luie-character/aster-luferi-development.md",
+    "01-CHARACTERS/gareth-character/character-arc.md",
     "01-CHARACTERS/gareth-character/captain-howling-banjo-image-prompts.md",
     "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet.md",
     "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
@@ -201,7 +203,6 @@
     "02-SESSIONS/session-0-campaign-setup.md",
     "00-CAMPAIGN/session-tracker.md",
     "00-CAMPAIGN/session-logistics.md",
-    "01-CHARACTERS/luie-character/aster-luferi-development.md",
     "01-CHARACTERS/luie-character/aster-luferi-progression.md",
     "01-CHARACTERS/luie-character/character-notes.md",
     "01-CHARACTERS/mark-character/augustus-penhallow-development.md",
@@ -219,7 +220,6 @@
     "04-RESOURCES/quick-rules.md",
     "04-RESOURCES/equipment-lists.md",
     "04-RESOURCES/dh-srd/dh-core-gameplay-loop.md",
-    "03-WORLD/npcs/README.md",
     "03-WORLD/npcs",
     "05-LORE/age-of-umbra",
     "05-LORE",
