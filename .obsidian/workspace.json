@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-CHARACTERS/gareth-character/captain-howling-banjo-image-prompts.md",
+                "file": "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "captain-howling-banjo-image-prompts"
+              "title": "captain-howling-banjo-sheet"
             }
           }
         ]
