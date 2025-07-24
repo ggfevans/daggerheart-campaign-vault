@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-CHARACTERS/luie-character/aster-luferi-character-sheet.md",
+                "file": "02-SESSIONS/session-0-campaign-setup.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "aster-luferi-character-sheet"
+              "title": "session-0-campaign-setup"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 343.5
   },
   "right": {
     "id": "75e5242a3d07077b",
@@ -190,12 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93af021a30cd21d3",
+  "active": "bec1758fed759104",
   "lastOpenFiles": [
+    "00-CAMPAIGN/session-tracker.md",
+    "00-CAMPAIGN/session-logistics.md",
+    "01-CHARACTERS/luie-character/aster-luferi-character-sheet.md",
     "01-CHARACTERS/luie-character/aster-luferi-development.md",
     "01-CHARACTERS/luie-character/aster-luferi-progression.md",
     "01-CHARACTERS/luie-character/character-notes.md",
-    "01-CHARACTERS/luie-character/aster-luferi-character-sheet.md",
     "01-CHARACTERS/mark-character/augustus-penhallow-progression.md",
     "01-CHARACTERS/mark-character/augustus-penhallow-development.md",
     "01-CHARACTERS/mark-character/augustus-penhallow-character-sheet.md",
@@ -218,8 +220,6 @@
     "03-WORLD/npcs/README.md",
     "02-SESSIONS/session-1-last-light-beginning.md",
     "02-SESSIONS/session-0-campaign-setup.md",
-    "02-SESSIONS/session-planning.md",
-    "05-LORE/age-of-umbra/sacred-pyres.md",
     "03-WORLD/npcs",
     "05-LORE/age-of-umbra",
     "05-LORE",
