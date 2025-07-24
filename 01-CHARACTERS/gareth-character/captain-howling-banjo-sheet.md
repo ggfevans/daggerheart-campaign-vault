@@ -131,24 +131,46 @@ Your climbing skills that once served elaborate pranks now deliver silent death.
 
 ## 🎪 Appearance & Demeanor
 
-### Physical Description
-- **Build**: Compact 4-foot Simian with dramatically disproportionate limbs
-- **Arms**: Spectacularly long with 7-foot reach, nearly twice body height
-- **Eyes**: Once bright seafoam, now hold predatory intensity
-- **Fur**: Obsidian black with shadow markings that seem to shift
-- **Movement**: Flows like liquid shadow, utterly silent
+### Physical Description (Vivid Character Creation)
+- **Clothes**: Patched forest leather darkened by smoke and bloodstains, reinforced with scavenged metal and bone fragments
+- **Eyes**: Winter frost on obsidian glass, reflecting predator's hunger beneath exhausted grief
+- **Body**: Wiry and compact with unnaturally elongated arms, muscle carved lean by starvation and constant climbing
+- **Coloring**: Obsidian fur streaked with ash-grey corruption marks and moss-green forest stains
+- **Attitude**: A forest wolf circling wounded prey - patient, calculating, and absolutely without mercy
 
-### Clothing & Gear
-- **Forest Leathers**: Dark, practical armor adapted for silent movement
-- **Climbing Tools**: Integrated into gear for vertical access
-- **Weapons**: Concealed but always within reach
-- **Umbra Marks**: Visible scars that hint at corruption's influence
+### Visual Storytelling Elements
+**Grimdark Umbra Context**:
+- Bloodstains and bone reinforcements show the violence survived
+- Ash-grey corruption marks from direct Umbra exposure
+- Smoke stains from countless nights camping beyond Sacred Pyre protection
 
-### Attitude Evolution
+**Wildborne Nature**:
+- Forest leather adapted for silent movement through wilderness
+- Moss-green stains literally marking you as belonging to wild places
+- Predatory wolf-like demeanor learned from forest survival
+
+**Resource Scarcity**:
+- Patched and repaired gear - nothing can be replaced easily
+- Scavenged metal reinforcements from whatever could be found
+- Starvation-lean physique from rationed food and hard living
+
+**Simian Physiology**:
+- Compact torso with unnaturally elongated arms (7-foot reach)
+- Obsidian fur base coloring enhanced by environmental marking
+- Wiry muscle built for climbing and acrobatic movement
+
+### Movement & Presence
+- **Silent Flow**: Moves like liquid shadow, utterly without sound
+- **Predatory Grace**: Every motion calculated for maximum efficiency
+- **Vertical Mastery**: Equally comfortable on walls, ceilings, or ground
+- **Unsettling Reach**: Arms that extend impossibly far, defying normal anatomy
+
+### Psychological Impact
 - **Lost Innocence**: Mischievous energy replaced by predatory focus
 - **Necessary Evil**: Does what others cannot for greater good
 - **Moral Complexity**: Questions own humanity while protecting others
 - **Professional Efficiency**: Wastes no motion, no words, no time
+- **Haunted Purpose**: Carries the weight of what survival has demanded
 
 ---
 

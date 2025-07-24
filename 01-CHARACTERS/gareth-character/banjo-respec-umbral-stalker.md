@@ -197,3 +197,29 @@ heading: Banjo Respec Umbral Stalker
 *To: Grimdark Forest Assassin*  
 *Party Role: Burst Damage Elimination Specialist*  
 *Theme: Necessary Evil in the Age of Umbra*
+
+## 🎨 **Character Description Reference (For Demiplane)**
+
+When creating your character appearance in Demiplane, use these vivid descriptions:
+
+### **Character Creation Fields**
+- **CLOTHES THAT ARE**: `patched forest leather darkened by smoke and bloodstains, reinforced with scavenged metal and bone fragments`
+- **EYES LIKE**: `winter frost on obsidian glass, reflecting predator's hunger beneath exhausted grief`
+- **BODY THAT'S**: `wiry and compact with unnaturally elongated arms, muscle carved lean by starvation and constant climbing`
+- **THE COLOR OF**: `obsidian fur streaked with ash-grey corruption marks and moss-green forest stains`
+- **ATTITUDE LIKE**: `a forest wolf circling wounded prey - patient, calculating, and absolutely without mercy`
+
+### **Description Impact**
+These descriptions create a character visually marked by:
+- **Survival trauma** (bloodstains, corruption marks, starvation-lean)
+- **Environmental adaptation** (forest stains, smoke darkening, predatory demeanor)
+- **Physical uniqueness** (unnaturally long arms, obsidian coloring, compact frame)
+- **Moral transformation** (predatory patience, calculated movements, merciless efficiency)
+
+**Result**: A character who looks like they've lived through the Age of Umbra and been fundamentally changed by it.
+
+---
+
+*Character Description Updated: 2025-07-24*  
+*Vivid Descriptions Incorporating: Grimdark Context, Wildborne Nature, Resource Scarcity, Simian Physiology*  
+*Theme: What Survival Costs and How It Marks You*
