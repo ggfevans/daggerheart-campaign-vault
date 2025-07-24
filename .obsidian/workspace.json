@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 455.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,11 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e00d33ba05d60e0f",
+  "active": "bec1758fed759104",
   "lastOpenFiles": [
+    "01-CHARACTERS/gareth-character/banjo-ai-art-prompts.md",
+    "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet.md",
     "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet (1).md",
     "01-CHARACTERS/gareth-character/character-planning.md",
-    "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet.md",
     "01-CHARACTERS/gareth-character/character-arc.md",
     "01-CHARACTERS/gareth-character/banjo-respec-umbral-stalker.md",
     "02-SESSIONS/session-planning.md",
@@ -219,7 +221,6 @@
     "06-RULES-MASTERY/high-damage-builds.md",
     "06-RULES-MASTERY",
     "03-WORLD/locations/Sanctuary.md",
-    "03-WORLD/locations/Havens-Light.md",
     "03-WORLD/npcs",
     "05-LORE/age-of-umbra",
     "05-LORE",
