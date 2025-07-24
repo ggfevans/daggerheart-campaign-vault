@@ -238,7 +238,7 @@ Proven systems for maintaining morale, resolving disputes, and balancing individ
 
 ## 🔗 Related Files
 - [[03-WORLD/locations/major-locations]] - Context of larger underground city Sanctuary
-- [[01-CHARACTERS/my-character/character-arc]] - Captain Howling Banjo's background
+- [[character-arc]] - Captain Howling Banjo's background
 - [[00-CAMPAIGN/campaign-overview]] - Age of Umbra setting information
 - [[03-WORLD/npcs]] - Additional community members and contacts
 
