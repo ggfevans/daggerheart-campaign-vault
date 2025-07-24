@@ -36,6 +36,79 @@ heading: Captain Howling Banjo Umbral Stalker
 - **Evasion**: 11 (7 base + 2 Finesse + 2 armor)
 - **Armor Score**: 2 (light armor)
 
+### Experiences
+**Umbral Stalker +2**: You hunt using shadow magic and primal Simian brutality in perfect combination
+**Purge Veteran +2**: You've killed corrupted people you once cared about and learned to make hard moral choices
+
+
+## 🎯 **Experience Applications Guide**
+
+### **Umbral Stalker +2**
+*You hunt using shadow magic and primal Simian brutality in perfect combination*
+
+**Combat Applications**:
+- **Stealth attacks** from shadow-concealed positions (+2 to attack rolls)
+- **Brutal dropping attacks** using shadows + Simian reach (+2 to damage positioning)
+- **Moving silently** through darkness using both magic and animal instincts (+2 to stealth)
+- **Intimidation** through unnatural shadow-enhanced presence (+2 to Presence)
+
+**Exploration Applications**:
+- **Tracking corrupted beings** through hostile terrain (+2 to Instinct/Knowledge)
+- **Navigating dangerous areas** using shadow paths others can't see (+2 to movement)
+- **Reading supernatural threats** and corruption patterns (+2 to investigation)
+- **Surviving in corrupted territory** where normal scouts fail (+2 to survival)
+
+**Social Applications**:
+- **Intimidating enemies** with predatory, shadow-touched presence (+2 to Presence)
+- **Gathering intelligence** from those who fear your reputation (+2 to information gathering)
+- **Operating in criminal/underground circles** where your methods are respected (+2 to relevant social situations)
+
+**Environmental Applications**:
+- **Vertical positioning** using shadows + climbing in impossible locations (+2 to positioning)
+- **Territory control** through supernatural stealth and physical dominance (+2 to area denial)
+- **Night operations** where darkness amplifies your abilities (+2 to any nighttime activity)
+
+### **Purge Veteran +2**
+*You've killed corrupted people you once cared about and learned to make hard moral choices*
+
+**Combat Applications**:
+- **Recognizing corruption signs** in combat to identify real threats (+2 to threat assessment)
+- **Maintaining composure** during horror/trauma-inducing encounters (+2 to mental resistance)
+- **Making tactical decisions** about who must die vs. who can be saved (+2 to battlefield leadership)
+- **Performing necessary violence** despite emotional cost (+2 to difficult kill decisions)
+
+**Social Applications**:
+- **Relating to other outcasts** who've made hard choices (+2 to Presence with similar people)
+- **Counseling others** facing impossible moral decisions (+2 to guidance/advice)
+- **Negotiating with authorities** who question your methods (+2 to justifying actions)
+- **Reading people's corruption level** through behavioral cues (+2 to social assessment)
+
+**Mental/Emotional Applications**:
+- **Resisting guilt/trauma** when reminded of past actions (+2 to mental stability)
+- **Making hard choices** under pressure without hesitation (+2 to decisive action)
+- **Functioning despite loss** and continuing mission-critical work (+2 to pushing through grief)
+- **Understanding sacrifice** and weighing lives against greater good (+2 to moral complexity)
+
+**Investigation Applications**:
+- **Determining corruption progression** in individuals or areas (+2 to Knowledge)
+- **Predicting corruption spread** patterns based on experience (+2 to tactical planning)
+- **Identifying who's "too far gone"** to save (+2 to mercy/elimination decisions)
+- **Understanding community dynamics** under corruption pressure (+2 to social analysis)
+
+### **When Experiences DON'T Apply**
+**Umbral Stalker** doesn't help with:
+- Bright daylight activities where shadows are minimal
+- Direct social situations unrelated to intimidation
+- Academic knowledge unrelated to hunting/corruption
+- Activities that don't involve stealth, tracking, or predatory behavior
+
+**Purge Veteran** doesn't help with:
+- Technical skills unrelated to moral decision-making
+- Light-hearted social interactions
+- Situations where your dark experience would be inappropriate
+- Activities that don't involve difficult choices or trauma management
+
+
 ## ⚔️ Combat Build
 
 ### Weapons

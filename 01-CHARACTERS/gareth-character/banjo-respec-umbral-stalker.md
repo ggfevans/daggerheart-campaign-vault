@@ -223,3 +223,26 @@ These descriptions create a character visually marked by:
 *Character Description Updated: 2025-07-24*  
 *Vivid Descriptions Incorporating: Grimdark Context, Wildborne Nature, Resource Scarcity, Simian Physiology*  
 *Theme: What Survival Costs and How It Marks You*
+
+## 🎯 **Experience Evolution Update**
+
+### **Experiences Updated**
+- **From**: Acrobat +2, Observant +2 (original prankster abilities)
+- **To**: Umbral Stalker +2, Purge Veteran +2 (grimdark assassin evolution)
+- **Represents**: Complete transformation from mischievous scout to necessary killer
+
+### **Umbral Stalker +2**
+*You hunt using shadow magic and primal Simian brutality in perfect combination*
+
+**Key Applications**: Shadow stealth attacks, vertical positioning with supernatural silence, tracking corrupted beings, intimidation through predatory presence, survival in dangerous territory
+
+### **Purge Veteran +2**  
+*You've killed corrupted people you once cared about and learned to make hard moral choices*
+
+**Key Applications**: Recognizing corruption signs, maintaining composure under horror, making tactical kill decisions, relating to other outcasts, functioning despite trauma
+
+---
+
+*Experiences Updated: 2025-07-24*  
+*Evolution Complete: Underground Prankster → Forest Predator → Umbral Stalker*  
+*Ready for Campaign Play*
