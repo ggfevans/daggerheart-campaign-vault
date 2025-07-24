@@ -1,9 +1,9 @@
 ---
 tags:
-- character/andi
-- character/captain-howling-ba
+- character/gareth
+- character/captain-howling-banjo
 - daggerheart/character
-- class/ranger
+- class/rogue
 - ancestry/simian
 - community/wanderborne
 created: 2025-07-18

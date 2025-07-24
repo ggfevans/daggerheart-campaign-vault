@@ -11,24 +11,10 @@
             "id": "bec1758fed759104",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-CHARACTERS/gareth-character/banjo-ai-art-prompts.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "banjo-ai-art-prompts"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -193,9 +179,9 @@
   },
   "active": "bec1758fed759104",
   "lastOpenFiles": [
-    "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
     "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet.md",
     "01-CHARACTERS/gareth-character/banjo-ai-art-prompts.md",
+    "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
     "01-CHARACTERS/gareth-character/banjo-ai-art-prompts (1).md",
     "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet (1).md",
     "01-CHARACTERS/gareth-character/character-planning.md",

@@ -1,3 +1,19 @@
+---
+tags:
+- character/gareth
+- character/captain-howling-banjo
+- daggerheart/character
+- class/rogue
+- ancestry/simian
+- community/wanderborne
+created: 2025-07-18
+last-updated: 2025-07-18
+player: Gareth
+level: 1
+heading: Captain Howling Banjo - The Umbral Stalker
+
+---
+
 # Captain Howling Banjo - The Umbral Stalker
 
 ## Core Character Build
