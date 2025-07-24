@@ -42,7 +42,7 @@ heading: Captain Howling Banjo Umbral Stalker
 - **Umbral Stalker +2**: Hunt using shadow magic and primal Simian brutality
 - **Purge Veteran +2**: Kill corrupted beings and make hard moral choices
 
-## s",? Combat Capabilities
+##  Combat Capabilities
 
 ### **Weapons**
 - **Returning Blade** (Primary)

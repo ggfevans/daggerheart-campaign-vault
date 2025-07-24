@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-CHARACTERS/gareth-character/banjo-respec-umbral-stalker.md",
+                "file": "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "banjo-respec-umbral-stalker"
+              "title": "captain-howling-banjo-sheet"
             }
           }
         ]
@@ -193,15 +193,16 @@
   },
   "active": "bec1758fed759104",
   "lastOpenFiles": [
+    "01-CHARACTERS/gareth-character/character-planning.md",
     "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet.md",
+    "01-CHARACTERS/gareth-character/character-arc.md",
+    "01-CHARACTERS/gareth-character/banjo-respec-umbral-stalker.md",
     "02-SESSIONS/session-planning.md",
     "02-SESSIONS/session-0-campaign-setup.md",
     "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet (1).md",
     "01-CHARACTERS/gareth-character/captain-howling-banjo-image-prompts.md",
-    "01-CHARACTERS/gareth-character/banjo-respec-umbral-stalker.md",
     "01-CHARACTERS/luie-character/aster-luferi-character-sheet.md",
     "01-CHARACTERS/luie-character/aster-luferi-development.md",
-    "01-CHARACTERS/gareth-character/character-arc.md",
     "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
     "01-CHARACTERS/mark-character/augustus-penhallow-character-sheet.md",
     "01-CHARACTERS/mark-character/augustus-penhallow-progression.md",
@@ -220,7 +221,6 @@
     "06-RULES-MASTERY",
     "03-WORLD/locations/Sanctuary.md",
     "03-WORLD/locations/Havens-Light.md",
-    "99-CONFIG/templates/npc-template.md",
     "03-WORLD/npcs",
     "05-LORE/age-of-umbra",
     "05-LORE",
