@@ -15,7 +15,7 @@
               "state": {
                 "file": "01-CHARACTERS/gareth-character/banjo-ai-art-prompts.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -193,9 +193,10 @@
   },
   "active": "bec1758fed759104",
   "lastOpenFiles": [
-    "01-CHARACTERS/gareth-character/banjo-ai-art-prompts (1).md",
+    "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
     "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet.md",
     "01-CHARACTERS/gareth-character/banjo-ai-art-prompts.md",
+    "01-CHARACTERS/gareth-character/banjo-ai-art-prompts (1).md",
     "01-CHARACTERS/gareth-character/captain-howling-banjo-sheet (1).md",
     "01-CHARACTERS/gareth-character/character-planning.md",
     "01-CHARACTERS/gareth-character/character-arc.md",
@@ -205,7 +206,6 @@
     "01-CHARACTERS/gareth-character/captain-howling-banjo-image-prompts.md",
     "01-CHARACTERS/luie-character/aster-luferi-character-sheet.md",
     "01-CHARACTERS/luie-character/aster-luferi-development.md",
-    "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
     "01-CHARACTERS/mark-character/augustus-penhallow-character-sheet.md",
     "01-CHARACTERS/mark-character/augustus-penhallow-progression.md",
     "00-CAMPAIGN/session-tracker.md",

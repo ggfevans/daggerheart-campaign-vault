@@ -1,3 +1,19 @@
+---
+tags:
+- character/andi
+- character/captain-howling-ba
+- daggerheart/character
+- class/ranger
+- ancestry/simian
+- community/wanderborne
+created: 2025-07-18
+last-updated: 2025-07-18
+player: Gareth
+level: 1
+heading: Captain Howling Banjo - Leonardo.ai Art Generation Prompts
+
+---
+
 # Captain Howling Banjo - Leonardo.ai Art Generation Prompts
 
 ## Character Reference Summary
