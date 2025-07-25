@@ -64,8 +64,6 @@ heading: Daggerheart Srd Index
 **Repository Commit**: Latest main branch
 
 ### Download Progress
-
-### Download Progress
 - [x] Contents directory (main rules) - **Core files downloaded**
 - [x] Core Gameplay Mechanics - **Complete**
 - [x] Character Creation - **Complete**  
@@ -142,8 +140,6 @@ heading: Daggerheart Srd Index
 
 ### GM Resources
 - [[dh-gm-guidance]] - Core principles and best practices
-
-## 📖 Using the SRD
 
 ## 📖 Using the SRD
 
