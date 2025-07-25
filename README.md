@@ -1,13 +1,13 @@
 ---
 publish: true
 ---
-# 🎵 Daggerheart Campaign Resource Hub
+# Daggerheart - Age of Umbra Campaign Resource Hub
 
 *Banjo's organized campaign wiki for our adventuring party*
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Campaign Status](https://img.shields.io/badge/Campaign-Active-brightgreen.svg)]()
-[![Last Session](https://img.shields.io/badge/Last_Session-Session_2-blue.svg)]()
+[![Last Session](https://img.shields.io/badge/Last_Session-Session_0-blue.svg)]()
 
 ## 📖 **Two Ways to Access**
 
