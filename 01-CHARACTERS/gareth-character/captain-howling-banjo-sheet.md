@@ -18,6 +18,7 @@ heading: Captain Howling Banjo - The Umbral Stalker
 
 ![[Pasted image 20250725004819.png]]
 
+[Demiplane character sheet](https://app.demiplane.com/nexus/daggerheart/character-sheet/83586c45-275d-481e-8773-7e874b2303d8)
 ## Core Character Build
 
 ### **Class & Heritage**
