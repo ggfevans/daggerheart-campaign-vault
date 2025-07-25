@@ -1,0 +1,30 @@
+name: Deploy Quartz site
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: "npm"
+          cache-dependency-path: .web/quartz/package-lock.json
+      - name: Install deps
+        run: |
+          cd .web/quartz
+          npm ci
+      - name: Build site
+        run: |
+          cd .web/quartz
+          npx quartz build
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: .web/quartz/public
