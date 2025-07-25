@@ -1,0 +1,8 @@
+# Obsidian configuration and cache files
+.obsidian/
+
+# Common temporary files
+*.tmp
+*~
+.DS_Store
+Thumbs.db
