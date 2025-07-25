@@ -12,7 +12,7 @@ publish: true
 ## 🌍 World & Setting
 **Campaign World**: Age of Umbra
 **Setting**: A shadow-choked land of decaying fortresses and dreadful monstrosities
-**System**: Daggerheart
+**System**: [[daggerheart-srd-index|Daggerheart]]
 
 ### Campaign Premise
 A century has passed since the God-King Othedias betrayed the Pantheon, provoking divine punishment and abandonment by the gods that left the realm of the Halcyon Domain shattered, desolate, and eternally cursed. Throughout this shadow-choked land of decaying fortresses and dreadful monstrosities, surviving communities cling to hope in the face of lightless oblivion.
@@ -33,8 +33,8 @@ As heroic survivors, the party will:
 ### Active Characters
 - **[[Captain Howling Banjo]]** (User): Simian Nightwalker Rogue from Undergarden - Shadow-stepping prankster who protects their tunnel community
 - **[[vaerenth-character-sheet|Vaerenth]]** (Andi): Goblin Ranger (Beastbound) - Wanderborne archer with Hogdog companion, specializing in mobility and entangling spells
-- **[[[aster-luferi-character-sheet|Aester Luferi]]** (Luie):  - [Brief description]
-- **[Mark's Character]**: [Class] - [Brief description]
+- **[[[aster-luferi-character-sheet|Aester Luferi]]** (Luie):  - Seraph [Brief description]
+- **[[augustus-penhallow-character-sheet|Augustus Penhallow]]**: Guardian - [Brief description]
 
 ### Game Master
 - **Geoff** (he/him): Experienced GM specializing in prewritten modules
