@@ -11,6 +11,8 @@ heading: Augustus Penhallow Character Sheet
 
 # Augustus Penhallow - Character Sheet
 
+![[Pasted image 20250725004910.png]]
+
 [Demiplane character sheet for Augustus](https://app.demiplane.com/nexus/daggerheart/character-sheet/b99e9343-54ce-403a-afee-f31123a4c516)
 
 ## 📊 Basic Information
@@ -126,6 +128,9 @@ While Unstoppable, you gain the following benefits:
 
 ### Character Concept
 Augustus appears to be a refined warrior with a military background, possibly traumatized by past conflicts (shell shocked) but maintaining sophisticated tastes. As a Galapa Guardian, he represents a specific tradition within the Guardian class, focusing on protective abilities and frontline combat.
+
+**Character background:** 
+Augustus Penhallow is a highborn statesman from the ailing city-state of Virelia, a place where silver tongues and silent daggers keep court in equal measure. Once a pillar of unity in the ruling council, Augustus spent decades trying to preserve the fragile peace between noble houses after the collapse of the the Grand Order. But now, that peace has decayed into veiled feuds, political blackmail, and proxy wars waged through mercantile sabotage.
 
 ### Tactical Role
 - **Primary Role**: Tank/Protector
