@@ -115,9 +115,10 @@ While Unstoppable, you gain the following benefits:
 
 ### Background Elements
 - Connected to a mentor (has totem)
-- Military or combat background (shell shocked)
-- Refined tastes and experiences (connoisseur)
-- Galapa Guardian heritage/training
+- **Political Background**: Former statesman from the city-state of [[virelia-city-state|Virelia]]
+- **Refined Training**: "Connoisseur of the Exquisite" reflecting political and cultural sophistication
+- **Military Trauma**: "Shell shocked" from conflicts during/after the Grand Order's collapse
+- **Galapa Guardian Heritage**: Specific Guardian tradition/training
 
 ## 📝 Notes
 
