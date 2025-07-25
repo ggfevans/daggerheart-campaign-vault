@@ -10,6 +10,9 @@ heading: Aster Luferi Character Sheet
 ---
 # Aster Luferi - Character Sheet
 
+[Demiplane character sheet for Aster Luferi](https://app.demiplane.com/nexus/daggerheart/character-sheet/a2ddf623-6adb-46d0-ac9d-646240f5c9ec)
+
+![[Pasted image 20250725004758.png]]
 ## Basic Information
 - **Name**: Aster Luferi
 - **Pronouns**: He/Him

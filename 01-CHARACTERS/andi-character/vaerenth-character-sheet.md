@@ -15,6 +15,10 @@ heading: Vaerenth Character Sheet
 
 # Vaerenth (Andi's Character)
 
+![[Pasted image 20250725004728.png]]
+
+[Demiplane character sheet for Vaerenth](https://app.demiplane.com/nexus/daggerheart/character-sheet/b86c8ca1-af54-4817-ba68-eb38c6170504)
+
 ## 📊 Core Stats
 **Class**: Ranger (Beastbound)
 **Ancestry**: Goblin

@@ -16,6 +16,8 @@ heading: Captain Howling Banjo - The Umbral Stalker
 
 # Captain Howling Banjo - The Umbral Stalker
 
+![[Pasted image 20250725004819.png]]
+
 ## Core Character Build
 
 ### **Class & Heritage**
