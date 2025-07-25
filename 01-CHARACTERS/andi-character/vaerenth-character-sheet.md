@@ -91,7 +91,7 @@ heading: Vaerenth Character Sheet
 - **Shortbow** - Primary weapon
 
 ### Currency
-- **Gold**: [Amount not specified in screenshots]
+- **Gold**: One handful
 
 ## 🎭 Character Details
 ### Ancestry Traits - Goblin
@@ -102,7 +102,7 @@ heading: Vaerenth Character Sheet
 ### Community Traits - Wanderborne
 **Nomadic**: Once per session you can pack a Pack Item and pull out a mundane item that's useful to your situation. Work with the GM to figure out what item you take out.
 
-### Animal Companion - Hogdog 🐗
+### Animal Companion - Hogpog 🐗
 **Evasion**: 10
 **Experience**: 
 - **Scary Face**: +2 bonus
