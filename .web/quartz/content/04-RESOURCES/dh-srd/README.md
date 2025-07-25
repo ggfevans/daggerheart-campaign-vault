@@ -23,6 +23,15 @@ This document, including the Witherwild Campaign Frame, is considered Public Gam
 
 - [Domains](contents/Domains.md)
 - [Classes](contents/Classes.md)
+  - [Bard](dh-bard-class.md)
+  - [Druid](dh-druid-class.md)
+  - [Guardian](dh-guardian-class.md)
+  - [Ranger](dh-ranger-class.md)
+  - [Rogue](dh-rogue-class.md)
+  - [Seraph](dh-seraph-class.md)
+  - [Sorcerer](dh-sorcerer-class.md)
+  - [Warrior](dh-warrior-class.md)
+  - [Wizard](dh-wizard-class.md)
 - [Ancestries](contents/Ancestries.md)
 - [Communities](contents/Communities.md)
 
