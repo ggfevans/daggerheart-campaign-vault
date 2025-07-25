@@ -76,8 +76,6 @@ heading: Session Logistics
 - **RPG Consent Form**: Individual comfort level assessment
 - **Session 0**: Communication and expectation setting
 - **Open-Door Policy**: Break anytime without judgment
-- **X/N/O Cards**: Check-in tools for content comfort
-- **Stars and Wishes**: Positive feedback sessions
 
 ### Table Safety Protocol
 1. Pre-campaign consent form completion
@@ -116,21 +114,6 @@ heading: Session Logistics
 - Seamless technology integration
 - Welcoming environment for all experience levels
 - Rich storytelling with visual and audio enhancement
-
-## 📝 Pre-Session Checklist
-### Technical Setup
-- [ ] Discord installed and tested
-- [ ] Browser compatible with Foundry VTT
-- [ ] Microphone working
-- [ ] Demiplane account created
-- [ ] Stable internet connection confirmed
-
-### Character Preparation
-- [ ] Backstory draft prepared
-- [ ] Character concept discussed with GM
-- [ ] Safety form completed
-- [ ] Session 0 attended
-- [ ] Character sheet finalized
 
 ---
 *Last Updated: 2025-07-18*

@@ -8,13 +8,21 @@ heading: Session Tracker
 
 # Session Tracker
 
-## 📅 Quick Reference
+## 📅 Quick Reference - 10 Session Campaign
 
-| Session | Date | Duration | Key Events | Level |
-|---------|------|----------|------------|-------|
-| 0 | 2025-07-18 | **COMPLETED** | Character creation, world intro | 1 |
-| 1 | 2025-07-25 | TBD | Hope's Call pub, meet Huntmaster Blackwood | 1 |
-
+| Session | Date | Time | Status | Key Events | Level |
+|---------|------|------|--------|------------|-------|
+| 0 | 2025-07-18 | **COMPLETED** | ✅ | Character creation, world intro | 1 |
+| 1 | Fri, Jul 25 | 4:00 PM | 📅 | Hope's Call pub, meet Huntmaster Blackwood | 1 |
+| 2 | Fri, Aug 01 | 4:00 PM | 📅 | TBD | 1 |
+| 3 | Fri, Aug 08 | 4:00 PM | 📅 | TBD | 1 |
+| 4 | Fri, Aug 15 | 4:00 PM | 📅 | TBD | TBD |
+| 5 | Fri, Aug 22 | 4:00 PM | 📅 | TBD | TBD |
+| 6 | Fri, Aug 29 | 4:00 PM | 📅 | TBD | TBD |
+| 7 | Fri, Sep 05 | 4:00 PM | 📅 | TBD | TBD |
+| 8 | Fri, Sep 12 | 4:00 PM | 📅 | TBD | TBD |
+| 9 | Fri, Sep 19 | 4:00 PM | 📅 | TBD | TBD |
+| 10 | Fri, Sep 26 | 4:00 PM | 📅 | Campaign Finale | TBD |
 ## 🎲 Session Schedule
 **Regular Time**: Fridays at 4:00 PM  
 **Platform**: Online (Discord/Roll20/etc.)  
@@ -23,13 +31,15 @@ heading: Session Tracker
 **Players**: User + Andi (2-player campaign)  
 
 ## 📊 Campaign Statistics
-- **Total Sessions**: 1 (Session 0 completed)
-- **Total Hours**: [X]
+- **Campaign Type**: 10-Session Mini-Campaign
+- **Total Sessions Planned**: 10 sessions
+- **Sessions Completed**: 1 (Session 0 - Character Creation)
+- **Campaign Duration**: July 25 - September 26, 2025
+- **Total Hours**: [To be tracked]
 - **Current Level**: 1
-- **Sessions This Arc**: 1
-- **Players**: User + Andi
-- **Setting**: Last Light settlement
-
+- **Players**: User + Andi (2-player campaign)
+- **Setting**: Last Light settlement (Age of Umbra)
+- **Campaign Format**: Weekly sessions, Fridays at 4:00 PM
 ## 🎯 Next Session
 **Date**: Session 1 - Friday, July 25, 2025 at 4:00 PM
 **Location**: Hope's Call pub in Last Light
@@ -49,4 +59,5 @@ heading: Session Tracker
 *Links will be added as sessions are completed*
 
 ---
-*Last Updated: 2025-07-18*
+*Last Updated: 2025-07-25*
+*Campaign Schedule Updated: 10-session mini-campaign (July 25 - September 26, 2025)*

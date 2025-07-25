@@ -6,3 +6,6 @@
 *~
 .DS_Store
 Thumbs.db
+
+# SRD source repository
+/tmp-dh-srd

@@ -1,43 +1,48 @@
 ---
-tags:
-- daggerheart/conditions
-- reference/status-effects
-- ttrpg/mechanics
-source: https://github.com/seansbox/daggerheart-srd
-created: 2025-07-18
-heading: Dh Conditions
+title: "Conditions"
+tags: ["daggerheart", "srd", "core-rules"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Conditions.md"
+license: "CC BY 4.0"
+created: "2025-07-25T11:55:36.050177"
 ---
 
-# Conditions
+# CONDITIONS
 
 **Conditions** are effects that grant specific benefits or drawbacks to the target they are attached to.
 
-## Standard Conditions
+## STANDARD CONDITIONS
 
 Some features can apply special or unique conditions, which work as described in the feature text.
 
-Unless otherwise noted, the same condition can't be applied more than once to the same target.
+Unless otherwise noted, the same condition can’t be applied more than once to the same target.
 
 Daggerheart has three standard conditions:
 
-### Hidden
+### HIDDEN
 
-While you're out of sight from all enemies and they don't otherwise know your location, you gain the Hidden condition. Any rolls against a Hidden creature have disadvantage. After an adversary moves to where they would see you, you move into their line of sight, or you make an attack, you are no longer Hidden.
+While you’re out of sight from all enemies and they don’t otherwise know your location, you gain the Hidden condition. Any rolls against a Hidden creature have disadvantage. After an adversary moves to where they would see you, you move into their line of sight, or you make an attack, you are no longer Hidden.
 
-### Restrained
+### RESTRAINED
 
-Restrained characters can't move, but you can still take actions from their current position.
+Restrained characters can’t move, but you can still take actions from their current position.
 
-### Vulnerable
+### VULNERABLE
 
 When a creature is Vulnerable, all rolls targeting them have advantage.
 
-## Temporary Tags & Special Conditions
+## TEMPORARY TAGS & SPECIAL CONDITIONS
 
-The **temporary** tag denotes a condition or effect that the affected creature can clear by making a move against it. When an affected PC makes a move to clear a temporary condition or effect, it normally requires a successful action roll using an appropriate trait. When an affected adversary makes a move to clear a temporary condition or effect, the GM puts the spotlight on the adversary and describes how they do it; this doesn't require a roll but it does use up that adversary's spotlight.
+The **temporary** tag denotes a condition or effect that the affected creature can clear by making a move against it. When an affected PC makes a move to clear a temporary condition or effect, it normally requires a successful action roll using an appropriate trait. When an affected adversary makes a move to clear a temporary condition or effect, the GM puts the spotlight on the adversary and describes how they do it; this doesn’t require a roll but it does use up that adversary’s spotlight.
 
 **Special conditions** are only cleared when specific requirements are met, such as completing a certain action or using a particular item. The requirements for clearing these conditions are stated in the text of the effect that applies the condition.
 
 ---
 
-*From: Daggerheart SRD 1.0 - © 2025 Critical Role LLC*
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Conditions.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Conditions.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-25 11:55:36
+

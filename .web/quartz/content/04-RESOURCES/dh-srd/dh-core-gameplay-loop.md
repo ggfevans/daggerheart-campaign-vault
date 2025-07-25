@@ -1,33 +1,38 @@
 ---
-tags:
-- daggerheart/core-rules
-- reference/gameplay
-- ttrpg/procedures
-source: https://github.com/seansbox/daggerheart-srd
-created: 2025-07-18
-heading: Dh Core Gameplay Loop
+title: "Core Gameplay Loop"
+tags: ["daggerheart", "srd", "core-rules"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Core Gameplay Loop.md"
+license: "CC BY 4.0"
+created: "2025-07-25T11:55:33.297883"
 ---
 
-# Core Gameplay Loop
+# CORE GAMEPLAY LOOP
 
 The core gameplay loop is the procedure that drives every scene, both in and out of combat:
 
-## Step 1: Set the Scene
+## STEP 1: SET THE SCENE
 
-The GM describes a scenario, establishing the PCs' surroundings and any dangers, NPCs, or other important details the characters would notice.
+The GM describes a scenario, establishing the PCs’ surroundings and any dangers, NPCs, or other important details the characters would notice.
 
-## Step 2: Ask and Answer Questions
+## STEP 2: ASK AND ANSWER QUESTIONS
 
-The players ask clarifying questions to explore the scene more deeply and gather information that could inform their characters' actions. The GM responds to these questions by giving the players information their characters could easily obtain, or by asking questions of their own to the players. The players also respond to any questions the GM poses to them. In this way, the table builds out the fiction collaboratively.
+The players ask clarifying questions to explore the scene more deeply and gather information that could inform their characters’ actions. The GM responds to these questions by giving the players information their characters could easily obtain, or by asking questions of their own to the players. The players also respond to any questions the GM poses to them. In this way, the table builds out the fiction collaboratively.
 
-## Step 3: Build on the Fiction
+## STEP 3: BUILD ON THE FICTION
 
-As the scene develops, the players find opportunities to take action—problems to solve, obstacles to overcome, mysteries to investigate, and so on. The players describe how their characters proceed; if their proposed actions carry no chance of failure (or if failure would be boring), they automatically succeed. But if the outcome of their action is unknown, the GM calls for an action roll. Either way, the table works the outcome into the story and moves the fiction forward, narrating how the PC's actions have changed things.
+As the scene develops, the players find opportunities to take action—problems to solve, obstacles to overcome, mysteries to investigate, and so on. The players describe how their characters proceed; if their proposed actions carry no chance of failure (or if failure would be boring), they automatically succeed. But if the outcome of their action is unknown, the GM calls for an action roll. Either way, the table works the outcome into the story and moves the fiction forward, narrating how the PC’s actions have changed things.
 
-## Step 4: Go Back to Step 1
+## STEP 4: GO BACK TO STEP 1
 
 The process repeats from the beginning, with the GM relaying any updated details or material changes to the players. This process continues until the end of the scene is triggered by a mechanic or arrives organically.
 
 ---
 
-*From: Daggerheart SRD 1.0 - © 2025 Critical Role LLC*
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Core Gameplay Loop.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Core Gameplay Loop.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-25 11:55:33
+

@@ -11,7 +11,7 @@ heading: Character Notes
 # Augustus Penhallow
 
 ## 📊 Basic Info
-**Player**: Mark (He/Him) [Nyx]
+**Player**: Mark (He/Him) 
 **Class**: Guardian (Stalwart) - Galapa Guardian
 **Ancestry**: Highborne
 **Level**: 1

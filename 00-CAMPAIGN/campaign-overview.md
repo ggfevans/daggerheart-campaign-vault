@@ -39,11 +39,13 @@ As heroic survivors, the party will:
 ### Game Master
 - **Geoff** (he/him): Experienced GM specializing in prewritten modules
 ## 📖 Campaign Status
-**Current Session**: 0
-**Campaign Started**: July 25th, 2025
-**Current Arc**: [Arc Name]
-**Party Level**: [Level]
-
+**Campaign Type**: 10-Session Mini-Campaign  
+**Current Session**: 0 (Character Creation completed)  
+**Campaign Started**: July 25th, 2025  
+**Campaign Duration**: July 25 - September 26, 2025  
+**Session Schedule**: Weekly Fridays at 4:00 PM  
+**Current Arc**: The Last Light Beginning  
+**Party Level**: 1
 ## 🎯 Main Story Threads
 ### Primary Quest
 [Main campaign objective]
@@ -93,5 +95,6 @@ Those who worship the Eclipse, ranging from desperate survivors to dangerous fan
 - **The Wanderer's Rest**: Mysterious travelling inn providing neutral ground
 
 ---
-*Last Updated: 2025-07-18*
+*Last Updated: 2025-07-25*
+*Campaign Schedule Updated: 10-session mini-campaign (July 25 - September 26, 2025)*
 *Next Update: After Session 1*
