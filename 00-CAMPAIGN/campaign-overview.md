@@ -31,10 +31,10 @@ As heroic survivors, the party will:
 
 ## 👥 Party Composition
 ### Active Characters
-- **[[Captain Howling Banjo]]** (User): Simian Nightwalker Rogue from Undergarden - Shadow-stepping prankster who protects their tunnel community
-- **[[vaerenth-character-sheet|Vaerenth]]** (Andi): Goblin Ranger (Beastbound) - Wanderborne archer with Hogdog companion, specializing in mobility and entangling spells
-- **[[[aster-luferi-character-sheet|Aester Luferi]]** (Luie):  - Seraph [Brief description]
-- **[[augustus-penhallow-character-sheet|Augustus Penhallow]]**: Guardian - [Brief description]
+- **[[captain-howling-banjo-sheet|Captain Howling Banjo]]** (Gareth): Simian Nightwalker Rogue from Wildborne community - Oracle-touched shadow-stepping assassin who hunts corruption while protecting innocents from impossible moral choices
+- **[[vaerenth-character-sheet|Vaerenth]]** (Andi): Goblin Beastbound Ranger from Wanderborne community - Mobile archer with Hogdog companion, specializing in entangling spells and ranged combat
+- **[[aster-luferi-character-sheet|Aster Luferi]]** (Luie): Infernis Seraph (Winged Sentinel) from Highborne community - Divine warrior with prayer dice and magical combat abilities
+- **[[augustus-penhallow-character-sheet|Augustus Penhallow]]** (Mark): Highborne Guardian (Galapa Stalwart) - Protective tank from noble background, specializes in redirecting damage and frontline defense
 
 ### Game Master
 - **Geoff** (he/him): Experienced GM specializing in prewritten modules
