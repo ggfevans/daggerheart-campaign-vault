@@ -10,8 +10,6 @@ Welcome to our campaign resource hub! This is the digital home for our Daggerhea
 - **[World Information](03-WORLD/)** - World information, locations, and NPCs
 - **[Rules References](04-RESOURCES/)** - Rules references and quick guides
 - **[Campaign Lore](05-LORE/)** - Campaign lore and background
-- **[Build Guides](06-RULES-MASTERY/)** - Build guides and optimization
 
 ---
 
-*Last updated: Campaign active with regular sessions*
