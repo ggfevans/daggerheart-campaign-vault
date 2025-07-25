@@ -193,6 +193,10 @@
   },
   "active": "bec1758fed759104",
   "lastOpenFiles": [
+    "99-CONFIG/scripts/web_folder_setup.bat",
+    "99-CONFIG/claude/daggerheart-lore-master-instructions.md",
+    "99-CONFIG/claude",
+    "99-CONFIG/scripts",
     "web",
     "README.md",
     "CONTRIBUTIONS.MD",
@@ -219,16 +223,12 @@
     "01-CHARACTERS/luie-character/aster-luferi-character-sheet.md",
     "01-CHARACTERS/luie-character/aster-luferi-development.md",
     "00-CAMPAIGN/session-tracker.md",
-    "00-CAMPAIGN/session-logistics.md",
     "01-CHARACTERS/aster-luferi",
     "06-RULES-MASTERY",
     "03-WORLD/npcs",
     "05-LORE/age-of-umbra",
     "05-LORE",
     "99-CONFIG/templates",
-    "03-WORLD/The_Age_of_Umbra_-_MarcoMaps.jpg",
-    "99-CONFIG",
-    "04-RESOURCES/dh-srd",
-    "03-WORLD/threats"
+    "03-WORLD/The_Age_of_Umbra_-_MarcoMaps.jpg"
   ]
 }
