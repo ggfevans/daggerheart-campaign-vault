@@ -13,7 +13,7 @@ heading: Session Tracker
 | Session | Date | Time | Status | Key Events | Level |
 |---------|------|------|--------|------------|-------|
 | 0 | 2025-07-18 | **COMPLETED** | ✅ | Character creation, world intro | 1 |
-| 1 | Fri, Jul 25 | 4:00 PM | 📅 | Hope's Call pub, meet Huntmaster Blackwood | 1 |
+| 1 | Fri, Jul 25 | 4:00 PM | 🎯 IN PROGRESS | Hope's Call pub, meet Huntmaster Blackwood | 1 |
 | 2 | Fri, Aug 01 | 4:00 PM | 📅 | TBD | 1 |
 | 3 | Fri, Aug 08 | 4:00 PM | 📅 | TBD | 1 |
 | 4 | Fri, Aug 15 | 4:00 PM | 📅 | TBD | TBD |
