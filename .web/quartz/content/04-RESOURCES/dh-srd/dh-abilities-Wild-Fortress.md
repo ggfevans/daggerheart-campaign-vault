@@ -3,7 +3,7 @@ title: "Wild Fortress"
 tags: ["daggerheart", "srd", "ability"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Wild Fortress.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:52.718206"
+created: "2025-07-25T11:56:36.887511"
 ---
 
 ﻿# WILD FORTRESS
@@ -23,5 +23,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `abilities/Wild Fortress.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:52
+**Downloaded:** 2025-07-25 11:56:36
 

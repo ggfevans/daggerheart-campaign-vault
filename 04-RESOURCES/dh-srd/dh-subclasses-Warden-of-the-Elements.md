@@ -3,7 +3,7 @@ title: "Warden of the Elements"
 tags: ["daggerheart", "srd", "class"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Warden of the Elements.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:35.894982"
+created: "2025-07-25T11:56:30.941082"
 ---
 
 ﻿# WARDEN OF THE ELEMENTS
@@ -49,5 +49,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `subclasses/Warden of the Elements.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:35
+**Downloaded:** 2025-07-25 11:56:30
 

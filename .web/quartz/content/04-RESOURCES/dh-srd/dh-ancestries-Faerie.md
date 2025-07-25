@@ -3,7 +3,7 @@ title: "Faerie"
 tags: ["daggerheart", "srd", "ancestry"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/ancestries/Faerie.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:38.389035"
+created: "2025-07-25T11:56:31.871980"
 ---
 
 ﻿# FAERIE
@@ -24,5 +24,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `ancestries/Faerie.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:38
+**Downloaded:** 2025-07-25 11:56:31
 

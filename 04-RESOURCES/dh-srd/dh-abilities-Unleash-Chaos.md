@@ -3,7 +3,7 @@ title: "Unleash Chaos"
 tags: ["daggerheart", "srd", "ability"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Unleash Chaos.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:49.090914"
+created: "2025-07-25T11:56:35.697253"
 ---
 
 ﻿# UNLEASH CHAOS
@@ -25,5 +25,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `abilities/Unleash Chaos.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:49
+**Downloaded:** 2025-07-25 11:56:35
 

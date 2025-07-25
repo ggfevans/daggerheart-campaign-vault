@@ -3,7 +3,7 @@ title: "Book of Vagras"
 tags: ["daggerheart", "srd", "ability"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Book of Vagras.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:45.993225"
+created: "2025-07-25T11:56:34.541788"
 ---
 
 ﻿# BOOK OF VAGRAS
@@ -25,5 +25,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `abilities/Book of Vagras.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:45
+**Downloaded:** 2025-07-25 11:56:34
 

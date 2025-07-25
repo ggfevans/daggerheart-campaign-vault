@@ -3,7 +3,7 @@ title: "Night Terror"
 tags: ["daggerheart", "srd", "ability"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Night Terror.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:49.960646"
+created: "2025-07-25T11:56:35.980166"
 ---
 
 ﻿# NIGHT TERROR
@@ -21,5 +21,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `abilities/Night Terror.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:49
+**Downloaded:** 2025-07-25 11:56:35
 

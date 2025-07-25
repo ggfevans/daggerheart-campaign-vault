@@ -3,7 +3,7 @@ title: "Warden of Renewal"
 tags: ["daggerheart", "srd", "class"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Warden of Renewal.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:38.955738"
+created: "2025-07-25T11:56:32.098902"
 ---
 
 ﻿# WARDEN OF RENEWAL
@@ -38,5 +38,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `subclasses/Warden of Renewal.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:38
+**Downloaded:** 2025-07-25 11:56:32
 

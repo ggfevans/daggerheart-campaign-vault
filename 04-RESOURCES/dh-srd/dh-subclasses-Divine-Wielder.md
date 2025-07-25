@@ -3,7 +3,7 @@ title: "Divine Wielder"
 tags: ["daggerheart", "srd", "class"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Divine Wielder.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:39.501925"
+created: "2025-07-25T11:56:32.322121"
 ---
 
 ﻿# DIVINE WIELDER
@@ -36,5 +36,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `subclasses/Divine Wielder.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:39
+**Downloaded:** 2025-07-25 11:56:32
 

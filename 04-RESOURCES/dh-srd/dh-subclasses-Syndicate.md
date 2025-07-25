@@ -3,7 +3,7 @@ title: "Syndicate"
 tags: ["daggerheart", "srd", "class"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Syndicate.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:36.249107"
+created: "2025-07-25T11:56:31.093808"
 ---
 
 ﻿# SYNDICATE
@@ -47,5 +47,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `subclasses/Syndicate.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:36
+**Downloaded:** 2025-07-25 11:56:31
 

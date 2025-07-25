@@ -3,7 +3,7 @@ title: "Armor"
 tags: ["daggerheart", "srd", "core-rules"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Armor.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:45.778691"
+created: "2025-07-25T11:56:34.463269"
 ---
 
 # ARMOR
@@ -32,5 +32,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `contents/Armor.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:45
+**Downloaded:** 2025-07-25 11:56:34
 

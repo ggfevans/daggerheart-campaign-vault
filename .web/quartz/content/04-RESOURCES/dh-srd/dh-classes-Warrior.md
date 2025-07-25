@@ -3,7 +3,7 @@ title: "Warrior"
 tags: ["daggerheart", "srd", "class"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/classes/Warrior.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:35.531010"
+created: "2025-07-25T11:56:30.806610"
 ---
 
 ﻿# WARRIOR
@@ -57,5 +57,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `classes/Warrior.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:35
+**Downloaded:** 2025-07-25 11:56:30
 

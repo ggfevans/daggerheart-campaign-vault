@@ -3,7 +3,7 @@ title: "Book of Exota"
 tags: ["daggerheart", "srd", "ability"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Book of Exota.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:46.863037"
+created: "2025-07-25T11:56:34.866164"
 ---
 
 ﻿# BOOK OF EXOTA
@@ -23,5 +23,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `abilities/Book of Exota.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:46
+**Downloaded:** 2025-07-25 11:56:34
 

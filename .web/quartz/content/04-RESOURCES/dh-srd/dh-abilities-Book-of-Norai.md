@@ -3,7 +3,7 @@ title: "Book of Norai"
 tags: ["daggerheart", "srd", "ability"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Book of Norai.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:47.548081"
+created: "2025-07-25T11:56:35.088111"
 ---
 
 ﻿# BOOK OF NORAI
@@ -23,5 +23,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `abilities/Book of Norai.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:47
+**Downloaded:** 2025-07-25 11:56:35
 

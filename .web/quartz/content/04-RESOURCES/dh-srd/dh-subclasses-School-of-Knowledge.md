@@ -3,7 +3,7 @@ title: "School of Knowledge"
 tags: ["daggerheart", "srd", "class"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/School of Knowledge.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:40.515927"
+created: "2025-07-25T11:56:32.671927"
 ---
 
 ﻿# SCHOOL OF KNOWLEDGE
@@ -40,5 +40,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `subclasses/School of Knowledge.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:40
+**Downloaded:** 2025-07-25 11:56:32
 

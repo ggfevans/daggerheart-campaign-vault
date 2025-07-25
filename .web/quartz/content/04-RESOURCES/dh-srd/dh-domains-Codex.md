@@ -3,7 +3,7 @@ title: "Codex"
 tags: ["daggerheart", "srd", "domain"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/domains/Codex.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:44.412025"
+created: "2025-07-25T11:56:34.003458"
 ---
 
 # CODEX
@@ -33,5 +33,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `domains/Codex.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:44
+**Downloaded:** 2025-07-25 11:56:34
 

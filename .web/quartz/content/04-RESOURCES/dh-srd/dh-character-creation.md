@@ -3,7 +3,7 @@ title: "Character Creation"
 tags: ["daggerheart", "srd", "core-rules"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Character Creation.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:32.372281"
+created: "2025-07-25T11:56:29.616318"
 ---
 
 # CHARACTER CREATION
@@ -14,7 +14,7 @@ Unless their table chooses to use pre-generated characters, each player creates 
 
 ## STEP 1: CHOOSE A CLASS AND SUBCLASS
 
-**[Classes](Classes.md)** are role-based archetypes that determine which class features and **domain cards** a PC gains access to throughout the campaign. There are nine classes in this SRD: Bard, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warrior, Wizard.
+**[Classes](dh-Classes.md)** are role-based archetypes that determine which class features and **domain cards** a PC gains access to throughout the campaign. There are nine classes in this SRD: Bard, Druid, Guardian, Ranger, Rogue, Seraph, Sorcerer, Warrior, Wizard.
 
 - Select a class and take its corresponding **character sheet** and **character guide** printouts. These sheets are for recording your PC’s details; you’ll update and reference them throughout the campaign.
 - Every class begins with one or more unique **class feature(s)**, described in the front of each class’s character sheet. If your class feature prompts you to make a selection, do so now.
@@ -23,7 +23,7 @@ Unless their table chooses to use pre-generated characters, each player creates 
 
 ## STEP 2: CHOOSE YOUR HERITAGE
 
-Your character’s **heritage** combines two elements: **[ancestry](Ancestries.md)** and **[community](Communities.md)**.
+Your character's **heritage** combines two elements: **[ancestry](dh-Ancestries.md)** and **[community](Communities.md)**.
 
 - A character’s **ancestry** reflects their lineage, impacting their physicality and granting them two unique **ancestry features**. Take the card for one of the following ancestries, then write its name in the Heritage field of your character sheet: Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungirl, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simian. To create a Mixed Ancestry, take the top (first-listed) ancestry feature from one ancestry and the bottom (second-listed) ancestry feature from another.
 - Your character’s **community** represents their culture or environment of origin and grants them a **community feature**. Take the card for one of the following communities, then write its name in the Heritage field of your character sheet: Highborne, Loreborne, Orderborne, Ridgeborne, Seaborne, Skyborne, Underborne, Wanderborne, Wildborne.
@@ -57,12 +57,12 @@ When you “roll with a trait,” that trait’s modifier is added to the roll�
 
 ## STEP 5: CHOOSE YOUR STARTING EQUIPMENT
 
-Choose your **[weapon(s)](Weapons.md)**:
+Choose your **[weapon(s)](dh-Weapons.md)**:
 
 - Select from the Tier 1 Weapon Tables. Either a **two-handed primary weapon** or a **one-handed primary weapon and a one-handed secondary weapon**. Then equip your selection by recording it in the Active Weapon field of your character sheet.
 - At Level 1, your **Proficiency** is 1; write this number in the Proficiency field on your character sheet, then calculate and record your **damage roll** by combining your Proficiency value with your equipped weapon(s) **damage dice.** *Example: If your Proficiency is 1 and your weapon’s damage dice is d6+1, your damage roll is 1d6+1. Proficiency only determines how many damage dice you roll, and does not affect any flat damage modifiers.*
 
-Choose and equip one set of **[armor](Armor.md)** from the Tier 1 Armor Table, then record its details in the **Active Armor** field of your character sheet.
+Choose and equip one set of **[armor](dh-Armor.md)** from the Tier 1 Armor Table, then record its details in the **Active Armor** field of your character sheet.
 
 - Add your character’s level to your equipped armor’s **Base Score** and record the total for both numbers in the corresponding fields. At character creation, your level is 1.
 - Record your **Armor Score** in the field at the top left of your character sheet. Your Armor Score is equal to your equipped armor’s **Base Score** plus any permanent bonuses your character has to their Armor Score from other abilities, features, or effects.
@@ -102,7 +102,7 @@ An Experience is a word or phrase used to encapsulate a specific set of skills, 
 
 ## STEP 8: CHOOSE DOMAIN CARDS
 
-Your class has access to two of the nine [Domains](Domains.md) included in the core set. Choose two cards from your class’s domains, which are listed in the upper left of your character sheet. You can take one card from each domain or two from a single domain, whichever you prefer.
+Your class has access to two of the nine [Domains](dh-Domains.md) included in the core set. Choose two cards from your class's domains, which are listed in the upper left of your character sheet. You can take one card from each domain or two from a single domain, whichever you prefer.
 
 ## STEP 9: CREATE YOUR CONNECTIONS
 
@@ -122,5 +122,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `contents/Character Creation.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:32
+**Downloaded:** 2025-07-25 11:56:29
 

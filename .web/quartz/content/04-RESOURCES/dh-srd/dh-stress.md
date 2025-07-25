@@ -3,7 +3,7 @@ title: "Stress"
 tags: ["daggerheart", "srd", "core-rules"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Stress.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:42.349032"
+created: "2025-07-25T11:56:33.336892"
 ---
 
 # STRESS
@@ -24,5 +24,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `contents/Stress.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:42
+**Downloaded:** 2025-07-25 11:56:33
 

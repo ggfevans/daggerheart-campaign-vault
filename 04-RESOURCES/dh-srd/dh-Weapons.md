@@ -3,7 +3,7 @@ title: "Weapons"
 tags: ["daggerheart", "srd", "core-rules"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Weapons.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:45.572619"
+created: "2025-07-25T11:56:34.386392"
 ---
 
 # WEAPONS
@@ -53,5 +53,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `contents/Weapons.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:45
+**Downloaded:** 2025-07-25 11:56:34
 

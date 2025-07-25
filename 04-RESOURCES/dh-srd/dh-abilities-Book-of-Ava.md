@@ -3,7 +3,7 @@ title: "Book of Ava"
 tags: ["daggerheart", "srd", "ability"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Book of Ava.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:47.781380"
+created: "2025-07-25T11:56:35.178091"
 ---
 
 ﻿# BOOK OF AVA
@@ -26,5 +26,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `abilities/Book of Ava.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:47
+**Downloaded:** 2025-07-25 11:56:35
 

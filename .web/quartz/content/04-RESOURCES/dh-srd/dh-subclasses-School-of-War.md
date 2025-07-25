@@ -3,7 +3,7 @@ title: "School of War"
 tags: ["daggerheart", "srd", "class"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/School of War.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:40.313900"
+created: "2025-07-25T11:56:32.602498"
 ---
 
 ﻿# SCHOOL OF WAR
@@ -40,5 +40,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `subclasses/School of War.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:40
+**Downloaded:** 2025-07-25 11:56:32
 

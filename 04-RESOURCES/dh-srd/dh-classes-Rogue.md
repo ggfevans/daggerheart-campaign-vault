@@ -3,7 +3,7 @@ title: "Rogue"
 tags: ["daggerheart", "srd", "class"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/classes/Rogue.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:34.590336"
+created: "2025-07-25T11:56:30.464837"
 ---
 
 ﻿# ROGUE
@@ -58,5 +58,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `classes/Rogue.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:34
+**Downloaded:** 2025-07-25 11:56:30
 

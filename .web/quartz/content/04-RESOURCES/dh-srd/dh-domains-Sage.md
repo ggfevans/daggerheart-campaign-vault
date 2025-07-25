@@ -3,7 +3,7 @@ title: "Sage"
 tags: ["daggerheart", "srd", "domain"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/domains/Sage.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:43.739964"
+created: "2025-07-25T11:56:33.791465"
 ---
 
 # SAGE
@@ -33,5 +33,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `domains/Sage.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:43
+**Downloaded:** 2025-07-25 11:56:33
 

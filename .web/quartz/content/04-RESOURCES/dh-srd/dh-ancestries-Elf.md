@@ -3,7 +3,7 @@ title: "Elf"
 tags: ["daggerheart", "srd", "ancestry"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/ancestries/Elf.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:37.586293"
+created: "2025-07-25T11:56:31.593662"
 ---
 
 ﻿# ELF
@@ -26,5 +26,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `ancestries/Elf.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:37
+**Downloaded:** 2025-07-25 11:56:31
 
