@@ -3,7 +3,7 @@ tags:
   - character/player
   - class/seraph
   - ancestry/infernis
-  - community/highborne
+  - community/orderborne
 created: 2025-07-19
 last-updated: 2025-07-19
 heading: Aster Luferi Character Sheet
@@ -16,7 +16,7 @@ heading: Aster Luferi Character Sheet
 ## Basic Information
 - **Name**: Aster Luferi
 - **Pronouns**: He/Him
-- **Heritage**: Highborne Infernis
+- **Heritage**: Orderborne Infernis
 - **Class**: Seraph - Winged Sentinels
 - **Level**: 1
 - **Subclass**: Winged Sentinel (Foundation level)
@@ -30,7 +30,7 @@ heading: Aster Luferi Character Sheet
 - **Knowledge**: -1 (Recall, Analyze, Comprehend)
 
 ## Defense & Health
-- **Evasion**: 9
+- **Evasion**: 10
 - **Armor Score**: 5
 - **Damage Thresholds**:
   - Minor Damage: 10 (Mark 1 HP)
@@ -43,7 +43,7 @@ heading: Aster Luferi Character Sheet
 
 ### Active Weapons
 **Primary**: 
-- **Name**: Emblazoned Armaments
+- **Name**: Emblazoned Body
 - **Trait & Range**: Strength Melee
 - **Damage**: 1d10+3 Magical
 - **Feature**: [To be filled]
@@ -81,10 +81,10 @@ heading: Aster Luferi Character Sheet
 ### Ancestry: Infernis
 **Fearless**: When you roll with Fear, you can mark 2 Stress to change it into a roll with Hope instead.
 
-**Dread Visage**: You have advantage on rolls to intimidate hostile creatures.
+**Nimble**: Gain a permanent +1 to your Evasion at character creation.
 
-### Community: Highborne
-**Privilege**: You have advantage on rolls to consort with nobles, negotiate prices, or leverage your reputation to get what you want.
+### Community: Orderborne
+**Dedicated**: Record three saying or values your upbringing instilled in you. Once per rest, when you describe how you're embodying one of these principles through your current action, you can roll a d20 as your Hope Die.
 
 ## Class Features
 
@@ -111,21 +111,21 @@ heading: Aster Luferi Character Sheet
 - **Effect**: You lay your hands upon a creature and channel healing magic to close their wounds. When you can take a few minutes to focus on the target you're helping, you can spend 2 Hope to clear a Hit Point or a Stress on them. Once per long rest, when you spend this healing time learning something new about them or revealing something about yourself, you can clear 2 Hit Points or 2 Stress on them instead.
 
 ## Physical Description
-- **Clothes**: Simple, Elegant, Comfortable, Practical
-- **Eyes**: Spheres Of Gold
-- **Body**: Soft And Toned Yet Inevitably Strong
-- **Color**: Smooth White Sand Adorned In Perfect Rosy Undertones And Tattoos
-- **Attitude**: Sweet Honey With Notes Of Spice
+- **Clothes**: Clothes that are simple, elegant, comfortable, and practical.
+- **Eyes**: Eyes like spheres of soft gold.
+- **Body**: Body that's soft and toned yet inevitably strong.
+- **Color**: The color of smooth white sand adorned in perfect rosy undertones and tattoos.
+- **Attitude**: Attitude like sweet honey with notes of spice.
 
 ## Background Questions
 1. **Which god did you devote yourself to? What incredible feat did they perform for you in a moment of desperation?**
-   [To be answered]
+   I devoted myself to the Sacred Pyres. They are our sanctuary against the Umbra.
 
 2. **How did your appearance change after taking your oath?**
-   [To be answered]
+   Our radiance is our own. It is not manipulated by the Pyres.
 
 3. **In what strange or unique way do you communicate with your god?**
-   [To be answered]
+   In moments of strife looking at the Pyres always seems to provide a moment of clarity.
 
 ## Connections
 1. **What promise did you make me agree to, should you die on the battlefield?**
@@ -138,4 +138,4 @@ heading: Aster Luferi Character Sheet
    [To be answered by other player]
 
 ---
-*Last Updated: 2025-07-19*
+*Last Updated: 2025-07-25*
