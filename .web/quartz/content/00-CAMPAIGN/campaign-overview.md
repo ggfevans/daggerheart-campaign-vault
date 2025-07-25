@@ -38,14 +38,9 @@ As heroic survivors, the party will:
 
 ### Game Master
 - **Geoff** (he/him): Experienced GM specializing in prewritten modules
-  - 4.7 rating (34 reviews)
-  - 3 years on StartPlaying, 556 games hosted
-  - Strengths: Sets the Mood, Voices, Creativity
-  - Uses Foundry VTT, Syrinscape, custom artwork, animations
-  - Excellent with new players and rule guidance
 ## 📖 Campaign Status
 **Current Session**: 0
-**Campaign Started**: TBD
+**Campaign Started**: July 25th, 2025
 **Current Arc**: [Arc Name]
 **Party Level**: [Level]
 
@@ -99,4 +94,4 @@ Those who worship the Eclipse, ranging from desperate survivors to dangerous fan
 
 ---
 *Last Updated: 2025-07-18*
-*Next Update: After Session 0*
+*Next Update: After Session 1*

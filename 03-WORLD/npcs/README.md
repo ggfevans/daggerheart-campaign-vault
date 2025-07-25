@@ -1,5 +1,5 @@
 ---
-heading: Npcs - README
+heading: README - NPCs
 ---
 # NPCs Directory
 
