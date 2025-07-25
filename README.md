@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # 🎵 Daggerheart Campaign Resource Hub
 
 *Banjo's organized campaign wiki for our adventuring party*
