@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-CHARACTERS/mark-character/augustus-penhallow-development.md",
+                "file": "01-CHARACTERS/andi-character/vaerenth-character-sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "augustus-penhallow-development"
+              "title": "vaerenth-character-sheet"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "bec1758fed759104",
   "lastOpenFiles": [
+    "01-CHARACTERS/andi-character/vaerenth-ai-art-prompts.md",
+    "01-CHARACTERS/mark-character/augustus-penhallow-development.md",
     "web_folder_setup.bat",
     "web/quartz/public/static/giscus/light.css",
     "web/quartz/public/static/giscus/dark.css",
@@ -205,7 +207,6 @@
     "web/quartz/public/sitemap.xml",
     "web/quartz/public/static",
     "web/quartz/public/prescript.js",
-    "web/quartz/public/postscript.js",
     "web/quartz/public/index-og-image.webp",
     "web/quartz/node_modules/to-vfile/readme.md",
     "web/quartz/content/index.md",
@@ -231,7 +232,6 @@
     "web/quartz/node_modules/katex/src/metrics/README.md",
     "web/quartz/node_modules/katex/dist/README.md",
     "web/quartz/node_modules/sass/README.md",
-    "web/quartz/node_modules/katex/contrib/mhchem/README.md",
     "web/quartz/node_modules/gifuct-js/demo/jblack.gif",
     "web/quartz/node_modules/gifuct-js/demo/dog.gif",
     "web/quartz/node_modules/gifuct-js/demo/horses.gif",
