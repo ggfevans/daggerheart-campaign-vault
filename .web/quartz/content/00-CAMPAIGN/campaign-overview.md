@@ -31,9 +31,9 @@ As heroic survivors, the party will:
 
 ## 👥 Party Composition
 ### Active Characters
-- **Captain Howling Banjo** (User): Simian Nightwalker Rogue from Undergarden - Shadow-stepping prankster who protects their tunnel community
+- **[[Captain Howling Banjo]]** (User): Simian Nightwalker Rogue from Undergarden - Shadow-stepping prankster who protects their tunnel community
 - **[[vaerenth-character-sheet|Vaerenth]]** (Andi): Goblin Ranger (Beastbound) - Wanderborne archer with Hogdog companion, specializing in mobility and entangling spells
-- **[Luie's Character]**: [Class] - [Brief description]
+- **[[[aster-luferi-character-sheet|Aester Luferi]]** (Luie):  - [Brief description]
 - **[Mark's Character]**: [Class] - [Brief description]
 
 ### Game Master
