@@ -19,15 +19,15 @@ heading: Captain Howling Banjo - The Umbral Stalker
 ![[Pasted image 20250725004819.png]]
 
 [Demiplane character sheet](https://app.demiplane.com/nexus/daggerheart/character-sheet/83586c45-275d-481e-8773-7e874b2303d8)
-## Core Character Build
+# **Core Character Build**
 
-### **Class & Heritage**
+## **Class & Heritage**
 - **Class**: Rogue (Nightwalker subclass)
 - **Ancestry**: Simian (climbing specialist, 7-foot reach)
 - **Community**: Wildborne (forest survivor, silent movement)
 - **Level**: 1
 
-### **Attributes**
+## **Attributes**
 - **Finesse**: +2 (PRIMARY - dagger attacks, precision strikes)
 - **Agility**: +1 (climbing, stealth, defense)
 - **Knowledge**: +1 (investigation, tactics, corruption lore)
@@ -35,119 +35,18 @@ heading: Captain Howling Banjo - The Umbral Stalker
 - **Presence**: +0 (social backup, intimidation)
 - **Strength**: -1 (dump stat)
 
-### **Resources**
+## **Resources**
 - **Hit Points**: 0/6 Marked (Minor: 6, Major: 12, Severe: Mark 3 HP)
 - **Stress**: 0/4 Marked  
 - **Hope**: 2/6 Current
 - **Evasion**: 14
 - **Armor Score**: 3 (Gambeson Armor)
 
-### **Experiences**
+## **Experiences**
 - **Umbral Stalker +2**: Hunt using shadow magic and primal Simian brutality
 - **Purge Veteran +2**: Kill corrupted beings and make hard moral choices
 
-## Character Goals & Core Motivations
-
-### **Priority Hierarchy**
-When these motivations conflict, Banjo's choices follow this order:
-
-1. **Protection** (Highest Priority)
-   - Protecting his former community despite their exile of him
-   - Safeguarding innocents from corruption and cosmic horror
-   - Shielding party members from having to make impossible moral choices
-
-2. **Prevention** (Equal to Protection)
-   - Stopping reality-breaking entities from breaching the veil
-   - Eliminating corruption before it spreads to others
-   - Acting immediately when oracle visions show imminent threats
-
-3. **Understanding** (Over Personal Needs)
-   - Learning why he alone can shadow-step and receive oracle visions
-   - Discovering the true nature of the corruption and cosmic threats
-   - Finding others who might share his burden or knowledge
-
-4. **Vindication** (Lowest Priority - Sacrificed for Others)
-   - Proving he was right about the corruption threat
-   - Clearing his name with his former community
-   - Being recognized as a protector rather than a murderer
-
-### **Party Role Philosophy**
-- **The Moral Shield**: Takes on necessary but terrible choices so companions can maintain their principles
-- **The Designated Executioner**: Handles elimination decisions because he's already paid that psychological price
-- **The Hidden Optimist**: Despite his dark methods, hopes the party can show him alternative solutions his oracle-vision tunnel vision prevents him from seeing
-- **The Protective Isolator**: Tries to spare party members from witnessing or participating in his darker methods
-
-## Oracle Sight & Aether Burden
-
-### **The Visions**
-Every time Banjo shadow-steps, he experiences horrifying oracle visions:
-- **Cosmic Horror Glimpses**: Sees Cthulhu-esque monsters of impossible proportions and malevolent intent trying to break through the veil between realities
-- **Reality Breakdown**: His recurring dreams of upward-flowing waterfalls are oracle visions showing him how the fundamental laws of existence are collapsing
-- **Escalating Frequency**: The more he shadow-steps, the more frequent and intense these visions become
-- **Stress Cost**: Each shadow-step forces him to witness potential apocalypse, explaining the mechanical stress cost
-
-### **Psychological Coping**
-- **Playful Demeanor**: His mischievous, bright personality is a conscious defense mechanism against the cosmic horror he regularly witnesses
-- **Urgent Action**: The visions drive him to act immediately and decisively, knowing that reality itself is under threat
-- **Questioning Reality**: While he knows deep down the visions must be real, he sometimes questions his own sanity - especially given his community's teachings that aether sight was corruption
-
-### **Oracle Burden Impact**
-- Makes him incredibly effective at hunting corruption (he can see the source)
-- Creates internal time pressure - he knows something terrible is coming
-- Isolates him from others who cannot understand what he's witnessed
-- Drives his protective instincts to desperate levels
-
-## Combat Capabilities
-
-### **Weapons**
-- **Returning Blade** (Primary)
-  - Attack: +2 Finesse
-  - Damage: 1d8 magical
-  - Range: Close
-  - Features: Magical, one-handed, returns after thrown
-- **Small Dagger** (Secondary) 
-  - Attack: +2 Finesse
-  - Damage: 1d8 physical
-  - Range: Melee
-  - Features: One-handed, concealable, throwable
-
-### **Combat Role**
-**The Eliminator**: Burst damage specialist who removes priority targets through impossible positioning and devastating sneak attacks.
-
-### **Signature Tactic: "The Phantom Strike"**
-1. **Silent Approach**: Use Wildborne Lightfoot + shadow magic for undetected movement
-2. **Impossible Position**: Simian climbing to reach unreachable vantage points
-3. **Oracle-Guided Strike**: Shadow-step enhanced by glimpses of cosmic truth (despite the horrifying cost)
-4. **Precise Elimination**: Returning Blade sneak attack enhanced by Umbra corruption
-5. **Magical Return**: Blade returns to hand automatically after strike
-6. **Vanish**: Escape to new position before enemies can react
-
-### **Damage Sources**
-- **Base Weapons**: 1d8 physical damage (both weapons)
-- **Sneak Attack**: Extra dice when attacking with advantage
-- **Umbra Corruption**: +1 damage per scar (high-risk power)
-- **Experience Bonuses**: +2 situational from Umbral Stalker
-- **Returning Blade**: Magical weapon that returns after throwing
-
-## Heritage & Abilities
-
-### **Simian Ancestry**
-- **Enhanced Climbing**: Natural wall-scaling and vertical mobility
-- **Dramatic Reach**: 7-foot arm span for impossible attack angles
-- **Compact Frame**: 4-foot height, harder to detect and target
-- **Acrobatic Prowess**: Superior jumping, contortion, balance
-
-### **Wildborne Community**
-- **Lightfoot**: Advantage on all movement rolls (supernatural silence)
-- **Forest Survival**: Expertise in hostile territory beyond civilization
-- **Predatory Instincts**: Wolf-like patience and calculated violence
-
-### **Nightwalker Rogue Features**
-- **Sneak Attack**: Extra damage when attacking with advantage
-- **Shadow Mastery**: Enhanced stealth and darkness manipulation through shadow-stepping
-- **Domain Access**: Midnight (shadow magic) + Grace (mobility)
-
-##  Experience Applications
+###  Experience Applications
 
 ### **Umbral Stalker +2**
 *Shadow magic combined with primal hunting instincts*
@@ -189,6 +88,108 @@ Every time Banjo shadow-steps, he experiences horrifying oracle visions:
 - Making decisive choices under extreme pressure and cosmic horror
 - Functioning effectively despite grief, loss, and apocalyptic knowledge
 - Understanding sacrifice for the greater good while hoping for alternatives
+## **Character Goals & Core Motivations**
+
+### **Priority Hierarchy**
+When these motivations conflict, Banjo's choices follow this order:
+
+1. **Protection** (Highest Priority)
+   - Protecting his former community despite their exile of him
+   - Safeguarding innocents from corruption and cosmic horror
+   - Shielding party members from having to make impossible moral choices
+
+2. **Prevention** (Equal to Protection)
+   - Stopping reality-breaking entities from breaching the veil
+   - Eliminating corruption before it spreads to others
+   - Acting immediately when oracle visions show imminent threats
+
+3. **Understanding** (Over Personal Needs)
+   - Learning why he alone can shadow-step and receive oracle visions
+   - Discovering the true nature of the corruption and cosmic threats
+   - Finding others who might share his burden or knowledge
+
+4. **Vindication** (Lowest Priority - Sacrificed for Others)
+   - Proving he was right about the corruption threat
+   - Clearing his name with his former community
+   - Being recognized as a protector rather than a murderer
+
+### **Party Role Philosophy**
+- **The Moral Shield**: Takes on necessary but terrible choices so companions can maintain their principles
+- **The Designated Executioner**: Handles elimination decisions because he's already paid that psychological price
+- **The Hidden Optimist**: Despite his dark methods, hopes the party can show him alternative solutions his oracle-vision tunnel vision prevents him from seeing
+- **The Protective Isolator**: Tries to spare party members from witnessing or participating in his darker methods
+
+### **Oracle Sight & Aether Burden**
+
+### **The Visions**
+Every time Banjo shadow-steps, he experiences horrifying oracle visions:
+- **Cosmic Horror Glimpses**: Sees Cthulhu-esque monsters of impossible proportions and malevolent intent trying to break through the veil between realities
+- **Reality Breakdown**: His recurring dreams of upward-flowing waterfalls are oracle visions showing him how the fundamental laws of existence are collapsing
+- **Escalating Frequency**: The more he shadow-steps, the more frequent and intense these visions become
+- **Stress Cost**: Each shadow-step forces him to witness potential apocalypse, explaining the mechanical stress cost
+
+### **Psychological Coping**
+- **Playful Demeanor**: His mischievous, bright personality is a conscious defense mechanism against the cosmic horror he regularly witnesses
+- **Urgent Action**: The visions drive him to act immediately and decisively, knowing that reality itself is under threat
+- **Questioning Reality**: While he knows deep down the visions must be real, he sometimes questions his own sanity - especially given his community's teachings that aether sight was corruption
+
+### **Oracle Burden Impact**
+- Makes him incredibly effective at hunting corruption (he can see the source)
+- Creates internal time pressure - he knows something terrible is coming
+- Isolates him from others who cannot understand what he's witnessed
+- Drives his protective instincts to desperate levels
+
+## **Combat Capabilities**
+
+### **Weapons**
+- **Returning Blade** (Primary)
+  - Attack: +2 Finesse
+  - Damage: 1d8 magical
+  - Range: Close
+  - Features: Magical, one-handed, returns after thrown
+- **Small Dagger** (Secondary) 
+  - Attack: +2 Finesse
+  - Damage: 1d8 physical
+  - Range: Melee
+  - Features: One-handed, concealable, throwable
+
+### **Combat Role**
+**The Eliminator**: Burst damage specialist who removes priority targets through impossible positioning and devastating sneak attacks.
+
+### **Signature Tactic: "The Phantom Strike"**
+1. **Silent Approach**: Use Wildborne Lightfoot + shadow magic for undetected movement
+2. **Impossible Position**: Simian climbing to reach unreachable vantage points
+3. **Oracle-Guided Strike**: Shadow-step enhanced by glimpses of cosmic truth (despite the horrifying cost)
+4. **Precise Elimination**: Returning Blade sneak attack enhanced by Umbra corruption
+5. **Magical Return**: Blade returns to hand automatically after strike
+6. **Vanish**: Escape to new position before enemies can react
+
+### **Damage Sources**
+- **Base Weapons**: 1d8 physical damage (both weapons)
+- **Sneak Attack**: Extra dice when attacking with advantage
+- **Umbra Corruption**: +1 damage per scar (high-risk power)
+- **Experience Bonuses**: +2 situational from Umbral Stalker
+- **Returning Blade**: Magical weapon that returns after throwing
+
+## **Heritage & Abilities**
+
+### **Simian Ancestry**
+- **Enhanced Climbing**: Natural wall-scaling and vertical mobility
+- **Dramatic Reach**: 7-foot arm span for impossible attack angles
+- **Compact Frame**: 4-foot height, harder to detect and target
+- **Acrobatic Prowess**: Superior jumping, contortion, balance
+
+### **Wildborne Community**
+- **Lightfoot**: Advantage on all movement rolls (supernatural silence)
+- **Forest Survival**: Expertise in hostile territory beyond civilization
+- **Predatory Instincts**: Wolf-like patience and calculated violence
+
+### **Nightwalker Rogue Features**
+- **Sneak Attack**: Extra damage when attacking with advantage
+- **Shadow Mastery**: Enhanced stealth and darkness manipulation through shadow-stepping
+- **Domain Access**: Midnight (shadow magic) + Grace (mobility)
+
+
 
 ## Background & History
 
