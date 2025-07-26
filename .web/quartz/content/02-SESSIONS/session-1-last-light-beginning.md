@@ -622,10 +622,10 @@ A smaller frontier settlement where adventures begin.
 
 ## 🚨 CRITICAL REVELATIONS - Session 1 End
 
-### ⚔️ Nicholas's Attack - The Truth About Craven
-- **SHOCKING DETAIL**: Nicholas specifically stated that **Craven personally attacked him**
+### ⚔️ Nicholas Vakvom's Attack - The Truth About Craven Vakvom
+- **SHOCKING DETAIL**: Nicholas specifically stated that **Craven Vakvom personally attacked him**
 - **Not Just "Back"**: Craven didn't just return - he actively assaulted his own son
-- **Mission Reframe**: This is NOT a rescue mission - Craven is a confirmed hostile enemy
+- **Mission Reframe**: This is NOT a rescue mission - Craven Vakvom is a confirmed hostile enemy
 - **Family Horror**: Father deliberately attacking child with undead forces
 - **Threat Assessment**: Craven is actively hostile to Last Light, not missing/transformed
 - **Implications**: What could turn a father against his own son and community?
@@ -641,8 +641,8 @@ A smaller frontier settlement where adventures begin.
 - **Urgency Factor**: Dying pyre creates immediate danger for shambling townsfolk
 - **Decision Stakes**: Party may need to act quickly to prevent disaster
 
-### 🎯 Mission Stakes Completely Changed
-- **From Rescue to Combat**: Craven is confirmed enemy, not victim
+- **Mission Stakes Completely Changed
+- **From Rescue to Combat**: Craven Vakvom is confirmed enemy, not victim
 - **Personal Betrayal**: He attacked his own son - ultimate family betrayal
 - **Community Threat**: Former defender now attacking the settlement he once protected
 - **Meyer's End Connection**: Dying pyre may be related to Craven's undead influence
@@ -668,6 +668,23 @@ A smaller frontier settlement where adventures begin.
 ### 🚤 Current Status
 - **Location**: Boat in Slithermarsh, observing Meyer's End
 - **Resources**: Reese's boat, meager supplies, one month timeline
+
+
+## 📝 Character Name Updates
+
+### The Vakvom Family
+- **Craven Vakvom**: Former expedition leader, now confirmed hostile enemy who personally attacked his son
+- **Nicholas Vakvom**: Last Light guard, son of Craven, survivor of his father's attack
+- **Family Tragedy**: The Vakvom name represents the ultimate betrayal - father attacking son
+- **Community Impact**: The Vakvom family went from defenders to threats to Last Light
+- **Mission Context**: Party is now hunting Craven Vakvom, not rescuing him
+
+### Updated Character References
+- All previous references to "Craven" and "Nicholas" should include the Vakvom surname
+- **Nicholas Vakvom** - Town guard who was attacked by his own father
+- **Craven Vakvom** - Former hero turned family destroyer and community threat
+- **The Vakvom Expedition** - The lost mission to Shalk Chasm led by Craven Vakvom
+- **Vakvom Betrayal** - The shocking revelation that father attacked son with undead forces
 - **Mission**: En route to Shalk Chasm but encountered potential side situation
 - **Party Condition**: Rested, prepared, and unified after successful social combat
 - **Next Decision**: Investigate mysterious laketown or focus on primary mission

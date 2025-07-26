@@ -40,19 +40,19 @@ heading: Session Tracker
 - **Players**: User + Andi (2-player campaign)
 - **Setting**: Last Light settlement (Age of Umbra)
 - **Campaign Format**: Weekly sessions, Fridays at 4:00 PM
-- **Current Status**: Preparing for Shalk Chasm expedition
+- **Current Status**: Party discovered Meyer's End - decision point about dying pyre and Craven Vakvom threat
 ## 🎯 Next Session
 **Date**: Session 2 - Friday, August 1, 2025 at 4:00 PM
-**Focus**: Shalk Chasm expedition begins - boat crossing and chasm exploration
-**Stakes**: Following the path of Craven's lost expedition
+**Focus**: Meyer's End crisis - dying pyre and shambling townsfolk, then Shalk Chasm expedition
+**Stakes**: Immediate crisis vs. hunting confirmed enemy Craven Vakvom
 
 **Prep Notes**:
-- [x] Session 1 completed - party formed, mission accepted, fellowship established
-- [ ] Shalk Chasm expedition planning and boat crossing
-- [ ] Geographic challenges and water travel
-- [ ] First exploration of the chasm that claimed Craven's team
-- [ ] Resource management with "meager supplies"
-- [ ] Search for clues about what happened to previous expedition
+- [x] Session 1 completed - Meyer's End discovered, Craven Vakvom confirmed hostile
+- [ ] Meyer's End pyre crisis - immediate danger to settlement
+- [ ] Decision: help Meyer's End or continue to Shalk Chasm
+- [ ] Investigation of The Soggy Boot tavern and shambling residents
+- [ ] Resource management with "meager supplies" and time pressure
+- [ ] Craven Vakvom now confirmed enemy who attacked his own son Nicholas Vakvom
 
 ## 📝 Session Notes Links
 - [[02-SESSIONS/session-1-last-light-beginning]] - Session 1 (2025-07-25): Hope's Call pub beginning

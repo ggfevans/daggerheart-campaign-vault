@@ -20,7 +20,7 @@ heading: The Reachguard Elders
 **Membership**: 7-9 Senior Community Leaders  
 **Authority**: Absolute within community boundaries  
 **Philosophy**: Traditional survival through isolation and established practices  
-**Current Status**: Actively pursuing [[captain-howling-banjo-sheet|Captain Howling Banjo]] for alleged crimes  
+**Current Status**: Actively pursuing [[captain-howling-banjo-sheet|Captain Howling Banjo]] for alleged crimes while managing exposure crisis from Shalk Chasm seismic damage  
 
 The Reachguard Elders serve as the governing council of Thornhaven Reach, representing the community's commitment to traditional ways and collective survival. Their authority stems from generations of successful leadership that has kept their hidden enclave free from corruption and external threats.
 
@@ -154,9 +154,11 @@ The Reachguard Elders serve as the governing council of Thornhaven Reach, repres
 ### Ongoing Pursuit
 **Manhunt Authorization**: Elders have authorized scout patrols to track and apprehend Banjo for justice.
 
-**Community Safety**: Continued concern that Banjo's corruption might spread to other communities or lead threats back to Thornhaven Reach.
+**Resource Conflict**: The Banjo pursuit now competes with urgent needs for structural repair and exposure prevention following the Shalk Chasm seismic event.
 
-**Precedent Maintenance**: Need to demonstrate that community law applies to everyone, regardless of individual abilities or past service.
+**Community Safety**: Continued concern that Banjo's corruption might spread to other communities or lead threats back to Thornhaven Reach - now complicated by the community's increased vulnerability to discovery.
+
+**Precedent Maintenance**: Need to demonstrate that community law applies to everyone, regardless of individual abilities or past service - though some question whether traditional justice should take priority during an exposure crisis.
 
 ## 🔗 Current Relationships
 
@@ -183,12 +185,20 @@ The Reachguard Elders serve as the governing council of Thornhaven Reach, repres
 
 **New Corruption**: If corruption reappears in Thornhaven Reach, it would challenge the Elders' decision-making and potentially vindicate Banjo's methods.
 
+**Exposure Crisis Management**: The seismic damage from the Shalk Chasm has created immediate leadership challenges:
+- Balancing resources between Banjo pursuit and structural repairs
+- Managing community panic about potential discovery by surface threats
+- Making rapid decisions about emergency protocols without abandoning traditional consensus-building
+- Considering whether Banjo's shadow-stepping abilities might be needed for accessing damaged areas
+
 ### Long-term Developments
-**Authority Crisis**: Younger community members might begin questioning traditional Elder authority in the face of changing world conditions.
+**Authority Crisis**: Younger community members might begin questioning traditional Elder authority in the face of changing world conditions, especially if traditional methods prove inadequate for the exposure crisis.
 
-**Survival Challenges**: Age of Umbra threats might intensify beyond what traditional methods can handle, requiring reconsideration of "unnatural" solutions.
+**Survival Challenges**: Age of Umbra threats might intensify beyond what traditional methods can handle, requiring reconsideration of "unnatural" solutions - particularly given the new vulnerabilities from seismic damage.
 
-**Reconciliation Opportunity**: Crisis situations might force Elders to choose between pride and community survival, potentially leading to Banjo's rehabilitation.
+**Relocation Decisions**: Elders may face the unprecedented challenge of abandoning their ancestral home, requiring leadership decisions beyond traditional precedent.
+
+**Reconciliation Opportunity**: Crisis situations might force Elders to choose between pride and community survival, potentially leading to Banjo's rehabilitation - especially if his unique abilities prove essential for navigating the new geological hazards.
 
 ### Character Development
 **Moral Complexity**: Elders genuinely believe their decisions protect the community, creating sympathetic antagonists rather than simple villains.
