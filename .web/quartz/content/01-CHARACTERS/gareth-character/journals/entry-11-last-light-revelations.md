@@ -26,13 +26,13 @@ What started as a simple evening at Hope's Call - nursing a drink, critiquing pa
 
 **Then someone screamed outside.**
 
-The sound cut through the tavern's warm atmosphere like a corrupted blade through healthy bark. **Not just any scream - the specific kind of terror that means something has gone very, very wrong.** My companions didn't hesitate. Vaerenth bolted for the door first, Aster close behind, Augustus following with that methodical Guardian pace.
+The sound cut through the tavern's warm atmosphere like a corrupted blade through healthy bark. **Not just any scream - the specific kind of terror that means something has gone very, very wrong.** My companions didn't hesitate. [[vaerenth-character-sheet|Vaerenth]] bolted for the door first, [[aster-luferi-character-sheet|Aster]] close behind, [[augustus-penhallow-character-sheet|Augustus]] following with that methodical Guardian pace.
 
 **I love that they run toward danger instead of away from it.**
 
 What we found outside Last Light's walls was everything my oracle visions had been trying to prepare me for, and somehow still worse than expected. A soldier - Nicholas Vakvom, as we learned - being hunted through misty marshland by skeletal undead. **Armored skeleton warriors, a bone archer, and something spider-like with too many limbs that made my Umbra scars itch just looking at it.**
 
-The combat was... **refreshing.** After years of fighting alone, coordinating with people who understand tactics and don't panic at the sight of shadow-stepping was almost therapeutic. I took some hits - **2 armor damage, 2 health, managed to heal 1 back** - but watching Aster devastate enemies with those Arcane Gauntlets (18 damage with Hope! Magnificent!) while Vaerenth picked off targets with her shortbow made me remember why teamwork can be more effective than lone wolf tactics.
+The combat was... **refreshing.** After years of fighting alone, coordinating with people who understand tactics and don't panic at the sight of danger was almost therapeutic. I took some hits - **2 armor damage, 2 health, managed to heal 1 back** - but watching Aster devastate enemies with those Arcane Gauntlets while Vaerenth picked off targets with her shortbow made me remember why teamwork can be more effective than lone wolf tactics.
 
 **We saved Nicholas. That's what matters.**
 
