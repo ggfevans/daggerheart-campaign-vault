@@ -1,6 +1,3 @@
----
-publish: true
----
 # The Umbral Archives: A Chronicle of Survival
 *Being the testament of desperate souls who dare venture beyond the dying light*
 
