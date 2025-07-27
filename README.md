@@ -92,7 +92,6 @@ This testament is bound by the [Creative Commons Attribution-ShareAlike 4.0 Inte
 **⚔️ Fellow Survivors:** Andi (Vaerenth), Luie (Aster Luferi), Mark (Augustus Penhallow), [Other souls yet breathing]  
 **🎭 The Weaver of Fates:** Geoff *(He who shapes our destinies from shadow)*
 
----
 
 *These records are maintained by shadow-touched hands and sealed with the blood of the desperate. May they serve as warning to some, and salvation to others.*
 
