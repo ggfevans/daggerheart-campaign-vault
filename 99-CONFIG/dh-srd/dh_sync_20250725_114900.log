@@ -1,0 +1,162 @@
+2025-07-25 11:49:00,291 - INFO - Starting DH-SRD sync session - Log file: dh_sync_20250725_114900.log
+2025-07-25 11:49:00,294 - INFO - Loaded 786 tasks from markdown table
+2025-07-25 11:49:00,294 - INFO - Filtered to 786 tasks with status: ['missing']
+2025-07-25 11:49:00,294 - INFO - Limited to first 50 tasks
+2025-07-25 11:49:00,294 - INFO - Starting sync of 50 files
+2025-07-25 11:49:00,295 - INFO - Processing 1/50: contents/Making Moves and Taking Action.md
+2025-07-25 11:49:00,295 - INFO - Syncing: contents/Making Moves and Taking Action.md
+2025-07-25 11:49:00,504 - INFO - Successfully synced: contents/Making Moves and Taking Action.md -> ..\..\04-RESOURCES\dh-srd\dh-Making-Moves-and-Taking-Action.md
+2025-07-25 11:49:00,506 - INFO - Processing 2/50: contents/Character Creation.md
+2025-07-25 11:49:00,507 - INFO - Syncing: contents/Character Creation.md
+2025-07-25 11:49:00,694 - INFO - Successfully synced: contents/Character Creation.md -> ..\..\04-RESOURCES\dh-srd\dh-Character-Creation.md
+2025-07-25 11:49:00,694 - INFO - Processing 3/50: contents/Combat Wheelchair.md
+2025-07-25 11:49:00,695 - INFO - Syncing: contents/Combat Wheelchair.md
+2025-07-25 11:49:00,915 - INFO - Successfully synced: contents/Combat Wheelchair.md -> ..\..\04-RESOURCES\dh-srd\dh-Combat-Wheelchair.md
+2025-07-25 11:49:00,916 - INFO - Processing 4/50: contents/Attacking.md
+2025-07-25 11:49:00,916 - INFO - Syncing: contents/Attacking.md
+2025-07-25 11:49:01,109 - INFO - Successfully synced: contents/Attacking.md -> ..\..\04-RESOURCES\dh-srd\dh-Attacking.md
+2025-07-25 11:49:01,109 - INFO - Processing 5/50: contents/The Basics.md
+2025-07-25 11:49:01,110 - INFO - Syncing: contents/The Basics.md
+2025-07-25 11:49:01,317 - INFO - Successfully synced: contents/The Basics.md -> ..\..\04-RESOURCES\dh-srd\dh-The-Basics.md
+2025-07-25 11:49:01,318 - INFO - Processing 6/50: contents/Combat.md
+2025-07-25 11:49:01,319 - INFO - Syncing: contents/Combat.md
+2025-07-25 11:49:01,523 - INFO - Successfully synced: contents/Combat.md -> ..\..\04-RESOURCES\dh-srd\dh-Combat.md
+2025-07-25 11:49:01,524 - INFO - Processing 7/50: contents/Core Gameplay Loop.md
+2025-07-25 11:49:01,524 - INFO - Syncing: contents/Core Gameplay Loop.md
+2025-07-25 11:49:01,698 - INFO - Successfully synced: contents/Core Gameplay Loop.md -> ..\..\04-RESOURCES\dh-srd\dh-Core-Gameplay-Loop.md
+2025-07-25 11:49:01,698 - INFO - Processing 8/50: classes/Druid.md
+2025-07-25 11:49:01,699 - INFO - Syncing: classes/Druid.md
+2025-07-25 11:49:01,907 - INFO - Successfully synced: classes/Druid.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Druid.md
+2025-07-25 11:49:01,908 - INFO - Processing 9/50: contents/Classes.md
+2025-07-25 11:49:01,908 - INFO - Syncing: contents/Classes.md
+2025-07-25 11:49:02,115 - INFO - Successfully synced: contents/Classes.md -> ..\..\04-RESOURCES\dh-srd\dh-Classes.md
+2025-07-25 11:49:02,115 - INFO - Processing 10/50: subclasses/Beastbound.md
+2025-07-25 11:49:02,117 - INFO - Syncing: subclasses/Beastbound.md
+2025-07-25 11:49:02,330 - INFO - Successfully synced: subclasses/Beastbound.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Beastbound.md
+2025-07-25 11:49:02,331 - INFO - Progress: 10/50 processed, 10 successful
+2025-07-25 11:49:02,331 - INFO - Processing 11/50: contents/Ancestries.md
+2025-07-25 11:49:02,332 - INFO - Syncing: contents/Ancestries.md
+2025-07-25 11:49:02,499 - INFO - Successfully synced: contents/Ancestries.md -> ..\..\04-RESOURCES\dh-srd\dh-Ancestries.md
+2025-07-25 11:49:02,499 - INFO - Processing 12/50: contents/Leveling Up.md
+2025-07-25 11:49:02,499 - INFO - Syncing: contents/Leveling Up.md
+2025-07-25 11:49:02,678 - INFO - Successfully synced: contents/Leveling Up.md -> ..\..\04-RESOURCES\dh-srd\dh-Leveling-Up.md
+2025-07-25 11:49:02,678 - INFO - Processing 13/50: classes/Guardian.md
+2025-07-25 11:49:02,678 - INFO - Syncing: classes/Guardian.md
+2025-07-25 11:49:02,867 - INFO - Successfully synced: classes/Guardian.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Guardian.md
+2025-07-25 11:49:02,868 - INFO - Processing 14/50: classes/Rogue.md
+2025-07-25 11:49:02,868 - INFO - Syncing: classes/Rogue.md
+2025-07-25 11:49:03,069 - INFO - Successfully synced: classes/Rogue.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Rogue.md
+2025-07-25 11:49:03,069 - INFO - Processing 15/50: classes/Wizard.md
+2025-07-25 11:49:03,070 - INFO - Syncing: classes/Wizard.md
+2025-07-25 11:49:03,251 - INFO - Successfully synced: classes/Wizard.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Wizard.md
+2025-07-25 11:49:03,251 - INFO - Processing 16/50: classes/Ranger.md
+2025-07-25 11:49:03,252 - INFO - Syncing: classes/Ranger.md
+2025-07-25 11:49:03,469 - INFO - Successfully synced: classes/Ranger.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Ranger.md
+2025-07-25 11:49:03,469 - INFO - Processing 17/50: classes/Sorcerer.md
+2025-07-25 11:49:03,471 - INFO - Syncing: classes/Sorcerer.md
+2025-07-25 11:49:03,679 - INFO - Successfully synced: classes/Sorcerer.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Sorcerer.md
+2025-07-25 11:49:03,679 - INFO - Processing 18/50: classes/Seraph.md
+2025-07-25 11:49:03,681 - INFO - Syncing: classes/Seraph.md
+2025-07-25 11:49:03,872 - INFO - Successfully synced: classes/Seraph.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Seraph.md
+2025-07-25 11:49:03,872 - INFO - Processing 19/50: classes/Warrior.md
+2025-07-25 11:49:03,872 - INFO - Syncing: classes/Warrior.md
+2025-07-25 11:49:04,068 - INFO - Successfully synced: classes/Warrior.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Warrior.md
+2025-07-25 11:49:04,069 - INFO - Processing 20/50: classes/Bard.md
+2025-07-25 11:49:04,069 - INFO - Syncing: classes/Bard.md
+2025-07-25 11:49:04,232 - INFO - Successfully synced: classes/Bard.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Bard.md
+2025-07-25 11:49:04,233 - INFO - Progress: 20/50 processed, 20 successful
+2025-07-25 11:49:04,233 - INFO - Processing 21/50: subclasses/Warden of the Elements.md
+2025-07-25 11:49:04,233 - INFO - Syncing: subclasses/Warden of the Elements.md
+2025-07-25 11:49:04,436 - INFO - Successfully synced: subclasses/Warden of the Elements.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Warden-of-the-Elements.md
+2025-07-25 11:49:04,436 - INFO - Processing 22/50: contents/Conditions.md
+2025-07-25 11:49:04,437 - INFO - Syncing: contents/Conditions.md
+2025-07-25 11:49:04,672 - INFO - Successfully synced: contents/Conditions.md -> ..\..\04-RESOURCES\dh-srd\dh-Conditions.md
+2025-07-25 11:49:04,672 - INFO - Processing 23/50: subclasses/Syndicate.md
+2025-07-25 11:49:04,672 - INFO - Syncing: subclasses/Syndicate.md
+2025-07-25 11:49:04,888 - INFO - Successfully synced: subclasses/Syndicate.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Syndicate.md
+2025-07-25 11:49:04,889 - INFO - Processing 24/50: ancestries/Infernis.md
+2025-07-25 11:49:04,890 - INFO - Syncing: ancestries/Infernis.md
+2025-07-25 11:49:05,093 - INFO - Successfully synced: ancestries/Infernis.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Infernis.md
+2025-07-25 11:49:05,093 - INFO - Processing 25/50: subclasses/Primal Origin.md
+2025-07-25 11:49:05,094 - INFO - Syncing: subclasses/Primal Origin.md
+2025-07-25 11:49:05,324 - INFO - Successfully synced: subclasses/Primal Origin.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Primal-Origin.md
+2025-07-25 11:49:05,325 - INFO - Processing 26/50: subclasses/Call of the Slayer.md
+2025-07-25 11:49:05,325 - INFO - Syncing: subclasses/Call of the Slayer.md
+2025-07-25 11:49:05,532 - INFO - Successfully synced: subclasses/Call of the Slayer.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Call-of-the-Slayer.md
+2025-07-25 11:49:05,533 - INFO - Processing 27/50: ancestries/Clank.md
+2025-07-25 11:49:05,534 - INFO - Syncing: ancestries/Clank.md
+2025-07-25 11:49:05,736 - INFO - Successfully synced: ancestries/Clank.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Clank.md
+2025-07-25 11:49:05,737 - INFO - Processing 28/50: subclasses/Nightwalker.md
+2025-07-25 11:49:05,738 - INFO - Syncing: subclasses/Nightwalker.md
+2025-07-25 11:49:05,966 - INFO - Successfully synced: subclasses/Nightwalker.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Nightwalker.md
+2025-07-25 11:49:05,966 - INFO - Processing 29/50: ancestries/Faun.md
+2025-07-25 11:49:05,967 - INFO - Syncing: ancestries/Faun.md
+2025-07-25 11:49:06,191 - INFO - Successfully synced: ancestries/Faun.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Faun.md
+2025-07-25 11:49:06,191 - INFO - Processing 30/50: ancestries/Elf.md
+2025-07-25 11:49:06,191 - INFO - Syncing: ancestries/Elf.md
+2025-07-25 11:49:06,428 - INFO - Successfully synced: ancestries/Elf.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Elf.md
+2025-07-25 11:49:06,431 - INFO - Progress: 30/50 processed, 30 successful
+2025-07-25 11:49:06,433 - INFO - Processing 31/50: subclasses/Elemental Origin.md
+2025-07-25 11:49:06,434 - INFO - Syncing: subclasses/Elemental Origin.md
+2025-07-25 11:49:06,654 - INFO - Successfully synced: subclasses/Elemental Origin.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Elemental-Origin.md
+2025-07-25 11:49:06,655 - INFO - Processing 32/50: ancestries/Firbolg.md
+2025-07-25 11:49:06,656 - INFO - Syncing: ancestries/Firbolg.md
+2025-07-25 11:49:06,883 - INFO - Successfully synced: ancestries/Firbolg.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Firbolg.md
+2025-07-25 11:49:06,883 - INFO - Processing 33/50: ancestries/Drakona.md
+2025-07-25 11:49:06,883 - INFO - Syncing: ancestries/Drakona.md
+2025-07-25 11:49:07,108 - INFO - Successfully synced: ancestries/Drakona.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Drakona.md
+2025-07-25 11:49:07,109 - INFO - Processing 34/50: ancestries/Faerie.md
+2025-07-25 11:49:07,109 - INFO - Syncing: ancestries/Faerie.md
+2025-07-25 11:49:07,362 - INFO - Successfully synced: ancestries/Faerie.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Faerie.md
+2025-07-25 11:49:07,362 - INFO - Processing 35/50: ancestries/Ribbet.md
+2025-07-25 11:49:07,363 - INFO - Syncing: ancestries/Ribbet.md
+2025-07-25 11:49:07,559 - INFO - Successfully synced: ancestries/Ribbet.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Ribbet.md
+2025-07-25 11:49:07,560 - INFO - Processing 36/50: ancestries/Fungril.md
+2025-07-25 11:49:07,560 - INFO - Syncing: ancestries/Fungril.md
+2025-07-25 11:49:07,785 - INFO - Successfully synced: ancestries/Fungril.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Fungril.md
+2025-07-25 11:49:07,786 - INFO - Processing 37/50: subclasses/Warden of Renewal.md
+2025-07-25 11:49:07,787 - INFO - Syncing: subclasses/Warden of Renewal.md
+2025-07-25 11:49:08,000 - INFO - Successfully synced: subclasses/Warden of Renewal.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Warden-of-Renewal.md
+2025-07-25 11:49:08,000 - INFO - Processing 38/50: ancestries/Galapa.md
+2025-07-25 11:49:08,000 - INFO - Syncing: ancestries/Galapa.md
+2025-07-25 11:49:08,201 - INFO - Successfully synced: ancestries/Galapa.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Galapa.md
+2025-07-25 11:49:08,202 - INFO - Processing 39/50: ancestries/Katari.md
+2025-07-25 11:49:08,202 - INFO - Syncing: ancestries/Katari.md
+2025-07-25 11:49:08,430 - INFO - Successfully synced: ancestries/Katari.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Katari.md
+2025-07-25 11:49:08,431 - INFO - Processing 40/50: subclasses/Divine Wielder.md
+2025-07-25 11:49:08,431 - INFO - Syncing: subclasses/Divine Wielder.md
+2025-07-25 11:49:08,629 - INFO - Successfully synced: subclasses/Divine Wielder.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Divine-Wielder.md
+2025-07-25 11:49:08,629 - INFO - Progress: 40/50 processed, 40 successful
+2025-07-25 11:49:08,630 - INFO - Processing 41/50: ancestries/Simiah.md
+2025-07-25 11:49:08,631 - INFO - Syncing: ancestries/Simiah.md
+2025-07-25 11:49:08,864 - INFO - Successfully synced: ancestries/Simiah.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Simiah.md
+2025-07-25 11:49:08,864 - INFO - Processing 42/50: subclasses/Wordsmith.md
+2025-07-25 11:49:08,865 - INFO - Syncing: subclasses/Wordsmith.md
+2025-07-25 11:49:09,096 - INFO - Successfully synced: subclasses/Wordsmith.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Wordsmith.md
+2025-07-25 11:49:09,096 - INFO - Processing 43/50: ancestries/Goblin.md
+2025-07-25 11:49:09,096 - INFO - Syncing: ancestries/Goblin.md
+2025-07-25 11:49:09,307 - INFO - Successfully synced: ancestries/Goblin.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Goblin.md
+2025-07-25 11:49:09,307 - INFO - Processing 44/50: subclasses/School of War.md
+2025-07-25 11:49:09,307 - INFO - Syncing: subclasses/School of War.md
+2025-07-25 11:49:09,494 - INFO - Successfully synced: subclasses/School of War.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-School-of-War.md
+2025-07-25 11:49:09,495 - INFO - Processing 45/50: subclasses/School of Knowledge.md
+2025-07-25 11:49:09,495 - INFO - Syncing: subclasses/School of Knowledge.md
+2025-07-25 11:49:09,716 - INFO - Successfully synced: subclasses/School of Knowledge.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-School-of-Knowledge.md
+2025-07-25 11:49:09,716 - INFO - Processing 46/50: ancestries/Dwarf.md
+2025-07-25 11:49:09,716 - INFO - Syncing: ancestries/Dwarf.md
+2025-07-25 11:49:09,935 - INFO - Successfully synced: ancestries/Dwarf.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Dwarf.md
+2025-07-25 11:49:09,936 - INFO - Processing 47/50: subclasses/Call of the Brave.md
+2025-07-25 11:49:09,936 - INFO - Syncing: subclasses/Call of the Brave.md
+2025-07-25 11:49:10,129 - INFO - Successfully synced: subclasses/Call of the Brave.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Call-of-the-Brave.md
+2025-07-25 11:49:10,129 - INFO - Processing 48/50: ancestries/Orc.md
+2025-07-25 11:49:10,129 - INFO - Syncing: ancestries/Orc.md
+2025-07-25 11:49:10,354 - INFO - Successfully synced: ancestries/Orc.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Orc.md
+2025-07-25 11:49:10,355 - INFO - Processing 49/50: subclasses/Troubadour.md
+2025-07-25 11:49:10,355 - INFO - Syncing: subclasses/Troubadour.md
+2025-07-25 11:49:10,554 - INFO - Successfully synced: subclasses/Troubadour.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Troubadour.md
+2025-07-25 11:49:10,554 - INFO - Processing 50/50: subclasses/Winged Sentinel.md
+2025-07-25 11:49:10,555 - INFO - Syncing: subclasses/Winged Sentinel.md
+2025-07-25 11:49:10,771 - INFO - Successfully synced: subclasses/Winged Sentinel.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Winged-Sentinel.md
+2025-07-25 11:49:10,771 - INFO - Progress: 50/50 processed, 50 successful
+2025-07-25 11:49:10,772 - INFO - Sync completed: 50 successful, 0 failed
+2025-07-25 11:49:10,774 - INFO - List of successful files saved to: successful_files_20250725_114910.txt

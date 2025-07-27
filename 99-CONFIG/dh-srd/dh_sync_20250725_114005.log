@@ -1,0 +1,69 @@
+2025-07-25 11:40:05,930 - INFO - Starting DH-SRD sync session - Log file: dh_sync_20250725_114005.log
+2025-07-25 11:40:05,933 - INFO - Loaded 786 tasks from markdown table
+2025-07-25 11:40:05,934 - INFO - Filtered to 786 tasks with status: ['missing']
+2025-07-25 11:40:05,934 - INFO - Limited to first 20 tasks
+2025-07-25 11:40:05,934 - INFO - Starting sync of 20 files
+2025-07-25 11:40:05,935 - INFO - Processing 1/20: contents/Making Moves and Taking Action.md
+2025-07-25 11:40:05,935 - INFO - Syncing: contents/Making Moves and Taking Action.md
+2025-07-25 11:40:06,014 - INFO - Successfully synced: contents/Making Moves and Taking Action.md -> ..\..\04-RESOURCES\dh-srd\dh-Making-Moves-and-Taking-Action.md
+2025-07-25 11:40:06,016 - INFO - Processing 2/20: contents/Character Creation.md
+2025-07-25 11:40:06,016 - INFO - Syncing: contents/Character Creation.md
+2025-07-25 11:40:06,091 - INFO - Successfully synced: contents/Character Creation.md -> ..\..\04-RESOURCES\dh-srd\dh-Character-Creation.md
+2025-07-25 11:40:06,091 - INFO - Processing 3/20: contents/Combat Wheelchair.md
+2025-07-25 11:40:06,091 - INFO - Syncing: contents/Combat Wheelchair.md
+2025-07-25 11:40:06,293 - INFO - Successfully synced: contents/Combat Wheelchair.md -> ..\..\04-RESOURCES\dh-srd\dh-Combat-Wheelchair.md
+2025-07-25 11:40:06,293 - INFO - Processing 4/20: contents/Attacking.md
+2025-07-25 11:40:06,293 - INFO - Syncing: contents/Attacking.md
+2025-07-25 11:40:06,493 - INFO - Successfully synced: contents/Attacking.md -> ..\..\04-RESOURCES\dh-srd\dh-Attacking.md
+2025-07-25 11:40:06,494 - INFO - Processing 5/20: contents/The Basics.md
+2025-07-25 11:40:06,495 - INFO - Syncing: contents/The Basics.md
+2025-07-25 11:40:06,725 - INFO - Successfully synced: contents/The Basics.md -> ..\..\04-RESOURCES\dh-srd\dh-The-Basics.md
+2025-07-25 11:40:06,726 - INFO - Processing 6/20: contents/Combat.md
+2025-07-25 11:40:06,727 - INFO - Syncing: contents/Combat.md
+2025-07-25 11:40:06,958 - INFO - Successfully synced: contents/Combat.md -> ..\..\04-RESOURCES\dh-srd\dh-Combat.md
+2025-07-25 11:40:06,958 - INFO - Processing 7/20: contents/Core Gameplay Loop.md
+2025-07-25 11:40:06,958 - INFO - Syncing: contents/Core Gameplay Loop.md
+2025-07-25 11:40:07,169 - INFO - Successfully synced: contents/Core Gameplay Loop.md -> ..\..\04-RESOURCES\dh-srd\dh-Core-Gameplay-Loop.md
+2025-07-25 11:40:07,170 - INFO - Processing 8/20: classes/Druid.md
+2025-07-25 11:40:07,171 - INFO - Syncing: classes/Druid.md
+2025-07-25 11:40:07,484 - INFO - Successfully synced: classes/Druid.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Druid.md
+2025-07-25 11:40:07,485 - INFO - Processing 9/20: contents/Classes.md
+2025-07-25 11:40:07,486 - INFO - Syncing: contents/Classes.md
+2025-07-25 11:40:07,711 - INFO - Successfully synced: contents/Classes.md -> ..\..\04-RESOURCES\dh-srd\dh-Classes.md
+2025-07-25 11:40:07,712 - INFO - Processing 10/20: subclasses/Beastbound.md
+2025-07-25 11:40:07,713 - INFO - Syncing: subclasses/Beastbound.md
+2025-07-25 11:40:07,920 - INFO - Successfully synced: subclasses/Beastbound.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Beastbound.md
+2025-07-25 11:40:07,920 - INFO - Progress: 10/20 processed, 10 successful
+2025-07-25 11:40:07,922 - INFO - Processing 11/20: contents/Ancestries.md
+2025-07-25 11:40:07,922 - INFO - Syncing: contents/Ancestries.md
+2025-07-25 11:40:08,105 - INFO - Successfully synced: contents/Ancestries.md -> ..\..\04-RESOURCES\dh-srd\dh-Ancestries.md
+2025-07-25 11:40:08,106 - INFO - Processing 12/20: contents/Leveling Up.md
+2025-07-25 11:40:08,106 - INFO - Syncing: contents/Leveling Up.md
+2025-07-25 11:40:08,324 - INFO - Successfully synced: contents/Leveling Up.md -> ..\..\04-RESOURCES\dh-srd\dh-Leveling-Up.md
+2025-07-25 11:40:08,325 - INFO - Processing 13/20: classes/Guardian.md
+2025-07-25 11:40:08,325 - INFO - Syncing: classes/Guardian.md
+2025-07-25 11:40:08,511 - INFO - Successfully synced: classes/Guardian.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Guardian.md
+2025-07-25 11:40:08,511 - INFO - Processing 14/20: classes/Rogue.md
+2025-07-25 11:40:08,511 - INFO - Syncing: classes/Rogue.md
+2025-07-25 11:40:08,724 - INFO - Successfully synced: classes/Rogue.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Rogue.md
+2025-07-25 11:40:08,724 - INFO - Processing 15/20: classes/Wizard.md
+2025-07-25 11:40:08,724 - INFO - Syncing: classes/Wizard.md
+2025-07-25 11:40:08,976 - INFO - Successfully synced: classes/Wizard.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Wizard.md
+2025-07-25 11:40:08,977 - INFO - Processing 16/20: classes/Ranger.md
+2025-07-25 11:40:08,978 - INFO - Syncing: classes/Ranger.md
+2025-07-25 11:40:09,224 - INFO - Successfully synced: classes/Ranger.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Ranger.md
+2025-07-25 11:40:09,225 - INFO - Processing 17/20: classes/Sorcerer.md
+2025-07-25 11:40:09,226 - INFO - Syncing: classes/Sorcerer.md
+2025-07-25 11:40:09,447 - INFO - Successfully synced: classes/Sorcerer.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Sorcerer.md
+2025-07-25 11:40:09,448 - INFO - Processing 18/20: classes/Seraph.md
+2025-07-25 11:40:09,449 - INFO - Syncing: classes/Seraph.md
+2025-07-25 11:40:09,658 - INFO - Successfully synced: classes/Seraph.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Seraph.md
+2025-07-25 11:40:09,659 - INFO - Processing 19/20: classes/Warrior.md
+2025-07-25 11:40:09,660 - INFO - Syncing: classes/Warrior.md
+2025-07-25 11:40:09,873 - INFO - Successfully synced: classes/Warrior.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Warrior.md
+2025-07-25 11:40:09,874 - INFO - Processing 20/20: classes/Bard.md
+2025-07-25 11:40:09,875 - INFO - Syncing: classes/Bard.md
+2025-07-25 11:40:10,085 - INFO - Successfully synced: classes/Bard.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Bard.md
+2025-07-25 11:40:10,085 - INFO - Progress: 20/20 processed, 20 successful
+2025-07-25 11:40:10,086 - INFO - Sync completed: 20 successful, 0 failed
+2025-07-25 11:40:10,089 - INFO - List of successful files saved to: successful_files_20250725_114010.txt
