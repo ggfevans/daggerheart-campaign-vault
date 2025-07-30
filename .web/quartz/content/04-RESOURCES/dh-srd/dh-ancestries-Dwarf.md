@@ -3,7 +3,7 @@ title: "Dwarf"
 tags: ["daggerheart", "srd", "ancestry"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/ancestries/Dwarf.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:40.708809"
+created: "2025-07-25T11:56:32.738958"
 ---
 
 ﻿# DWARF
@@ -24,5 +24,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `ancestries/Dwarf.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:40
+**Downloaded:** 2025-07-25 11:56:32
 

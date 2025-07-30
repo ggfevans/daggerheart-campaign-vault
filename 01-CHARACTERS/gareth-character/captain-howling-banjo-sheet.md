@@ -160,7 +160,7 @@ Every time Banjo shadow-steps, he experiences horrifying oracle visions:
 1. **Silent Approach**: Use Wildborne Lightfoot + shadow magic for undetected movement
 2. **Impossible Position**: Simian climbing to reach unreachable vantage points
 3. **Oracle-Guided Strike**: Shadow-step enhanced by glimpses of cosmic truth (despite the horrifying cost)
-4. **Precise Elimination**: Returning Blade sneak attack enhanced by Umbra corruption
+4. **Precise Elimination**: Returning Blade sneak attack enhanced by Impossible Position
 5. **Magical Return**: Blade returns to hand automatically after strike
 6. **Vanish**: Escape to new position before enemies can react
 
@@ -188,8 +188,6 @@ Every time Banjo shadow-steps, he experiences horrifying oracle visions:
 - **Sneak Attack**: Extra damage when attacking with advantage
 - **Shadow Mastery**: Enhanced stealth and darkness manipulation through shadow-stepping
 - **Domain Access**: Midnight (shadow magic) + Grace (mobility)
-
-
 
 ## Background & History
 

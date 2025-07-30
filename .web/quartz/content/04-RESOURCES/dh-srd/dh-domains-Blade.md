@@ -3,7 +3,7 @@ title: "Blade"
 tags: ["daggerheart", "srd", "domain"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/domains/Blade.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:45.355063"
+created: "2025-07-25T11:56:34.311037"
 ---
 
 # BLADE
@@ -33,5 +33,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `domains/Blade.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:45
+**Downloaded:** 2025-07-25 11:56:34
 

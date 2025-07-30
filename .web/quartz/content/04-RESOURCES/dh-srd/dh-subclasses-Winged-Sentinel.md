@@ -3,7 +3,7 @@ title: "Winged Sentinel"
 tags: ["daggerheart", "srd", "class"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Winged Sentinel.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:41.492250"
+created: "2025-07-25T11:56:33.045563"
 ---
 
 ﻿# WINGED SENTINEL
@@ -39,5 +39,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `subclasses/Winged Sentinel.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:41
+**Downloaded:** 2025-07-25 11:56:33
 

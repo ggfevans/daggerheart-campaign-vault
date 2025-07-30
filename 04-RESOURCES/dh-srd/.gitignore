@@ -1,6 +1,0 @@
-.DS_Store
-desktop.ini
-.build/images/*
-.build/pages/*
-.build/.env
-.obsidian/workspace.json

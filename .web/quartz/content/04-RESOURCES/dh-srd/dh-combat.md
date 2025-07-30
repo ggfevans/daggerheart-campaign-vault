@@ -3,7 +3,7 @@ title: "Combat"
 tags: ["daggerheart", "srd", "core-rules"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Combat.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:33.110583"
+created: "2025-07-25T11:56:29.908433"
 ---
 
 # COMBAT
@@ -46,5 +46,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `contents/Combat.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:33
+**Downloaded:** 2025-07-25 11:56:29
 

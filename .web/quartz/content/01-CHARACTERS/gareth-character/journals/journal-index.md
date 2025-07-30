@@ -82,9 +82,17 @@ This collection chronicles the personal journey of **[[captain-howling-banjo-she
 **Finding companionship and renewed purpose**
 
 10. **[[entry-10-necessary-monster|Entry 10 - The Necessary Monster (Age 28)]]**
-    - *Meeting companions and finding hope*
-    - **Key Moment**: No longer alone, renewed humor and optimism
-    - **Tone**: Hope, trust, and return of playful nature
+    - *Tracking aetherweave-sensitive person to Last Light, finding companions at Hope's Call*
+    - **Key Moment**: Connection through shared stories and acceptance
+    - **Tone**: Hope, trust, and return of playful nature while maintaining purpose
+
+### **Part V: The Fellowship (Age 28 - Present)**
+**Finding purpose and companions in the fight against cosmic horror**
+
+11. **[[entry-11-last-light-revelations|Entry 11 - The Last Light and Dark Revelations (Age 28)]]**
+    - *Session 1 events: Combat, politics, and terrible revelations about Craven Vakvom*
+    - **Key Moment**: Learning Craven attacked his own son, deciding mission is execution not rescue
+    - **Tone**: Dark humor mixed with team satisfaction and rising stakes
 
 ---
 

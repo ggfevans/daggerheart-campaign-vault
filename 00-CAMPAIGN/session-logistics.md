@@ -25,6 +25,7 @@ heading: Session Logistics
 - Andi
 - Mark
 - Luie
+- Carly
 
 ## 🎮 Platform Requirements
 

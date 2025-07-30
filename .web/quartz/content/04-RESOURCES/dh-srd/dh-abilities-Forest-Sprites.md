@@ -3,7 +3,7 @@ title: "Forest Sprites"
 tags: ["daggerheart", "srd", "ability"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Forest Sprites.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:51.324491"
+created: "2025-07-25T11:56:36.458759"
 ---
 
 ﻿# FOREST SPRITES
@@ -26,5 +26,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `abilities/Forest Sprites.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:51
+**Downloaded:** 2025-07-25 11:56:36
 

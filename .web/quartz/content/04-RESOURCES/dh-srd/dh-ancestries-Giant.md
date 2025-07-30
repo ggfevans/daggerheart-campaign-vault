@@ -3,7 +3,7 @@ title: "Giant"
 tags: ["daggerheart", "srd", "ancestry"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/ancestries/Giant.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:41.899717"
+created: "2025-07-25T11:56:33.197614"
 ---
 
 ﻿# GIANT
@@ -24,5 +24,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `ancestries/Giant.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:41
+**Downloaded:** 2025-07-25 11:56:33
 

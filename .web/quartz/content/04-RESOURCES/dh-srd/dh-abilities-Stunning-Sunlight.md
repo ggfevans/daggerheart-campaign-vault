@@ -3,7 +3,7 @@ title: "Stunning Sunlight"
 tags: ["daggerheart", "srd", "ability"]
 source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Stunning Sunlight.md"
 license: "CC BY 4.0"
-created: "2025-07-25T11:55:50.849770"
+created: "2025-07-25T11:56:36.309206"
 ---
 
 ﻿# STUNNING SUNLIGHT
@@ -23,5 +23,5 @@ This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerhea
 
 **Source:** `abilities/Stunning Sunlight.md`  
 **Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
-**Downloaded:** 2025-07-25 11:55:50
+**Downloaded:** 2025-07-25 11:56:36
 

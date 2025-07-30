@@ -2,7 +2,7 @@ name: Deploy Quartz site
 
 on:
   push:
-    branches: [ master ]
+    branches: [ prod ]
 
 permissions:
   contents: read
