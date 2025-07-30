@@ -1,0 +1,5072 @@
+[
+  {
+    "path": ".build/DH-SRD-1.0-June-26-2025.pdf",
+    "type": "file",
+    "size": 1450492,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/DH-SRD-1.0-June-26-2025.pdf"
+  },
+  {
+    "path": ".build/DH-SRD-May202025.pdf",
+    "type": "file",
+    "size": 1553971,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/DH-SRD-May202025.pdf"
+  },
+  {
+    "path": ".build/Pipfile",
+    "type": "file",
+    "size": 279,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/Pipfile"
+  },
+  {
+    "path": ".build/Pipfile.lock",
+    "type": "file",
+    "size": 63073,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/Pipfile.lock"
+  },
+  {
+    "path": ".build/README.md",
+    "type": "file",
+    "size": 4113,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/README.md"
+  },
+  {
+    "path": ".build/checklinks.py",
+    "type": "file",
+    "size": 2896,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/checklinks.py"
+  },
+  {
+    "path": ".build/checknewlines.py",
+    "type": "file",
+    "size": 768,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/checknewlines.py"
+  },
+  {
+    "path": ".build/csv/abilities.csv",
+    "type": "file",
+    "size": 63675,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/csv/abilities.csv"
+  },
+  {
+    "path": ".build/csv/adversaries.csv",
+    "type": "file",
+    "size": 104835,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/csv/adversaries.csv"
+  },
+  {
+    "path": ".build/csv/ancestries.csv",
+    "type": "file",
+    "size": 18710,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/csv/ancestries.csv"
+  },
+  {
+    "path": ".build/csv/armor.csv",
+    "type": "file",
+    "size": 3074,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/csv/armor.csv"
+  },
+  {
+    "path": ".build/csv/classes.csv",
+    "type": "file",
+    "size": 31194,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/csv/classes.csv"
+  },
+  {
+    "path": ".build/csv/communities.csv",
+    "type": "file",
+    "size": 10039,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/csv/communities.csv"
+  },
+  {
+    "path": ".build/csv/consumables.csv",
+    "type": "file",
+    "size": 7101,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/csv/consumables.csv"
+  },
+  {
+    "path": ".build/csv/domains.csv",
+    "type": "file",
+    "size": 3101,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/csv/domains.csv"
+  },
+  {
+    "path": ".build/csv/environments.csv",
+    "type": "file",
+    "size": 36614,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/csv/environments.csv"
+  },
+  {
+    "path": ".build/csv/items.csv",
+    "type": "file",
+    "size": 9193,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/csv/items.csv"
+  },
+  {
+    "path": ".build/csv/subclasses.csv",
+    "type": "file",
+    "size": 21748,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/csv/subclasses.csv"
+  },
+  {
+    "path": ".build/csv/weapons.csv",
+    "type": "file",
+    "size": 23854,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/csv/weapons.csv"
+  },
+  {
+    "path": ".build/docs/README.md",
+    "type": "file",
+    "size": 15,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/docs/README.md"
+  },
+  {
+    "path": ".build/docs/extra.css",
+    "type": "file",
+    "size": 125,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/docs/extra.css"
+  },
+  {
+    "path": ".build/docs/favicon.png",
+    "type": "file",
+    "size": 10217,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/docs/favicon.png"
+  },
+  {
+    "path": ".build/downify.py",
+    "type": "file",
+    "size": 2349,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/downify.py"
+  },
+  {
+    "path": ".build/json/abilities.json",
+    "type": "file",
+    "size": 83023,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/json/abilities.json"
+  },
+  {
+    "path": ".build/json/adversaries.json",
+    "type": "file",
+    "size": 160886,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/json/adversaries.json"
+  },
+  {
+    "path": ".build/json/ancestries.json",
+    "type": "file",
+    "size": 21680,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/json/ancestries.json"
+  },
+  {
+    "path": ".build/json/armor.json",
+    "type": "file",
+    "size": 7048,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/json/armor.json"
+  },
+  {
+    "path": ".build/json/classes.json",
+    "type": "file",
+    "size": 37436,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/json/classes.json"
+  },
+  {
+    "path": ".build/json/communities.json",
+    "type": "file",
+    "size": 11146,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/json/communities.json"
+  },
+  {
+    "path": ".build/json/consumables.json",
+    "type": "file",
+    "size": 10590,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/json/consumables.json"
+  },
+  {
+    "path": ".build/json/domains.json",
+    "type": "file",
+    "size": 3467,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/json/domains.json"
+  },
+  {
+    "path": ".build/json/environments.json",
+    "type": "file",
+    "size": 43631,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/json/environments.json"
+  },
+  {
+    "path": ".build/json/items.json",
+    "type": "file",
+    "size": 12630,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/json/items.json"
+  },
+  {
+    "path": ".build/json/subclasses.json",
+    "type": "file",
+    "size": 28106,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/json/subclasses.json"
+  },
+  {
+    "path": ".build/json/weapons.json",
+    "type": "file",
+    "size": 60008,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/json/weapons.json"
+  },
+  {
+    "path": ".build/jsonify.py",
+    "type": "file",
+    "size": 3847,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/jsonify.py"
+  },
+  {
+    "path": ".build/md/abilities.md",
+    "type": "file",
+    "size": 114,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/md/abilities.md"
+  },
+  {
+    "path": ".build/md/adversaries.md",
+    "type": "file",
+    "size": 468,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/md/adversaries.md"
+  },
+  {
+    "path": ".build/md/ancestries.md",
+    "type": "file",
+    "size": 136,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/md/ancestries.md"
+  },
+  {
+    "path": ".build/md/armor.md",
+    "type": "file",
+    "size": 219,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/md/armor.md"
+  },
+  {
+    "path": ".build/md/classes.md",
+    "type": "file",
+    "size": 1154,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/md/classes.md"
+  },
+  {
+    "path": ".build/md/communities.md",
+    "type": "file",
+    "size": 150,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/md/communities.md"
+  },
+  {
+    "path": ".build/md/consumables.md",
+    "type": "file",
+    "size": 51,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/md/consumables.md"
+  },
+  {
+    "path": ".build/md/environments.md",
+    "type": "file",
+    "size": 289,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/md/environments.md"
+  },
+  {
+    "path": ".build/md/items.md",
+    "type": "file",
+    "size": 45,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/md/items.md"
+  },
+  {
+    "path": ".build/md/subclasses.md",
+    "type": "file",
+    "size": 576,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/md/subclasses.md"
+  },
+  {
+    "path": ".build/md/weapons.md",
+    "type": "file",
+    "size": 269,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/md/weapons.md"
+  },
+  {
+    "path": ".build/mkdocs.yml",
+    "type": "file",
+    "size": 307,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/mkdocs.yml"
+  },
+  {
+    "path": ".build/parsepages.py",
+    "type": "file",
+    "size": 8041,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.build/parsepages.py"
+  },
+  {
+    "path": ".github/workflows/ci.yml",
+    "type": "file",
+    "size": 789,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.github/workflows/ci.yml"
+  },
+  {
+    "path": ".gitignore",
+    "type": "file",
+    "size": 90,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.gitignore"
+  },
+  {
+    "path": ".obsidian/app.json",
+    "type": "file",
+    "size": 31,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.obsidian/app.json"
+  },
+  {
+    "path": ".obsidian/appearance.json",
+    "type": "file",
+    "size": 58,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.obsidian/appearance.json"
+  },
+  {
+    "path": ".obsidian/core-plugins.json",
+    "type": "file",
+    "size": 658,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.obsidian/core-plugins.json"
+  },
+  {
+    "path": ".obsidian/graph.json",
+    "type": "file",
+    "size": 511,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.obsidian/graph.json"
+  },
+  {
+    "path": ".obsidian/themes/Blue Topaz/manifest.json",
+    "type": "file",
+    "size": 167,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.obsidian/themes/Blue%20Topaz/manifest.json"
+  },
+  {
+    "path": ".obsidian/themes/Blue Topaz/theme.css",
+    "type": "file",
+    "size": 1249387,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/.obsidian/themes/Blue%20Topaz/theme.css"
+  },
+  {
+    "path": "LICENSE",
+    "type": "file",
+    "size": 594,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/LICENSE"
+  },
+  {
+    "path": "README.md",
+    "type": "file",
+    "size": 3196,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/README.md"
+  },
+  {
+    "path": "abilities/A Soldiers Bond.md",
+    "type": "file",
+    "size": 198,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/A%20Soldiers%20Bond.md"
+  },
+  {
+    "path": "abilities/Adjust Reality.md",
+    "type": "file",
+    "size": 276,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Adjust%20Reality.md"
+  },
+  {
+    "path": "abilities/Arcana-Touched.md",
+    "type": "file",
+    "size": 290,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Arcana-Touched.md"
+  },
+  {
+    "path": "abilities/Arcane Reflection.md",
+    "type": "file",
+    "size": 262,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Arcane%20Reflection.md"
+  },
+  {
+    "path": "abilities/Armorer.md",
+    "type": "file",
+    "size": 244,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Armorer.md"
+  },
+  {
+    "path": "abilities/Astral Projection.md",
+    "type": "file",
+    "size": 459,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Astral%20Projection.md"
+  },
+  {
+    "path": "abilities/Banish.md",
+    "type": "file",
+    "size": 554,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Banish.md"
+  },
+  {
+    "path": "abilities/Bare Bones.md",
+    "type": "file",
+    "size": 288,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Bare%20Bones.md"
+  },
+  {
+    "path": "abilities/Battle Cry.md",
+    "type": "file",
+    "size": 353,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Battle%20Cry.md"
+  },
+  {
+    "path": "abilities/Battle Monster.md",
+    "type": "file",
+    "size": 294,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Battle%20Monster.md"
+  },
+  {
+    "path": "abilities/Battle-Hardened.md",
+    "type": "file",
+    "size": 178,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Battle-Hardened.md"
+  },
+  {
+    "path": "abilities/Blade-Touched.md",
+    "type": "file",
+    "size": 255,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Blade-Touched.md"
+  },
+  {
+    "path": "abilities/Blink Out.md",
+    "type": "file",
+    "size": 302,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Blink%20Out.md"
+  },
+  {
+    "path": "abilities/Body Basher.md",
+    "type": "file",
+    "size": 233,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Body%20Basher.md"
+  },
+  {
+    "path": "abilities/Bold Presence.md",
+    "type": "file",
+    "size": 319,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Bold%20Presence.md"
+  },
+  {
+    "path": "abilities/Bolt Beacon.md",
+    "type": "file",
+    "size": 348,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Bolt%20Beacon.md"
+  },
+  {
+    "path": "abilities/Bone-Touched.md",
+    "type": "file",
+    "size": 300,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Bone-Touched.md"
+  },
+  {
+    "path": "abilities/Book of Ava.md",
+    "type": "file",
+    "size": 646,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Book%20of%20Ava.md"
+  },
+  {
+    "path": "abilities/Book of Exota.md",
+    "type": "file",
+    "size": 667,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Book%20of%20Exota.md"
+  },
+  {
+    "path": "abilities/Book of Grynn.md",
+    "type": "file",
+    "size": 710,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Book%20of%20Grynn.md"
+  },
+  {
+    "path": "abilities/Book of Homet.md",
+    "type": "file",
+    "size": 502,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Book%20of%20Homet.md"
+  },
+  {
+    "path": "abilities/Book of Illiat.md",
+    "type": "file",
+    "size": 676,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Book%20of%20Illiat.md"
+  },
+  {
+    "path": "abilities/Book of Korvax.md",
+    "type": "file",
+    "size": 613,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Book%20of%20Korvax.md"
+  },
+  {
+    "path": "abilities/Book of Norai.md",
+    "type": "file",
+    "size": 651,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Book%20of%20Norai.md"
+  },
+  {
+    "path": "abilities/Book of Ronin.md",
+    "type": "file",
+    "size": 458,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Book%20of%20Ronin.md"
+  },
+  {
+    "path": "abilities/Book of Sitil.md",
+    "type": "file",
+    "size": 688,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Book%20of%20Sitil.md"
+  },
+  {
+    "path": "abilities/Book of Tyfar.md",
+    "type": "file",
+    "size": 569,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Book%20of%20Tyfar.md"
+  },
+  {
+    "path": "abilities/Book of Vagras.md",
+    "type": "file",
+    "size": 744,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Book%20of%20Vagras.md"
+  },
+  {
+    "path": "abilities/Book of Vyola.md",
+    "type": "file",
+    "size": 507,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Book%20of%20Vyola.md"
+  },
+  {
+    "path": "abilities/Book of Yarrow.md",
+    "type": "file",
+    "size": 381,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Book%20of%20Yarrow.md"
+  },
+  {
+    "path": "abilities/Boost.md",
+    "type": "file",
+    "size": 334,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Boost.md"
+  },
+  {
+    "path": "abilities/Brace.md",
+    "type": "file",
+    "size": 174,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Brace.md"
+  },
+  {
+    "path": "abilities/Breaking Blow.md",
+    "type": "file",
+    "size": 215,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Breaking%20Blow.md"
+  },
+  {
+    "path": "abilities/Chain Lightning.md",
+    "type": "file",
+    "size": 596,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Chain%20Lightning.md"
+  },
+  {
+    "path": "abilities/Champions Edge.md",
+    "type": "file",
+    "size": 359,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Champions%20Edge.md"
+  },
+  {
+    "path": "abilities/Chokehold.md",
+    "type": "file",
+    "size": 326,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Chokehold.md"
+  },
+  {
+    "path": "abilities/Cinder Grasp.md",
+    "type": "file",
+    "size": 376,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Cinder%20Grasp.md"
+  },
+  {
+    "path": "abilities/Cloaking Blast.md",
+    "type": "file",
+    "size": 404,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Cloaking%20Blast.md"
+  },
+  {
+    "path": "abilities/Codex-Touched.md",
+    "type": "file",
+    "size": 346,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Codex-Touched.md"
+  },
+  {
+    "path": "abilities/Confusing Aura.md",
+    "type": "file",
+    "size": 568,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Confusing%20Aura.md"
+  },
+  {
+    "path": "abilities/Conjure Swarm.md",
+    "type": "file",
+    "size": 441,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Conjure%20Swarm.md"
+  },
+  {
+    "path": "abilities/Conjured Steeds.md",
+    "type": "file",
+    "size": 485,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Conjured%20Steeds.md"
+  },
+  {
+    "path": "abilities/Copycat.md",
+    "type": "file",
+    "size": 335,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Copycat.md"
+  },
+  {
+    "path": "abilities/Corrosive Projectile.md",
+    "type": "file",
+    "size": 393,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Corrosive%20Projectile.md"
+  },
+  {
+    "path": "abilities/Counterspell.md",
+    "type": "file",
+    "size": 276,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Counterspell.md"
+  },
+  {
+    "path": "abilities/Critical Inspiration.md",
+    "type": "file",
+    "size": 206,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Critical%20Inspiration.md"
+  },
+  {
+    "path": "abilities/Cruel Precision.md",
+    "type": "file",
+    "size": 196,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Cruel%20Precision.md"
+  },
+  {
+    "path": "abilities/Dark Whispers.md",
+    "type": "file",
+    "size": 508,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Dark%20Whispers.md"
+  },
+  {
+    "path": "abilities/Deadly Focus.md",
+    "type": "file",
+    "size": 262,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Deadly%20Focus.md"
+  },
+  {
+    "path": "abilities/Death Grip.md",
+    "type": "file",
+    "size": 554,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Death%20Grip.md"
+  },
+  {
+    "path": "abilities/Deathrun.md",
+    "type": "file",
+    "size": 658,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Deathrun.md"
+  },
+  {
+    "path": "abilities/Deft Deceiver.md",
+    "type": "file",
+    "size": 177,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Deft%20Deceiver.md"
+  },
+  {
+    "path": "abilities/Deft Maneuvers.md",
+    "type": "file",
+    "size": 324,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Deft%20Maneuvers.md"
+  },
+  {
+    "path": "abilities/Disintegration Wave.md",
+    "type": "file",
+    "size": 343,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Disintegration%20Wave.md"
+  },
+  {
+    "path": "abilities/Divination.md",
+    "type": "file",
+    "size": 310,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Divination.md"
+  },
+  {
+    "path": "abilities/Earthquake.md",
+    "type": "file",
+    "size": 514,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Earthquake.md"
+  },
+  {
+    "path": "abilities/Eclipse.md",
+    "type": "file",
+    "size": 548,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Eclipse.md"
+  },
+  {
+    "path": "abilities/Encore.md",
+    "type": "file",
+    "size": 331,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Encore.md"
+  },
+  {
+    "path": "abilities/Endless Charisma.md",
+    "type": "file",
+    "size": 193,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Endless%20Charisma.md"
+  },
+  {
+    "path": "abilities/Enrapture.md",
+    "type": "file",
+    "size": 413,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Enrapture.md"
+  },
+  {
+    "path": "abilities/Falling Sky.md",
+    "type": "file",
+    "size": 285,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Falling%20Sky.md"
+  },
+  {
+    "path": "abilities/Fane of the Wilds.md",
+    "type": "file",
+    "size": 472,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Fane%20of%20the%20Wilds.md"
+  },
+  {
+    "path": "abilities/Ferocity.md",
+    "type": "file",
+    "size": 274,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Ferocity.md"
+  },
+  {
+    "path": "abilities/Final Words.md",
+    "type": "file",
+    "size": 473,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Final%20Words.md"
+  },
+  {
+    "path": "abilities/Flight.md",
+    "type": "file",
+    "size": 355,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Flight.md"
+  },
+  {
+    "path": "abilities/Floating Eye.md",
+    "type": "file",
+    "size": 425,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Floating%20Eye.md"
+  },
+  {
+    "path": "abilities/Forager.md",
+    "type": "file",
+    "size": 512,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Forager.md"
+  },
+  {
+    "path": "abilities/Force of Nature.md",
+    "type": "file",
+    "size": 495,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Force%20of%20Nature.md"
+  },
+  {
+    "path": "abilities/Forceful Push.md",
+    "type": "file",
+    "size": 342,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Forceful%20Push.md"
+  },
+  {
+    "path": "abilities/Forest Sprites.md",
+    "type": "file",
+    "size": 542,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Forest%20Sprites.md"
+  },
+  {
+    "path": "abilities/Fortified Armor.md",
+    "type": "file",
+    "size": 146,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Fortified%20Armor.md"
+  },
+  {
+    "path": "abilities/Frenzy.md",
+    "type": "file",
+    "size": 300,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Frenzy.md"
+  },
+  {
+    "path": "abilities/Full Surge.md",
+    "type": "file",
+    "size": 206,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Full%20Surge.md"
+  },
+  {
+    "path": "abilities/Get Back Up.md",
+    "type": "file",
+    "size": 162,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Get%20Back%20Up.md"
+  },
+  {
+    "path": "abilities/Gifted Tracker.md",
+    "type": "file",
+    "size": 509,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Gifted%20Tracker.md"
+  },
+  {
+    "path": "abilities/Glancing Blow.md",
+    "type": "file",
+    "size": 170,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Glancing%20Blow.md"
+  },
+  {
+    "path": "abilities/Glyph of Nightfall.md",
+    "type": "file",
+    "size": 336,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Glyph%20of%20Nightfall.md"
+  },
+  {
+    "path": "abilities/Goad Them On.md",
+    "type": "file",
+    "size": 322,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Goad%20Them%20On.md"
+  },
+  {
+    "path": "abilities/Gore and Glory.md",
+    "type": "file",
+    "size": 270,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Gore%20and%20Glory.md"
+  },
+  {
+    "path": "abilities/Grace-Touched.md",
+    "type": "file",
+    "size": 370,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Grace-Touched.md"
+  },
+  {
+    "path": "abilities/Ground Pound.md",
+    "type": "file",
+    "size": 359,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Ground%20Pound.md"
+  },
+  {
+    "path": "abilities/Healing Field.md",
+    "type": "file",
+    "size": 351,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Healing%20Field.md"
+  },
+  {
+    "path": "abilities/Healing Hands.md",
+    "type": "file",
+    "size": 381,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Healing%20Hands.md"
+  },
+  {
+    "path": "abilities/Healing Strike.md",
+    "type": "file",
+    "size": 185,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Healing%20Strike.md"
+  },
+  {
+    "path": "abilities/Hold the Line.md",
+    "type": "file",
+    "size": 340,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Hold%20the%20Line.md"
+  },
+  {
+    "path": "abilities/Hush.md",
+    "type": "file",
+    "size": 519,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Hush.md"
+  },
+  {
+    "path": "abilities/Hypnotic Shimmer.md",
+    "type": "file",
+    "size": 427,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Hypnotic%20Shimmer.md"
+  },
+  {
+    "path": "abilities/I Am Your Shield.md",
+    "type": "file",
+    "size": 304,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/I%20Am%20Your%20Shield.md"
+  },
+  {
+    "path": "abilities/I See It Coming.md",
+    "type": "file",
+    "size": 247,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/I%20See%20It%20Coming.md"
+  },
+  {
+    "path": "abilities/Inevitable.md",
+    "type": "file",
+    "size": 136,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Inevitable.md"
+  },
+  {
+    "path": "abilities/Inspirational Words.md",
+    "type": "file",
+    "size": 454,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Inspirational%20Words.md"
+  },
+  {
+    "path": "abilities/Invigoration.md",
+    "type": "file",
+    "size": 310,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Invigoration.md"
+  },
+  {
+    "path": "abilities/Invisibility.md",
+    "type": "file",
+    "size": 598,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Invisibility.md"
+  },
+  {
+    "path": "abilities/Know Thy Enemy.md",
+    "type": "file",
+    "size": 519,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Know%20Thy%20Enemy.md"
+  },
+  {
+    "path": "abilities/Lead by Example.md",
+    "type": "file",
+    "size": 266,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Lead%20by%20Example.md"
+  },
+  {
+    "path": "abilities/Lean on Me.md",
+    "type": "file",
+    "size": 181,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Lean%20on%20Me.md"
+  },
+  {
+    "path": "abilities/Life Ward.md",
+    "type": "file",
+    "size": 370,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Life%20Ward.md"
+  },
+  {
+    "path": "abilities/Manifest Wall.md",
+    "type": "file",
+    "size": 407,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Manifest%20Wall.md"
+  },
+  {
+    "path": "abilities/Mass Disguise.md",
+    "type": "file",
+    "size": 538,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Mass%20Disguise.md"
+  },
+  {
+    "path": "abilities/Mass Enrapture.md",
+    "type": "file",
+    "size": 404,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Mass%20Enrapture.md"
+  },
+  {
+    "path": "abilities/Master of the Craft.md",
+    "type": "file",
+    "size": 231,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Master%20of%20the%20Craft.md"
+  },
+  {
+    "path": "abilities/Mending Touch.md",
+    "type": "file",
+    "size": 476,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Mending%20Touch.md"
+  },
+  {
+    "path": "abilities/Midnight Spirit.md",
+    "type": "file",
+    "size": 535,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Midnight%20Spirit.md"
+  },
+  {
+    "path": "abilities/Midnight-Touched.md",
+    "type": "file",
+    "size": 402,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Midnight-Touched.md"
+  },
+  {
+    "path": "abilities/Natural Familiar.md",
+    "type": "file",
+    "size": 564,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Natural%20Familiar.md"
+  },
+  {
+    "path": "abilities/Natures Tongue.md",
+    "type": "file",
+    "size": 483,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Natures%20Tongue.md"
+  },
+  {
+    "path": "abilities/Never Upstaged.md",
+    "type": "file",
+    "size": 353,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Never%20Upstaged.md"
+  },
+  {
+    "path": "abilities/Night Terror.md",
+    "type": "file",
+    "size": 562,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Night%20Terror.md"
+  },
+  {
+    "path": "abilities/Not Good Enough.md",
+    "type": "file",
+    "size": 135,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Not%20Good%20Enough.md"
+  },
+  {
+    "path": "abilities/Notorious.md",
+    "type": "file",
+    "size": 557,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Notorious.md"
+  },
+  {
+    "path": "abilities/On the Brink.md",
+    "type": "file",
+    "size": 147,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/On%20the%20Brink.md"
+  },
+  {
+    "path": "abilities/Onslaught.md",
+    "type": "file",
+    "size": 484,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Onslaught.md"
+  },
+  {
+    "path": "abilities/Overwhelming Aura.md",
+    "type": "file",
+    "size": 340,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Overwhelming%20Aura.md"
+  },
+  {
+    "path": "abilities/Phantom Retreat.md",
+    "type": "file",
+    "size": 345,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Phantom%20Retreat.md"
+  },
+  {
+    "path": "abilities/Pick and Pull.md",
+    "type": "file",
+    "size": 228,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Pick%20and%20Pull.md"
+  },
+  {
+    "path": "abilities/Plant Dominion.md",
+    "type": "file",
+    "size": 336,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Plant%20Dominion.md"
+  },
+  {
+    "path": "abilities/Premonition.md",
+    "type": "file",
+    "size": 318,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Premonition.md"
+  },
+  {
+    "path": "abilities/Preservation Blast.md",
+    "type": "file",
+    "size": 251,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Preservation%20Blast.md"
+  },
+  {
+    "path": "abilities/Rage Up.md",
+    "type": "file",
+    "size": 215,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Rage%20Up.md"
+  },
+  {
+    "path": "abilities/Rain of Blades.md",
+    "type": "file",
+    "size": 339,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Rain%20of%20Blades.md"
+  },
+  {
+    "path": "abilities/Rapid Riposte.md",
+    "type": "file",
+    "size": 255,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Rapid%20Riposte.md"
+  },
+  {
+    "path": "abilities/Reapers Strike.md",
+    "type": "file",
+    "size": 268,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Reapers%20Strike.md"
+  },
+  {
+    "path": "abilities/Reassurance.md",
+    "type": "file",
+    "size": 258,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Reassurance.md"
+  },
+  {
+    "path": "abilities/Reckless.md",
+    "type": "file",
+    "size": 113,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Reckless.md"
+  },
+  {
+    "path": "abilities/Recovery.md",
+    "type": "file",
+    "size": 186,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Recovery.md"
+  },
+  {
+    "path": "abilities/Redirect.md",
+    "type": "file",
+    "size": 295,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Redirect.md"
+  },
+  {
+    "path": "abilities/Rejuvenation Barrier.md",
+    "type": "file",
+    "size": 449,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Rejuvenation%20Barrier.md"
+  },
+  {
+    "path": "abilities/Restoration.md",
+    "type": "file",
+    "size": 540,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Restoration.md"
+  },
+  {
+    "path": "abilities/Resurrection.md",
+    "type": "file",
+    "size": 346,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Resurrection.md"
+  },
+  {
+    "path": "abilities/Rift Walker.md",
+    "type": "file",
+    "size": 507,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Rift%20Walker.md"
+  },
+  {
+    "path": "abilities/Rise Up.md",
+    "type": "file",
+    "size": 199,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Rise%20Up.md"
+  },
+  {
+    "path": "abilities/Rousing Strike.md",
+    "type": "file",
+    "size": 206,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Rousing%20Strike.md"
+  },
+  {
+    "path": "abilities/Rune Ward.md",
+    "type": "file",
+    "size": 443,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Rune%20Ward.md"
+  },
+  {
+    "path": "abilities/Safe Haven.md",
+    "type": "file",
+    "size": 582,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Safe%20Haven.md"
+  },
+  {
+    "path": "abilities/Sage-Touched.md",
+    "type": "file",
+    "size": 407,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Sage-Touched.md"
+  },
+  {
+    "path": "abilities/Salvation Beam.md",
+    "type": "file",
+    "size": 306,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Salvation%20Beam.md"
+  },
+  {
+    "path": "abilities/Scramble.md",
+    "type": "file",
+    "size": 217,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Scramble.md"
+  },
+  {
+    "path": "abilities/Second Wind.md",
+    "type": "file",
+    "size": 280,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Second%20Wind.md"
+  },
+  {
+    "path": "abilities/Sensory Projection.md",
+    "type": "file",
+    "size": 508,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Sensory%20Projection.md"
+  },
+  {
+    "path": "abilities/Shadowbind.md",
+    "type": "file",
+    "size": 233,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Shadowbind.md"
+  },
+  {
+    "path": "abilities/Shadowhunter.md",
+    "type": "file",
+    "size": 250,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Shadowhunter.md"
+  },
+  {
+    "path": "abilities/Shape Material.md",
+    "type": "file",
+    "size": 395,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Shape%20Material.md"
+  },
+  {
+    "path": "abilities/Share the Burden.md",
+    "type": "file",
+    "size": 369,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Share%20the%20Burden.md"
+  },
+  {
+    "path": "abilities/Shield Aura.md",
+    "type": "file",
+    "size": 411,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Shield%20Aura.md"
+  },
+  {
+    "path": "abilities/Shrug It Off.md",
+    "type": "file",
+    "size": 258,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Shrug%20It%20Off.md"
+  },
+  {
+    "path": "abilities/Sigil of Retribution.md",
+    "type": "file",
+    "size": 534,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Sigil%20of%20Retribution.md"
+  },
+  {
+    "path": "abilities/Signature Move.md",
+    "type": "file",
+    "size": 275,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Signature%20Move.md"
+  },
+  {
+    "path": "abilities/Smite.md",
+    "type": "file",
+    "size": 283,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Smite.md"
+  },
+  {
+    "path": "abilities/Soothing Speech.md",
+    "type": "file",
+    "size": 292,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Soothing%20Speech.md"
+  },
+  {
+    "path": "abilities/Specter of the Dark.md",
+    "type": "file",
+    "size": 331,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Specter%20of%20the%20Dark.md"
+  },
+  {
+    "path": "abilities/Spellcharge.md",
+    "type": "file",
+    "size": 377,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Spellcharge.md"
+  },
+  {
+    "path": "abilities/Splendor-Touched.md",
+    "type": "file",
+    "size": 398,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Splendor-Touched.md"
+  },
+  {
+    "path": "abilities/Splintering Strike.md",
+    "type": "file",
+    "size": 451,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Splintering%20Strike.md"
+  },
+  {
+    "path": "abilities/Stealth Expertise.md",
+    "type": "file",
+    "size": 368,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Stealth%20Expertise.md"
+  },
+  {
+    "path": "abilities/Strategic Approach.md",
+    "type": "file",
+    "size": 524,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Strategic%20Approach.md"
+  },
+  {
+    "path": "abilities/Stunning Sunlight.md",
+    "type": "file",
+    "size": 549,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Stunning%20Sunlight.md"
+  },
+  {
+    "path": "abilities/Support Tank.md",
+    "type": "file",
+    "size": 193,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Support%20Tank.md"
+  },
+  {
+    "path": "abilities/Swift Step.md",
+    "type": "file",
+    "size": 168,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Swift%20Step.md"
+  },
+  {
+    "path": "abilities/Tactician.md",
+    "type": "file",
+    "size": 254,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Tactician.md"
+  },
+  {
+    "path": "abilities/Telekinesis.md",
+    "type": "file",
+    "size": 455,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Telekinesis.md"
+  },
+  {
+    "path": "abilities/Teleport.md",
+    "type": "file",
+    "size": 663,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Teleport.md"
+  },
+  {
+    "path": "abilities/Tell No Lies.md",
+    "type": "file",
+    "size": 451,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Tell%20No%20Lies.md"
+  },
+  {
+    "path": "abilities/Tempest.md",
+    "type": "file",
+    "size": 582,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Tempest.md"
+  },
+  {
+    "path": "abilities/Thorn Skin.md",
+    "type": "file",
+    "size": 508,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Thorn%20Skin.md"
+  },
+  {
+    "path": "abilities/Thought Delver.md",
+    "type": "file",
+    "size": 389,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Thought%20Delver.md"
+  },
+  {
+    "path": "abilities/Through Your Eyes.md",
+    "type": "file",
+    "size": 301,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Through%20Your%20Eyes.md"
+  },
+  {
+    "path": "abilities/Towering Stalk.md",
+    "type": "file",
+    "size": 476,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Towering%20Stalk.md"
+  },
+  {
+    "path": "abilities/Transcendent Union.md",
+    "type": "file",
+    "size": 306,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Transcendent%20Union.md"
+  },
+  {
+    "path": "abilities/Troublemaker.md",
+    "type": "file",
+    "size": 299,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Troublemaker.md"
+  },
+  {
+    "path": "abilities/Twilight Toll.md",
+    "type": "file",
+    "size": 482,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Twilight%20Toll.md"
+  },
+  {
+    "path": "abilities/Unbreakable.md",
+    "type": "file",
+    "size": 246,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Unbreakable.md"
+  },
+  {
+    "path": "abilities/Uncanny Disguise.md",
+    "type": "file",
+    "size": 501,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Uncanny%20Disguise.md"
+  },
+  {
+    "path": "abilities/Unleash Chaos.md",
+    "type": "file",
+    "size": 574,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Unleash%20Chaos.md"
+  },
+  {
+    "path": "abilities/Untouchable.md",
+    "type": "file",
+    "size": 126,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Untouchable.md"
+  },
+  {
+    "path": "abilities/Unyielding Armor.md",
+    "type": "file",
+    "size": 244,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Unyielding%20Armor.md"
+  },
+  {
+    "path": "abilities/Valor-Touched.md",
+    "type": "file",
+    "size": 300,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Valor-Touched.md"
+  },
+  {
+    "path": "abilities/Vanishing Dodge.md",
+    "type": "file",
+    "size": 340,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Vanishing%20Dodge.md"
+  },
+  {
+    "path": "abilities/Veil of Night.md",
+    "type": "file",
+    "size": 424,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Veil%20of%20Night.md"
+  },
+  {
+    "path": "abilities/Versatile Fighter.md",
+    "type": "file",
+    "size": 305,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Versatile%20Fighter.md"
+  },
+  {
+    "path": "abilities/Vicious Entangle.md",
+    "type": "file",
+    "size": 387,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Vicious%20Entangle.md"
+  },
+  {
+    "path": "abilities/Vitality.md",
+    "type": "file",
+    "size": 268,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Vitality.md"
+  },
+  {
+    "path": "abilities/Voice of Reason.md",
+    "type": "file",
+    "size": 393,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Voice%20of%20Reason.md"
+  },
+  {
+    "path": "abilities/Wall Walk.md",
+    "type": "file",
+    "size": 248,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Wall%20Walk.md"
+  },
+  {
+    "path": "abilities/Whirlwind.md",
+    "type": "file",
+    "size": 317,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Whirlwind.md"
+  },
+  {
+    "path": "abilities/Wild Fortress.md",
+    "type": "file",
+    "size": 530,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Wild%20Fortress.md"
+  },
+  {
+    "path": "abilities/Wild Surge.md",
+    "type": "file",
+    "size": 538,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Wild%20Surge.md"
+  },
+  {
+    "path": "abilities/Words of Discord.md",
+    "type": "file",
+    "size": 447,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Words%20of%20Discord.md"
+  },
+  {
+    "path": "abilities/Wrangle.md",
+    "type": "file",
+    "size": 256,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Wrangle.md"
+  },
+  {
+    "path": "abilities/Zone of Protection.md",
+    "type": "file",
+    "size": 514,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/abilities/Zone%20of%20Protection.md"
+  },
+  {
+    "path": "adversaries/Acid Burrower.md",
+    "type": "file",
+    "size": 1391,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Acid%20Burrower.md"
+  },
+  {
+    "path": "adversaries/Adult Flickerfly.md",
+    "type": "file",
+    "size": 1855,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Adult%20Flickerfly.md"
+  },
+  {
+    "path": "adversaries/Apprentice Assassin.md",
+    "type": "file",
+    "size": 825,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Apprentice%20Assassin.md"
+  },
+  {
+    "path": "adversaries/Arch-Necromancer.md",
+    "type": "file",
+    "size": 1630,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Arch-Necromancer.md"
+  },
+  {
+    "path": "adversaries/Archer Guard.md",
+    "type": "file",
+    "size": 641,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Archer%20Guard.md"
+  },
+  {
+    "path": "adversaries/Archer Squadron.md",
+    "type": "file",
+    "size": 964,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Archer%20Squadron.md"
+  },
+  {
+    "path": "adversaries/Assassin Poisoner.md",
+    "type": "file",
+    "size": 799,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Assassin%20Poisoner.md"
+  },
+  {
+    "path": "adversaries/Battle Box.md",
+    "type": "file",
+    "size": 2079,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Battle%20Box.md"
+  },
+  {
+    "path": "adversaries/Bear.md",
+    "type": "file",
+    "size": 774,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Bear.md"
+  },
+  {
+    "path": "adversaries/Bladed Guard.md",
+    "type": "file",
+    "size": 924,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Bladed%20Guard.md"
+  },
+  {
+    "path": "adversaries/Brawny Zombie.md",
+    "type": "file",
+    "size": 979,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Brawny%20Zombie.md"
+  },
+  {
+    "path": "adversaries/Cave Ogre.md",
+    "type": "file",
+    "size": 1075,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Cave%20Ogre.md"
+  },
+  {
+    "path": "adversaries/Chaos Skull.md",
+    "type": "file",
+    "size": 913,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Chaos%20Skull.md"
+  },
+  {
+    "path": "adversaries/Conscript.md",
+    "type": "file",
+    "size": 753,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Conscript.md"
+  },
+  {
+    "path": "adversaries/Construct.md",
+    "type": "file",
+    "size": 1239,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Construct.md"
+  },
+  {
+    "path": "adversaries/Courtesan.md",
+    "type": "file",
+    "size": 687,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Courtesan.md"
+  },
+  {
+    "path": "adversaries/Courtier.md",
+    "type": "file",
+    "size": 757,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Courtier.md"
+  },
+  {
+    "path": "adversaries/Cult Adept.md",
+    "type": "file",
+    "size": 1109,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Cult%20Adept.md"
+  },
+  {
+    "path": "adversaries/Cult Fang.md",
+    "type": "file",
+    "size": 761,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Cult%20Fang.md"
+  },
+  {
+    "path": "adversaries/Cult Initiate.md",
+    "type": "file",
+    "size": 797,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Cult%20Initiate.md"
+  },
+  {
+    "path": "adversaries/Deeproot Defender.md",
+    "type": "file",
+    "size": 701,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Deeproot%20Defender.md"
+  },
+  {
+    "path": "adversaries/Demon of Avarice.md",
+    "type": "file",
+    "size": 1002,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Demon%20of%20Avarice.md"
+  },
+  {
+    "path": "adversaries/Demon of Despair.md",
+    "type": "file",
+    "size": 925,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Demon%20of%20Despair.md"
+  },
+  {
+    "path": "adversaries/Demon of Hubris.md",
+    "type": "file",
+    "size": 1096,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Demon%20of%20Hubris.md"
+  },
+  {
+    "path": "adversaries/Demon of Jealousy.md",
+    "type": "file",
+    "size": 1089,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Demon%20of%20Jealousy.md"
+  },
+  {
+    "path": "adversaries/Demon of Wrath.md",
+    "type": "file",
+    "size": 986,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Demon%20of%20Wrath.md"
+  },
+  {
+    "path": "adversaries/Demonic Hound Pack.md",
+    "type": "file",
+    "size": 761,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Demonic%20Hound%20Pack.md"
+  },
+  {
+    "path": "adversaries/Dire Bat.md",
+    "type": "file",
+    "size": 791,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Dire%20Bat.md"
+  },
+  {
+    "path": "adversaries/Dire Wolf.md",
+    "type": "file",
+    "size": 772,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Dire%20Wolf.md"
+  },
+  {
+    "path": "adversaries/Dryad.md",
+    "type": "file",
+    "size": 1009,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Dryad.md"
+  },
+  {
+    "path": "adversaries/Electric Eels.md",
+    "type": "file",
+    "size": 621,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Electric%20Eels.md"
+  },
+  {
+    "path": "adversaries/Elemental Spark.md",
+    "type": "file",
+    "size": 752,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Elemental%20Spark.md"
+  },
+  {
+    "path": "adversaries/Elite Soldier.md",
+    "type": "file",
+    "size": 749,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Elite%20Soldier.md"
+  },
+  {
+    "path": "adversaries/Failed Experiment.md",
+    "type": "file",
+    "size": 703,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Failed%20Experiment.md"
+  },
+  {
+    "path": "adversaries/Fallen Shock Troop.md",
+    "type": "file",
+    "size": 892,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Fallen%20Shock%20Troop.md"
+  },
+  {
+    "path": "adversaries/Fallen Sorcerer.md",
+    "type": "file",
+    "size": 1337,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Fallen%20Sorcerer.md"
+  },
+  {
+    "path": "adversaries/Fallen Warlord Realm-Breaker.md",
+    "type": "file",
+    "size": 1894,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Fallen%20Warlord%20Realm-Breaker.md"
+  },
+  {
+    "path": "adversaries/Fallen Warlord Undefeated Champion.md",
+    "type": "file",
+    "size": 1720,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Fallen%20Warlord%20Undefeated%20Champion.md"
+  },
+  {
+    "path": "adversaries/Giant Beastmaster.md",
+    "type": "file",
+    "size": 973,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Giant%20Beastmaster.md"
+  },
+  {
+    "path": "adversaries/Giant Brawler.md",
+    "type": "file",
+    "size": 1048,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Giant%20Brawler.md"
+  },
+  {
+    "path": "adversaries/Giant Eagle.md",
+    "type": "file",
+    "size": 1254,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Giant%20Eagle.md"
+  },
+  {
+    "path": "adversaries/Giant Mosquitoes.md",
+    "type": "file",
+    "size": 740,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Giant%20Mosquitoes.md"
+  },
+  {
+    "path": "adversaries/Giant Rat.md",
+    "type": "file",
+    "size": 784,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Giant%20Rat.md"
+  },
+  {
+    "path": "adversaries/Giant Recruit.md",
+    "type": "file",
+    "size": 770,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Giant%20Recruit.md"
+  },
+  {
+    "path": "adversaries/Giant Scorpion.md",
+    "type": "file",
+    "size": 901,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Giant%20Scorpion.md"
+  },
+  {
+    "path": "adversaries/Glass Snake.md",
+    "type": "file",
+    "size": 1133,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Glass%20Snake.md"
+  },
+  {
+    "path": "adversaries/Gorgon.md",
+    "type": "file",
+    "size": 1495,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Gorgon.md"
+  },
+  {
+    "path": "adversaries/Greater Earth Elemental.md",
+    "type": "file",
+    "size": 1555,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Greater%20Earth%20Elemental.md"
+  },
+  {
+    "path": "adversaries/Greater Water Elemental.md",
+    "type": "file",
+    "size": 971,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Greater%20Water%20Elemental.md"
+  },
+  {
+    "path": "adversaries/Green Ooze.md",
+    "type": "file",
+    "size": 1371,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Green%20Ooze.md"
+  },
+  {
+    "path": "adversaries/Hallowed Archer.md",
+    "type": "file",
+    "size": 504,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Hallowed%20Archer.md"
+  },
+  {
+    "path": "adversaries/Hallowed Soldier.md",
+    "type": "file",
+    "size": 931,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Hallowed%20Soldier.md"
+  },
+  {
+    "path": "adversaries/Harrier.md",
+    "type": "file",
+    "size": 667,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Harrier.md"
+  },
+  {
+    "path": "adversaries/Head Guard.md",
+    "type": "file",
+    "size": 953,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Head%20Guard.md"
+  },
+  {
+    "path": "adversaries/Head Vampire.md",
+    "type": "file",
+    "size": 1064,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Head%20Vampire.md"
+  },
+  {
+    "path": "adversaries/High Seraph.md",
+    "type": "file",
+    "size": 1534,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/High%20Seraph.md"
+  },
+  {
+    "path": "adversaries/Huge Green Ooze.md",
+    "type": "file",
+    "size": 1436,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Huge%20Green%20Ooze.md"
+  },
+  {
+    "path": "adversaries/Hydra.md",
+    "type": "file",
+    "size": 1031,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Hydra.md"
+  },
+  {
+    "path": "adversaries/Jagged Knife Bandit.md",
+    "type": "file",
+    "size": 584,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Jagged%20Knife%20Bandit.md"
+  },
+  {
+    "path": "adversaries/Jagged Knife Hexer.md",
+    "type": "file",
+    "size": 753,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Jagged%20Knife%20Hexer.md"
+  },
+  {
+    "path": "adversaries/Jagged Knife Kneebreaker.md",
+    "type": "file",
+    "size": 790,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Jagged%20Knife%20Kneebreaker.md"
+  },
+  {
+    "path": "adversaries/Jagged Knife Lackey.md",
+    "type": "file",
+    "size": 816,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Jagged%20Knife%20Lackey.md"
+  },
+  {
+    "path": "adversaries/Jagged Knife Lieutenant.md",
+    "type": "file",
+    "size": 883,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Jagged%20Knife%20Lieutenant.md"
+  },
+  {
+    "path": "adversaries/Jagged Knife Shadow.md",
+    "type": "file",
+    "size": 660,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Jagged%20Knife%20Shadow.md"
+  },
+  {
+    "path": "adversaries/Jagged Knife Sniper.md",
+    "type": "file",
+    "size": 510,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Jagged%20Knife%20Sniper.md"
+  },
+  {
+    "path": "adversaries/Juvenile Flickerfly.md",
+    "type": "file",
+    "size": 1424,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Juvenile%20Flickerfly.md"
+  },
+  {
+    "path": "adversaries/Knight of the Realm.md",
+    "type": "file",
+    "size": 1031,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Knight%20of%20the%20Realm.md"
+  },
+  {
+    "path": "adversaries/Kraken.md",
+    "type": "file",
+    "size": 1478,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Kraken.md"
+  },
+  {
+    "path": "adversaries/Masked Thief.md",
+    "type": "file",
+    "size": 927,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Masked%20Thief.md"
+  },
+  {
+    "path": "adversaries/Master Assassin.md",
+    "type": "file",
+    "size": 905,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Master%20Assassin.md"
+  },
+  {
+    "path": "adversaries/Merchant Baron.md",
+    "type": "file",
+    "size": 775,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Merchant%20Baron.md"
+  },
+  {
+    "path": "adversaries/Merchant.md",
+    "type": "file",
+    "size": 762,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Merchant.md"
+  },
+  {
+    "path": "adversaries/Minor Chaos Elemental.md",
+    "type": "file",
+    "size": 1001,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Minor%20Chaos%20Elemental.md"
+  },
+  {
+    "path": "adversaries/Minor Demon.md",
+    "type": "file",
+    "size": 1102,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Minor%20Demon.md"
+  },
+  {
+    "path": "adversaries/Minor Fire Elemental.md",
+    "type": "file",
+    "size": 1264,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Minor%20Fire%20Elemental.md"
+  },
+  {
+    "path": "adversaries/Minor Treant.md",
+    "type": "file",
+    "size": 763,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Minor%20Treant.md"
+  },
+  {
+    "path": "adversaries/Minotaur Wrecker.md",
+    "type": "file",
+    "size": 1057,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Minotaur%20Wrecker.md"
+  },
+  {
+    "path": "adversaries/Monarch.md",
+    "type": "file",
+    "size": 1039,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Monarch.md"
+  },
+  {
+    "path": "adversaries/Mortal Hunter.md",
+    "type": "file",
+    "size": 1229,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Mortal%20Hunter.md"
+  },
+  {
+    "path": "adversaries/Oak Treant.md",
+    "type": "file",
+    "size": 1029,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Oak%20Treant.md"
+  },
+  {
+    "path": "adversaries/Oracle of Doom.md",
+    "type": "file",
+    "size": 1468,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Oracle%20of%20Doom.md"
+  },
+  {
+    "path": "adversaries/Outer Realms Abomination.md",
+    "type": "file",
+    "size": 1198,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Outer%20Realms%20Abomination.md"
+  },
+  {
+    "path": "adversaries/Outer Realms Corrupter.md",
+    "type": "file",
+    "size": 642,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Outer%20Realms%20Corrupter.md"
+  },
+  {
+    "path": "adversaries/Outer Realms Thrall.md",
+    "type": "file",
+    "size": 801,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Outer%20Realms%20Thrall.md"
+  },
+  {
+    "path": "adversaries/Patchwork Zombie Hulk.md",
+    "type": "file",
+    "size": 1042,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Patchwork%20Zombie%20Hulk.md"
+  },
+  {
+    "path": "adversaries/Perfected Zombie.md",
+    "type": "file",
+    "size": 853,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Perfected%20Zombie.md"
+  },
+  {
+    "path": "adversaries/Petty Noble.md",
+    "type": "file",
+    "size": 868,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Petty%20Noble.md"
+  },
+  {
+    "path": "adversaries/Pirate Captain.md",
+    "type": "file",
+    "size": 1063,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Pirate%20Captain.md"
+  },
+  {
+    "path": "adversaries/Pirate Raiders.md",
+    "type": "file",
+    "size": 598,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Pirate%20Raiders.md"
+  },
+  {
+    "path": "adversaries/Pirate Tough.md",
+    "type": "file",
+    "size": 697,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Pirate%20Tough.md"
+  },
+  {
+    "path": "adversaries/Red Ooze.md",
+    "type": "file",
+    "size": 979,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Red%20Ooze.md"
+  },
+  {
+    "path": "adversaries/Rotted Zombie.md",
+    "type": "file",
+    "size": 751,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Rotted%20Zombie.md"
+  },
+  {
+    "path": "adversaries/Royal Advisor.md",
+    "type": "file",
+    "size": 994,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Royal%20Advisor.md"
+  },
+  {
+    "path": "adversaries/Secret-Keeper.md",
+    "type": "file",
+    "size": 1098,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Secret-Keeper.md"
+  },
+  {
+    "path": "adversaries/Sellsword.md",
+    "type": "file",
+    "size": 751,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Sellsword.md"
+  },
+  {
+    "path": "adversaries/Shambling Zombie.md",
+    "type": "file",
+    "size": 601,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Shambling%20Zombie.md"
+  },
+  {
+    "path": "adversaries/Shark.md",
+    "type": "file",
+    "size": 983,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Shark.md"
+  },
+  {
+    "path": "adversaries/Siren.md",
+    "type": "file",
+    "size": 916,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Siren.md"
+  },
+  {
+    "path": "adversaries/Skeleton Archer.md",
+    "type": "file",
+    "size": 610,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Skeleton%20Archer.md"
+  },
+  {
+    "path": "adversaries/Skeleton Dredge.md",
+    "type": "file",
+    "size": 746,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Skeleton%20Dredge.md"
+  },
+  {
+    "path": "adversaries/Skeleton Knight.md",
+    "type": "file",
+    "size": 879,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Skeleton%20Knight.md"
+  },
+  {
+    "path": "adversaries/Skeleton Warrior.md",
+    "type": "file",
+    "size": 541,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Skeleton%20Warrior.md"
+  },
+  {
+    "path": "adversaries/Spectral Archer.md",
+    "type": "file",
+    "size": 728,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Spectral%20Archer.md"
+  },
+  {
+    "path": "adversaries/Spectral Captain.md",
+    "type": "file",
+    "size": 947,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Spectral%20Captain.md"
+  },
+  {
+    "path": "adversaries/Spectral Guardian.md",
+    "type": "file",
+    "size": 693,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Spectral%20Guardian.md"
+  },
+  {
+    "path": "adversaries/Spellblade.md",
+    "type": "file",
+    "size": 890,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Spellblade.md"
+  },
+  {
+    "path": "adversaries/Spy.md",
+    "type": "file",
+    "size": 720,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Spy.md"
+  },
+  {
+    "path": "adversaries/Stag Knight.md",
+    "type": "file",
+    "size": 930,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Stag%20Knight.md"
+  },
+  {
+    "path": "adversaries/Stonewraith.md",
+    "type": "file",
+    "size": 1148,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Stonewraith.md"
+  },
+  {
+    "path": "adversaries/Swarm of Rats.md",
+    "type": "file",
+    "size": 581,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Swarm%20of%20Rats.md"
+  },
+  {
+    "path": "adversaries/Sylvan Soldier.md",
+    "type": "file",
+    "size": 919,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Sylvan%20Soldier.md"
+  },
+  {
+    "path": "adversaries/Tangle Bramble Swarm.md",
+    "type": "file",
+    "size": 1161,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Tangle%20Bramble%20Swarm.md"
+  },
+  {
+    "path": "adversaries/Tangle Bramble.md",
+    "type": "file",
+    "size": 1042,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Tangle%20Bramble.md"
+  },
+  {
+    "path": "adversaries/Tiny Green Ooze.md",
+    "type": "file",
+    "size": 541,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Tiny%20Green%20Ooze.md"
+  },
+  {
+    "path": "adversaries/Tiny Red Ooze.md",
+    "type": "file",
+    "size": 410,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Tiny%20Red%20Ooze.md"
+  },
+  {
+    "path": "adversaries/Treant Sapling.md",
+    "type": "file",
+    "size": 761,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Treant%20Sapling.md"
+  },
+  {
+    "path": "adversaries/Vampire.md",
+    "type": "file",
+    "size": 687,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Vampire.md"
+  },
+  {
+    "path": "adversaries/Vault Guardian Gaoler.md",
+    "type": "file",
+    "size": 793,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Vault%20Guardian%20Gaoler.md"
+  },
+  {
+    "path": "adversaries/Vault Guardian Sentinel.md",
+    "type": "file",
+    "size": 1144,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Vault%20Guardian%20Sentinel.md"
+  },
+  {
+    "path": "adversaries/Vault Guardian Turret.md",
+    "type": "file",
+    "size": 1313,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Vault%20Guardian%20Turret.md"
+  },
+  {
+    "path": "adversaries/Volcanic Dragon Ashen Tyrant.md",
+    "type": "file",
+    "size": 1977,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Volcanic%20Dragon%20Ashen%20Tyrant.md"
+  },
+  {
+    "path": "adversaries/Volcanic Dragon Molten Scourge.md",
+    "type": "file",
+    "size": 1765,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Volcanic%20Dragon%20Molten%20Scourge.md"
+  },
+  {
+    "path": "adversaries/Volcanic Dragon Obsidian Predator.md",
+    "type": "file",
+    "size": 1148,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Volcanic%20Dragon%20Obsidian%20Predator.md"
+  },
+  {
+    "path": "adversaries/War Wizard.md",
+    "type": "file",
+    "size": 1430,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/War%20Wizard.md"
+  },
+  {
+    "path": "adversaries/Weaponmaster.md",
+    "type": "file",
+    "size": 773,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Weaponmaster.md"
+  },
+  {
+    "path": "adversaries/Young Dryad.md",
+    "type": "file",
+    "size": 860,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Young%20Dryad.md"
+  },
+  {
+    "path": "adversaries/Young Ice Dragon.md",
+    "type": "file",
+    "size": 1877,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Young%20Ice%20Dragon.md"
+  },
+  {
+    "path": "adversaries/Zombie Legion.md",
+    "type": "file",
+    "size": 800,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Zombie%20Legion.md"
+  },
+  {
+    "path": "adversaries/Zombie Pack.md",
+    "type": "file",
+    "size": 600,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/adversaries/Zombie%20Pack.md"
+  },
+  {
+    "path": "ancestries/Clank.md",
+    "type": "file",
+    "size": 1364,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Clank.md"
+  },
+  {
+    "path": "ancestries/Drakona.md",
+    "type": "file",
+    "size": 1158,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Drakona.md"
+  },
+  {
+    "path": "ancestries/Dwarf.md",
+    "type": "file",
+    "size": 938,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Dwarf.md"
+  },
+  {
+    "path": "ancestries/Elf.md",
+    "type": "file",
+    "size": 1247,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Elf.md"
+  },
+  {
+    "path": "ancestries/Faerie.md",
+    "type": "file",
+    "size": 1146,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Faerie.md"
+  },
+  {
+    "path": "ancestries/Faun.md",
+    "type": "file",
+    "size": 1260,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Faun.md"
+  },
+  {
+    "path": "ancestries/Firbolg.md",
+    "type": "file",
+    "size": 1216,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Firbolg.md"
+  },
+  {
+    "path": "ancestries/Fungril.md",
+    "type": "file",
+    "size": 1071,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Fungril.md"
+  },
+  {
+    "path": "ancestries/Galapa.md",
+    "type": "file",
+    "size": 1027,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Galapa.md"
+  },
+  {
+    "path": "ancestries/Giant.md",
+    "type": "file",
+    "size": 840,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Giant.md"
+  },
+  {
+    "path": "ancestries/Goblin.md",
+    "type": "file",
+    "size": 948,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Goblin.md"
+  },
+  {
+    "path": "ancestries/Halfling.md",
+    "type": "file",
+    "size": 833,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Halfling.md"
+  },
+  {
+    "path": "ancestries/Human.md",
+    "type": "file",
+    "size": 734,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Human.md"
+  },
+  {
+    "path": "ancestries/Infernis.md",
+    "type": "file",
+    "size": 1490,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Infernis.md"
+  },
+  {
+    "path": "ancestries/Katari.md",
+    "type": "file",
+    "size": 1018,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Katari.md"
+  },
+  {
+    "path": "ancestries/Orc.md",
+    "type": "file",
+    "size": 922,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Orc.md"
+  },
+  {
+    "path": "ancestries/Ribbet.md",
+    "type": "file",
+    "size": 1112,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Ribbet.md"
+  },
+  {
+    "path": "ancestries/Simiah.md",
+    "type": "file",
+    "size": 1005,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/ancestries/Simiah.md"
+  },
+  {
+    "path": "armor/Advanced Chainmail Armor.md",
+    "type": "file",
+    "size": 138,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Advanced%20Chainmail%20Armor.md"
+  },
+  {
+    "path": "armor/Advanced Full Plate Armor.md",
+    "type": "file",
+    "size": 159,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Advanced%20Full%20Plate%20Armor.md"
+  },
+  {
+    "path": "armor/Advanced Gambeson Armor.md",
+    "type": "file",
+    "size": 139,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Advanced%20Gambeson%20Armor.md"
+  },
+  {
+    "path": "armor/Advanced Leather Armor.md",
+    "type": "file",
+    "size": 113,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Advanced%20Leather%20Armor.md"
+  },
+  {
+    "path": "armor/Bellamie Fine Armor.md",
+    "type": "file",
+    "size": 135,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Bellamie%20Fine%20Armor.md"
+  },
+  {
+    "path": "armor/Bladefare Armor.md",
+    "type": "file",
+    "size": 173,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Bladefare%20Armor.md"
+  },
+  {
+    "path": "armor/Chainmail Armor.md",
+    "type": "file",
+    "size": 128,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Chainmail%20Armor.md"
+  },
+  {
+    "path": "armor/Channeling Armor.md",
+    "type": "file",
+    "size": 143,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Channeling%20Armor.md"
+  },
+  {
+    "path": "armor/Dragonscale Armor.md",
+    "type": "file",
+    "size": 217,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Dragonscale%20Armor.md"
+  },
+  {
+    "path": "armor/Dunamis Silkchain.md",
+    "type": "file",
+    "size": 229,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Dunamis%20Silkchain.md"
+  },
+  {
+    "path": "armor/Elundrian Chain Armor.md",
+    "type": "file",
+    "size": 220,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Elundrian%20Chain%20Armor.md"
+  },
+  {
+    "path": "armor/Emberwoven Armor.md",
+    "type": "file",
+    "size": 188,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Emberwoven%20Armor.md"
+  },
+  {
+    "path": "armor/Full Fortified Armor.md",
+    "type": "file",
+    "size": 224,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Full%20Fortified%20Armor.md"
+  },
+  {
+    "path": "armor/Full Plate Armor.md",
+    "type": "file",
+    "size": 149,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Full%20Plate%20Armor.md"
+  },
+  {
+    "path": "armor/Gambeson Armor.md",
+    "type": "file",
+    "size": 130,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Gambeson%20Armor.md"
+  },
+  {
+    "path": "armor/Harrowbone Armor.md",
+    "type": "file",
+    "size": 254,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Harrowbone%20Armor.md"
+  },
+  {
+    "path": "armor/Improved Chainmail Armor.md",
+    "type": "file",
+    "size": 138,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Improved%20Chainmail%20Armor.md"
+  },
+  {
+    "path": "armor/Improved Full Plate Armor.md",
+    "type": "file",
+    "size": 159,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Improved%20Full%20Plate%20Armor.md"
+  },
+  {
+    "path": "armor/Improved Gambeson Armor.md",
+    "type": "file",
+    "size": 139,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Improved%20Gambeson%20Armor.md"
+  },
+  {
+    "path": "armor/Improved Leather Armor.md",
+    "type": "file",
+    "size": 112,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Improved%20Leather%20Armor.md"
+  },
+  {
+    "path": "armor/Irontree Breastplate Armor.md",
+    "type": "file",
+    "size": 243,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Irontree%20Breastplate%20Armor.md"
+  },
+  {
+    "path": "armor/Leather Armor.md",
+    "type": "file",
+    "size": 103,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Leather%20Armor.md"
+  },
+  {
+    "path": "armor/Legendary Chainmail Armor.md",
+    "type": "file",
+    "size": 139,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Legendary%20Chainmail%20Armor.md"
+  },
+  {
+    "path": "armor/Legendary Full Plate Armor.md",
+    "type": "file",
+    "size": 160,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Legendary%20Full%20Plate%20Armor.md"
+  },
+  {
+    "path": "armor/Legendary Gambeson Armor.md",
+    "type": "file",
+    "size": 141,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Legendary%20Gambeson%20Armor.md"
+  },
+  {
+    "path": "armor/Legendary Leather Armor.md",
+    "type": "file",
+    "size": 114,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Legendary%20Leather%20Armor.md"
+  },
+  {
+    "path": "armor/Monetts Cloak.md",
+    "type": "file",
+    "size": 174,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Monetts%20Cloak.md"
+  },
+  {
+    "path": "armor/Rosewild Armor.md",
+    "type": "file",
+    "size": 181,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Rosewild%20Armor.md"
+  },
+  {
+    "path": "armor/Runes of Fortification.md",
+    "type": "file",
+    "size": 182,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Runes%20of%20Fortification.md"
+  },
+  {
+    "path": "armor/Runetan Floating Armor.md",
+    "type": "file",
+    "size": 238,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Runetan%20Floating%20Armor.md"
+  },
+  {
+    "path": "armor/Savior Chainmail.md",
+    "type": "file",
+    "size": 159,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Savior%20Chainmail.md"
+  },
+  {
+    "path": "armor/Spiked Plate Armor.md",
+    "type": "file",
+    "size": 207,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Spiked%20Plate%20Armor.md"
+  },
+  {
+    "path": "armor/Tyris Soft Armor.md",
+    "type": "file",
+    "size": 171,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Tyris%20Soft%20Armor.md"
+  },
+  {
+    "path": "armor/Veritas Opal Armor.md",
+    "type": "file",
+    "size": 196,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/armor/Veritas%20Opal%20Armor.md"
+  },
+  {
+    "path": "classes/Bard.md",
+    "type": "file",
+    "size": 2183,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/classes/Bard.md"
+  },
+  {
+    "path": "classes/Druid.md",
+    "type": "file",
+    "size": 15864,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/classes/Druid.md"
+  },
+  {
+    "path": "classes/Guardian.md",
+    "type": "file",
+    "size": 2982,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/classes/Guardian.md"
+  },
+  {
+    "path": "classes/Ranger.md",
+    "type": "file",
+    "size": 2434,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/classes/Ranger.md"
+  },
+  {
+    "path": "classes/Rogue.md",
+    "type": "file",
+    "size": 2604,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/classes/Rogue.md"
+  },
+  {
+    "path": "classes/Seraph.md",
+    "type": "file",
+    "size": 2413,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/classes/Seraph.md"
+  },
+  {
+    "path": "classes/Sorcerer.md",
+    "type": "file",
+    "size": 2426,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/classes/Sorcerer.md"
+  },
+  {
+    "path": "classes/Warrior.md",
+    "type": "file",
+    "size": 2399,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/classes/Warrior.md"
+  },
+  {
+    "path": "classes/Wizard.md",
+    "type": "file",
+    "size": 2547,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/classes/Wizard.md"
+  },
+  {
+    "path": "communities/Highborne.md",
+    "type": "file",
+    "size": 1208,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/communities/Highborne.md"
+  },
+  {
+    "path": "communities/Loreborne.md",
+    "type": "file",
+    "size": 963,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/communities/Loreborne.md"
+  },
+  {
+    "path": "communities/Orderborne.md",
+    "type": "file",
+    "size": 1134,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/communities/Orderborne.md"
+  },
+  {
+    "path": "communities/Ridgeborne.md",
+    "type": "file",
+    "size": 1150,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/communities/Ridgeborne.md"
+  },
+  {
+    "path": "communities/Seaborne.md",
+    "type": "file",
+    "size": 1540,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/communities/Seaborne.md"
+  },
+  {
+    "path": "communities/Slyborne.md",
+    "type": "file",
+    "size": 988,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/communities/Slyborne.md"
+  },
+  {
+    "path": "communities/Underborne.md",
+    "type": "file",
+    "size": 1121,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/communities/Underborne.md"
+  },
+  {
+    "path": "communities/Wanderborne.md",
+    "type": "file",
+    "size": 1166,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/communities/Wanderborne.md"
+  },
+  {
+    "path": "communities/Wildborne.md",
+    "type": "file",
+    "size": 1007,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/communities/Wildborne.md"
+  },
+  {
+    "path": "consumables/Acidpaste.md",
+    "type": "file",
+    "size": 95,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Acidpaste.md"
+  },
+  {
+    "path": "consumables/Armor Stitcher.md",
+    "type": "file",
+    "size": 122,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Armor%20Stitcher.md"
+  },
+  {
+    "path": "consumables/Attune Potion.md",
+    "type": "file",
+    "size": 82,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Attune%20Potion.md"
+  },
+  {
+    "path": "consumables/Blinding Orb.md",
+    "type": "file",
+    "size": 160,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Blinding%20Orb.md"
+  },
+  {
+    "path": "consumables/Blood of the Yorgi.md",
+    "type": "file",
+    "size": 167,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Blood%20of%20the%20Yorgi.md"
+  },
+  {
+    "path": "consumables/Bolster Potion.md",
+    "type": "file",
+    "size": 83,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Bolster%20Potion.md"
+  },
+  {
+    "path": "consumables/Bonding Honey.md",
+    "type": "file",
+    "size": 99,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Bonding%20Honey.md"
+  },
+  {
+    "path": "consumables/Bridge Seed.md",
+    "type": "file",
+    "size": 198,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Bridge%20Seed.md"
+  },
+  {
+    "path": "consumables/Channelstone.md",
+    "type": "file",
+    "size": 143,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Channelstone.md"
+  },
+  {
+    "path": "consumables/Charm Potion.md",
+    "type": "file",
+    "size": 81,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Charm%20Potion.md"
+  },
+  {
+    "path": "consumables/Circle of the Void.md",
+    "type": "file",
+    "size": 196,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Circle%20of%20the%20Void.md"
+  },
+  {
+    "path": "consumables/Control Potion.md",
+    "type": "file",
+    "size": 82,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Control%20Potion.md"
+  },
+  {
+    "path": "consumables/Death Tea.md",
+    "type": "file",
+    "size": 213,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Death%20Tea.md"
+  },
+  {
+    "path": "consumables/Dragonbloom Tea.md",
+    "type": "file",
+    "size": 253,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Dragonbloom%20Tea.md"
+  },
+  {
+    "path": "consumables/Dripfang Poison.md",
+    "type": "file",
+    "size": 104,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Dripfang%20Poison.md"
+  },
+  {
+    "path": "consumables/Enlighten Potion.md",
+    "type": "file",
+    "size": 86,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Enlighten%20Potion.md"
+  },
+  {
+    "path": "consumables/Feast of Xurla.md",
+    "type": "file",
+    "size": 103,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Feast%20of%20Xurla.md"
+  },
+  {
+    "path": "consumables/Featherbone.md",
+    "type": "file",
+    "size": 129,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Featherbone.md"
+  },
+  {
+    "path": "consumables/Gill Salve.md",
+    "type": "file",
+    "size": 136,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Gill%20Salve.md"
+  },
+  {
+    "path": "consumables/Grindeltooth Venom.md",
+    "type": "file",
+    "size": 158,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Grindeltooth%20Venom.md"
+  },
+  {
+    "path": "consumables/Growing Potion.md",
+    "type": "file",
+    "size": 223,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Growing%20Potion.md"
+  },
+  {
+    "path": "consumables/Health Potion.md",
+    "type": "file",
+    "size": 50,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Health%20Potion.md"
+  },
+  {
+    "path": "consumables/Hopehold Flare.md",
+    "type": "file",
+    "size": 237,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Hopehold%20Flare.md"
+  },
+  {
+    "path": "consumables/Hornets Secret Potion.md",
+    "type": "file",
+    "size": 130,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Hornets%20Secret%20Potion.md"
+  },
+  {
+    "path": "consumables/Improved Arcane Shard.md",
+    "type": "file",
+    "size": 186,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Improved%20Arcane%20Shard.md"
+  },
+  {
+    "path": "consumables/Improved Grindeltooth Venom.md",
+    "type": "file",
+    "size": 167,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Improved%20Grindeltooth%20Venom.md"
+  },
+  {
+    "path": "consumables/Jar of Lost Voices.md",
+    "type": "file",
+    "size": 222,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Jar%20of%20Lost%20Voices.md"
+  },
+  {
+    "path": "consumables/Jumping Root.md",
+    "type": "file",
+    "size": 101,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Jumping%20Root.md"
+  },
+  {
+    "path": "consumables/Knowledge Stone.md",
+    "type": "file",
+    "size": 203,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Knowledge%20Stone.md"
+  },
+  {
+    "path": "consumables/Major Arcane Shard.md",
+    "type": "file",
+    "size": 183,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Major%20Arcane%20Shard.md"
+  },
+  {
+    "path": "consumables/Major Attune Potion.md",
+    "type": "file",
+    "size": 99,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Major%20Attune%20Potion.md"
+  },
+  {
+    "path": "consumables/Major Bolster Potion.md",
+    "type": "file",
+    "size": 100,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Major%20Bolster%20Potion.md"
+  },
+  {
+    "path": "consumables/Major Charm Potion.md",
+    "type": "file",
+    "size": 98,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Major%20Charm%20Potion.md"
+  },
+  {
+    "path": "consumables/Major Control Potion.md",
+    "type": "file",
+    "size": 99,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Major%20Control%20Potion.md"
+  },
+  {
+    "path": "consumables/Major Enlighten Potion.md",
+    "type": "file",
+    "size": 103,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Major%20Enlighten%20Potion.md"
+  },
+  {
+    "path": "consumables/Major Health Potion.md",
+    "type": "file",
+    "size": 56,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Major%20Health%20Potion.md"
+  },
+  {
+    "path": "consumables/Major Stamina Potion.md",
+    "type": "file",
+    "size": 61,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Major%20Stamina%20Potion.md"
+  },
+  {
+    "path": "consumables/Major Stride Potion.md",
+    "type": "file",
+    "size": 98,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Major%20Stride%20Potion.md"
+  },
+  {
+    "path": "consumables/Minor Health Potion.md",
+    "type": "file",
+    "size": 54,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Minor%20Health%20Potion.md"
+  },
+  {
+    "path": "consumables/Minor Stamina Potion.md",
+    "type": "file",
+    "size": 59,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Minor%20Stamina%20Potion.md"
+  },
+  {
+    "path": "consumables/Mirror of Marigold.md",
+    "type": "file",
+    "size": 138,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Mirror%20of%20Marigold.md"
+  },
+  {
+    "path": "consumables/Morphing Clay.md",
+    "type": "file",
+    "size": 148,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Morphing%20Clay.md"
+  },
+  {
+    "path": "consumables/Mythic Dust.md",
+    "type": "file",
+    "size": 148,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Mythic%20Dust.md"
+  },
+  {
+    "path": "consumables/Ogre Musk.md",
+    "type": "file",
+    "size": 138,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Ogre%20Musk.md"
+  },
+  {
+    "path": "consumables/Potion of Stability.md",
+    "type": "file",
+    "size": 106,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Potion%20of%20Stability.md"
+  },
+  {
+    "path": "consumables/Redthorn Saliva.md",
+    "type": "file",
+    "size": 157,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Redthorn%20Saliva.md"
+  },
+  {
+    "path": "consumables/Replication Parchment.md",
+    "type": "file",
+    "size": 197,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Replication%20Parchment.md"
+  },
+  {
+    "path": "consumables/Shrinking Potion.md",
+    "type": "file",
+    "size": 227,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Shrinking%20Potion.md"
+  },
+  {
+    "path": "consumables/Sleeping Sap.md",
+    "type": "file",
+    "size": 135,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Sleeping%20Sap.md"
+  },
+  {
+    "path": "consumables/Snap Powder.md",
+    "type": "file",
+    "size": 62,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Snap%20Powder.md"
+  },
+  {
+    "path": "consumables/Stamina Potion.md",
+    "type": "file",
+    "size": 55,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Stamina%20Potion.md"
+  },
+  {
+    "path": "consumables/Stardrop.md",
+    "type": "file",
+    "size": 157,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Stardrop.md"
+  },
+  {
+    "path": "consumables/Stride Potion.md",
+    "type": "file",
+    "size": 81,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Stride%20Potion.md"
+  },
+  {
+    "path": "consumables/Sun Tree Sap.md",
+    "type": "file",
+    "size": 224,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Sun%20Tree%20Sap.md"
+  },
+  {
+    "path": "consumables/Sweet Moss.md",
+    "type": "file",
+    "size": 104,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Sweet%20Moss.md"
+  },
+  {
+    "path": "consumables/Unstable Arcane Shard.md",
+    "type": "file",
+    "size": 186,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Unstable%20Arcane%20Shard.md"
+  },
+  {
+    "path": "consumables/Varik Leaves.md",
+    "type": "file",
+    "size": 93,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Varik%20Leaves.md"
+  },
+  {
+    "path": "consumables/Vial of Darksmoke.md",
+    "type": "file",
+    "size": 189,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Vial%20of%20Darksmoke.md"
+  },
+  {
+    "path": "consumables/Vial of Moondrip.md",
+    "type": "file",
+    "size": 131,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Vial%20of%20Moondrip.md"
+  },
+  {
+    "path": "consumables/Wingsprout.md",
+    "type": "file",
+    "size": 119,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/consumables/Wingsprout.md"
+  },
+  {
+    "path": "contents/Additional GM Guidance.md",
+    "type": "file",
+    "size": 4855,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Additional%20GM%20Guidance.md"
+  },
+  {
+    "path": "contents/Additional Rules.md",
+    "type": "file",
+    "size": 1423,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Additional%20Rules.md"
+  },
+  {
+    "path": "contents/Adversaries.md",
+    "type": "file",
+    "size": 15082,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Adversaries.md"
+  },
+  {
+    "path": "contents/Ancestries.md",
+    "type": "file",
+    "size": 4030,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Ancestries.md"
+  },
+  {
+    "path": "contents/Armor Tables.md",
+    "type": "file",
+    "size": 9615,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Armor%20Tables.md"
+  },
+  {
+    "path": "contents/Armor.md",
+    "type": "file",
+    "size": 1201,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Armor.md"
+  },
+  {
+    "path": "contents/Attacking.md",
+    "type": "file",
+    "size": 3269,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Attacking.md"
+  },
+  {
+    "path": "contents/Campaign Frames.md",
+    "type": "file",
+    "size": 982,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Campaign%20Frames.md"
+  },
+  {
+    "path": "contents/Character Creation.md",
+    "type": "file",
+    "size": 11346,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Character%20Creation.md"
+  },
+  {
+    "path": "contents/Classes.md",
+    "type": "file",
+    "size": 5916,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Classes.md"
+  },
+  {
+    "path": "contents/Combat Wheelchair.md",
+    "type": "file",
+    "size": 6094,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Combat%20Wheelchair.md"
+  },
+  {
+    "path": "contents/Combat.md",
+    "type": "file",
+    "size": 1941,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Combat.md"
+  },
+  {
+    "path": "contents/Communities.md",
+    "type": "file",
+    "size": 918,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Communities.md"
+  },
+  {
+    "path": "contents/Conditions.md",
+    "type": "file",
+    "size": 1711,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Conditions.md"
+  },
+  {
+    "path": "contents/Consumables.md",
+    "type": "file",
+    "size": 19999,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Consumables.md"
+  },
+  {
+    "path": "contents/Core GM Mechanics.md",
+    "type": "file",
+    "size": 29073,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Core%20GM%20Mechanics.md"
+  },
+  {
+    "path": "contents/Core Gameplay Loop.md",
+    "type": "file",
+    "size": 1568,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Core%20Gameplay%20Loop.md"
+  },
+  {
+    "path": "contents/Death.md",
+    "type": "file",
+    "size": 1660,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Death.md"
+  },
+  {
+    "path": "contents/Domain Card Reference.md",
+    "type": "file",
+    "size": 20645,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Domain%20Card%20Reference.md"
+  },
+  {
+    "path": "contents/Domains.md",
+    "type": "file",
+    "size": 483,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Domains.md"
+  },
+  {
+    "path": "contents/Downtime.md",
+    "type": "file",
+    "size": 2775,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Downtime.md"
+  },
+  {
+    "path": "contents/Environments.md",
+    "type": "file",
+    "size": 3861,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Environments.md"
+  },
+  {
+    "path": "contents/Equipment.md",
+    "type": "file",
+    "size": 1001,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Equipment.md"
+  },
+  {
+    "path": "contents/Flow of the Game.md",
+    "type": "file",
+    "size": 1071,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Flow%20of%20the%20Game.md"
+  },
+  {
+    "path": "contents/GM Guidance.md",
+    "type": "file",
+    "size": 3771,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/GM%20Guidance.md"
+  },
+  {
+    "path": "contents/Gold.md",
+    "type": "file",
+    "size": 921,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Gold.md"
+  },
+  {
+    "path": "contents/Leveling Up.md",
+    "type": "file",
+    "size": 3897,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Leveling%20Up.md"
+  },
+  {
+    "path": "contents/Loot.md",
+    "type": "file",
+    "size": 24020,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Loot.md"
+  },
+  {
+    "path": "contents/Making Moves and Taking Action.md",
+    "type": "file",
+    "size": 12488,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Making%20Moves%20and%20Taking%20Action.md"
+  },
+  {
+    "path": "contents/Maps, Range, and Movement.md",
+    "type": "file",
+    "size": 3283,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Maps%2C%20Range%2C%20and%20Movement.md"
+  },
+  {
+    "path": "contents/Multiclassing.md",
+    "type": "file",
+    "size": 700,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Multiclassing.md"
+  },
+  {
+    "path": "contents/Primary Weapon Tables.md",
+    "type": "file",
+    "size": 45470,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Primary%20Weapon%20Tables.md"
+  },
+  {
+    "path": "contents/Secondary Weapon Tables.md",
+    "type": "file",
+    "size": 12650,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Secondary%20Weapon%20Tables.md"
+  },
+  {
+    "path": "contents/Stress.md",
+    "type": "file",
+    "size": 822,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Stress.md"
+  },
+  {
+    "path": "contents/The Basics.md",
+    "type": "file",
+    "size": 3170,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/The%20Basics.md"
+  },
+  {
+    "path": "contents/The Spotlight.md",
+    "type": "file",
+    "size": 548,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/The%20Spotlight.md"
+  },
+  {
+    "path": "contents/Turn Order and Action Economy.md",
+    "type": "file",
+    "size": 1107,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Turn%20Order%20and%20Action%20Economy.md"
+  },
+  {
+    "path": "contents/Weapons.md",
+    "type": "file",
+    "size": 1720,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/Weapons.md"
+  },
+  {
+    "path": "contents/What Is This.md",
+    "type": "file",
+    "size": 1292,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/contents/What%20Is%20This.md"
+  },
+  {
+    "path": "domains/Arcana.md",
+    "type": "file",
+    "size": 2518,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/domains/Arcana.md"
+  },
+  {
+    "path": "domains/Blade.md",
+    "type": "file",
+    "size": 2420,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/domains/Blade.md"
+  },
+  {
+    "path": "domains/Bone.md",
+    "type": "file",
+    "size": 2485,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/domains/Bone.md"
+  },
+  {
+    "path": "domains/Codex.md",
+    "type": "file",
+    "size": 2707,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/domains/Codex.md"
+  },
+  {
+    "path": "domains/Grace.md",
+    "type": "file",
+    "size": 2821,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/domains/Grace.md"
+  },
+  {
+    "path": "domains/Midnight.md",
+    "type": "file",
+    "size": 2762,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/domains/Midnight.md"
+  },
+  {
+    "path": "domains/Sage.md",
+    "type": "file",
+    "size": 2771,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/domains/Sage.md"
+  },
+  {
+    "path": "domains/Splendor.md",
+    "type": "file",
+    "size": 2492,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/domains/Splendor.md"
+  },
+  {
+    "path": "domains/Valor.md",
+    "type": "file",
+    "size": 2724,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/domains/Valor.md"
+  },
+  {
+    "path": "environments/Abandoned Grove.md",
+    "type": "file",
+    "size": 1850,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Abandoned%20Grove.md"
+  },
+  {
+    "path": "environments/Ambushed.md",
+    "type": "file",
+    "size": 540,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Ambushed.md"
+  },
+  {
+    "path": "environments/Ambushers.md",
+    "type": "file",
+    "size": 578,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Ambushers.md"
+  },
+  {
+    "path": "environments/Burning Heart of the Woods.md",
+    "type": "file",
+    "size": 2720,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Burning%20Heart%20of%20the%20Woods.md"
+  },
+  {
+    "path": "environments/Bustling Marketplace.md",
+    "type": "file",
+    "size": 1643,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Bustling%20Marketplace.md"
+  },
+  {
+    "path": "environments/Castle Siege.md",
+    "type": "file",
+    "size": 2081,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Castle%20Siege.md"
+  },
+  {
+    "path": "environments/Chaos Realm.md",
+    "type": "file",
+    "size": 2618,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Chaos%20Realm.md"
+  },
+  {
+    "path": "environments/Cliffside Ascent.md",
+    "type": "file",
+    "size": 1736,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Cliffside%20Ascent.md"
+  },
+  {
+    "path": "environments/Cult Ritual.md",
+    "type": "file",
+    "size": 2281,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Cult%20Ritual.md"
+  },
+  {
+    "path": "environments/Divine Usurpation.md",
+    "type": "file",
+    "size": 3108,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Divine%20Usurpation.md"
+  },
+  {
+    "path": "environments/Hallowed Temple.md",
+    "type": "file",
+    "size": 1999,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Hallowed%20Temple.md"
+  },
+  {
+    "path": "environments/Haunted City.md",
+    "type": "file",
+    "size": 2334,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Haunted%20City.md"
+  },
+  {
+    "path": "environments/Imperial Court.md",
+    "type": "file",
+    "size": 2683,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Imperial%20Court.md"
+  },
+  {
+    "path": "environments/Local Tavern.md",
+    "type": "file",
+    "size": 2259,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Local%20Tavern.md"
+  },
+  {
+    "path": "environments/Mountain Pass.md",
+    "type": "file",
+    "size": 2355,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Mountain%20Pass.md"
+  },
+  {
+    "path": "environments/Necromancers Ossuary.md",
+    "type": "file",
+    "size": 1989,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Necromancers%20Ossuary.md"
+  },
+  {
+    "path": "environments/Outpost Town.md",
+    "type": "file",
+    "size": 2447,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Outpost%20Town.md"
+  },
+  {
+    "path": "environments/Pitched Battle.md",
+    "type": "file",
+    "size": 1882,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Pitched%20Battle.md"
+  },
+  {
+    "path": "environments/Raging River.md",
+    "type": "file",
+    "size": 1459,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/environments/Raging%20River.md"
+  },
+  {
+    "path": "frames/The Witherwild.md",
+    "type": "file",
+    "size": 28259,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/frames/The%20Witherwild.md"
+  },
+  {
+    "path": "items/Airblade Charm.md",
+    "type": "file",
+    "size": 176,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Airblade%20Charm.md"
+  },
+  {
+    "path": "items/Alistairs Torch.md",
+    "type": "file",
+    "size": 178,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Alistairs%20Torch.md"
+  },
+  {
+    "path": "items/Arcane Cloak.md",
+    "type": "file",
+    "size": 129,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Arcane%20Cloak.md"
+  },
+  {
+    "path": "items/Arcane Prism.md",
+    "type": "file",
+    "size": 306,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Arcane%20Prism.md"
+  },
+  {
+    "path": "items/Attune Relic.md",
+    "type": "file",
+    "size": 95,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Attune%20Relic.md"
+  },
+  {
+    "path": "items/Bag of Ficklesand.md",
+    "type": "file",
+    "size": 280,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Bag%20of%20Ficklesand.md"
+  },
+  {
+    "path": "items/Belt of Unity.md",
+    "type": "file",
+    "size": 122,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Belt%20of%20Unity.md"
+  },
+  {
+    "path": "items/Bloodstone.md",
+    "type": "file",
+    "size": 236,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Bloodstone.md"
+  },
+  {
+    "path": "items/Bolster Relic.md",
+    "type": "file",
+    "size": 96,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Bolster%20Relic.md"
+  },
+  {
+    "path": "items/Box of Many Goods.md",
+    "type": "file",
+    "size": 264,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Box%20of%20Many%20Goods.md"
+  },
+  {
+    "path": "items/Calming Pendant.md",
+    "type": "file",
+    "size": 124,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Calming%20Pendant.md"
+  },
+  {
+    "path": "items/Charging Quiver.md",
+    "type": "file",
+    "size": 157,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Charging%20Quiver.md"
+  },
+  {
+    "path": "items/Charm Relic.md",
+    "type": "file",
+    "size": 94,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Charm%20Relic.md"
+  },
+  {
+    "path": "items/Clay Companion.md",
+    "type": "file",
+    "size": 316,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Clay%20Companion.md"
+  },
+  {
+    "path": "items/Companion Case.md",
+    "type": "file",
+    "size": 170,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Companion%20Case.md"
+  },
+  {
+    "path": "items/Control Relic.md",
+    "type": "file",
+    "size": 95,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Control%20Relic.md"
+  },
+  {
+    "path": "items/Corrector Sprite.md",
+    "type": "file",
+    "size": 190,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Corrector%20Sprite.md"
+  },
+  {
+    "path": "items/Dual Flask.md",
+    "type": "file",
+    "size": 144,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Dual%20Flask.md"
+  },
+  {
+    "path": "items/Elusive Amulet.md",
+    "type": "file",
+    "size": 228,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Elusive%20Amulet.md"
+  },
+  {
+    "path": "items/Empty Chest.md",
+    "type": "file",
+    "size": 169,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Empty%20Chest.md"
+  },
+  {
+    "path": "items/Enlighten Relic.md",
+    "type": "file",
+    "size": 99,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Enlighten%20Relic.md"
+  },
+  {
+    "path": "items/Fire Jar.md",
+    "type": "file",
+    "size": 158,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Fire%20Jar.md"
+  },
+  {
+    "path": "items/Flickerfly Pendant.md",
+    "type": "file",
+    "size": 191,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Flickerfly%20Pendant.md"
+  },
+  {
+    "path": "items/Gecko Gloves.md",
+    "type": "file",
+    "size": 83,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Gecko%20Gloves.md"
+  },
+  {
+    "path": "items/Gem of Alacrity.md",
+    "type": "file",
+    "size": 140,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Gem%20of%20Alacrity.md"
+  },
+  {
+    "path": "items/Gem of Audacity.md",
+    "type": "file",
+    "size": 141,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Gem%20of%20Audacity.md"
+  },
+  {
+    "path": "items/Gem of Insight.md",
+    "type": "file",
+    "size": 140,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Gem%20of%20Insight.md"
+  },
+  {
+    "path": "items/Gem of Might.md",
+    "type": "file",
+    "size": 138,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Gem%20of%20Might.md"
+  },
+  {
+    "path": "items/Gem of Precision.md",
+    "type": "file",
+    "size": 141,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Gem%20of%20Precision.md"
+  },
+  {
+    "path": "items/Gem of Sagacity.md",
+    "type": "file",
+    "size": 142,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Gem%20of%20Sagacity.md"
+  },
+  {
+    "path": "items/Glamour Stone.md",
+    "type": "file",
+    "size": 186,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Glamour%20Stone.md"
+  },
+  {
+    "path": "items/Glider.md",
+    "type": "file",
+    "size": 121,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Glider.md"
+  },
+  {
+    "path": "items/Greatstone.md",
+    "type": "file",
+    "size": 243,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Greatstone.md"
+  },
+  {
+    "path": "items/Homing Compasses.md",
+    "type": "file",
+    "size": 109,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Homing%20Compasses.md"
+  },
+  {
+    "path": "items/Honing Relic.md",
+    "type": "file",
+    "size": 110,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Honing%20Relic.md"
+  },
+  {
+    "path": "items/Hopekeeper Locket.md",
+    "type": "file",
+    "size": 283,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Hopekeeper%20Locket.md"
+  },
+  {
+    "path": "items/Infinite Bag.md",
+    "type": "file",
+    "size": 165,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Infinite%20Bag.md"
+  },
+  {
+    "path": "items/Lasketider Boots.md",
+    "type": "file",
+    "size": 95,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Lasketider%20Boots.md"
+  },
+  {
+    "path": "items/Lorekeeper.md",
+    "type": "file",
+    "size": 172,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Lorekeeper.md"
+  },
+  {
+    "path": "items/Manacles.md",
+    "type": "file",
+    "size": 68,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Manacles.md"
+  },
+  {
+    "path": "items/Minor Health Potion Recipe.md",
+    "type": "file",
+    "size": 121,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Minor%20Health%20Potion%20Recipe.md"
+  },
+  {
+    "path": "items/Minor Stamina Potion Recipe.md",
+    "type": "file",
+    "size": 130,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Minor%20Stamina%20Potion%20Recipe.md"
+  },
+  {
+    "path": "items/Mythic Dust Recipe.md",
+    "type": "file",
+    "size": 115,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Mythic%20Dust%20Recipe.md"
+  },
+  {
+    "path": "items/Paragons Chain.md",
+    "type": "file",
+    "size": 268,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Paragons%20Chain.md"
+  },
+  {
+    "path": "items/Phoenix Feather.md",
+    "type": "file",
+    "size": 184,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Phoenix%20Feather.md"
+  },
+  {
+    "path": "items/Piercing Arrows.md",
+    "type": "file",
+    "size": 156,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Piercing%20Arrows.md"
+  },
+  {
+    "path": "items/Piper Whistle.md",
+    "type": "file",
+    "size": 161,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Piper%20Whistle.md"
+  },
+  {
+    "path": "items/Portal Seed.md",
+    "type": "file",
+    "size": 295,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Portal%20Seed.md"
+  },
+  {
+    "path": "items/Premium Bedroll.md",
+    "type": "file",
+    "size": 81,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Premium%20Bedroll.md"
+  },
+  {
+    "path": "items/Ring of Resistance.md",
+    "type": "file",
+    "size": 139,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Ring%20of%20Resistance.md"
+  },
+  {
+    "path": "items/Ring of Silence.md",
+    "type": "file",
+    "size": 114,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Ring%20of%20Silence.md"
+  },
+  {
+    "path": "items/Ring of Unbreakable Resolve.md",
+    "type": "file",
+    "size": 150,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Ring%20of%20Unbreakable%20Resolve.md"
+  },
+  {
+    "path": "items/Shard of Memory.md",
+    "type": "file",
+    "size": 146,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Shard%20of%20Memory.md"
+  },
+  {
+    "path": "items/Skeleton Key.md",
+    "type": "file",
+    "size": 112,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Skeleton%20Key.md"
+  },
+  {
+    "path": "items/Speaking Orbs.md",
+    "type": "file",
+    "size": 132,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Speaking%20Orbs.md"
+  },
+  {
+    "path": "items/Stride Relic.md",
+    "type": "file",
+    "size": 94,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Stride%20Relic.md"
+  },
+  {
+    "path": "items/Suspended Rod.md",
+    "type": "file",
+    "size": 242,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Suspended%20Rod.md"
+  },
+  {
+    "path": "items/Valorstone.md",
+    "type": "file",
+    "size": 288,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Valorstone.md"
+  },
+  {
+    "path": "items/Vial of Darksmoke Recipe.md",
+    "type": "file",
+    "size": 111,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Vial%20of%20Darksmoke%20Recipe.md"
+  },
+  {
+    "path": "items/Woven Net.md",
+    "type": "file",
+    "size": 161,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/items/Woven%20Net.md"
+  },
+  {
+    "path": "subclasses/Beastbound.md",
+    "type": "file",
+    "size": 4769,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Beastbound.md"
+  },
+  {
+    "path": "subclasses/Call of the Brave.md",
+    "type": "file",
+    "size": 925,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Call%20of%20the%20Brave.md"
+  },
+  {
+    "path": "subclasses/Call of the Slayer.md",
+    "type": "file",
+    "size": 1375,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Call%20of%20the%20Slayer.md"
+  },
+  {
+    "path": "subclasses/Divine Wielder.md",
+    "type": "file",
+    "size": 1013,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Divine%20Wielder.md"
+  },
+  {
+    "path": "subclasses/Elemental Origin.md",
+    "type": "file",
+    "size": 1230,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Elemental%20Origin.md"
+  },
+  {
+    "path": "subclasses/Nightwalker.md",
+    "type": "file",
+    "size": 1285,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Nightwalker.md"
+  },
+  {
+    "path": "subclasses/Primal Origin.md",
+    "type": "file",
+    "size": 1377,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Primal%20Origin.md"
+  },
+  {
+    "path": "subclasses/School of Knowledge.md",
+    "type": "file",
+    "size": 940,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/School%20of%20Knowledge.md"
+  },
+  {
+    "path": "subclasses/School of War.md",
+    "type": "file",
+    "size": 945,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/School%20of%20War.md"
+  },
+  {
+    "path": "subclasses/Stalwart.md",
+    "type": "file",
+    "size": 808,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Stalwart.md"
+  },
+  {
+    "path": "subclasses/Syndicate.md",
+    "type": "file",
+    "size": 1547,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Syndicate.md"
+  },
+  {
+    "path": "subclasses/Troubadour.md",
+    "type": "file",
+    "size": 907,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Troubadour.md"
+  },
+  {
+    "path": "subclasses/Vengeance.md",
+    "type": "file",
+    "size": 793,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Vengeance.md"
+  },
+  {
+    "path": "subclasses/Warden of Renewal.md",
+    "type": "file",
+    "size": 1028,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Warden%20of%20Renewal.md"
+  },
+  {
+    "path": "subclasses/Warden of the Elements.md",
+    "type": "file",
+    "size": 1820,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Warden%20of%20the%20Elements.md"
+  },
+  {
+    "path": "subclasses/Wayfinder.md",
+    "type": "file",
+    "size": 900,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Wayfinder.md"
+  },
+  {
+    "path": "subclasses/Winged Sentinel.md",
+    "type": "file",
+    "size": 902,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Winged%20Sentinel.md"
+  },
+  {
+    "path": "subclasses/Wordsmith.md",
+    "type": "file",
+    "size": 981,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/subclasses/Wordsmith.md"
+  },
+  {
+    "path": "weapons/Aantari Bow.md",
+    "type": "file",
+    "size": 176,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Aantari%20Bow.md"
+  },
+  {
+    "path": "weapons/Advanced Arcane Gauntlets.md",
+    "type": "file",
+    "size": 162,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Arcane%20Gauntlets.md"
+  },
+  {
+    "path": "weapons/Advanced Battleaxe.md",
+    "type": "file",
+    "size": 155,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Battleaxe.md"
+  },
+  {
+    "path": "weapons/Advanced Broadsword.md",
+    "type": "file",
+    "size": 185,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Broadsword.md"
+  },
+  {
+    "path": "weapons/Advanced Crossbow.md",
+    "type": "file",
+    "size": 150,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Crossbow.md"
+  },
+  {
+    "path": "weapons/Advanced Cutlass.md",
+    "type": "file",
+    "size": 152,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Cutlass.md"
+  },
+  {
+    "path": "weapons/Advanced Dagger.md",
+    "type": "file",
+    "size": 150,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Dagger.md"
+  },
+  {
+    "path": "weapons/Advanced Dualstaff.md",
+    "type": "file",
+    "size": 152,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Dualstaff.md"
+  },
+  {
+    "path": "weapons/Advanced Glowing Rings.md",
+    "type": "file",
+    "size": 163,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Glowing%20Rings.md"
+  },
+  {
+    "path": "weapons/Advanced Grappler.md",
+    "type": "file",
+    "size": 230,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Grappler.md"
+  },
+  {
+    "path": "weapons/Advanced Greatstaff.md",
+    "type": "file",
+    "size": 256,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Greatstaff.md"
+  },
+  {
+    "path": "weapons/Advanced Greatsword.md",
+    "type": "file",
+    "size": 267,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Greatsword.md"
+  },
+  {
+    "path": "weapons/Advanced Halberd.md",
+    "type": "file",
+    "size": 186,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Halberd.md"
+  },
+  {
+    "path": "weapons/Advanced Hallowed Axe.md",
+    "type": "file",
+    "size": 157,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Hallowed%20Axe.md"
+  },
+  {
+    "path": "weapons/Advanced Hand Crossbow.md",
+    "type": "file",
+    "size": 157,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Hand%20Crossbow.md"
+  },
+  {
+    "path": "weapons/Advanced Hand Runes.md",
+    "type": "file",
+    "size": 161,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Hand%20Runes.md"
+  },
+  {
+    "path": "weapons/Advanced Longbow.md",
+    "type": "file",
+    "size": 182,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Longbow.md"
+  },
+  {
+    "path": "weapons/Advanced Longsword.md",
+    "type": "file",
+    "size": 154,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Longsword.md"
+  },
+  {
+    "path": "weapons/Advanced Mace.md",
+    "type": "file",
+    "size": 149,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Mace.md"
+  },
+  {
+    "path": "weapons/Advanced Quarterstaff.md",
+    "type": "file",
+    "size": 158,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Quarterstaff.md"
+  },
+  {
+    "path": "weapons/Advanced Rapier.md",
+    "type": "file",
+    "size": 248,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Rapier.md"
+  },
+  {
+    "path": "weapons/Advanced Returning Blade.md",
+    "type": "file",
+    "size": 271,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Returning%20Blade.md"
+  },
+  {
+    "path": "weapons/Advanced Round Shield.md",
+    "type": "file",
+    "size": 191,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Round%20Shield.md"
+  },
+  {
+    "path": "weapons/Advanced Scepter.md",
+    "type": "file",
+    "size": 239,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Scepter.md"
+  },
+  {
+    "path": "weapons/Advanced Shortbow.md",
+    "type": "file",
+    "size": 150,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Shortbow.md"
+  },
+  {
+    "path": "weapons/Advanced Shortstaff.md",
+    "type": "file",
+    "size": 155,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Shortstaff.md"
+  },
+  {
+    "path": "weapons/Advanced Shortsword.md",
+    "type": "file",
+    "size": 224,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Shortsword.md"
+  },
+  {
+    "path": "weapons/Advanced Small Dagger.md",
+    "type": "file",
+    "size": 226,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Small%20Dagger.md"
+  },
+  {
+    "path": "weapons/Advanced Spear.md",
+    "type": "file",
+    "size": 154,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Spear.md"
+  },
+  {
+    "path": "weapons/Advanced Tower Shield.md",
+    "type": "file",
+    "size": 205,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Tower%20Shield.md"
+  },
+  {
+    "path": "weapons/Advanced Wand.md",
+    "type": "file",
+    "size": 148,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Wand.md"
+  },
+  {
+    "path": "weapons/Advanced Warhammer.md",
+    "type": "file",
+    "size": 178,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Warhammer.md"
+  },
+  {
+    "path": "weapons/Advanced Whip.md",
+    "type": "file",
+    "size": 267,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Advanced%20Whip.md"
+  },
+  {
+    "path": "weapons/Arcane Gauntlets.md",
+    "type": "file",
+    "size": 153,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Arcane%20Gauntlets.md"
+  },
+  {
+    "path": "weapons/Axe of Fortunis.md",
+    "type": "file",
+    "size": 226,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Axe%20of%20Fortunis.md"
+  },
+  {
+    "path": "weapons/Battleaxe.md",
+    "type": "file",
+    "size": 146,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Battleaxe.md"
+  },
+  {
+    "path": "weapons/Black Powder Revolver.md",
+    "type": "file",
+    "size": 297,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Black%20Powder%20Revolver.md"
+  },
+  {
+    "path": "weapons/Bladed Whip.md",
+    "type": "file",
+    "size": 248,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Bladed%20Whip.md"
+  },
+  {
+    "path": "weapons/Blessed Anlace.md",
+    "type": "file",
+    "size": 212,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Blessed%20Anlace.md"
+  },
+  {
+    "path": "weapons/Bloodstaff.md",
+    "type": "file",
+    "size": 220,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Bloodstaff.md"
+  },
+  {
+    "path": "weapons/Blunderbuss.md",
+    "type": "file",
+    "size": 289,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Blunderbuss.md"
+  },
+  {
+    "path": "weapons/Braveshield.md",
+    "type": "file",
+    "size": 284,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Braveshield.md"
+  },
+  {
+    "path": "weapons/Bravesword.md",
+    "type": "file",
+    "size": 201,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Bravesword.md"
+  },
+  {
+    "path": "weapons/Broadsword.md",
+    "type": "file",
+    "size": 174,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Broadsword.md"
+  },
+  {
+    "path": "weapons/Buckler.md",
+    "type": "file",
+    "size": 296,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Buckler.md"
+  },
+  {
+    "path": "weapons/Casting Sword.md",
+    "type": "file",
+    "size": 238,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Casting%20Sword.md"
+  },
+  {
+    "path": "weapons/Crossbow.md",
+    "type": "file",
+    "size": 141,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Crossbow.md"
+  },
+  {
+    "path": "weapons/Curved Dagger.md",
+    "type": "file",
+    "size": 222,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Curved%20Dagger.md"
+  },
+  {
+    "path": "weapons/Cutlass.md",
+    "type": "file",
+    "size": 143,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Cutlass.md"
+  },
+  {
+    "path": "weapons/Dagger.md",
+    "type": "file",
+    "size": 141,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Dagger.md"
+  },
+  {
+    "path": "weapons/Devouring Dagger.md",
+    "type": "file",
+    "size": 215,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Devouring%20Dagger.md"
+  },
+  {
+    "path": "weapons/Double Flail.md",
+    "type": "file",
+    "size": 250,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Double%20Flail.md"
+  },
+  {
+    "path": "weapons/Dual-Ended Sword.md",
+    "type": "file",
+    "size": 249,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Dual-Ended%20Sword.md"
+  },
+  {
+    "path": "weapons/Dualstaff.md",
+    "type": "file",
+    "size": 143,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Dualstaff.md"
+  },
+  {
+    "path": "weapons/Ego Blade.md",
+    "type": "file",
+    "size": 215,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Ego%20Blade.md"
+  },
+  {
+    "path": "weapons/Elder Bow.md",
+    "type": "file",
+    "size": 240,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Elder%20Bow.md"
+  },
+  {
+    "path": "weapons/Extended Polearm.md",
+    "type": "file",
+    "size": 236,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Extended%20Polearm.md"
+  },
+  {
+    "path": "weapons/Finehair Bow.md",
+    "type": "file",
+    "size": 181,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Finehair%20Bow.md"
+  },
+  {
+    "path": "weapons/Firestaff.md",
+    "type": "file",
+    "size": 220,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Firestaff.md"
+  },
+  {
+    "path": "weapons/Flickerfly Blade.md",
+    "type": "file",
+    "size": 222,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Flickerfly%20Blade.md"
+  },
+  {
+    "path": "weapons/Floating Bladeshards.md",
+    "type": "file",
+    "size": 253,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Floating%20Bladeshards.md"
+  },
+  {
+    "path": "weapons/Fusion Gloves.md",
+    "type": "file",
+    "size": 218,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Fusion%20Gloves.md"
+  },
+  {
+    "path": "weapons/Ghostblade.md",
+    "type": "file",
+    "size": 233,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Ghostblade.md"
+  },
+  {
+    "path": "weapons/Gilded Bow.md",
+    "type": "file",
+    "size": 224,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Gilded%20Bow.md"
+  },
+  {
+    "path": "weapons/Gilded Falchion.md",
+    "type": "file",
+    "size": 249,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Gilded%20Falchion.md"
+  },
+  {
+    "path": "weapons/Glowing Rings.md",
+    "type": "file",
+    "size": 154,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Glowing%20Rings.md"
+  },
+  {
+    "path": "weapons/Grappler.md",
+    "type": "file",
+    "size": 219,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Grappler.md"
+  },
+  {
+    "path": "weapons/Greatbow.md",
+    "type": "file",
+    "size": 239,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Greatbow.md"
+  },
+  {
+    "path": "weapons/Greatstaff.md",
+    "type": "file",
+    "size": 245,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Greatstaff.md"
+  },
+  {
+    "path": "weapons/Greatsword.md",
+    "type": "file",
+    "size": 258,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Greatsword.md"
+  },
+  {
+    "path": "weapons/Halberd.md",
+    "type": "file",
+    "size": 177,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Halberd.md"
+  },
+  {
+    "path": "weapons/Hallowed Axe.md",
+    "type": "file",
+    "size": 148,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Hallowed%20Axe.md"
+  },
+  {
+    "path": "weapons/Hammer of Exota.md",
+    "type": "file",
+    "size": 327,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Hammer%20of%20Exota.md"
+  },
+  {
+    "path": "weapons/Hammer of Wrath.md",
+    "type": "file",
+    "size": 254,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Hammer%20of%20Wrath.md"
+  },
+  {
+    "path": "weapons/Hand Cannon.md",
+    "type": "file",
+    "size": 283,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Hand%20Cannon.md"
+  },
+  {
+    "path": "weapons/Hand Crossbow.md",
+    "type": "file",
+    "size": 148,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Hand%20Crossbow.md"
+  },
+  {
+    "path": "weapons/Hand Runes.md",
+    "type": "file",
+    "size": 150,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Hand%20Runes.md"
+  },
+  {
+    "path": "weapons/Hand Sling.md",
+    "type": "file",
+    "size": 240,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Hand%20Sling.md"
+  },
+  {
+    "path": "weapons/Ilmaris Rifle.md",
+    "type": "file",
+    "size": 295,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Ilmaris%20Rifle.md"
+  },
+  {
+    "path": "weapons/Impact Gauntlet.md",
+    "type": "file",
+    "size": 251,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Impact%20Gauntlet.md"
+  },
+  {
+    "path": "weapons/Improved Arcane Gauntlets.md",
+    "type": "file",
+    "size": 162,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Arcane%20Gauntlets.md"
+  },
+  {
+    "path": "weapons/Improved Battleaxe.md",
+    "type": "file",
+    "size": 155,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Battleaxe.md"
+  },
+  {
+    "path": "weapons/Improved Broadsword.md",
+    "type": "file",
+    "size": 185,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Broadsword.md"
+  },
+  {
+    "path": "weapons/Improved Crossbow.md",
+    "type": "file",
+    "size": 150,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Crossbow.md"
+  },
+  {
+    "path": "weapons/Improved Cutlass.md",
+    "type": "file",
+    "size": 152,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Cutlass.md"
+  },
+  {
+    "path": "weapons/Improved Dagger.md",
+    "type": "file",
+    "size": 150,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Dagger.md"
+  },
+  {
+    "path": "weapons/Improved Dualstaff.md",
+    "type": "file",
+    "size": 152,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Dualstaff.md"
+  },
+  {
+    "path": "weapons/Improved Glowing Rings.md",
+    "type": "file",
+    "size": 163,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Glowing%20Rings.md"
+  },
+  {
+    "path": "weapons/Improved Grappler.md",
+    "type": "file",
+    "size": 230,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Grappler.md"
+  },
+  {
+    "path": "weapons/Improved Greatstaff.md",
+    "type": "file",
+    "size": 256,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Greatstaff.md"
+  },
+  {
+    "path": "weapons/Improved Greatsword.md",
+    "type": "file",
+    "size": 267,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Greatsword.md"
+  },
+  {
+    "path": "weapons/Improved Halberd.md",
+    "type": "file",
+    "size": 186,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Halberd.md"
+  },
+  {
+    "path": "weapons/Improved Hallowed Axe.md",
+    "type": "file",
+    "size": 157,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Hallowed%20Axe.md"
+  },
+  {
+    "path": "weapons/Improved Hand Crossbow.md",
+    "type": "file",
+    "size": 157,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Hand%20Crossbow.md"
+  },
+  {
+    "path": "weapons/Improved Hand Runes.md",
+    "type": "file",
+    "size": 161,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Hand%20Runes.md"
+  },
+  {
+    "path": "weapons/Improved Longbow.md",
+    "type": "file",
+    "size": 182,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Longbow.md"
+  },
+  {
+    "path": "weapons/Improved Longsword.md",
+    "type": "file",
+    "size": 154,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Longsword.md"
+  },
+  {
+    "path": "weapons/Improved Mace.md",
+    "type": "file",
+    "size": 149,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Mace.md"
+  },
+  {
+    "path": "weapons/Improved Quarterstaff.md",
+    "type": "file",
+    "size": 158,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Quarterstaff.md"
+  },
+  {
+    "path": "weapons/Improved Rapier.md",
+    "type": "file",
+    "size": 248,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Rapier.md"
+  },
+  {
+    "path": "weapons/Improved Returning Blade.md",
+    "type": "file",
+    "size": 271,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Returning%20Blade.md"
+  },
+  {
+    "path": "weapons/Improved Round Shield.md",
+    "type": "file",
+    "size": 191,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Round%20Shield.md"
+  },
+  {
+    "path": "weapons/Improved Scepter.md",
+    "type": "file",
+    "size": 239,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Scepter.md"
+  },
+  {
+    "path": "weapons/Improved Shortbow.md",
+    "type": "file",
+    "size": 150,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Shortbow.md"
+  },
+  {
+    "path": "weapons/Improved Shortstaff.md",
+    "type": "file",
+    "size": 155,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Shortstaff.md"
+  },
+  {
+    "path": "weapons/Improved Shortsword.md",
+    "type": "file",
+    "size": 224,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Shortsword.md"
+  },
+  {
+    "path": "weapons/Improved Small Dagger.md",
+    "type": "file",
+    "size": 226,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Small%20Dagger.md"
+  },
+  {
+    "path": "weapons/Improved Spear.md",
+    "type": "file",
+    "size": 154,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Spear.md"
+  },
+  {
+    "path": "weapons/Improved Tower Shield.md",
+    "type": "file",
+    "size": 203,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Tower%20Shield.md"
+  },
+  {
+    "path": "weapons/Improved Wand.md",
+    "type": "file",
+    "size": 148,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Wand.md"
+  },
+  {
+    "path": "weapons/Improved Warhammer.md",
+    "type": "file",
+    "size": 178,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Warhammer.md"
+  },
+  {
+    "path": "weapons/Improved Whip.md",
+    "type": "file",
+    "size": 267,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Improved%20Whip.md"
+  },
+  {
+    "path": "weapons/Keepers Staff.md",
+    "type": "file",
+    "size": 182,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Keepers%20Staff.md"
+  },
+  {
+    "path": "weapons/Knuckle Blades.md",
+    "type": "file",
+    "size": 241,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Knuckle%20Blades.md"
+  },
+  {
+    "path": "weapons/Knuckle Claws.md",
+    "type": "file",
+    "size": 273,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Knuckle%20Claws.md"
+  },
+  {
+    "path": "weapons/Labrys Axe.md",
+    "type": "file",
+    "size": 179,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Labrys%20Axe.md"
+  },
+  {
+    "path": "weapons/Legendary Arcane Gauntlets.md",
+    "type": "file",
+    "size": 164,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Arcane%20Gauntlets.md"
+  },
+  {
+    "path": "weapons/Legendary Battleaxe.md",
+    "type": "file",
+    "size": 157,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Battleaxe.md"
+  },
+  {
+    "path": "weapons/Legendary Broadsword.md",
+    "type": "file",
+    "size": 186,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Broadsword.md"
+  },
+  {
+    "path": "weapons/Legendary Crossbow.md",
+    "type": "file",
+    "size": 152,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Crossbow.md"
+  },
+  {
+    "path": "weapons/Legendary Cutlass.md",
+    "type": "file",
+    "size": 154,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Cutlass.md"
+  },
+  {
+    "path": "weapons/Legendary Dagger.md",
+    "type": "file",
+    "size": 152,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Dagger.md"
+  },
+  {
+    "path": "weapons/Legendary Dualstaff.md",
+    "type": "file",
+    "size": 154,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Dualstaff.md"
+  },
+  {
+    "path": "weapons/Legendary Glowing Rings.md",
+    "type": "file",
+    "size": 165,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Glowing%20Rings.md"
+  },
+  {
+    "path": "weapons/Legendary Grappler.md",
+    "type": "file",
+    "size": 231,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Grappler.md"
+  },
+  {
+    "path": "weapons/Legendary Greatstaff.md",
+    "type": "file",
+    "size": 257,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Greatstaff.md"
+  },
+  {
+    "path": "weapons/Legendary Greatsword.md",
+    "type": "file",
+    "size": 269,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Greatsword.md"
+  },
+  {
+    "path": "weapons/Legendary Halberd.md",
+    "type": "file",
+    "size": 188,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Halberd.md"
+  },
+  {
+    "path": "weapons/Legendary Hallowed Axe.md",
+    "type": "file",
+    "size": 159,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Hallowed%20Axe.md"
+  },
+  {
+    "path": "weapons/Legendary Hand Crossbow.md",
+    "type": "file",
+    "size": 158,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Hand%20Crossbow.md"
+  },
+  {
+    "path": "weapons/Legendary Hand Runes.md",
+    "type": "file",
+    "size": 162,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Hand%20Runes.md"
+  },
+  {
+    "path": "weapons/Legendary Longbow.md",
+    "type": "file",
+    "size": 184,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Longbow.md"
+  },
+  {
+    "path": "weapons/Legendary Longsword.md",
+    "type": "file",
+    "size": 156,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Longsword.md"
+  },
+  {
+    "path": "weapons/Legendary Mace.md",
+    "type": "file",
+    "size": 151,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Mace.md"
+  },
+  {
+    "path": "weapons/Legendary Quarterstaff.md",
+    "type": "file",
+    "size": 160,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Quarterstaff.md"
+  },
+  {
+    "path": "weapons/Legendary Rapier.md",
+    "type": "file",
+    "size": 249,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Rapier.md"
+  },
+  {
+    "path": "weapons/Legendary Returning Blade.md",
+    "type": "file",
+    "size": 272,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Returning%20Blade.md"
+  },
+  {
+    "path": "weapons/Legendary Round Shield.md",
+    "type": "file",
+    "size": 192,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Round%20Shield.md"
+  },
+  {
+    "path": "weapons/Legendary Scepter.md",
+    "type": "file",
+    "size": 240,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Scepter.md"
+  },
+  {
+    "path": "weapons/Legendary Shortbow.md",
+    "type": "file",
+    "size": 152,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Shortbow.md"
+  },
+  {
+    "path": "weapons/Legendary Shortstaff.md",
+    "type": "file",
+    "size": 157,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Shortstaff.md"
+  },
+  {
+    "path": "weapons/Legendary Shortsword.md",
+    "type": "file",
+    "size": 225,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Shortsword.md"
+  },
+  {
+    "path": "weapons/Legendary Small Dagger.md",
+    "type": "file",
+    "size": 227,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Small%20Dagger.md"
+  },
+  {
+    "path": "weapons/Legendary Spear.md",
+    "type": "file",
+    "size": 156,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Spear.md"
+  },
+  {
+    "path": "weapons/Legendary Tower Shield.md",
+    "type": "file",
+    "size": 207,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Tower%20Shield.md"
+  },
+  {
+    "path": "weapons/Legendary Wand.md",
+    "type": "file",
+    "size": 150,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Wand.md"
+  },
+  {
+    "path": "weapons/Legendary Warhammer.md",
+    "type": "file",
+    "size": 180,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Warhammer.md"
+  },
+  {
+    "path": "weapons/Legendary Whip.md",
+    "type": "file",
+    "size": 268,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Legendary%20Whip.md"
+  },
+  {
+    "path": "weapons/Longbow.md",
+    "type": "file",
+    "size": 173,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Longbow.md"
+  },
+  {
+    "path": "weapons/Longsword.md",
+    "type": "file",
+    "size": 145,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Longsword.md"
+  },
+  {
+    "path": "weapons/Mace.md",
+    "type": "file",
+    "size": 140,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Mace.md"
+  },
+  {
+    "path": "weapons/Mage Orb.md",
+    "type": "file",
+    "size": 240,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Mage%20Orb.md"
+  },
+  {
+    "path": "weapons/Magus Revolver.md",
+    "type": "file",
+    "size": 296,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Magus%20Revolver.md"
+  },
+  {
+    "path": "weapons/Meridian Cutlass.md",
+    "type": "file",
+    "size": 281,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Meridian%20Cutlass.md"
+  },
+  {
+    "path": "weapons/Midas Scythe.md",
+    "type": "file",
+    "size": 241,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Midas%20Scythe.md"
+  },
+  {
+    "path": "weapons/Parrying Dagger.md",
+    "type": "file",
+    "size": 401,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Parrying%20Dagger.md"
+  },
+  {
+    "path": "weapons/Powered Gauntlet.md",
+    "type": "file",
+    "size": 247,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Powered%20Gauntlet.md"
+  },
+  {
+    "path": "weapons/Primer Shard.md",
+    "type": "file",
+    "size": 280,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Primer%20Shard.md"
+  },
+  {
+    "path": "weapons/Quarterstaff.md",
+    "type": "file",
+    "size": 149,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Quarterstaff.md"
+  },
+  {
+    "path": "weapons/Rapier.md",
+    "type": "file",
+    "size": 237,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Rapier.md"
+  },
+  {
+    "path": "weapons/Retractable Saber.md",
+    "type": "file",
+    "size": 225,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Retractable%20Saber.md"
+  },
+  {
+    "path": "weapons/Returning Axe.md",
+    "type": "file",
+    "size": 262,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Returning%20Axe.md"
+  },
+  {
+    "path": "weapons/Returning Blade.md",
+    "type": "file",
+    "size": 260,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Returning%20Blade.md"
+  },
+  {
+    "path": "weapons/Ricochet Axes.md",
+    "type": "file",
+    "size": 230,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Ricochet%20Axes.md"
+  },
+  {
+    "path": "weapons/Round Shield.md",
+    "type": "file",
+    "size": 180,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Round%20Shield.md"
+  },
+  {
+    "path": "weapons/Runes of Ruination.md",
+    "type": "file",
+    "size": 236,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Runes%20of%20Ruination.md"
+  },
+  {
+    "path": "weapons/Scepter of Elias.md",
+    "type": "file",
+    "size": 235,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Scepter%20of%20Elias.md"
+  },
+  {
+    "path": "weapons/Scepter.md",
+    "type": "file",
+    "size": 226,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Scepter.md"
+  },
+  {
+    "path": "weapons/Shortbow.md",
+    "type": "file",
+    "size": 141,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Shortbow.md"
+  },
+  {
+    "path": "weapons/Shortstaff.md",
+    "type": "file",
+    "size": 146,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Shortstaff.md"
+  },
+  {
+    "path": "weapons/Shortsword.md",
+    "type": "file",
+    "size": 213,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Shortsword.md"
+  },
+  {
+    "path": "weapons/Siphoning Gauntlets.md",
+    "type": "file",
+    "size": 262,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Siphoning%20Gauntlets.md"
+  },
+  {
+    "path": "weapons/Sledge Axe.md",
+    "type": "file",
+    "size": 262,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Sledge%20Axe.md"
+  },
+  {
+    "path": "weapons/Small Dagger.md",
+    "type": "file",
+    "size": 215,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Small%20Dagger.md"
+  },
+  {
+    "path": "weapons/Spear.md",
+    "type": "file",
+    "size": 145,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Spear.md"
+  },
+  {
+    "path": "weapons/Spiked Bow.md",
+    "type": "file",
+    "size": 237,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Spiked%20Bow.md"
+  },
+  {
+    "path": "weapons/Spiked Shield.md",
+    "type": "file",
+    "size": 232,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Spiked%20Shield.md"
+  },
+  {
+    "path": "weapons/Steelforged Halberd.md",
+    "type": "file",
+    "size": 224,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Steelforged%20Halberd.md"
+  },
+  {
+    "path": "weapons/Swinging Ropeblade.md",
+    "type": "file",
+    "size": 275,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Swinging%20Ropeblade.md"
+  },
+  {
+    "path": "weapons/Sword of Light and Flame.md",
+    "type": "file",
+    "size": 210,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Sword%20of%20Light%20and%20Flame.md"
+  },
+  {
+    "path": "weapons/Talon Blades.md",
+    "type": "file",
+    "size": 238,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Talon%20Blades.md"
+  },
+  {
+    "path": "weapons/Thistlebow.md",
+    "type": "file",
+    "size": 176,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Thistlebow.md"
+  },
+  {
+    "path": "weapons/Tower Shield.md",
+    "type": "file",
+    "size": 192,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Tower%20Shield.md"
+  },
+  {
+    "path": "weapons/Urok Broadsword.md",
+    "type": "file",
+    "size": 228,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Urok%20Broadsword.md"
+  },
+  {
+    "path": "weapons/Wand of Enthrallment.md",
+    "type": "file",
+    "size": 257,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Wand%20of%20Enthrallment.md"
+  },
+  {
+    "path": "weapons/Wand of Essek.md",
+    "type": "file",
+    "size": 236,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Wand%20of%20Essek.md"
+  },
+  {
+    "path": "weapons/Wand.md",
+    "type": "file",
+    "size": 139,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Wand.md"
+  },
+  {
+    "path": "weapons/War Scythe.md",
+    "type": "file",
+    "size": 181,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/War%20Scythe.md"
+  },
+  {
+    "path": "weapons/Warhammer.md",
+    "type": "file",
+    "size": 169,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Warhammer.md"
+  },
+  {
+    "path": "weapons/Whip.md",
+    "type": "file",
+    "size": 256,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Whip.md"
+  },
+  {
+    "path": "weapons/Widgast Pendant.md",
+    "type": "file",
+    "size": 236,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Widgast%20Pendant.md"
+  },
+  {
+    "path": "weapons/Yutari Bloodbow.md",
+    "type": "file",
+    "size": 238,
+    "download_url": "https://raw.githubusercontent.com/seansbox/daggerheart-srd/main/weapons/Yutari%20Bloodbow.md"
+  }
+]

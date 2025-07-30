@@ -1,0 +1,410 @@
+2025-07-25 11:56:29,459 - INFO - Starting DH-SRD sync session - Log file: dh_sync_20250725_115629.log
+2025-07-25 11:56:29,462 - INFO - Loaded 786 tasks from markdown table
+2025-07-25 11:56:29,462 - INFO - Filtered to 786 tasks with status: ['missing']
+2025-07-25 11:56:29,462 - INFO - Limited to first 130 tasks
+2025-07-25 11:56:29,463 - INFO - Starting sync of 130 files
+2025-07-25 11:56:29,463 - INFO - Processing 1/130: contents/Making Moves and Taking Action.md
+2025-07-25 11:56:29,463 - INFO - Syncing: contents/Making Moves and Taking Action.md
+2025-07-25 11:56:29,548 - INFO - Successfully synced: contents/Making Moves and Taking Action.md -> ..\..\04-RESOURCES\dh-srd\dh-Making-Moves-and-Taking-Action.md
+2025-07-25 11:56:29,549 - INFO - Processing 2/130: contents/Character Creation.md
+2025-07-25 11:56:29,549 - INFO - Syncing: contents/Character Creation.md
+2025-07-25 11:56:29,617 - INFO - Successfully synced: contents/Character Creation.md -> ..\..\04-RESOURCES\dh-srd\dh-Character-Creation.md
+2025-07-25 11:56:29,618 - INFO - Processing 3/130: contents/Combat Wheelchair.md
+2025-07-25 11:56:29,618 - INFO - Syncing: contents/Combat Wheelchair.md
+2025-07-25 11:56:29,694 - INFO - Successfully synced: contents/Combat Wheelchair.md -> ..\..\04-RESOURCES\dh-srd\dh-Combat-Wheelchair.md
+2025-07-25 11:56:29,695 - INFO - Processing 4/130: contents/Attacking.md
+2025-07-25 11:56:29,695 - INFO - Syncing: contents/Attacking.md
+2025-07-25 11:56:29,770 - INFO - Successfully synced: contents/Attacking.md -> ..\..\04-RESOURCES\dh-srd\dh-Attacking.md
+2025-07-25 11:56:29,770 - INFO - Processing 5/130: contents/The Basics.md
+2025-07-25 11:56:29,771 - INFO - Syncing: contents/The Basics.md
+2025-07-25 11:56:29,844 - INFO - Successfully synced: contents/The Basics.md -> ..\..\04-RESOURCES\dh-srd\dh-The-Basics.md
+2025-07-25 11:56:29,844 - INFO - Processing 6/130: contents/Combat.md
+2025-07-25 11:56:29,844 - INFO - Syncing: contents/Combat.md
+2025-07-25 11:56:29,908 - INFO - Successfully synced: contents/Combat.md -> ..\..\04-RESOURCES\dh-srd\dh-Combat.md
+2025-07-25 11:56:29,908 - INFO - Processing 7/130: contents/Core Gameplay Loop.md
+2025-07-25 11:56:29,909 - INFO - Syncing: contents/Core Gameplay Loop.md
+2025-07-25 11:56:29,973 - INFO - Successfully synced: contents/Core Gameplay Loop.md -> ..\..\04-RESOURCES\dh-srd\dh-Core-Gameplay-Loop.md
+2025-07-25 11:56:29,973 - INFO - Processing 8/130: classes/Druid.md
+2025-07-25 11:56:29,974 - INFO - Syncing: classes/Druid.md
+2025-07-25 11:56:30,045 - INFO - Successfully synced: classes/Druid.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Druid.md
+2025-07-25 11:56:30,045 - INFO - Processing 9/130: contents/Classes.md
+2025-07-25 11:56:30,045 - INFO - Syncing: contents/Classes.md
+2025-07-25 11:56:30,114 - INFO - Successfully synced: contents/Classes.md -> ..\..\04-RESOURCES\dh-srd\dh-Classes.md
+2025-07-25 11:56:30,114 - INFO - Processing 10/130: subclasses/Beastbound.md
+2025-07-25 11:56:30,114 - INFO - Syncing: subclasses/Beastbound.md
+2025-07-25 11:56:30,185 - INFO - Successfully synced: subclasses/Beastbound.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Beastbound.md
+2025-07-25 11:56:30,185 - INFO - Progress: 10/130 processed, 10 successful
+2025-07-25 11:56:30,185 - INFO - Processing 11/130: contents/Ancestries.md
+2025-07-25 11:56:30,186 - INFO - Syncing: contents/Ancestries.md
+2025-07-25 11:56:30,260 - INFO - Successfully synced: contents/Ancestries.md -> ..\..\04-RESOURCES\dh-srd\dh-Ancestries.md
+2025-07-25 11:56:30,260 - INFO - Processing 12/130: contents/Leveling Up.md
+2025-07-25 11:56:30,261 - INFO - Syncing: contents/Leveling Up.md
+2025-07-25 11:56:30,330 - INFO - Successfully synced: contents/Leveling Up.md -> ..\..\04-RESOURCES\dh-srd\dh-Leveling-Up.md
+2025-07-25 11:56:30,330 - INFO - Processing 13/130: classes/Guardian.md
+2025-07-25 11:56:30,330 - INFO - Syncing: classes/Guardian.md
+2025-07-25 11:56:30,396 - INFO - Successfully synced: classes/Guardian.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Guardian.md
+2025-07-25 11:56:30,396 - INFO - Processing 14/130: classes/Rogue.md
+2025-07-25 11:56:30,396 - INFO - Syncing: classes/Rogue.md
+2025-07-25 11:56:30,464 - INFO - Successfully synced: classes/Rogue.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Rogue.md
+2025-07-25 11:56:30,465 - INFO - Processing 15/130: classes/Wizard.md
+2025-07-25 11:56:30,465 - INFO - Syncing: classes/Wizard.md
+2025-07-25 11:56:30,530 - INFO - Successfully synced: classes/Wizard.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Wizard.md
+2025-07-25 11:56:30,530 - INFO - Processing 16/130: classes/Ranger.md
+2025-07-25 11:56:30,530 - INFO - Syncing: classes/Ranger.md
+2025-07-25 11:56:30,600 - INFO - Successfully synced: classes/Ranger.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Ranger.md
+2025-07-25 11:56:30,600 - INFO - Processing 17/130: classes/Sorcerer.md
+2025-07-25 11:56:30,600 - INFO - Syncing: classes/Sorcerer.md
+2025-07-25 11:56:30,671 - INFO - Successfully synced: classes/Sorcerer.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Sorcerer.md
+2025-07-25 11:56:30,671 - INFO - Processing 18/130: classes/Seraph.md
+2025-07-25 11:56:30,671 - INFO - Syncing: classes/Seraph.md
+2025-07-25 11:56:30,736 - INFO - Successfully synced: classes/Seraph.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Seraph.md
+2025-07-25 11:56:30,736 - INFO - Processing 19/130: classes/Warrior.md
+2025-07-25 11:56:30,736 - INFO - Syncing: classes/Warrior.md
+2025-07-25 11:56:30,807 - INFO - Successfully synced: classes/Warrior.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Warrior.md
+2025-07-25 11:56:30,807 - INFO - Processing 20/130: classes/Bard.md
+2025-07-25 11:56:30,807 - INFO - Syncing: classes/Bard.md
+2025-07-25 11:56:30,877 - INFO - Successfully synced: classes/Bard.md -> ..\..\04-RESOURCES\dh-srd\dh-classes-Bard.md
+2025-07-25 11:56:30,877 - INFO - Progress: 20/130 processed, 20 successful
+2025-07-25 11:56:30,877 - INFO - Processing 21/130: subclasses/Warden of the Elements.md
+2025-07-25 11:56:30,878 - INFO - Syncing: subclasses/Warden of the Elements.md
+2025-07-25 11:56:30,942 - INFO - Successfully synced: subclasses/Warden of the Elements.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Warden-of-the-Elements.md
+2025-07-25 11:56:30,942 - INFO - Processing 22/130: contents/Conditions.md
+2025-07-25 11:56:30,942 - INFO - Syncing: contents/Conditions.md
+2025-07-25 11:56:31,024 - INFO - Successfully synced: contents/Conditions.md -> ..\..\04-RESOURCES\dh-srd\dh-Conditions.md
+2025-07-25 11:56:31,024 - INFO - Processing 23/130: subclasses/Syndicate.md
+2025-07-25 11:56:31,024 - INFO - Syncing: subclasses/Syndicate.md
+2025-07-25 11:56:31,093 - INFO - Successfully synced: subclasses/Syndicate.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Syndicate.md
+2025-07-25 11:56:31,094 - INFO - Processing 24/130: ancestries/Infernis.md
+2025-07-25 11:56:31,094 - INFO - Syncing: ancestries/Infernis.md
+2025-07-25 11:56:31,165 - INFO - Successfully synced: ancestries/Infernis.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Infernis.md
+2025-07-25 11:56:31,165 - INFO - Processing 25/130: subclasses/Primal Origin.md
+2025-07-25 11:56:31,165 - INFO - Syncing: subclasses/Primal Origin.md
+2025-07-25 11:56:31,239 - INFO - Successfully synced: subclasses/Primal Origin.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Primal-Origin.md
+2025-07-25 11:56:31,239 - INFO - Processing 26/130: subclasses/Call of the Slayer.md
+2025-07-25 11:56:31,239 - INFO - Syncing: subclasses/Call of the Slayer.md
+2025-07-25 11:56:31,310 - INFO - Successfully synced: subclasses/Call of the Slayer.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Call-of-the-Slayer.md
+2025-07-25 11:56:31,311 - INFO - Processing 27/130: ancestries/Clank.md
+2025-07-25 11:56:31,311 - INFO - Syncing: ancestries/Clank.md
+2025-07-25 11:56:31,387 - INFO - Successfully synced: ancestries/Clank.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Clank.md
+2025-07-25 11:56:31,387 - INFO - Processing 28/130: subclasses/Nightwalker.md
+2025-07-25 11:56:31,387 - INFO - Syncing: subclasses/Nightwalker.md
+2025-07-25 11:56:31,459 - INFO - Successfully synced: subclasses/Nightwalker.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Nightwalker.md
+2025-07-25 11:56:31,460 - INFO - Processing 29/130: ancestries/Faun.md
+2025-07-25 11:56:31,460 - INFO - Syncing: ancestries/Faun.md
+2025-07-25 11:56:31,526 - INFO - Successfully synced: ancestries/Faun.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Faun.md
+2025-07-25 11:56:31,526 - INFO - Processing 30/130: ancestries/Elf.md
+2025-07-25 11:56:31,526 - INFO - Syncing: ancestries/Elf.md
+2025-07-25 11:56:31,594 - INFO - Successfully synced: ancestries/Elf.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Elf.md
+2025-07-25 11:56:31,594 - INFO - Progress: 30/130 processed, 30 successful
+2025-07-25 11:56:31,594 - INFO - Processing 31/130: subclasses/Elemental Origin.md
+2025-07-25 11:56:31,594 - INFO - Syncing: subclasses/Elemental Origin.md
+2025-07-25 11:56:31,660 - INFO - Successfully synced: subclasses/Elemental Origin.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Elemental-Origin.md
+2025-07-25 11:56:31,660 - INFO - Processing 32/130: ancestries/Firbolg.md
+2025-07-25 11:56:31,660 - INFO - Syncing: ancestries/Firbolg.md
+2025-07-25 11:56:31,726 - INFO - Successfully synced: ancestries/Firbolg.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Firbolg.md
+2025-07-25 11:56:31,727 - INFO - Processing 33/130: ancestries/Drakona.md
+2025-07-25 11:56:31,727 - INFO - Syncing: ancestries/Drakona.md
+2025-07-25 11:56:31,791 - INFO - Successfully synced: ancestries/Drakona.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Drakona.md
+2025-07-25 11:56:31,791 - INFO - Processing 34/130: ancestries/Faerie.md
+2025-07-25 11:56:31,791 - INFO - Syncing: ancestries/Faerie.md
+2025-07-25 11:56:31,872 - INFO - Successfully synced: ancestries/Faerie.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Faerie.md
+2025-07-25 11:56:31,872 - INFO - Processing 35/130: ancestries/Ribbet.md
+2025-07-25 11:56:31,872 - INFO - Syncing: ancestries/Ribbet.md
+2025-07-25 11:56:31,967 - INFO - Successfully synced: ancestries/Ribbet.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Ribbet.md
+2025-07-25 11:56:31,967 - INFO - Processing 36/130: ancestries/Fungril.md
+2025-07-25 11:56:31,967 - INFO - Syncing: ancestries/Fungril.md
+2025-07-25 11:56:32,035 - INFO - Successfully synced: ancestries/Fungril.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Fungril.md
+2025-07-25 11:56:32,035 - INFO - Processing 37/130: subclasses/Warden of Renewal.md
+2025-07-25 11:56:32,035 - INFO - Syncing: subclasses/Warden of Renewal.md
+2025-07-25 11:56:32,099 - INFO - Successfully synced: subclasses/Warden of Renewal.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Warden-of-Renewal.md
+2025-07-25 11:56:32,099 - INFO - Processing 38/130: ancestries/Galapa.md
+2025-07-25 11:56:32,099 - INFO - Syncing: ancestries/Galapa.md
+2025-07-25 11:56:32,182 - INFO - Successfully synced: ancestries/Galapa.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Galapa.md
+2025-07-25 11:56:32,183 - INFO - Processing 39/130: ancestries/Katari.md
+2025-07-25 11:56:32,183 - INFO - Syncing: ancestries/Katari.md
+2025-07-25 11:56:32,252 - INFO - Successfully synced: ancestries/Katari.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Katari.md
+2025-07-25 11:56:32,252 - INFO - Processing 40/130: subclasses/Divine Wielder.md
+2025-07-25 11:56:32,252 - INFO - Syncing: subclasses/Divine Wielder.md
+2025-07-25 11:56:32,323 - INFO - Successfully synced: subclasses/Divine Wielder.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Divine-Wielder.md
+2025-07-25 11:56:32,323 - INFO - Progress: 40/130 processed, 40 successful
+2025-07-25 11:56:32,323 - INFO - Processing 41/130: ancestries/Simiah.md
+2025-07-25 11:56:32,324 - INFO - Syncing: ancestries/Simiah.md
+2025-07-25 11:56:32,401 - INFO - Successfully synced: ancestries/Simiah.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Simiah.md
+2025-07-25 11:56:32,401 - INFO - Processing 42/130: subclasses/Wordsmith.md
+2025-07-25 11:56:32,402 - INFO - Syncing: subclasses/Wordsmith.md
+2025-07-25 11:56:32,472 - INFO - Successfully synced: subclasses/Wordsmith.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Wordsmith.md
+2025-07-25 11:56:32,472 - INFO - Processing 43/130: ancestries/Goblin.md
+2025-07-25 11:56:32,472 - INFO - Syncing: ancestries/Goblin.md
+2025-07-25 11:56:32,541 - INFO - Successfully synced: ancestries/Goblin.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Goblin.md
+2025-07-25 11:56:32,541 - INFO - Processing 44/130: subclasses/School of War.md
+2025-07-25 11:56:32,541 - INFO - Syncing: subclasses/School of War.md
+2025-07-25 11:56:32,603 - INFO - Successfully synced: subclasses/School of War.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-School-of-War.md
+2025-07-25 11:56:32,603 - INFO - Processing 45/130: subclasses/School of Knowledge.md
+2025-07-25 11:56:32,603 - INFO - Syncing: subclasses/School of Knowledge.md
+2025-07-25 11:56:32,672 - INFO - Successfully synced: subclasses/School of Knowledge.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-School-of-Knowledge.md
+2025-07-25 11:56:32,672 - INFO - Processing 46/130: ancestries/Dwarf.md
+2025-07-25 11:56:32,672 - INFO - Syncing: ancestries/Dwarf.md
+2025-07-25 11:56:32,740 - INFO - Successfully synced: ancestries/Dwarf.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Dwarf.md
+2025-07-25 11:56:32,740 - INFO - Processing 47/130: subclasses/Call of the Brave.md
+2025-07-25 11:56:32,740 - INFO - Syncing: subclasses/Call of the Brave.md
+2025-07-25 11:56:32,839 - INFO - Successfully synced: subclasses/Call of the Brave.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Call-of-the-Brave.md
+2025-07-25 11:56:32,839 - INFO - Processing 48/130: ancestries/Orc.md
+2025-07-25 11:56:32,840 - INFO - Syncing: ancestries/Orc.md
+2025-07-25 11:56:32,911 - INFO - Successfully synced: ancestries/Orc.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Orc.md
+2025-07-25 11:56:32,911 - INFO - Processing 49/130: subclasses/Troubadour.md
+2025-07-25 11:56:32,912 - INFO - Syncing: subclasses/Troubadour.md
+2025-07-25 11:56:32,981 - INFO - Successfully synced: subclasses/Troubadour.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Troubadour.md
+2025-07-25 11:56:32,981 - INFO - Processing 50/130: subclasses/Winged Sentinel.md
+2025-07-25 11:56:32,981 - INFO - Syncing: subclasses/Winged Sentinel.md
+2025-07-25 11:56:33,046 - INFO - Successfully synced: subclasses/Winged Sentinel.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Winged-Sentinel.md
+2025-07-25 11:56:33,046 - INFO - Progress: 50/130 processed, 50 successful
+2025-07-25 11:56:33,046 - INFO - Processing 51/130: subclasses/Wayfinder.md
+2025-07-25 11:56:33,046 - INFO - Syncing: subclasses/Wayfinder.md
+2025-07-25 11:56:33,126 - INFO - Successfully synced: subclasses/Wayfinder.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Wayfinder.md
+2025-07-25 11:56:33,126 - INFO - Processing 52/130: ancestries/Giant.md
+2025-07-25 11:56:33,126 - INFO - Syncing: ancestries/Giant.md
+2025-07-25 11:56:33,198 - INFO - Successfully synced: ancestries/Giant.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Giant.md
+2025-07-25 11:56:33,198 - INFO - Processing 53/130: ancestries/Halfling.md
+2025-07-25 11:56:33,198 - INFO - Syncing: ancestries/Halfling.md
+2025-07-25 11:56:33,267 - INFO - Successfully synced: ancestries/Halfling.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Halfling.md
+2025-07-25 11:56:33,267 - INFO - Processing 54/130: contents/Stress.md
+2025-07-25 11:56:33,267 - INFO - Syncing: contents/Stress.md
+2025-07-25 11:56:33,338 - INFO - Successfully synced: contents/Stress.md -> ..\..\04-RESOURCES\dh-srd\dh-Stress.md
+2025-07-25 11:56:33,338 - INFO - Processing 55/130: subclasses/Stalwart.md
+2025-07-25 11:56:33,339 - INFO - Syncing: subclasses/Stalwart.md
+2025-07-25 11:56:33,412 - INFO - Successfully synced: subclasses/Stalwart.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Stalwart.md
+2025-07-25 11:56:33,412 - INFO - Processing 56/130: subclasses/Vengeance.md
+2025-07-25 11:56:33,412 - INFO - Syncing: subclasses/Vengeance.md
+2025-07-25 11:56:33,481 - INFO - Successfully synced: subclasses/Vengeance.md -> ..\..\04-RESOURCES\dh-srd\dh-subclasses-Vengeance.md
+2025-07-25 11:56:33,481 - INFO - Processing 57/130: ancestries/Human.md
+2025-07-25 11:56:33,481 - INFO - Syncing: ancestries/Human.md
+2025-07-25 11:56:33,572 - INFO - Successfully synced: ancestries/Human.md -> ..\..\04-RESOURCES\dh-srd\dh-ancestries-Human.md
+2025-07-25 11:56:33,572 - INFO - Processing 58/130: contents/Armor Tables.md
+2025-07-25 11:56:33,572 - INFO - Syncing: contents/Armor Tables.md
+2025-07-25 11:56:33,634 - INFO - Successfully synced: contents/Armor Tables.md -> ..\..\04-RESOURCES\dh-srd\dh-Armor-Tables.md
+2025-07-25 11:56:33,635 - INFO - Processing 59/130: domains/Grace.md
+2025-07-25 11:56:33,635 - INFO - Syncing: domains/Grace.md
+2025-07-25 11:56:33,727 - INFO - Successfully synced: domains/Grace.md -> ..\..\04-RESOURCES\dh-srd\dh-domains-Grace.md
+2025-07-25 11:56:33,727 - INFO - Processing 60/130: domains/Sage.md
+2025-07-25 11:56:33,727 - INFO - Syncing: domains/Sage.md
+2025-07-25 11:56:33,792 - INFO - Successfully synced: domains/Sage.md -> ..\..\04-RESOURCES\dh-srd\dh-domains-Sage.md
+2025-07-25 11:56:33,792 - INFO - Progress: 60/130 processed, 60 successful
+2025-07-25 11:56:33,792 - INFO - Processing 61/130: domains/Midnight.md
+2025-07-25 11:56:33,792 - INFO - Syncing: domains/Midnight.md
+2025-07-25 11:56:33,862 - INFO - Successfully synced: domains/Midnight.md -> ..\..\04-RESOURCES\dh-srd\dh-domains-Midnight.md
+2025-07-25 11:56:33,862 - INFO - Processing 62/130: domains/Valor.md
+2025-07-25 11:56:33,862 - INFO - Syncing: domains/Valor.md
+2025-07-25 11:56:33,934 - INFO - Successfully synced: domains/Valor.md -> ..\..\04-RESOURCES\dh-srd\dh-domains-Valor.md
+2025-07-25 11:56:33,934 - INFO - Processing 63/130: domains/Codex.md
+2025-07-25 11:56:33,934 - INFO - Syncing: domains/Codex.md
+2025-07-25 11:56:34,003 - INFO - Successfully synced: domains/Codex.md -> ..\..\04-RESOURCES\dh-srd\dh-domains-Codex.md
+2025-07-25 11:56:34,003 - INFO - Processing 64/130: domains/Arcana.md
+2025-07-25 11:56:34,003 - INFO - Syncing: domains/Arcana.md
+2025-07-25 11:56:34,077 - INFO - Successfully synced: domains/Arcana.md -> ..\..\04-RESOURCES\dh-srd\dh-domains-Arcana.md
+2025-07-25 11:56:34,077 - INFO - Processing 65/130: domains/Splendor.md
+2025-07-25 11:56:34,078 - INFO - Syncing: domains/Splendor.md
+2025-07-25 11:56:34,156 - INFO - Successfully synced: domains/Splendor.md -> ..\..\04-RESOURCES\dh-srd\dh-domains-Splendor.md
+2025-07-25 11:56:34,156 - INFO - Processing 66/130: domains/Bone.md
+2025-07-25 11:56:34,157 - INFO - Syncing: domains/Bone.md
+2025-07-25 11:56:34,231 - INFO - Successfully synced: domains/Bone.md -> ..\..\04-RESOURCES\dh-srd\dh-domains-Bone.md
+2025-07-25 11:56:34,231 - INFO - Processing 67/130: domains/Blade.md
+2025-07-25 11:56:34,232 - INFO - Syncing: domains/Blade.md
+2025-07-25 11:56:34,313 - INFO - Successfully synced: domains/Blade.md -> ..\..\04-RESOURCES\dh-srd\dh-domains-Blade.md
+2025-07-25 11:56:34,314 - INFO - Processing 68/130: contents/Weapons.md
+2025-07-25 11:56:34,315 - INFO - Syncing: contents/Weapons.md
+2025-07-25 11:56:34,387 - INFO - Successfully synced: contents/Weapons.md -> ..\..\04-RESOURCES\dh-srd\dh-Weapons.md
+2025-07-25 11:56:34,387 - INFO - Processing 69/130: contents/Armor.md
+2025-07-25 11:56:34,387 - INFO - Syncing: contents/Armor.md
+2025-07-25 11:56:34,464 - INFO - Successfully synced: contents/Armor.md -> ..\..\04-RESOURCES\dh-srd\dh-Armor.md
+2025-07-25 11:56:34,464 - INFO - Processing 70/130: abilities/Book of Vagras.md
+2025-07-25 11:56:34,464 - INFO - Syncing: abilities/Book of Vagras.md
+2025-07-25 11:56:34,544 - INFO - Successfully synced: abilities/Book of Vagras.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Book-of-Vagras.md
+2025-07-25 11:56:34,545 - INFO - Progress: 70/130 processed, 70 successful
+2025-07-25 11:56:34,545 - INFO - Processing 71/130: abilities/Book of Grynn.md
+2025-07-25 11:56:34,546 - INFO - Syncing: abilities/Book of Grynn.md
+2025-07-25 11:56:34,636 - INFO - Successfully synced: abilities/Book of Grynn.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Book-of-Grynn.md
+2025-07-25 11:56:34,636 - INFO - Processing 72/130: abilities/Book of Sitil.md
+2025-07-25 11:56:34,637 - INFO - Syncing: abilities/Book of Sitil.md
+2025-07-25 11:56:34,712 - INFO - Successfully synced: abilities/Book of Sitil.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Book-of-Sitil.md
+2025-07-25 11:56:34,713 - INFO - Processing 73/130: abilities/Book of Illiat.md
+2025-07-25 11:56:34,714 - INFO - Syncing: abilities/Book of Illiat.md
+2025-07-25 11:56:34,789 - INFO - Successfully synced: abilities/Book of Illiat.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Book-of-Illiat.md
+2025-07-25 11:56:34,789 - INFO - Processing 74/130: abilities/Book of Exota.md
+2025-07-25 11:56:34,789 - INFO - Syncing: abilities/Book of Exota.md
+2025-07-25 11:56:34,868 - INFO - Successfully synced: abilities/Book of Exota.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Book-of-Exota.md
+2025-07-25 11:56:34,868 - INFO - Processing 75/130: abilities/Teleport.md
+2025-07-25 11:56:34,868 - INFO - Syncing: abilities/Teleport.md
+2025-07-25 11:56:34,940 - INFO - Successfully synced: abilities/Teleport.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Teleport.md
+2025-07-25 11:56:34,941 - INFO - Processing 76/130: abilities/Deathrun.md
+2025-07-25 11:56:34,941 - INFO - Syncing: abilities/Deathrun.md
+2025-07-25 11:56:35,020 - INFO - Successfully synced: abilities/Deathrun.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Deathrun.md
+2025-07-25 11:56:35,021 - INFO - Processing 77/130: abilities/Book of Norai.md
+2025-07-25 11:56:35,022 - INFO - Syncing: abilities/Book of Norai.md
+2025-07-25 11:56:35,090 - INFO - Successfully synced: abilities/Book of Norai.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Book-of-Norai.md
+2025-07-25 11:56:35,090 - INFO - Processing 78/130: abilities/Book of Ava.md
+2025-07-25 11:56:35,091 - INFO - Syncing: abilities/Book of Ava.md
+2025-07-25 11:56:35,180 - INFO - Successfully synced: abilities/Book of Ava.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Book-of-Ava.md
+2025-07-25 11:56:35,180 - INFO - Processing 79/130: abilities/Book of Korvax.md
+2025-07-25 11:56:35,181 - INFO - Syncing: abilities/Book of Korvax.md
+2025-07-25 11:56:35,266 - INFO - Successfully synced: abilities/Book of Korvax.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Book-of-Korvax.md
+2025-07-25 11:56:35,266 - INFO - Processing 80/130: abilities/Invisibility.md
+2025-07-25 11:56:35,266 - INFO - Syncing: abilities/Invisibility.md
+2025-07-25 11:56:35,367 - INFO - Successfully synced: abilities/Invisibility.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Invisibility.md
+2025-07-25 11:56:35,367 - INFO - Progress: 80/130 processed, 80 successful
+2025-07-25 11:56:35,368 - INFO - Processing 81/130: abilities/Chain Lightning.md
+2025-07-25 11:56:35,369 - INFO - Syncing: abilities/Chain Lightning.md
+2025-07-25 11:56:35,478 - INFO - Successfully synced: abilities/Chain Lightning.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Chain-Lightning.md
+2025-07-25 11:56:35,478 - INFO - Processing 82/130: abilities/Safe Haven.md
+2025-07-25 11:56:35,479 - INFO - Syncing: abilities/Safe Haven.md
+2025-07-25 11:56:35,555 - INFO - Successfully synced: abilities/Safe Haven.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Safe-Haven.md
+2025-07-25 11:56:35,555 - INFO - Processing 83/130: abilities/Tempest.md
+2025-07-25 11:56:35,555 - INFO - Syncing: abilities/Tempest.md
+2025-07-25 11:56:35,623 - INFO - Successfully synced: abilities/Tempest.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Tempest.md
+2025-07-25 11:56:35,623 - INFO - Processing 84/130: abilities/Unleash Chaos.md
+2025-07-25 11:56:35,623 - INFO - Syncing: abilities/Unleash Chaos.md
+2025-07-25 11:56:35,698 - INFO - Successfully synced: abilities/Unleash Chaos.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Unleash-Chaos.md
+2025-07-25 11:56:35,698 - INFO - Processing 85/130: abilities/Book of Tyfar.md
+2025-07-25 11:56:35,698 - INFO - Syncing: abilities/Book of Tyfar.md
+2025-07-25 11:56:35,770 - INFO - Successfully synced: abilities/Book of Tyfar.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Book-of-Tyfar.md
+2025-07-25 11:56:35,770 - INFO - Processing 86/130: abilities/Confusing Aura.md
+2025-07-25 11:56:35,770 - INFO - Syncing: abilities/Confusing Aura.md
+2025-07-25 11:56:35,843 - INFO - Successfully synced: abilities/Confusing Aura.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Confusing-Aura.md
+2025-07-25 11:56:35,844 - INFO - Processing 87/130: abilities/Natural Familiar.md
+2025-07-25 11:56:35,844 - INFO - Syncing: abilities/Natural Familiar.md
+2025-07-25 11:56:35,915 - INFO - Successfully synced: abilities/Natural Familiar.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Natural-Familiar.md
+2025-07-25 11:56:35,916 - INFO - Processing 88/130: abilities/Night Terror.md
+2025-07-25 11:56:35,916 - INFO - Syncing: abilities/Night Terror.md
+2025-07-25 11:56:35,981 - INFO - Successfully synced: abilities/Night Terror.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Night-Terror.md
+2025-07-25 11:56:35,981 - INFO - Processing 89/130: abilities/Notorious.md
+2025-07-25 11:56:35,981 - INFO - Syncing: abilities/Notorious.md
+2025-07-25 11:56:36,075 - INFO - Successfully synced: abilities/Notorious.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Notorious.md
+2025-07-25 11:56:36,076 - INFO - Processing 90/130: abilities/Banish.md
+2025-07-25 11:56:36,077 - INFO - Syncing: abilities/Banish.md
+2025-07-25 11:56:36,153 - INFO - Successfully synced: abilities/Banish.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Banish.md
+2025-07-25 11:56:36,153 - INFO - Progress: 90/130 processed, 90 successful
+2025-07-25 11:56:36,154 - INFO - Processing 91/130: abilities/Death Grip.md
+2025-07-25 11:56:36,155 - INFO - Syncing: abilities/Death Grip.md
+2025-07-25 11:56:36,232 - INFO - Successfully synced: abilities/Death Grip.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Death-Grip.md
+2025-07-25 11:56:36,233 - INFO - Processing 92/130: abilities/Stunning Sunlight.md
+2025-07-25 11:56:36,234 - INFO - Syncing: abilities/Stunning Sunlight.md
+2025-07-25 11:56:36,311 - INFO - Successfully synced: abilities/Stunning Sunlight.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Stunning-Sunlight.md
+2025-07-25 11:56:36,312 - INFO - Processing 93/130: abilities/Eclipse.md
+2025-07-25 11:56:36,313 - INFO - Syncing: abilities/Eclipse.md
+2025-07-25 11:56:36,389 - INFO - Successfully synced: abilities/Eclipse.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Eclipse.md
+2025-07-25 11:56:36,390 - INFO - Processing 94/130: abilities/Forest Sprites.md
+2025-07-25 11:56:36,390 - INFO - Syncing: abilities/Forest Sprites.md
+2025-07-25 11:56:36,459 - INFO - Successfully synced: abilities/Forest Sprites.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Forest-Sprites.md
+2025-07-25 11:56:36,460 - INFO - Processing 95/130: abilities/Restoration.md
+2025-07-25 11:56:36,460 - INFO - Syncing: abilities/Restoration.md
+2025-07-25 11:56:36,535 - INFO - Successfully synced: abilities/Restoration.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Restoration.md
+2025-07-25 11:56:36,536 - INFO - Processing 96/130: abilities/Mass Disguise.md
+2025-07-25 11:56:36,537 - INFO - Syncing: abilities/Mass Disguise.md
+2025-07-25 11:56:36,607 - INFO - Successfully synced: abilities/Mass Disguise.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Mass-Disguise.md
+2025-07-25 11:56:36,607 - INFO - Processing 97/130: abilities/Wild Surge.md
+2025-07-25 11:56:36,607 - INFO - Syncing: abilities/Wild Surge.md
+2025-07-25 11:56:36,675 - INFO - Successfully synced: abilities/Wild Surge.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Wild-Surge.md
+2025-07-25 11:56:36,675 - INFO - Processing 98/130: abilities/Midnight Spirit.md
+2025-07-25 11:56:36,676 - INFO - Syncing: abilities/Midnight Spirit.md
+2025-07-25 11:56:36,745 - INFO - Successfully synced: abilities/Midnight Spirit.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Midnight-Spirit.md
+2025-07-25 11:56:36,745 - INFO - Processing 99/130: abilities/Sigil of Retribution.md
+2025-07-25 11:56:36,745 - INFO - Syncing: abilities/Sigil of Retribution.md
+2025-07-25 11:56:36,815 - INFO - Successfully synced: abilities/Sigil of Retribution.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Sigil-of-Retribution.md
+2025-07-25 11:56:36,816 - INFO - Processing 100/130: abilities/Wild Fortress.md
+2025-07-25 11:56:36,817 - INFO - Syncing: abilities/Wild Fortress.md
+2025-07-25 11:56:36,887 - INFO - Successfully synced: abilities/Wild Fortress.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Wild-Fortress.md
+2025-07-25 11:56:36,888 - INFO - Progress: 100/130 processed, 100 successful
+2025-07-25 11:56:36,888 - INFO - Processing 101/130: abilities/Strategic Approach.md
+2025-07-25 11:56:36,888 - INFO - Syncing: abilities/Strategic Approach.md
+2025-07-25 11:56:37,118 - INFO - Successfully synced: abilities/Strategic Approach.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Strategic-Approach.md
+2025-07-25 11:56:37,118 - INFO - Processing 102/130: abilities/Hush.md
+2025-07-25 11:56:37,118 - INFO - Syncing: abilities/Hush.md
+2025-07-25 11:56:37,321 - INFO - Successfully synced: abilities/Hush.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Hush.md
+2025-07-25 11:56:37,322 - INFO - Processing 103/130: abilities/Know Thy Enemy.md
+2025-07-25 11:56:37,323 - INFO - Syncing: abilities/Know Thy Enemy.md
+2025-07-25 11:56:37,539 - INFO - Successfully synced: abilities/Know Thy Enemy.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Know-Thy-Enemy.md
+2025-07-25 11:56:37,540 - INFO - Processing 104/130: abilities/Earthquake.md
+2025-07-25 11:56:37,540 - INFO - Syncing: abilities/Earthquake.md
+2025-07-25 11:56:37,747 - INFO - Successfully synced: abilities/Earthquake.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Earthquake.md
+2025-07-25 11:56:37,747 - INFO - Processing 105/130: abilities/Zone of Protection.md
+2025-07-25 11:56:37,747 - INFO - Syncing: abilities/Zone of Protection.md
+2025-07-25 11:56:37,942 - INFO - Successfully synced: abilities/Zone of Protection.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Zone-of-Protection.md
+2025-07-25 11:56:37,942 - INFO - Processing 106/130: abilities/Forager.md
+2025-07-25 11:56:37,942 - INFO - Syncing: abilities/Forager.md
+2025-07-25 11:56:38,164 - INFO - Successfully synced: abilities/Forager.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Forager.md
+2025-07-25 11:56:38,164 - INFO - Processing 107/130: abilities/Gifted Tracker.md
+2025-07-25 11:56:38,165 - INFO - Syncing: abilities/Gifted Tracker.md
+2025-07-25 11:56:38,372 - INFO - Successfully synced: abilities/Gifted Tracker.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Gifted-Tracker.md
+2025-07-25 11:56:38,372 - INFO - Processing 108/130: abilities/Dark Whispers.md
+2025-07-25 11:56:38,373 - INFO - Syncing: abilities/Dark Whispers.md
+2025-07-25 11:56:38,568 - INFO - Successfully synced: abilities/Dark Whispers.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Dark-Whispers.md
+2025-07-25 11:56:38,569 - INFO - Processing 109/130: abilities/Sensory Projection.md
+2025-07-25 11:56:38,570 - INFO - Syncing: abilities/Sensory Projection.md
+2025-07-25 11:56:38,779 - INFO - Successfully synced: abilities/Sensory Projection.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Sensory-Projection.md
+2025-07-25 11:56:38,780 - INFO - Processing 110/130: abilities/Thorn Skin.md
+2025-07-25 11:56:38,780 - INFO - Syncing: abilities/Thorn Skin.md
+2025-07-25 11:56:39,013 - INFO - Successfully synced: abilities/Thorn Skin.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Thorn-Skin.md
+2025-07-25 11:56:39,013 - INFO - Progress: 110/130 processed, 110 successful
+2025-07-25 11:56:39,013 - INFO - Processing 111/130: abilities/Book of Vyola.md
+2025-07-25 11:56:39,013 - INFO - Syncing: abilities/Book of Vyola.md
+2025-07-25 11:56:39,237 - INFO - Successfully synced: abilities/Book of Vyola.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Book-of-Vyola.md
+2025-07-25 11:56:39,238 - INFO - Processing 112/130: abilities/Rift Walker.md
+2025-07-25 11:56:39,239 - INFO - Syncing: abilities/Rift Walker.md
+2025-07-25 11:56:39,437 - INFO - Successfully synced: abilities/Rift Walker.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Rift-Walker.md
+2025-07-25 11:56:39,437 - INFO - Processing 113/130: abilities/Book of Homet.md
+2025-07-25 11:56:39,438 - INFO - Syncing: abilities/Book of Homet.md
+2025-07-25 11:56:39,657 - INFO - Successfully synced: abilities/Book of Homet.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Book-of-Homet.md
+2025-07-25 11:56:39,658 - INFO - Processing 114/130: abilities/Uncanny Disguise.md
+2025-07-25 11:56:39,659 - INFO - Syncing: abilities/Uncanny Disguise.md
+2025-07-25 11:56:39,885 - INFO - Successfully synced: abilities/Uncanny Disguise.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Uncanny-Disguise.md
+2025-07-25 11:56:39,885 - INFO - Processing 115/130: abilities/Force of Nature.md
+2025-07-25 11:56:39,886 - INFO - Syncing: abilities/Force of Nature.md
+2025-07-25 11:56:40,135 - INFO - Successfully synced: abilities/Force of Nature.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Force-of-Nature.md
+2025-07-25 11:56:40,135 - INFO - Processing 116/130: abilities/Conjured Steeds.md
+2025-07-25 11:56:40,135 - INFO - Syncing: abilities/Conjured Steeds.md
+2025-07-25 11:56:40,355 - INFO - Successfully synced: abilities/Conjured Steeds.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Conjured-Steeds.md
+2025-07-25 11:56:40,355 - INFO - Processing 117/130: abilities/Onslaught.md
+2025-07-25 11:56:40,357 - INFO - Syncing: abilities/Onslaught.md
+2025-07-25 11:56:40,563 - INFO - Successfully synced: abilities/Onslaught.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Onslaught.md
+2025-07-25 11:56:40,563 - INFO - Processing 118/130: abilities/Natures Tongue.md
+2025-07-25 11:56:40,564 - INFO - Syncing: abilities/Natures Tongue.md
+2025-07-25 11:56:40,812 - INFO - Successfully synced: abilities/Natures Tongue.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Natures-Tongue.md
+2025-07-25 11:56:40,812 - INFO - Processing 119/130: contents/Domains.md
+2025-07-25 11:56:40,813 - INFO - Syncing: contents/Domains.md
+2025-07-25 11:56:41,029 - INFO - Successfully synced: contents/Domains.md -> ..\..\04-RESOURCES\dh-srd\dh-Domains.md
+2025-07-25 11:56:41,030 - INFO - Processing 120/130: abilities/Twilight Toll.md
+2025-07-25 11:56:41,030 - INFO - Syncing: abilities/Twilight Toll.md
+2025-07-25 11:56:41,247 - INFO - Successfully synced: abilities/Twilight Toll.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Twilight-Toll.md
+2025-07-25 11:56:41,247 - INFO - Progress: 120/130 processed, 120 successful
+2025-07-25 11:56:41,247 - INFO - Processing 121/130: abilities/Mending Touch.md
+2025-07-25 11:56:41,247 - INFO - Syncing: abilities/Mending Touch.md
+2025-07-25 11:56:41,444 - INFO - Successfully synced: abilities/Mending Touch.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Mending-Touch.md
+2025-07-25 11:56:41,445 - INFO - Processing 122/130: abilities/Towering Stalk.md
+2025-07-25 11:56:41,445 - INFO - Syncing: abilities/Towering Stalk.md
+2025-07-25 11:56:41,633 - INFO - Successfully synced: abilities/Towering Stalk.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Towering-Stalk.md
+2025-07-25 11:56:41,633 - INFO - Processing 123/130: abilities/Final Words.md
+2025-07-25 11:56:41,633 - INFO - Syncing: abilities/Final Words.md
+2025-07-25 11:56:41,811 - INFO - Successfully synced: abilities/Final Words.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Final-Words.md
+2025-07-25 11:56:41,812 - INFO - Processing 124/130: abilities/Fane of the Wilds.md
+2025-07-25 11:56:41,812 - INFO - Syncing: abilities/Fane of the Wilds.md
+2025-07-25 11:56:42,007 - INFO - Successfully synced: abilities/Fane of the Wilds.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Fane-of-the-Wilds.md
+2025-07-25 11:56:42,008 - INFO - Processing 125/130: abilities/Astral Projection.md
+2025-07-25 11:56:42,008 - INFO - Syncing: abilities/Astral Projection.md
+2025-07-25 11:56:42,213 - INFO - Successfully synced: abilities/Astral Projection.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Astral-Projection.md
+2025-07-25 11:56:42,213 - INFO - Processing 126/130: abilities/Book of Ronin.md
+2025-07-25 11:56:42,214 - INFO - Syncing: abilities/Book of Ronin.md
+2025-07-25 11:56:42,402 - INFO - Successfully synced: abilities/Book of Ronin.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Book-of-Ronin.md
+2025-07-25 11:56:42,403 - INFO - Processing 127/130: abilities/Telekinesis.md
+2025-07-25 11:56:42,404 - INFO - Syncing: abilities/Telekinesis.md
+2025-07-25 11:56:42,627 - INFO - Successfully synced: abilities/Telekinesis.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Telekinesis.md
+2025-07-25 11:56:42,628 - INFO - Processing 128/130: abilities/Inspirational Words.md
+2025-07-25 11:56:42,629 - INFO - Syncing: abilities/Inspirational Words.md
+2025-07-25 11:56:43,131 - INFO - Successfully synced: abilities/Inspirational Words.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Inspirational-Words.md
+2025-07-25 11:56:43,131 - INFO - Processing 129/130: abilities/Splintering Strike.md
+2025-07-25 11:56:43,132 - INFO - Syncing: abilities/Splintering Strike.md
+2025-07-25 11:56:44,098 - INFO - Successfully synced: abilities/Splintering Strike.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Splintering-Strike.md
+2025-07-25 11:56:44,098 - INFO - Processing 130/130: abilities/Tell No Lies.md
+2025-07-25 11:56:44,098 - INFO - Syncing: abilities/Tell No Lies.md
+2025-07-25 11:56:44,590 - INFO - Successfully synced: abilities/Tell No Lies.md -> ..\..\04-RESOURCES\dh-srd\dh-abilities-Tell-No-Lies.md
+2025-07-25 11:56:44,591 - INFO - Progress: 130/130 processed, 130 successful
+2025-07-25 11:56:44,592 - INFO - Sync completed: 130 successful, 0 failed
+2025-07-25 11:56:44,594 - INFO - List of successful files saved to: successful_files_20250725_115644.txt
