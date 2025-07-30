@@ -1,3 +1,15 @@
+---
+title: "Leveling Up"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Leveling Up.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:26:33.883675"
+updated: "2025-07-30T01:26:33.883675"
+---
+
 # LEVELING UP
 
 Your party levels up whenever the GM decides you’ve reached a narrative milestone (usually about every 3 sessions). All party members level up at the same time.
@@ -40,3 +52,14 @@ Increase all damage thresholds by 1.
 ## STEP FOUR: DOMAIN CARDS
 
 Acquire a new domain card at your level or lower from one of your class’s domains and add it to your loadout or vault. If your loadout is already full, you can’t add the new card to it until you move another into your vault. You can also exchange one domain card you’ve previously acquired for a different domain card of the same level or lower.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Leveling Up.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Leveling Up.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:33
+

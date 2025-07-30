@@ -1,3 +1,15 @@
+---
+title: "Weapons"
+aliases: []
+tags: ["combat", "core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Weapons.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:26:46.550767"
+updated: "2025-07-30T01:26:46.550767"
+---
+
 # WEAPONS
 
 All weapons have a tier, trait, range, damage die, damage type, and burden. Some weapons also have a feature.
@@ -36,3 +48,14 @@ You can throw an equipped weapon at a target within Very Close range, making the
 
 - [Primary Weapon Tables](../contents/Primary%20Weapon%20Tables.md)
 - [Secondary Weapon Tables](../contents/Secondary%20Weapon%20Tables.md)
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Weapons.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Weapons.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:46
+

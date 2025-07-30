@@ -1,3 +1,15 @@
+---
+title: "Warden of Renewal"
+aliases: []
+tags: ["character-options", "class", "daggerheart", "mechanics", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Warden of Renewal.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "subclasses"
+created: "2025-07-30T01:26:39.621177"
+updated: "2025-07-30T01:26:39.621177"
+---
+
 ﻿# WARDEN OF RENEWAL
 
 Play the Warden of Renewal if you want to use powerful magic to heal your party.
@@ -21,3 +33,14 @@ Instinct
 ## MASTERY FEATURE
 
 ***Defender:*** Your animal transformation embodies a healing guardian spirit. When you’re in Beastform and an ally within Close range marks 2 or more Hit Points, you can mark a Stress to reduce the number of Hit Points they mark by 1.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Warden of Renewal.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `subclasses/Warden of Renewal.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:39
+

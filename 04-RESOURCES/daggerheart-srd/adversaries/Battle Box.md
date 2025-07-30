@@ -1,3 +1,15 @@
+---
+title: "Battle Box"
+aliases: []
+tags: ["adversary", "combat", "daggerheart", "gm-tools", "monster", "npc", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Battle Box.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "adversaries"
+created: "2025-07-30T01:28:23.987549"
+updated: "2025-07-30T01:28:23.987549"
+---
+
 ﻿# BATTLE BOX
 
 ***Tier 2 Solo***  
@@ -17,3 +29,14 @@
 ***Overcharge - Reaction:*** Before rolling damage for the Box’s attack, you can mark a Stress to add a d6 to the damage roll. Additionally, you gain a Fear.
 
 ***Death Quake - Reaction:*** When the Box marks their last HP, the magic powering them ruptures in an explosion of force. All targets within Close range must succeed on an Instinct Reaction Roll or take 2d8+1 magic damage.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Battle Box.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `adversaries/Battle Box.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:23
+

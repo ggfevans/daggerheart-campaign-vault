@@ -1,3 +1,15 @@
+---
+title: "Cult Ritual"
+aliases: []
+tags: ["daggerheart", "environment", "gm-tools", "reference", "scenarios", "setting", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/environments/Cult Ritual.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "environments"
+created: "2025-07-30T01:28:23.286442"
+updated: "2025-07-30T01:28:23.286442"
+---
+
 ﻿# CULT RITUAL
 
 ***Tier 2 Event***  
@@ -29,3 +41,14 @@
 ***Complete the Ritual - Reaction:*** If the ritual’s leader is targeted by an attack or spell, an ally within Very Close range of them can mark a Stress to be targeted by that attack or spell instead.
 
   *What does it feel like to see such devotion turned to the pursuit of fear and domination?*
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/environments/Cult Ritual.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `environments/Cult Ritual.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:23
+

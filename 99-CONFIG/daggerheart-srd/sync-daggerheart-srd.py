@@ -43,7 +43,7 @@ class DHSRDSyncer:
         self.base_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}"
         self.vault_root = Path(vault_root)
         self.log_dir = Path(log_dir)
-        self.target_dir = Path("04-RESOURCES/dh-srd")
+        self.target_dir = Path("04-RESOURCES/daggerheart-srd")
         
         # Set up logging
         self.setup_logging()
@@ -131,76 +131,87 @@ class DHSRDSyncer:
             self.logger.error(f"Failed to download {source_path}: {e}")
             return None
     
-    def generate_slug(self, source_path: str) -> str:
-        """Generate a dh-{slug} filename from the source path"""
-        # Extract filename without extension
-        filename = Path(source_path).stem
-        
-        # Split path and clean up
-        path_parts = source_path.replace('.md', '').split('/')
-        
-        # Remove common prefixes
-        if path_parts[0] in ['contents', 'docs']:
-            path_parts = path_parts[1:]
-        
-        # Create slug from path parts
-        if len(path_parts) > 1:
-            # Include parent directory for context
-            slug_parts = path_parts[-2:]  # Last 2 parts
-        else:
-            slug_parts = [filename]
-            
-        # Clean and join
-        clean_parts = []
-        for part in slug_parts:
-            clean_part = re.sub(r'[^a-zA-Z0-9\-_\s]', '', part)
-            clean_part = re.sub(r'\s+', '-', clean_part)
-            clean_part = re.sub(r'-+', '-', clean_part)
-            clean_part = clean_part.strip('-').lower()
-            if clean_part:
-                clean_parts.append(clean_part)
-        
-        slug = '-'.join(clean_parts)
-        return f"dh-{slug}.md"
+    def preserve_original_path(self, source_path: str) -> str:
+        """Preserve the original path structure and filename from the SRD"""
+        # Keep the original path structure intact
+        return source_path
     
     def create_yaml_frontmatter(self, source_path: str, title: str = None) -> str:
-        """Create YAML front-matter for the file"""
+        """Create comprehensive YAML front-matter with Obsidian-style tagging"""
         if title is None:
-            title = Path(source_path).stem.replace('-', ' ').replace('_', ' ').title()
+            title = Path(source_path).stem.replace('-', ' ').replace('_', ' ')
         
-        # Determine tags based on source path
-        tags = ["daggerheart", "srd"]
+        # Base tags for all daggerheart content  
+        tags = ["daggerheart", "srd", "ttrpg", "reference"]
+        
+        # Determine comprehensive tags based on source path
         path_lower = source_path.lower()
+        path_parts = source_path.split('/')
         
+        # Primary category tags
         if "classes/" in path_lower:
-            tags.append("class")
+            tags.extend(["class", "character-options", "mechanics"])
         elif "ancestries/" in path_lower:
-            tags.append("ancestry")
+            tags.extend(["ancestry", "character-creation", "heritage", "racial-traits"])
         elif "abilities/" in path_lower:
-            tags.append("ability")
+            tags.extend(["ability", "mechanics", "class-features", "powers"])
         elif "weapons/" in path_lower:
-            tags.append("weapon")
+            tags.extend(["weapon", "equipment", "combat", "gear"])
         elif "armor/" in path_lower:
-            tags.append("armor")
+            tags.extend(["armor", "equipment", "defense", "gear"])
         elif "domains/" in path_lower:
-            tags.append("domain")
+            tags.extend(["domain", "magic", "mechanics", "progression"])
         elif "subclasses/" in path_lower:
-            tags.append("subclass")
+            tags.extend(["subclass", "character-options", "specialization"])
         elif "adversaries/" in path_lower:
-            tags.append("adversary")
+            tags.extend(["adversary", "monster", "npc", "combat", "gm-tools"])
         elif "environments/" in path_lower:
-            tags.append("environment")
+            tags.extend(["environment", "setting", "gm-tools", "scenarios"])
         elif "contents/" in path_lower:
-            tags.append("core-rules")
+            tags.extend(["core-rules", "rules", "mechanics", "system"])
+        elif "consumables/" in path_lower:
+            tags.extend(["consumable", "equipment", "magic-items", "gear"])
+        elif "items/" in path_lower:
+            tags.extend(["magic-item", "equipment", "gear", "treasure"])
+        elif "communities/" in path_lower:
+            tags.extend(["community", "background", "character-creation", "social"])
+        elif "frames/" in path_lower:
+            tags.extend(["campaign-frame", "setting", "adventure", "gm-tools"])
+        
+        # Additional contextual tags based on content hints
+        filename_lower = Path(source_path).stem.lower()
+        
+        # Combat-related tags
+        combat_keywords = ['battle', 'attack', 'damage', 'combat', 'strike', 'weapon', 'armor']
+        if any(keyword in filename_lower for keyword in combat_keywords):
+            if "combat" not in tags:
+                tags.append("combat")
+        
+        # Magic-related tags  
+        magic_keywords = ['spell', 'magic', 'arcane', 'divine', 'enchant', 'charm', 'curse']
+        if any(keyword in filename_lower for keyword in magic_keywords):
+            if "magic" not in tags:
+                tags.append("magic")
+        
+        # Social-related tags
+        social_keywords = ['social', 'charm', 'persuasion', 'deception', 'performance']  
+        if any(keyword in filename_lower for keyword in social_keywords):
+            if "social" not in tags:
+                tags.append("social")
         
         source_url = f"https://github.com/{self.repo_owner}/{self.repo_name}/blob/main/{source_path}"
         
+        # Create structured frontmatter
         frontmatter = f"""---
 title: "{title}"
-tags: {json.dumps(tags)}
+aliases: []
+tags: {json.dumps(sorted(tags))}
 source_url: "{source_url}"
+source_repo: "{self.repo_owner}/{self.repo_name}"
 license: "CC BY 4.0"
+category: "{path_parts[0] if path_parts else 'unknown'}"
 created: "{datetime.now().isoformat()}"
+updated: "{datetime.now().isoformat()}"
 ---
 
 """
@@ -243,15 +254,12 @@ This content is from the [Daggerheart SRD]({source_url}) by [Darrington Press](h
         return content
     
     def determine_output_path(self, task: SyncTask) -> Path:
-        """Determine the full output path, creating subdirectories as needed"""
-        # Use the output_path from the task, but ensure it's relative to vault root
-        output_path = task.output_path
+        """Determine the full output path, preserving original directory structure"""
+        # Preserve the original directory structure from the source repository
+        original_path = self.preserve_original_path(task.source_path)
         
-        # If it doesn't start with the target directory, prepend it
-        if not output_path.startswith('04-RESOURCES/dh-srd/'):
-            slug = self.generate_slug(task.source_path)
-            output_path = f"04-RESOURCES/dh-srd/{slug}"
-        
+        # Create the full output path within the daggerheart-srd directory
+        output_path = f"04-RESOURCES/daggerheart-srd/{original_path}"
         full_path = self.vault_root / output_path
         
         # Create directory structure if needed
@@ -280,7 +288,7 @@ This content is from the [Daggerheart SRD]({source_url}) by [Darrington Press](h
             # Process content
             processed_content = self.process_content(raw_content, task.source_path)
             
-            # Create components
+            # Create components - preserve original title formatting
             title = Path(task.source_path).stem.replace('-', ' ').replace('_', ' ')
             frontmatter = self.create_yaml_frontmatter(task.source_path, title)
             attribution = self.create_attribution_block(task.source_path)

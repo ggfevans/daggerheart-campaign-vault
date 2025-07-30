@@ -1,3 +1,15 @@
+---
+title: "Ancestries"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Ancestries.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:26:33.647205"
+updated: "2025-07-30T01:26:33.647205"
+---
+
 # ANCESTRIES
 
 **Ancestries** represent your character’s lineage, which affects their physical appearance and access to certain special abilities. The following section describes each ancestry in Daggerheart and the characteristics generally shared by members of that ancestry. However, each player decides how their character aligns with the “standard” or “average” expression of their ancestry.
@@ -50,3 +62,14 @@ If you decide that your character is a descendant of multiple ancestries and you
 > *For example, if you are making a goblin-orc, you might take the “Surefooted” and “Tusks” features or the “Sturdy” and “Danger Sense” features. You can’t take both the “Surefooted” and “Sturdy” features because both are the first features listed on their respective ancestry cards.*
 
 Your character’s heritage might include more than two ancestries, but you still only choose features from two. You can represent additional ancestries through their appearance or backstory.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Ancestries.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Ancestries.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:33
+

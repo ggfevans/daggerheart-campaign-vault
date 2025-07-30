@@ -1,3 +1,15 @@
+---
+title: "Hydra"
+aliases: []
+tags: ["adversary", "combat", "daggerheart", "gm-tools", "monster", "npc", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Hydra.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "adversaries"
+created: "2025-07-30T01:28:36.509613"
+updated: "2025-07-30T01:28:36.509613"
+---
+
 ﻿# HYDRA
 
 ***Tier 3 Solo***  
@@ -18,3 +30,14 @@
 ***Terrifying Chorus - Action:*** All PCs within Far range lose 2 Hope.
 
 ***Magical Weakness - Reaction:*** When the Hydra takes magic damage, they become Dazed until the next roll with Fear. While Dazed, they can’t use their Regeneration action but are immune to magic damage.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Hydra.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `adversaries/Hydra.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:36
+

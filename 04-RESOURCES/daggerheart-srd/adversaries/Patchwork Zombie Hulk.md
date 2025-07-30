@@ -1,3 +1,15 @@
+---
+title: "Patchwork Zombie Hulk"
+aliases: []
+tags: ["adversary", "combat", "daggerheart", "gm-tools", "monster", "npc", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Patchwork Zombie Hulk.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "adversaries"
+created: "2025-07-30T01:28:35.622657"
+updated: "2025-07-30T01:28:35.622657"
+---
+
 ﻿# PATCHWORK ZOMBIE HULK
 
 ***Tier 1 Solo***  
@@ -17,3 +29,14 @@
 ***Another for the Pile - Action:*** When the Zombie is within Very Close range of a corpse, they can incorporate it into themselves, clearing a HP and a Stress.
 
 ***Tormented Screams - Action:*** Mark a Stress to cause all PCs within Far range to make a Presence Reaction Roll (13). Targets who fail lose a Hope and you gain a Fear for each. Targets who succeed must mark a Stress.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Patchwork Zombie Hulk.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `adversaries/Patchwork Zombie Hulk.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:35
+

@@ -1,3 +1,15 @@
+---
+title: "Construct"
+aliases: []
+tags: ["adversary", "combat", "daggerheart", "gm-tools", "monster", "npc", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Construct.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "adversaries"
+created: "2025-07-30T01:28:30.244298"
+updated: "2025-07-30T01:28:30.244298"
+---
+
 ﻿# CONSTRUCT
 
 ***Tier 1 Solo***  
@@ -18,3 +30,14 @@
 ***Overload - Reaction:*** Before rolling damage for the Construct’s attack, you can mark a Stress to gain a +10 bonus to the damage roll. The Construct can then take the spotlight again.
 
 ***Death Quake - Reaction:*** When the Construct marks their last HP, the magic powering them ruptures in an explosion of force. Make an attack with advantage against all targets within Very Close range. Targets the Construct succeeds against take 1d12+2 magic damage.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Construct.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `adversaries/Construct.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:30
+

@@ -1,3 +1,15 @@
+---
+title: "Call of the Brave"
+aliases: []
+tags: ["character-options", "class", "daggerheart", "mechanics", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Call of the Brave.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "subclasses"
+created: "2025-07-30T01:26:41.796364"
+updated: "2025-07-30T01:26:41.796364"
+---
+
 ﻿# CALL OF THE BRAVE
 
 Play the Call of the Brave if you want to use the might of your enemies to fuel your own power.
@@ -15,3 +27,14 @@ Play the Call of the Brave if you want to use the might of your enemies to fuel 
 ## MASTERY FEATURE
 
 ***Camaraderie:*** Your unwavering bravery is a rallying point for your allies. You can initiate a Tag Team Roll once per additional time per session. Additionally, when an ally initiates a Tag Team Roll with you, they only need to spend 2 Hope to do so.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Call of the Brave.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `subclasses/Call of the Brave.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:41
+

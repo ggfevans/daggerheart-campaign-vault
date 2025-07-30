@@ -1,3 +1,15 @@
+---
+title: "Fallen Warlord Realm Breaker"
+aliases: []
+tags: ["adversary", "combat", "daggerheart", "gm-tools", "monster", "npc", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Fallen Warlord Realm-Breaker.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "adversaries"
+created: "2025-07-30T01:28:24.888789"
+updated: "2025-07-30T01:28:24.888789"
+---
+
 ﻿# FALLEN WARLORD: REALM-BREAKER
 
 ***Tier 4 Solo***  
@@ -21,3 +33,14 @@
 ***Doombringer - Reaction:*** When a target marks HP from an attack by the Realm-Breaker, all PCs within Far range of the target must lose a Hope.
 
 ***I Have Never Known Defeat (Phase Change) - Reaction:*** When the Realm-Breaker marks their last HP, replace them with the Undefeated Champion and immediately spotlight them.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Fallen Warlord Realm-Breaker.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `adversaries/Fallen Warlord Realm-Breaker.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:24
+

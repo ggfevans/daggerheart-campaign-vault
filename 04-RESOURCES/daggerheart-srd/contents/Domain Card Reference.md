@@ -1,3 +1,15 @@
+---
+title: "Domain Card Reference"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Domain Card Reference.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:28:57.875810"
+updated: "2025-07-30T01:28:57.875810"
+---
+
 # DOMAIN CARD REFERENCE
 
 ## ARCANA DOMAIN
@@ -134,3 +146,14 @@
 |   **8**   | [Full Surge](../abilities/Full%20Surge.md)                     | [Ground Pound](../abilities/Ground%20Pound.md)         | —                                                          |
 |   **9**   | [Hold the Line](../abilities/Hold%20the%20Line.md)             | [Lead by Example](../abilities/Lead%20by%20Example.md) | —                                                          |
 |  **10**   | [Unbreakable](../abilities/Unbreakable.md)                     | [Unyielding Armor](../abilities/Unyielding%20Armor.md) | —                                                          |
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Domain Card Reference.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Domain Card Reference.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:57
+

@@ -1,3 +1,15 @@
+---
+title: "Raging River"
+aliases: []
+tags: ["daggerheart", "environment", "gm-tools", "reference", "scenarios", "setting", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/environments/Raging River.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "environments"
+created: "2025-07-30T01:28:28.118807"
+updated: "2025-07-30T01:28:28.118807"
+---
+
 ﻿# RAGING RIVER
 
 ***Tier 1 Traversal***  
@@ -20,3 +32,14 @@
 ***Patient Hunter - Action:*** Spend a Fear to summon a Glass Snake within Close range of a chosen PC. The Snake appears in or near the river and immediately takes the spotlight to use their “Spinning Serpent” action.
 
   *What treasures does the beast have in their burrow? What travelers have already fallen victim to this predator?*
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/environments/Raging River.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `environments/Raging River.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:28
+

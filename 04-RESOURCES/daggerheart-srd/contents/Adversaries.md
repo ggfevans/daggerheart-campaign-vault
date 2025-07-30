@@ -1,3 +1,15 @@
+---
+title: "Adversaries"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Adversaries.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:28:21.372396"
+updated: "2025-07-30T01:28:21.372396"
+---
+
 # USING ADVERSARIES
 
 ## ADVERSARY STAT BLOCKS
@@ -301,3 +313,14 @@ This section contains the following stat blocks:
 - [Volcanic Dragon: Ashen Tyrant](../adversaries/Volcanic%20Dragon%20Ashen%20Tyrant.md)
 - [Perfected Zombie](../adversaries/Perfected%20Zombie.md)
 - [Zombie Legion](../adversaries/Zombie%20Legion.md)
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Adversaries.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Adversaries.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:21
+

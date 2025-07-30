@@ -1,3 +1,15 @@
+---
+title: "Elf"
+aliases: []
+tags: ["ancestry", "character-creation", "daggerheart", "heritage", "racial-traits", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/ancestries/Elf.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "ancestries"
+created: "2025-07-30T01:26:37.878077"
+updated: "2025-07-30T01:26:37.878077"
+---
+
 ﻿# ELF
 
 Elves are typically tall humanoids with pointed ears and acutely attuned senses. Their ears vary in size and pointed shape, and as they age, the tips begin to droop. While elves come in a wide range of body types, they are all fairly tall, with heights ranging from about 6 to 6 ½ feet. All elves have the ability to drop into a celestial trance, rather than sleep. This allows them to rest effectively in a short amount of time.
@@ -9,3 +21,14 @@ Some elves possess what is known as a “mystic form,” which occurs when an el
 ***Quick Reactions:*** **Mark a Stress** to gain advantage on a reaction roll.
 
 ***Celestial Trance:*** During a rest, you can drop into a trance to choose an additional downtime move.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/ancestries/Elf.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `ancestries/Elf.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:37
+

@@ -1,3 +1,15 @@
+---
+title: "Combat"
+aliases: []
+tags: ["combat", "core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Combat.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:26:32.490005"
+updated: "2025-07-30T01:26:32.490005"
+---
+
 # COMBAT
 
 Though Daggerheart relies on the same flow of collaborative storytelling in and out of combat, physical conflicts rely more heavily on several key mechanics related to attacking, maneuvering, and taking damage.
@@ -29,3 +41,14 @@ Characters can clear Hit Points by taking downtime moves (see: Downtime) or by a
 > ***Optional Rule: Massive Damage***
 >
 > *If a character ever takes damage equal to twice their Severe threshold, they mark 4 HP instead of 3.*
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Combat.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Combat.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:32
+

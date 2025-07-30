@@ -1,3 +1,15 @@
+---
+title: "The Witherwild"
+aliases: []
+tags: ["adventure", "campaign-frame", "daggerheart", "gm-tools", "reference", "setting", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/frames/The Witherwild.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "frames"
+created: "2025-07-30T01:28:57.506628"
+updated: "2025-07-30T01:28:57.506628"
+---
+
 # THE WITHERWILD
 
 ***When an invading nation attacks an ancient forest deity, a virulent overgrowth spreads throughout the land.***
@@ -291,3 +303,14 @@ At the end of each session, clear all Wither tokens from the PCs’ sheets and g
 > *What superstitions does your character or their community have about traversing Fanewick during the long nights?*
 >
 > *Your character has witnessed something beautiful that came from the Witherwild. What is it and how has it transformed their view of the corruption?*
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/frames/The Witherwild.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `frames/The Witherwild.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:57
+

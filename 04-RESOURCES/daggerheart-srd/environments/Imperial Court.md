@@ -1,3 +1,15 @@
+---
+title: "Imperial Court"
+aliases: []
+tags: ["daggerheart", "environment", "gm-tools", "reference", "scenarios", "setting", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/environments/Imperial Court.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "environments"
+created: "2025-07-30T01:28:22.198050"
+updated: "2025-07-30T01:28:22.198050"
+---
+
 ﻿# IMPERIAL COURT
 
 ***Tier 4 Social***  
@@ -28,3 +40,14 @@
 ***Eyes Everywhere - Reaction:*** On a result with Fear, you can spend a Fear to have someone loyal to the empire overhear seditious talk within the court. A PC must succeed on an Instinct Reaction Roll to notice that the group has been overheard so they can try to intercept the witness before the PCs are exposed.
 
   *How has the empire compromised this witness? Why is their first impulse to protect the empire, even if doesn’t treat them well?*
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/environments/Imperial Court.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `environments/Imperial Court.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:22
+

@@ -1,3 +1,15 @@
+---
+title: "Blade"
+aliases: []
+tags: ["daggerheart", "domain", "magic", "mechanics", "progression", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/domains/Blade.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "domains"
+created: "2025-07-30T01:26:46.351517"
+updated: "2025-07-30T01:26:46.351517"
+---
+
 # BLADE
 
 Blade is the domain of weapon mastery. Whether by steel, bow, or perhaps a more specialized arm, those who follow this path have the skill to cut short the lives of others. Wielders of Blade dedicate themselves to achieving inexorable power over death. The Blade domain can be accessed by the Guardian and Warrior classes.
@@ -16,3 +28,14 @@ Blade is the domain of weapon mastery. Whether by steel, bow, or perhaps a more 
 |   **8**   | [Battle Cry](../abilities/Battle%20Cry.md)             | [Frenzy](../abilities/Frenzy.md)                         | —                                      |
 |   **9**   | [Gore and Glory](../abilities/Gore%20and%20Glory.md)   | [Reapers Strike](../abilities/Reapers%20Strike.md)       | —                                      |
 |  **10**   | [Battle Monster](../abilities/Battle%20Monster.md)     | [Onslaught](../abilities/Onslaught.md)                   | —                                      |
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/domains/Blade.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `domains/Blade.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:46
+

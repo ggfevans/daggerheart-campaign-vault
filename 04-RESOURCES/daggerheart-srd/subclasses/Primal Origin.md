@@ -1,3 +1,15 @@
+---
+title: "Primal Origin"
+aliases: []
+tags: ["character-options", "class", "daggerheart", "mechanics", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Primal Origin.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "subclasses"
+created: "2025-07-30T01:26:36.700664"
+updated: "2025-07-30T01:26:36.700664"
+---
+
 ﻿# PRIMAL ORIGIN
 
 Play the Primal Origin if you want to extend the versatility of your spells in powerful ways.
@@ -22,3 +34,14 @@ Instinct
 ## MASTERY FEATURE
 
 ***Arcane Charge:*** You can gather magical energy to enhance your capabilities. When you take magic damage, you become Charged. Alternatively, you can spend 2 Hope to become Charged. When you successfully make an attack that deals magic damage while Charged, you can clear your Charge to either gain a +10 bonus to the damage roll or gain a +3 bonus to the Difficulty of a reaction roll the spell causes the target to make. You stop being Charged at your next long rest.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Primal Origin.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `subclasses/Primal Origin.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:36
+

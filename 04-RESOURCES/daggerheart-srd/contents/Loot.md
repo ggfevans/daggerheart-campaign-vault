@@ -1,3 +1,15 @@
+---
+title: "Loot"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Loot.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:28:57.680767"
+updated: "2025-07-30T01:28:57.680767"
+---
+
 # LOOT
 
 **Loot** comprises any consumables or reusable items the party acquires.
@@ -73,3 +85,14 @@ To generate a random item, choose a rarity, roll the designated dice, and match 
 |  **58**  | [Gem of Sagacity](../items/Gem%20of%20Sagacity.md)                           | You can attach this gem to a weapon, allowing you to use your Knowledge when making an attack with that weapon.                                                                                                                                                                                |
 |  **59**  | [Ring of Unbreakable Resolve](../items/Ring%20of%20Unbreakable%20Resolve.md) | Once per session, when the GM spends a Fear, you can spend 4 Hope to cancel the effects of that spent Fear.                                                                                                                                                                                    |
 |  **60**  | [Belt of Unity](../items/Belt%20of%20Unity.md)                               | Once per session, you can spend 5 Hope to lead a Tag Team Roll with three PCs instead of two.                                                                                                                                                                                                  |
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Loot.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Loot.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:57
+

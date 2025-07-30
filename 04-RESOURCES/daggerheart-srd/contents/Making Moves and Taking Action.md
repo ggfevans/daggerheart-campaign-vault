@@ -1,3 +1,15 @@
+---
+title: "Making Moves and Taking Action"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Making Moves and Taking Action.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:26:31.370477"
+updated: "2025-07-30T01:26:31.370477"
+---
+
 # MAKING MOVES & TAKING ACTION
 
 Any time a character does something to advance the story, such as speaking with another character, interacting with the environment, making an attack, casting a spell, or using a class feature, they are making a move.
@@ -169,3 +181,14 @@ Players can spend Hope to:
 ### FEAR
 
 The GM gains Fear whenever a player rolls with Fear and can spend Fear at any time to make or enhance a GM move or to use a Fear Feature. The GM can have up to 12 Fear at one time. Fear carries over between sessions.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Making Moves and Taking Action.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Making Moves and Taking Action.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:31
+
