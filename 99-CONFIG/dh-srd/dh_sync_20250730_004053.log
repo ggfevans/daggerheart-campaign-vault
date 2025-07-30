@@ -1,0 +1,16 @@
+2025-07-30 00:40:53,374 - INFO - Starting DH-SRD sync session - Log file: dh_sync_20250730_004053.log
+2025-07-30 00:40:53,376 - INFO - Loaded 786 tasks from markdown table
+2025-07-30 00:40:53,377 - INFO - Filtered to 786 tasks with status: ['missing']
+2025-07-30 00:40:53,377 - INFO - Limited to first 3 tasks
+2025-07-30 00:40:53,377 - INFO - Starting sync of 3 files
+2025-07-30 00:40:53,378 - INFO - Processing 1/3: contents/Making Moves and Taking Action.md
+2025-07-30 00:40:53,378 - INFO - Syncing: contents/Making Moves and Taking Action.md
+2025-07-30 00:40:53,638 - INFO - Successfully synced: contents/Making Moves and Taking Action.md -> ..\..\04-RESOURCES\dh-srd\dh-Making-Moves-and-Taking-Action.md
+2025-07-30 00:40:53,639 - INFO - Processing 2/3: contents/Character Creation.md
+2025-07-30 00:40:53,639 - INFO - Syncing: contents/Character Creation.md
+2025-07-30 00:40:53,825 - INFO - Successfully synced: contents/Character Creation.md -> ..\..\04-RESOURCES\dh-srd\dh-Character-Creation.md
+2025-07-30 00:40:53,825 - INFO - Processing 3/3: contents/Combat Wheelchair.md
+2025-07-30 00:40:53,825 - INFO - Syncing: contents/Combat Wheelchair.md
+2025-07-30 00:40:54,025 - INFO - Successfully synced: contents/Combat Wheelchair.md -> ..\..\04-RESOURCES\dh-srd\dh-Combat-Wheelchair.md
+2025-07-30 00:40:54,025 - INFO - Sync completed: 3 successful, 0 failed
+2025-07-30 00:40:54,028 - INFO - List of successful files saved to: successful_files_20250730_004054.txt
