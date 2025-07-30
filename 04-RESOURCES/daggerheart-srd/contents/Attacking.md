@@ -1,3 +1,15 @@
+---
+title: "Attacking"
+aliases: []
+tags: ["combat", "core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Attacking.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:26:32.034922"
+updated: "2025-07-30T01:26:32.034922"
+---
+
 # ATTACKING
 
 ## ATTACK ROLLS
@@ -43,3 +55,14 @@ If a spell or ability allows you to target multiple adversaries, make one attack
 Damage dealt simultaneously from multiple sources is always totaled before it’s compared to its target’s damage thresholds.
 
 > *For example, if a PC with or ancestry makes a successful attack against a target in Melee range and decides to spend a Hope to use their “Tusks” feature (which gives them an extra 1d6 damage on a damage roll), they would roll their normal weapon damage and add a d6 to the result, then deal that total damage to the adversary.*
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Attacking.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Attacking.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:32
+

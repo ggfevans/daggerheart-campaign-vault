@@ -1,3 +1,15 @@
+---
+title: "Character Creation"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Character Creation.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:26:31.617124"
+updated: "2025-07-30T01:26:31.617124"
+---
+
 # CHARACTER CREATION
 
 Unless their table chooses to use pre-generated characters, each player creates their own PC by making a series of guided choices. Some of these decisions are purely narrative, meaning they only appear in or affect the game through roleplaying, but others are mechanical choices that affect the things their PC is able to do and which actions they’re more (or less) likely to succeed at when making moves and taking action.
@@ -105,3 +117,14 @@ Connections are the relationships between the PCs. To create connections, follow
 - Suggest at least one connection between your character and each other player’s PC. Accept any suggested connections you want to explore, reject any you don’t.
 
 > ***Note:*** *A player can reject a suggested connection for any reason, and it’s okay if there isn’t an established connection between every pair of PCs—you can always discover and develop those relationships through play.*
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Character Creation.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Character Creation.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:31
+

@@ -1,3 +1,15 @@
+---
+title: "Giant Brawler"
+aliases: []
+tags: ["adversary", "combat", "daggerheart", "gm-tools", "monster", "npc", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Giant Brawler.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "adversaries"
+created: "2025-07-30T01:28:35.429074"
+updated: "2025-07-30T01:28:35.429074"
+---
+
 ﻿# GIANT BRAWLER
 
 ***Tier 2 Bruiser***  
@@ -15,3 +27,14 @@
 ***Bloody Reprisal - Reaction:*** When the Brawler marks 2 or more HP from an attack within Very Close range, you can make a standard attack against the attacker. On a success, the Brawler deals 2d6+15 physical damage instead of their standard damage.
 
 ***Momentum - Reaction:*** When the Brawler makes a successful attack against a PC, you gain a Fear.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Giant Brawler.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `adversaries/Giant Brawler.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:35
+

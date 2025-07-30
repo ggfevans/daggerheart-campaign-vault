@@ -1,3 +1,15 @@
+---
+title: "Young Dryad"
+aliases: []
+tags: ["adversary", "combat", "daggerheart", "gm-tools", "monster", "npc", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Young Dryad.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "adversaries"
+created: "2025-07-30T01:28:44.664559"
+updated: "2025-07-30T01:28:44.664559"
+---
+
 ﻿# YOUNG DRYAD
 
 ***Tier 1 Leader***  
@@ -15,3 +27,14 @@
 ***Thorny Cage - Action:*** Spend a Fear to form a cage around a target within Very Close range and Restrain them until they’re freed with a successful Strength Roll. When a creature makes an action roll against the cage, they must mark a Stress.
 
 ***Momentum - Reaction:*** When the Dryad makes a successful attack against a PC, you gain a Fear.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Young Dryad.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `adversaries/Young Dryad.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:44
+

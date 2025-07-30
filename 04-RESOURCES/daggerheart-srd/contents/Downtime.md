@@ -1,3 +1,15 @@
+---
+title: "Downtime"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Downtime.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:28:59.166382"
+updated: "2025-07-30T01:28:59.166382"
+---
+
 # DOWNTIME
 
 Between conflicts, the party can take a **rest** to recover expended resources and deepen their bonds. During a rest, each PC can make up to two downtime moves.
@@ -28,3 +40,14 @@ At the end of a long rest, any features or effects with a limited number of uses
 ## DOWNTIME CONSEQUENCES
 
 On a short rest, the GM gains 1d4 Fear. On a long rest, they gain Fear equal to 1d4 + the number of PCs, and they can advance a **long-term countdown** of their choice.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Downtime.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Downtime.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:59
+

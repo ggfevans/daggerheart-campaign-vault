@@ -1,3 +1,15 @@
+---
+title: "Call of the Slayer"
+aliases: []
+tags: ["character-options", "class", "daggerheart", "mechanics", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Call of the Slayer.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "subclasses"
+created: "2025-07-30T01:26:37.032271"
+updated: "2025-07-30T01:26:37.032271"
+---
+
 ﻿# CALL OF THE SLAYER
 
 Play the Call of the Slayer if you want to strike down adversaries with immense force.
@@ -13,3 +25,14 @@ Play the Call of the Slayer if you want to strike down adversaries with immense 
 ## MASTERY FEATURE
 
 ***Martial Preparation:*** You’re an inspirational warrior to all who travel with you. Your party gains access to the Martial Preparation downtime move. To use this move during a rest, describe how you instruct and train with your party. You and each ally who chooses this downtime move gain a d6 Slayer Die. A PC with a Slayer Die can spend it to roll the die and add the result to an attack or damage roll of their choice.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Call of the Slayer.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `subclasses/Call of the Slayer.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:37
+

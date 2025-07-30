@@ -1,3 +1,15 @@
+---
+title: "Vault Guardian Sentinel"
+aliases: []
+tags: ["adversary", "combat", "daggerheart", "gm-tools", "monster", "npc", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Vault Guardian Sentinel.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "adversaries"
+created: "2025-07-30T01:28:32.686726"
+updated: "2025-07-30T01:28:32.686726"
+---
+
 ﻿# VAULT GUARDIAN SENTINEL
 
 ***Tier 3 Bruiser***  
@@ -16,3 +28,14 @@
 ***Mana Bolt - Action:*** Spend a Fear to lob explosive magic at a point within Far range. All targets within Very Close range of that point must make an Agility Reaction Roll. Targets who fail take 8d20 magic damage and are knocked back to Close range. Targets who succeed take half damage and aren’t knocked back.
 
 ***Momentum - Reaction:*** When the Sentinel makes a successful attack against a PC, you gain a Fear.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Vault Guardian Sentinel.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `adversaries/Vault Guardian Sentinel.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:32
+

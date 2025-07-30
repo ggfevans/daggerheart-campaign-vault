@@ -1,3 +1,15 @@
+---
+title: "Chaos Realm"
+aliases: []
+tags: ["daggerheart", "environment", "gm-tools", "reference", "scenarios", "setting", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/environments/Chaos Realm.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "environments"
+created: "2025-07-30T01:28:22.412585"
+updated: "2025-07-30T01:28:22.412585"
+---
+
 ﻿# CHAOS REALM
 
 ***Tier 4 Traversal***  
@@ -28,3 +40,14 @@
 ***Disorienting Reality - Reaction:*** On a result with Fear, you can ask the PC to describe which of their fears the Chaos Realm evokes as a vision of reality unmakes and reconstitutes itself to the PC. The PC loses a Hope. If it is their last Hope, you gain a Fear.
 
   *What moment do they see? If it’s a memory, how is it usurped by this place? How hard will it be to hold on to the real memory?*
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/environments/Chaos Realm.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `environments/Chaos Realm.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:22
+

@@ -1,3 +1,15 @@
+---
+title: "Core Gameplay Loop"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Core Gameplay Loop.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:26:32.714876"
+updated: "2025-07-30T01:26:32.714876"
+---
+
 # CORE GAMEPLAY LOOP
 
 The core gameplay loop is the procedure that drives every scene, both in and out of combat:
@@ -17,3 +29,14 @@ As the scene develops, the players find opportunities to take action—problems 
 ## STEP 4: GO BACK TO STEP 1
 
 The process repeats from the beginning, with the GM relaying any updated details or material changes to the players. This process continues until the end of the scene is triggered by a mechanic or arrives organically.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Core Gameplay Loop.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Core Gameplay Loop.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:32
+

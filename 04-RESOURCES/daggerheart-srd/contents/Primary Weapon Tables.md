@@ -1,3 +1,15 @@
+---
+title: "Primary Weapon Tables"
+aliases: []
+tags: ["combat", "core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Primary Weapon Tables.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:28:56.943826"
+updated: "2025-07-30T01:28:56.943826"
+---
+
 # PRIMARY WEAPON TABLES
 
 *Players can choose one Tier 1 primary weapon during character creation. The GM can make other weapons available throughout the campaign as the PCs level up.*
@@ -212,3 +224,14 @@
 | [Wand of Essek](../weapons/Wand%20of%20Essek.md)                           | Knowledge | Far        | d8+13 mag  | One-Handed | ***Timebending:*** You can choose the target of your attack after making your attack roll.                                                         |
 | [Magus Revolver](../weapons/Magus%20Revolver.md)                           | Finesse   | Very Far   | d6+13 mag  | One-Handed | ***Reloading:*** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again. |
 | [Fusion Gloves](../weapons/Fusion%20Gloves.md)                             | Knowledge | Very Far   | d6+9 mag   | Two-Handed | ***Bonded:*** Gain a bonus to your damage rolls equal to your level.                                                                               |
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Primary Weapon Tables.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Primary Weapon Tables.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:56
+

@@ -1,3 +1,15 @@
+---
+title: "Brawny Zombie"
+aliases: []
+tags: ["adversary", "combat", "daggerheart", "gm-tools", "monster", "npc", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Brawny Zombie.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "adversaries"
+created: "2025-07-30T01:28:39.072337"
+updated: "2025-07-30T01:28:39.072337"
+---
+
 ﻿# BRAWNY ZOMBIE
 
 ***Tier 1 Bruiser***  
@@ -15,3 +27,14 @@
 ***Rend Asunder - Action:*** Make a standard attack with advantage against a target the Zombie has Restrained. On a success, the attack deals direct damage.
 
 ***Rip and Tear - Reaction:*** When the Zombies makes a successful standard attack, you can mark a Stress to temporarily Restrain the target and force them to mark 2 Stress.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Brawny Zombie.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `adversaries/Brawny Zombie.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:39
+

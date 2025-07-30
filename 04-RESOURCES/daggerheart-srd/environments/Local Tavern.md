@@ -1,3 +1,15 @@
+---
+title: "Local Tavern"
+aliases: []
+tags: ["daggerheart", "environment", "gm-tools", "reference", "scenarios", "setting", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/environments/Local Tavern.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "environments"
+created: "2025-07-30T01:28:23.571786"
+updated: "2025-07-30T01:28:23.571786"
+---
+
 ﻿# LOCAL TAVERN
 
 ***Tier 1 Social***  
@@ -33,3 +45,14 @@
 ***Bar Fight - Action:*** Spend a Fear to have a bar fight erupt in the tavern. When a PC tries to move through the tavern while the fight persists, they must succeed on an Agility or Presence Roll or take 1d6+2 physical damage from a wild swing or thrown object. A PC can try to activate this feature by succeeding on an action roll that would provoke tavern patrons.
 
   *Who started the fight? What will it take to stop it?*
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/environments/Local Tavern.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `environments/Local Tavern.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:23
+

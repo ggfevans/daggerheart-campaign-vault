@@ -1,3 +1,15 @@
+---
+title: "Cliffside Ascent"
+aliases: []
+tags: ["daggerheart", "environment", "gm-tools", "reference", "scenarios", "setting", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/environments/Cliffside Ascent.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "environments"
+created: "2025-07-30T01:28:26.140603"
+updated: "2025-07-30T01:28:26.140603"
+---
+
 ﻿# CLIFFSIDE ASCENT
 
 ***Tier 1 Traversal***  
@@ -28,3 +40,14 @@
 ***Fall - Action:*** Spend a Fear to have a PC’s handhold fail, plummeting them toward the ground. If they aren’t saved on the next action, they must make a roll; tick up the countdown by 1, and they take 1d12 physical damage if the countdown is between 8 and 12, 2d12 between 4 and 7, and 3d12 at 3 or lower.
 
   *How can you tell how many others have fallen here before? What lives in these walls that might try to scare adventurers into falling for an easy meal?*
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/environments/Cliffside Ascent.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `environments/Cliffside Ascent.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:26
+

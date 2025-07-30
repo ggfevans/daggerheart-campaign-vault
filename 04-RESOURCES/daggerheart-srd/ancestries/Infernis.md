@@ -1,3 +1,15 @@
+---
+title: "Infernis"
+aliases: []
+tags: ["ancestry", "character-creation", "daggerheart", "heritage", "racial-traits", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/ancestries/Infernis.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "ancestries"
+created: "2025-07-30T01:26:36.486305"
+updated: "2025-07-30T01:26:36.486305"
+---
+
 ﻿# INFERNIS
 
 Infernirs are humanoids who possess sharp canine teeth, pointed ears, and horns. They are the descendants of demons from the Circles Below. On average, infernirs range in height from 5 feet to 7 feet and are known to have long fingers and pointed nails. Some have long, thin, and smooth tails that end in points, forks, or arrowheads. It’s common for infernirs to have two or four horns—though some have crowns of many horns, or only one. These horns can also grow asymmetrically, forming unique, often curving, shapes that infernirs enhance with carving and ornamentation. Their skin, hair, and horns come in an assortment of colors that can include soft pastels, stark tones, or vibrant hues, such as rosy scarlet, deep purple, and pitch black.
@@ -9,3 +21,14 @@ Infernirs possess a “dread visage” that manifests both involuntarily, such a
 ***Fearless:*** When you roll with Fear, you can **mark 2 Stress** to change it into a roll with Hope instead.
 
 ***Dread Visage:*** You have advantage on rolls to intimidate hostile creatures.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/ancestries/Infernis.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `ancestries/Infernis.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:36
+

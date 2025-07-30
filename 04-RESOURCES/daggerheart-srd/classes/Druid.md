@@ -1,3 +1,15 @@
+---
+title: "Druid"
+aliases: []
+tags: ["character-options", "class", "daggerheart", "mechanics", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/classes/Druid.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "classes"
+created: "2025-07-30T01:26:32.954157"
+updated: "2025-07-30T01:26:32.954157"
+---
+
 ﻿# DRUID
 
 Becoming a druid is more than an occupation; it’s a calling for those who wish to learn from and protect the magic of the wilderness. While one might underestimate a gentle druid who practices the often-quiet work of cultivating flora, druids who channel the untamed forces of nature are terrifying to behold. Druids cultivate their abilities in small groups, often connected by a specific ethos or locale, but some choose to work alone. Through years of study and dedication, druids can learn to transform into beasts and shape nature itself.
@@ -316,3 +328,14 @@ Beastform categories are divided by tier. Each entry includes the following deta
 > Strength +3 | Evasion +2 | Strength Melee d12+10 phy
 
 ***Hybrid Features:*** To transform into this creature, mark 2 additional Stress. Choose any three Beastform options from Tiers 1-3. Choose a total of five advantages and three features from those options.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/classes/Druid.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `classes/Druid.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:32
+

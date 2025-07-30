@@ -1,3 +1,15 @@
+---
+title: "Valor"
+aliases: []
+tags: ["daggerheart", "domain", "magic", "mechanics", "progression", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/domains/Valor.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "domains"
+created: "2025-07-30T01:26:45.307146"
+updated: "2025-07-30T01:26:45.307146"
+---
+
 # VALOR
 
 Valor is the domain of protection. Whether through attack or defense, those who choose this discipline channel formidable strength to protect their allies in battle. Valor offers great power to those who raise their shields in defense of others. The Valor domain can be accessed by the Guardian and Seraph classes.
@@ -16,3 +28,14 @@ Valor is the domain of protection. Whether through attack or defense, those who 
 |   **8**   | [Full Surge](../abilities/Full%20Surge.md)                     | [Ground Pound](../abilities/Ground%20Pound.md)         | —                                                          |
 |   **9**   | [Hold the Line](../abilities/Hold%20the%20Line.md)             | [Lead by Example](../abilities/Lead%20by%20Example.md) | —                                                          |
 |  **10**   | [Unbreakable](../abilities/Unbreakable.md)                     | [Unyielding Armor](../abilities/Unyielding%20Armor.md) | —                                                          |
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/domains/Valor.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `domains/Valor.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:45
+

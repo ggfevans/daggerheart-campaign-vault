@@ -1,3 +1,15 @@
+---
+title: "Core GM Mechanics"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Core GM Mechanics.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:28:57.248359"
+updated: "2025-07-30T01:28:57.248359"
+---
+
 # CORE GM MECHANICS
 
 ## ROLLING DICE
@@ -373,3 +385,14 @@ Once the countdown ends, the underwater PC must mark a Stress whenever they take
 Sometimes a player might want their character to act against another PC in the scene. Before resorting to rolling dice, discuss the situation with both players to decide how to resolve the conflict. A roll might not be necessary to reach an outcome—but if rolling will be fun for everyone involved, come to a consensus on the terms of the roll, then facilitate the scene according to the results.
 
 On an attack roll against a PC, the attacker rolls against the defender’s Evasion, just like an adversary. On any other kind of action roll, the instigator makes an action roll and the target makes a reaction roll. To succeed, the instigator must beat a Difficulty equal to the total value of the reaction roll.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Core GM Mechanics.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Core GM Mechanics.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:57
+

@@ -1,3 +1,15 @@
+---
+title: "Conditions"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Conditions.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:26:36.069548"
+updated: "2025-07-30T01:26:36.069548"
+---
+
 # CONDITIONS
 
 **Conditions** are effects that grant specific benefits or drawbacks to the target they are attached to.
@@ -27,3 +39,14 @@ When a creature is Vulnerable, all rolls targeting them have advantage.
 The **temporary** tag denotes a condition or effect that the affected creature can clear by making a move against it. When an affected PC makes a move to clear a temporary condition or effect, it normally requires a successful action roll using an appropriate trait. When an affected adversary makes a move to clear a temporary condition or effect, the GM puts the spotlight on the adversary and describes how they do it; this doesn’t require a roll but it does use up that adversary’s spotlight.
 
 **Special conditions** are only cleared when specific requirements are met, such as completing a certain action or using a particular item. The requirements for clearing these conditions are stated in the text of the effect that applies the condition.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Conditions.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Conditions.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:36
+

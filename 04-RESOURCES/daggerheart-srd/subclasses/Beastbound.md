@@ -1,3 +1,15 @@
+---
+title: "Beastbound"
+aliases: []
+tags: ["character-options", "class", "daggerheart", "mechanics", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Beastbound.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "subclasses"
+created: "2025-07-30T01:26:33.430989"
+updated: "2025-07-30T01:26:33.430989"
+---
+
 ﻿# BEASTBOUND
 
 Play the Beastbound if you want to form a deep bond with an animal ally.
@@ -77,3 +89,14 @@ When your character levels up, choose one available option for your companion fr
 - **Resilient:** Your companion gains an additional Stress slot.
 - **Bonded:** When you mark your last Hit Point, your companion rushes to your side to comfort you. Roll a number of d6s equal to the unmarked Stress slots they have and mark them. If any roll a 6, your companion helps you up. Clear your last Hit Point and return to the scene.
 - **Aware:** Your companion gains a permanent +2 bonus to their Evasion.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Beastbound.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `subclasses/Beastbound.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:33
+

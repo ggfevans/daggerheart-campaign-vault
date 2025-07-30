@@ -1,3 +1,15 @@
+---
+title: "Ranger"
+aliases: []
+tags: ["character-options", "class", "daggerheart", "mechanics", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/classes/Ranger.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "classes"
+created: "2025-07-30T01:26:34.824545"
+updated: "2025-07-30T01:26:34.824545"
+---
+
 ﻿# RANGER
 
 Rangers are highly skilled hunters who, despite their martial abilities, rarely lend their skills to an army. Through mastery of the body and a deep understanding of the wilderness, rangers become sly tacticians, pursuing their quarry with cunning and patience. Many rangers track and fight alongside an animal companion with whom they’ve forged a powerful spiritual bond. By honing their skills in the wild, rangers become expert trackers, as likely to ensnare their foes in a trap as they are to assail them head-on.
@@ -38,3 +50,14 @@ Choose either the **[Beastbound](../subclasses/Beastbound.md)** or **[Wayfinder]
 - What friendly competition do we have?
 - Why do you act differently when we’re alone than when others are around?
 - What threat have you asked me to watch for, and why are you worried about it?
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/classes/Ranger.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `classes/Ranger.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:34
+

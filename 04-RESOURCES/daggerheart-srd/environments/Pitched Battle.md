@@ -1,3 +1,15 @@
+---
+title: "Pitched Battle"
+aliases: []
+tags: ["combat", "daggerheart", "environment", "gm-tools", "reference", "scenarios", "setting", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/environments/Pitched Battle.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "environments"
+created: "2025-07-30T01:28:25.077256"
+updated: "2025-07-30T01:28:25.077256"
+---
+
 ﻿# PITCHED BATTLE
 
 ***Tier 3 Event***  
@@ -24,3 +36,14 @@
 ***Reinforcements - Action:*** Summon a Knight of the Realm, a number of Tier 3 Minions equal to the number of PCs, and two adversaries of your choice within Far range of a chosen PC as reinforcements. The Knight of the Realm immediately takes the spotlight.
 
   *Who are they targeting first? What formation do they take?*
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/environments/Pitched Battle.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `environments/Pitched Battle.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:25
+

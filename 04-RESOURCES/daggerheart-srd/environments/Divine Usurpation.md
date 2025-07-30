@@ -1,3 +1,15 @@
+---
+title: "Divine Usurpation"
+aliases: []
+tags: ["daggerheart", "environment", "gm-tools", "magic", "reference", "scenarios", "setting", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/environments/Divine Usurpation.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "environments"
+created: "2025-07-30T01:28:21.783569"
+updated: "2025-07-30T01:28:21.783569"
+---
+
 ﻿# DIVINE USURPATION
 
 ***Tier 4 Event***  
@@ -32,3 +44,14 @@
 ***Ritual Nexus - Reaction:*** On any failure with Fear against the Usurper, the PC must mark 1d4 Stress from the backlash of magical power.
 
   *What visions of failures past torment you as your efforts fall short? How are these memories twisted by the Usurper?*
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/environments/Divine Usurpation.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `environments/Divine Usurpation.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:21
+

@@ -1,3 +1,15 @@
+---
+title: "Classes"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Classes.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:26:33.146805"
+updated: "2025-07-30T01:26:33.146805"
+---
+
 # CLASS DOMAINS
 
 Each class grants access to two domains:
@@ -82,3 +94,14 @@ Each class is divided into two **subclasses**, each of which further defines and
 - **Mastery Feature:** The mastery feature is a subclass’s most powerful feature, which can be gained at higher levels. For some subclasses, the mastery feature unlocks an extraordinary new ability; for others, it’s the impressive culmination of their subclass’s core feature.
 
 The Daggerheart core set includes cards detailing each foundation, specialization, and mastery feature. When you acquire one of these features, take its card for use as a reference during play.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Classes.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Classes.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:33
+

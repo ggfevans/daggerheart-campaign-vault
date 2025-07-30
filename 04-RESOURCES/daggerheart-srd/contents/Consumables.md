@@ -1,3 +1,15 @@
+---
+title: "Consumables"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Consumables.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:28:58.096748"
+updated: "2025-07-30T01:28:58.096748"
+---
+
 # CONSUMABLES
 
 Consumables are loot that can only be used once. You can hold up to five of each consumable at a time. Using a consumable doesn’t require a roll unless required by the GM or the demands of the fiction.
@@ -71,3 +83,14 @@ To generate a random consumable, choose a rarity, roll the designated dice, and 
 |  **58**  | [Death Tea](../consumables/Death%20Tea.md)                                       | After you drink this tea, you instantly kill your target when you critically succeed on an attack. If you don’t critically succeed on an attack before your next long rest, you die.                                     |
 |  **59**  | [Mirror of Marigold](../consumables/Mirror%20of%20Marigold.md)                   | When you take damage, you can spend a Hope to negate that damage, after which the mirror shatters.                                                                                                                       |
 |  **60**  | [Stardrop](../consumables/Stardrop.md)                                           | You can use this stardrop to summon a hailstorm of comets that deals 8d20 physical damage to all targets within Very Far range.                                                                                          |
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Consumables.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Consumables.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:58
+

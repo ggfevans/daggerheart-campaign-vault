@@ -1,3 +1,15 @@
+---
+title: "Dark Whispers"
+aliases: []
+tags: ["ability", "class-features", "daggerheart", "mechanics", "powers", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Dark Whispers.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "abilities"
+created: "2025-07-30T01:26:55.536152"
+updated: "2025-07-30T01:26:55.536152"
+---
+
 ﻿# DARK WHISPERS
 
 > **Level 6 Midnight Spell**  
@@ -9,3 +21,14 @@ You can speak into the mind of any person with whom you’ve made physical conta
 - What are they doing?
 - What are they afraid of?
 - What do they cherish most in the world?
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Dark Whispers.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `abilities/Dark Whispers.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:55
+
