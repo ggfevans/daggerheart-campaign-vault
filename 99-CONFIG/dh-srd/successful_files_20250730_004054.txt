@@ -1,3 +1,0 @@
-..\..\04-RESOURCES\dh-srd\dh-Making-Moves-and-Taking-Action.md
-..\..\04-RESOURCES\dh-srd\dh-Character-Creation.md
-..\..\04-RESOURCES\dh-srd\dh-Combat-Wheelchair.md
