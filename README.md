@@ -3,7 +3,7 @@
 
 [![Cursed Knowledge: Forbidden Lore](https://img.shields.io/badge/Cursed_Knowledge-Forbidden_Lore-8B0000.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Campaign Status](https://img.shields.io/badge/Status-Surviving_the_Darkness-crimson.svg)]()
-[![Last Vigil](https://img.shields.io/badge/Last_Vigil-Session_0-grey.svg)]()
+[![Last Vigil](https://img.shields.io/badge/Last_Vigil-Session_1-grey.svg)]()
 
 *From the shadow-stained journals of Captain Howling Banjo, chronicler of the damned*
 
