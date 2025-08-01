@@ -180,8 +180,19 @@ status: IN_PROGRESS
 
 **REWARD OFFERED**:
 - **Produces an arcane prism** - magical gem as payment for rescue mission
-- Demonstrates the value Holya places on Davrith's safe return
-- Significant magical item suggests both desperation and genuine resources
+- Holya acknowledges "it is not much good to them" - limited utility for Mire's End
+- Significant magical item demonstrates value placed on Davrith's safe return
+
+**PARTY DECISION MADE**:
+- **Aster takes leadership**: "We should go for it" - commits to rescue mission
+- **Hart's grim determination**: "If he still breathes we will bring him back, if not..."
+- **Banjo's moral resolve**: "We will do the right thing"
+- **Party consensus**: Official commitment to find Davrith at the ruins
+- Shows unified party resolve and emerging leadership dynamics
+
+**DEPARTURE TO THE RUINS**:
+- Party heads off on trail through Slithermarsh toward the ruins
+- Travel route: Up through marshland following Davrith's path from night before
 
 ### Shambling Figures
 [Record identity and status of zombie-like individuals]
@@ -217,7 +228,25 @@ status: IN_PROGRESS
 
 ---
 
-## 🗺️ World Building Discoveries
+## 🌉 Journey to the Ruins
+
+### Trail Through Slithermarsh
+**Route**: Following Davrith's path from previous night up through marshland
+**Destination**: The ruins (few hours travel from Mire's End)
+**Party Commitment**: Unified resolve to rescue Davrith or "do the right thing"
+
+### MAJOR OBSTACLE: Rope Bridge
+**Location**: Raging river crossing, 100 feet across
+**Bridge Type**: Rope bridge spanning the torrent
+**Water Description**: Black water rushing below in violent torrent
+**Challenge**: Significant crossing hazard on path to ruins
+**Status**: Current obstacle requiring party navigation/solution
+
+**Environmental Details**:
+[Document weather, visibility, bridge condition, alternative routes]
+
+**Party Approach**:
+[Record how party assesses and tackles this crossing challenge]
 
 ### Meyer's End Details
 **Settlement Structure**:

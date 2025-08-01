@@ -67,8 +67,14 @@ status: active
 
 **OFFERED REWARD**:
 - **Arcane prism** - magical gem offered as payment for Davrith's rescue
-- Demonstrates both desperation and significant resources available
-- Valuable magical item suggests importance of mission to Holya  
+- Holya notes "it is not much good to them" - acknowledging limited local utility
+- Valuable magical item suggests importance of mission to Holya
+
+**PARTY DECISION - ASTER'S LEADERSHIP**:
+- **Aster decides: "We should go for it"** - commits party to rescue mission
+- **Aster's pragmatic advice to Holya**: "Try all possibilities, don't depend on us - hope is not a solution"
+- Shows Aster's emerging leadership and realistic crisis management approach
+- Party officially accepts rescue mission to the ruins  
 
 ## 🗺️ Role in Larger Story
 **Pyre Crisis Connection**: Direct authority over town's supernatural emergency  
