@@ -172,6 +172,17 @@ status: IN_PROGRESS
 - **Hart**: Have people traveled to ruins safely before? (Yes, normally successful)
 - **Augustus**: When did pyre issues start? (Few months ago)
 
+**HOLYA'S URGENT REQUEST**:
+- **Implores party to find Davrith and get him back safe**
+- Direct plea from townmaster for immediate rescue mission
+- Confirms Davrith's safety is her top priority over solving pyre crisis
+- Sets up critical decision: rescue mission vs. continuing Shalk Chasm expedition
+
+**REWARD OFFERED**:
+- **Produces an arcane prism** - magical gem as payment for rescue mission
+- Demonstrates the value Holya places on Davrith's safe return
+- Significant magical item suggests both desperation and genuine resources
+
 ### Shambling Figures
 [Record identity and status of zombie-like individuals]
 

@@ -63,7 +63,12 @@ status: active
 
 **Emergency Planning**:
 - Hart asked about evacuation if pyre fails completely
-- Holya was "unsure" where people would go - no backup plan exists  
+- Holya was "unsure" where people would go - no backup plan exists
+
+**OFFERED REWARD**:
+- **Arcane prism** - magical gem offered as payment for Davrith's rescue
+- Demonstrates both desperation and significant resources available
+- Valuable magical item suggests importance of mission to Holya  
 
 ## 🗺️ Role in Larger Story
 **Pyre Crisis Connection**: Direct authority over town's supernatural emergency  
