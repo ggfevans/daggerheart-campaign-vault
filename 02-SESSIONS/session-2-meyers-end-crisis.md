@@ -53,9 +53,11 @@ status: IN_PROGRESS
 
 ### The Soggy Boot Tavern - CURRENT LOCATION
 **Description**: Small sagging tavern of moss-eaten timber in Mire's End
-**Atmosphere**: [Record the mood, lighting, sounds, smells of this decaying establishment]
-**Bartender Encountered**: Evasive local who gives cryptic responses
-**Patrons Present**: [Document any other NPCs encountered inside]
+**Atmosphere**: Somber tone - the townsfolk know the pyre is failing and sense impending doom
+**Layout**: Features a stage area (potential performance space)
+**Bartender Encountered**: Evasive local who gives cryptic responses, offers fish ale
+**Patrons Present**: No one of particular note or danger (per Banjo's tactical assessment)
+**Security Assessment**: Banjo surveyed room - all clear of immediate threats
 
 **Key Interaction - Augustus & Bartender**:
 - **Augustus's Question**: "Who is in charge of the town?"
@@ -66,7 +68,17 @@ status: IN_PROGRESS
 - **Offered**: Fish ale to party
 - **Implication**: Augustus's formal approach backfired - bartender now suspicious/unhelpful
 
-**Information Gathered**: [Note any rumors, stories, or clues learned here]
+**Current Party Actions**:
+- **Banjo**: Received raw fish to eat (maintaining his character's dietary habits)
+- **Vaerenth**: Taking the stage for a musical performance - has written an original song
+- **Stage Context**: Previous performer "Jerry" was apparently quite bad, setting low expectations
+- **Performance Opportunity**: Chance to lift spirits, gather information, or learn local lore
+
+**Information Gathered**: 
+- Townsfolk are aware of and worried about the dying pyre
+- No immediate physical threats in the tavern
+- Divided or unclear local authority structure
+- Local entertainment standards are quite low (Jerry set the bar very low)
 
 ### The Dying Pyre
 **Observations**:
