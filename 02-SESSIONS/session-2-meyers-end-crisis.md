@@ -7,19 +7,19 @@ date: 2025-08-01
 participants:
 - User (Gareth as Captain Howling Banjo)
 - Andi (Carly, Mark, Luie as Vaerenth, Aster, Augustus)
-location: Meyer's End → [TBD based on session events]
+location: Mire's End (The Soggy Boot tavern) → [TBD based on session events]
 duration: 4:00 PM - [TBD]
 status: IN_PROGRESS
 ---
 
-# Session 2 - Meyer's End Crisis
+# Session 2 - Mire's End Crisis
 
 ## 📋 Session Overview
 
 **Date**: Friday, August 1, 2025  
 **Duration**: 4:00 PM - [TBD]  
 **Players**: Gareth, Andi, Carly, Mark, Luie  
-**Setting**: Meyer's End laketown investigation → [Continues based on party decisions]  
+**Setting**: Mire's End laketown investigation (The Soggy Boot tavern) → [Continues based on party decisions]  
 **Key Setup**: Dying pyre crisis, shambling townsfolk, critical expedition decision
 
 ---
@@ -51,8 +51,22 @@ status: IN_PROGRESS
 ### Initial Approach
 [Document party's approach to the settlement]
 
-### The Soggy Boot Tavern
-[Record interactions with tavern and any NPCs encountered]
+### The Soggy Boot Tavern - CURRENT LOCATION
+**Description**: Small sagging tavern of moss-eaten timber in Mire's End
+**Atmosphere**: [Record the mood, lighting, sounds, smells of this decaying establishment]
+**Bartender Encountered**: Evasive local who gives cryptic responses
+**Patrons Present**: [Document any other NPCs encountered inside]
+
+**Key Interaction - Augustus & Bartender**:
+- **Augustus's Question**: "Who is in charge of the town?"
+- **Bartender's Response**: "Depends what parts of the town you are looking for"
+- **Mechanics**: Augustus Presence roll FAILED (with Hope) - took stress
+- **Result**: Bartender shut down, deflected to Vaerenth instead
+- **Bartender to Vaerenth**: "Animals are not allowed inside unless on a plate" (referring to Hogpog)
+- **Offered**: Fish ale to party
+- **Implication**: Augustus's formal approach backfired - bartender now suspicious/unhelpful
+
+**Information Gathered**: [Note any rumors, stories, or clues learned here]
 
 ### The Dying Pyre
 **Observations**:
