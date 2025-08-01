@@ -235,18 +235,37 @@ status: IN_PROGRESS
 **Destination**: The ruins (few hours travel from Mire's End)
 **Party Commitment**: Unified resolve to rescue Davrith or "do the right thing"
 
-### MAJOR OBSTACLE: Rope Bridge
+### MAJOR OBSTACLE: Destroyed Bridge Crossing
 **Location**: Raging river crossing, 100 feet across
-**Bridge Type**: Rope bridge spanning the torrent
+**Bridge Status**: DESTROYED - bridge is gone, no ropes reach across
 **Water Description**: Black water rushing below in violent torrent
-**Challenge**: Significant crossing hazard on path to ruins
-**Status**: Current obstacle requiring party navigation/solution
+**Challenge**: No direct crossing method available
+
+**PARTY SOLUTIONS CONSIDERED**:
+- **Aster's Flight**: Could potentially fly across, but cannot carry larger party members
+- **Size Limitation**: Some party members too large for Aster to transport
+- **Alternative Routes**: [To be explored]
+
+**CRITICAL DISCOVERY: Davrith's Camp**:
+- **Vaerenth discovers**: Remains of a small abandoned camp on this side
+- **Davrith's Premium Bedroll**: Embroidered with "Davrith's" name, clears 1 stress when used
+- **Supply Cache**: Bag containing minor health potion and stride potion (hidden under tent)
+- **Vaerenth's Action**: Collected all the gear from the campsite
+- **Ominous Realization**: Party gets the feeling "he was never coming back"
+- **Implication**: Davrith left gear knowing this was a one-way journey - suicide mission?
+- **Hidden Potion**: Stride potion suggests Davrith planned for mobility/escape challenges
+
+**ALTERNATIVE CROSSING ROUTE DISCOVERED**:
+- **Small trail found**: Leads down to the water surface
+- **Path description**: Trail goes down and across the river
+- **Potential crossing method**: Underwater or surface-level route
+- **Risk assessment**: [To be determined - black water dangers?]
 
 **Environmental Details**:
-[Document weather, visibility, bridge condition, alternative routes]
+[Document weather, visibility, alternative routes, other crossing methods]
 
 **Party Approach**:
-[Record how party assesses and tackles this crossing challenge]
+[Record how party solves crossing challenge after discovering Davrith's abandoned camp]
 
 ### Meyer's End Details
 **Settlement Structure**:
@@ -304,7 +323,18 @@ status: IN_PROGRESS
 [Record XP awards and advancement opportunities]
 
 ### Equipment Changes
-[Note new gear, damage, or resource consumption]
+**New Gear Acquired**:
+- **Davrith's Premium Bedroll** (acquired by Vaerenth)
+  - Embroidered with "Davrith's" name
+  - Magical property: Clears 1 stress when used
+  - Found abandoned at destroyed bridge campsite
+- **Davrith's Camp Gear** (collected by Vaerenth)
+  - **Bag with minor health potion** - standard healing supplies
+  - **Stride potion** - hidden under tent (movement enhancement)
+  - Various other supplies from abandoned campsite
+  - Evidence of Davrith's careful preparation for ruins expedition
+
+**Resource Status**: [Supply consumption, equipment damage, healing needs]
 
 ### Relationship Development
 [Track PC relationships and NPC connections]
