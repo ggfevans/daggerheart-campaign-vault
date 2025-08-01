@@ -86,7 +86,13 @@ status: IN_PROGRESS
 - **Chain Reaction**: Jerry spilled drink on Dracona named "Jeffrey"
 - **Full Fight**: Tavern brawl broke out between patrons
 - **Party Response**: Attempting to sneak out using Agility/Presence rolls
-- **Current Status**: Party trying to escape the chaos they accidentally started
+- **ESCAPE SUCCESS**: All party members succeeded their rolls (variety of Hope/Fear)
+- **Current Status**: Party successfully escaped the chaos without being implicated
+
+**HOPE/FEAR TRACKER**:
+- **Player Hope**: 5 tokens
+- **GM Fear**: 12 tokens (!!)
+- **Momentum**: Fear tokens building dramatically - big complications incoming
 
 **Information Gathered**: 
 - Pyre crisis is magical/supernatural (wood doesn't help)
@@ -146,8 +152,25 @@ status: IN_PROGRESS
 
 ## 👥 NPCs Encountered
 
-### Meyer's End Residents
-[Document any surviving normal townsfolk and their information]
+### Holya - Townmaster
+**Description**: "The biggest woman" - official authority of Mire's End, found in middle of town
+**Leadership Style**: Protective, strategic - orchestrates deception for safety
+**Current Crisis Management**: Coordinating response to supernatural pyre failure
+
+**CRITICAL INFORMATION REVEALED**:
+- **Davrith's Protection**: Public blame is "a ruse" - fake hostility to keep Davrith safe
+- **Real Doubt**: Holya "not sure if Davrith is the problem" - suspects other causes
+- **Current Mission**: Davrith went to "the ruins" last night (few hours away)
+- **Overdue Return**: Normally safe travel, but Davrith hasn't returned yet
+- **Crisis Timeline**: Pyre problems started "a few months ago"
+- **Failed Solutions**: Davrith tried "many rituals, fuel" without success
+- **No Evacuation Plan**: Holya "unsure" where people would go if pyre fails
+- **Hidden Danger**: Something threatens Davrith's safety beyond public blame
+
+**Key Questions from Party**:
+- **Hart**: Where would people go if pyre fails? (Holya unsure - no backup plan)
+- **Hart**: Have people traveled to ruins safely before? (Yes, normally successful)
+- **Augustus**: When did pyre issues start? (Few months ago)
 
 ### Shambling Figures
 [Record identity and status of zombie-like individuals]
