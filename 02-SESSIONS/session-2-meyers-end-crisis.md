@@ -69,16 +69,30 @@ status: IN_PROGRESS
 - **Implication**: Augustus's formal approach backfired - bartender now suspicious/unhelpful
 
 **Current Party Actions**:
-- **Banjo**: Received raw fish to eat (maintaining his character's dietary habits)
-- **Vaerenth**: Taking the stage for a musical performance - has written an original song
-- **Stage Context**: Previous performer "Jerry" was apparently quite bad, setting low expectations
-- **Performance Opportunity**: Chance to lift spirits, gather information, or learn local lore
+- **Banjo**: Received raw fish to eat, then planted fishbones in Jerry's pocket (rolled with Fear!)
+- **Vaerenth**: Performed excellent original poem on stage - earned handful of gold and crowd approval
+- **Performance Success**: Completely exceeded Jerry's terrible standards, lifted tavern mood
+
+**MAJOR INFORMATION BREAKTHROUGH** (thanks to Vaerenth's performance):
+- **Bartender opened up**: Recognized party as outsiders, shared crucial details
+- **Pyre Crisis Details**: Wood doesn't help - adding more wood to the pyre has no effect
+- **Key NPC - Davrinth**: Left town searching for a solution to the pyre problem
+- **Local Blame**: Crowd/townsfolk blame Davrinth for the crisis (unclear why)
+- **Authority Structure**: Townmaster is **Holya** - described as "the biggest woman"
+- **Holya's Location**: Somewhere "in the middle of town" (specific location unclear)
+
+**TAVERN BRAWL ERUPTS**:
+- **Banjo's Mischief**: Fishbone planting in Jerry's pocket (Fear roll) backfired spectacularly
+- **Chain Reaction**: Jerry spilled drink on Dracona named "Jeffrey"
+- **Full Fight**: Tavern brawl broke out between patrons
+- **Party Response**: Attempting to sneak out using Agility/Presence rolls
+- **Current Status**: Party trying to escape the chaos they accidentally started
 
 **Information Gathered**: 
-- Townsfolk are aware of and worried about the dying pyre
-- No immediate physical threats in the tavern
-- Divided or unclear local authority structure
-- Local entertainment standards are quite low (Jerry set the bar very low)
+- Pyre crisis is magical/supernatural (wood doesn't help)
+- Davrinth may be key to solution (but is blamed and absent)
+- Clear local leadership (Holya) but location unknown
+- Party needs to avoid association with tavern brawl
 
 ### The Dying Pyre
 **Observations**:
