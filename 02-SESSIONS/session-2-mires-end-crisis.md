@@ -19,9 +19,9 @@ key-achievement: "Sacred Branch Retrieved - Mire's End Crisis Solved"
 ## 📋 Session Overview
 
 **Date**: Friday, August 1, 2025  
-**Duration**: 4:00 PM - 8:30 PM (4.5 hours)  
+**Duration**: 4:00 PM - 7:30 PM (3.5 hours)  
 **Players**: Gareth (Captain Howling Banjo), Andi, Carly (Hart), Mark (Aster), Luie (Vaerenth, Augustus)  
-**Locations**: [[slithermarsh]] waters → [[mires-end]] → [[the-soggy-boot]] → [[destroyed-bridge-crossing]] → [[the-ruins]]  
+**Locations**: [[slithermarsh]] waters → [[mires-end]] → [[the-soggy-boot]] → [[slithermarsh]] forest →  [[destroyed-bridge-crossing]] → [[the-ruins]]  
 
 ### Session Arc Summary
 **Opening Dilemma**: Dying pyre crisis vs. Shalk Chasm mission  
