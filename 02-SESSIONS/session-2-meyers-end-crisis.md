@@ -157,15 +157,20 @@ status: IN_PROGRESS
 **ESCALATION - Elite Zombie Emerges**:
 - **Huge Zombie**: Closes distance to engage party
 - **Special Ability**: Uses "Too Many Arms" - multi-limb attack capability
-- **Threat Level**: Elite undead with enhanced combat abilities
-- **Tactical Implication**: Zombie horde has stronger individual threats beyond basic undead
+- **DEVASTATING ATTACK**: Hits everyone except Banjo for 19 damage!
+  - **Targets Hit**: Aster, Augustus, Vaerenth, Hart (all but Banjo)
+  - **Damage**: 19 damage to each party member
+  - **Tactical Disaster**: Elite zombie's multi-arm ability devastates most of party
+- **Banjo**: Avoided the multi-arm assault (small size advantage?)
+- **Threat Level**: Elite undead proving extremely dangerous with area attacks
 
 **Combat Status**: 
-- **Aster**: Unharmed, avoided zombie bite
-- **Augustus**: No physical damage (armor consistently effective) but 1 stress from horrifying bite
-- **Vaerenth**: Successful multi-target attack, 3 zombies damaged
-- **Huge Zombie**: Engaging with special multi-arm attack ability
-- **Zombie Horde**: Mix of damaged regular zombies and elite huge zombie threat
+- **Aster**: Hit for 19 damage by huge zombie
+- **Augustus**: Hit for 19 damage (armor may help) + 1 stress from earlier bite
+- **Vaerenth**: Hit for 19 damage by huge zombie
+- **Hart**: Hit for 19 damage by huge zombie
+- **Banjo**: Unharmed by huge zombie's "Too Many Arms" attack
+- **Huge Zombie**: Demonstrated devastating multi-target combat capability
 - **Hope/Fear**: Player Hope reduced, GM Fear at 5 tokens
 
 ### Tactical Considerations
