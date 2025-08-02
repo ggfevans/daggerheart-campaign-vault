@@ -57,7 +57,7 @@ heading: Session Tracker
 ## 📝 Session Notes Links
 ## 📝 Session Notes Links
 - [[02-SESSIONS/session-1-last-light-beginning]] - Session 1 (2025-07-25): Hope's Call pub beginning
-- [[02-SESSIONS/session-2-meyers-end-crisis]] - Session 2 (2025-08-01): Meyer's End crisis investigation
+- [[session-2-mires-end-crisis]] - Session 2 (2025-08-01): Meyer's End crisis investigation
 
 *Links will be added as sessions are completed*
 

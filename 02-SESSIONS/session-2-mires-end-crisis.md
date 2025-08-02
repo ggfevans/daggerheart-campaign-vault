@@ -177,6 +177,15 @@ status: IN_PROGRESS
 - **Clarification Needed**: Rituals are performed prior to combat, not during
 - **Resolution**: [Rules discussion and agreement on ritual mechanics]
 
+**Continued Party Actions**:
+- **Hart**: Attacks nearest attackers - targeting zombie threats in melee range
+- **Vaerenth**: Tactical retreat - moves out of range of zombie attacks
+  - **Archer positioning**: Using range advantage to avoid melee damage
+  - **Smart repositioning**: Getting distance after taking 19 damage from huge zombie
+- **Aster**: Attacks nearest enemy - hits successfully
+  - **Melee engagement**: Aster engaging zombies in close combat
+  - **Combat effectiveness**: Successful attack against undead threats
+
 **Zombie Horde Retaliation**:
 - **Target**: Zombie horde attacks Banjo in response to rain of blades
 - **Attack Roll**: Nearly critical hit against Banjo
