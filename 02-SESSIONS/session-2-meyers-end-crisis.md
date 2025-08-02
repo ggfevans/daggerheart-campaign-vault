@@ -164,14 +164,29 @@ status: IN_PROGRESS
 - **Banjo**: Avoided the multi-arm assault (small size advantage?)
 - **Threat Level**: Elite undead proving extremely dangerous with area attacks
 
+**Round 2 - Party Counterattack**:
+- **Banjo's Rain of Blades**: Partially successful attack
+  - **Target Selection**: Aimed at zombie horde and huge zombie
+  - **Results**: Blades hit zombie horde but miss the big zombie
+  - **Defensive Action**: Uses Rogue's Dodge for protection
+  - **Tactical Impact**: Reduced horde numbers but elite threat remains
+
+**Zombie Horde Retaliation**:
+- **Target**: Zombie horde attacks Banjo in response to rain of blades
+- **Attack Roll**: Nearly critical hit against Banjo
+- **Augustus Intervention**: Uses "I Am Your Shield" ability
+  - **Guardian Protection**: Augustus blocks attack meant for Banjo
+  - **Damage Redirect**: Augustus takes damage instead of Banjo
+  - **Team Protection**: Guardian ability saving smaller party member
+
 **Combat Status**: 
-- **Aster**: Hit for 19 damage by huge zombie
-- **Augustus**: Hit for 19 damage (armor may help) + 1 stress from earlier bite
-- **Vaerenth**: Hit for 19 damage by huge zombie
-- **Hart**: Hit for 19 damage by huge zombie
-- **Banjo**: Unharmed by huge zombie's "Too Many Arms" attack
-- **Huge Zombie**: Demonstrated devastating multi-target combat capability
-- **Hope/Fear**: Player Hope reduced, GM Fear at 5 tokens
+- **Aster**: Hit for 19 damage by huge zombie (previous round)
+- **Augustus**: Hit for 19 damage + taking redirected damage from Banjo's attack + 1 stress
+- **Vaerenth**: Hit for 19 damage by huge zombie (previous round)
+- **Hart**: Hit for 19 damage by huge zombie (previous round)
+- **Banjo**: Protected by Augustus's intervention, used Rogue's Dodge
+- **Zombie Horde**: Reduced by Banjo's rain of blades
+- **Huge Zombie**: Still at full strength, missed by Banjo's attack
 
 ### Tactical Considerations
 - **Sacred branch power** - does radiant energy affect undead?
