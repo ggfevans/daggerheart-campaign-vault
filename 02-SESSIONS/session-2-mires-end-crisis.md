@@ -200,12 +200,23 @@ status: IN_PROGRESS
 - **Davrith's Position**: Still out of reach - up on statue with sacred branch
 - **Temple Layout**: Davrith safe from immediate zombie threat but unreachable
 
+**PLAYER COMMUNICATION NOTE**:
+- **Hart/Carly**: Initially seemed unresponsive when prompted for action
+- **Technical Issue**: Player was on mute - communication resolved
+- **Session Flow**: Brief pause for technical coordination, then continued
+
 **VAERENTH'S BATTLEFIELD CONTROL**:
 - **Vicious Entangle**: Restrains huge zombie and another zombie horde
   - **Target 1**: Huge zombie with "Too Many Arms" - restrained and unable to attack
   - **Target 2**: Additional zombie horde - multiple enemies controlled
   - **Tactical Impact**: Major threats neutralized through magical restraint
   - **Archer Control**: Vaerenth using magical abilities for crowd control from range
+
+**PLAYER ENGAGEMENT NOTE**:
+- **Carly/Hart**: Did not respond when prompted for action
+- **Possible concern**: Player may still be upset about battle ritual timing confusion
+- **Session dynamic**: Need to check in with player and ensure everyone feels included
+- **Resolution needed**: Address any lingering frustration about rules clarification
 
 **Zombie Horde Retaliation**:
 - **Target**: Zombie horde attacks Banjo in response to rain of blades
