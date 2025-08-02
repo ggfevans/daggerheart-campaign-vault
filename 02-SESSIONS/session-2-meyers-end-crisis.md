@@ -281,6 +281,28 @@ status: IN_PROGRESS
 **Group Action Result**: Success with dramatic tension - near failure saved by divine intervention
 **Current Status**: Rope line secured across ~110ft span, ready for remaining party members to cross
 
+**PARTY CROSSING SEQUENCE**:
+**Crossing Strategy**: 
+- **Hogpog (Biggest Challenge)**: Aster flying the mount across - most difficult crossing
+- **Rope Support**: Banjo steadying the line from far side for manual crossers
+- **Manual Crossings**: Party members pull themselves across using established rope
+
+**Augustus Crossing**:
+- **Banjo Support**: Rolled 22 with Hope - excellent rope steadying/guidance
+- **Augustus Performance**: Succeeded his own crossing roll  
+- **Result**: Safe crossing achieved with strong support coordination
+- **Status**: Augustus successfully across, Banjo providing expert rope management
+
+**Final Crossing - Hart & Vaerenth**:
+- **Strategy**: Vaerenth piggybacks on Hart for final crossing
+- **Hart's Strength Roll**: Rolled 20 - excellent physical performance carrying Vaerenth
+- **Vaerenth's Presence Roll**: Rolled 18 - outstanding coordination/support during crossing
+- **Result**: Exceptional teamwork crossing - both succeed with high rolls
+- **Status**: Hart and Vaerenth successfully across with excellent execution
+- **Team Achievement**: All party members safely crossed the black water torrent
+
+**Remaining**: Hogpog aerial transport via Aster's flight ability
+
 ### Meyer's End Details
 **Settlement Structure**:
 [Map layout, buildings, defensive features, population size]
