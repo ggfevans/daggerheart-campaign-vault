@@ -311,10 +311,21 @@ status: IN_PROGRESS
 - **Second Rescue Attempt**:
   - Augustus Instinct reaction roll: 11 total 
   - **Failed** - Augustus continues to be dragged by supernatural undertow
-- **Current Status**: Augustus in serious danger, being pulled away by black water current
 
-**Team Achievement**: Most party members safely crossed, but Augustus now in mortal peril
-**Remaining**: Hogpog aerial transport + URGENT Augustus rescue needed
+**HEROIC RESCUE OPERATION**:
+- **Banjo's Tactical Leap**: Rope tied to waist and crossing rope, leaps into water ahead of Augustus to intercept
+  - **Banjo Agility Roll**: 12 - successful interception in black water
+- **Aster's Support**: Gets Hogpog to far side, then follows to assist rescue
+  - **Aster Strength Roll**: 14 - successfully grabs rescue rope
+- **Rescue Chain**: Banjo latches onto Augustus, Aster grabs rope around Banjo
+- **Hart & Vaerenth Coordination Issue**: 
+  - **Vaerenth's Whip**: Attempting to extend reach to assist with rescue
+  - **Accident**: Vaerenth's whip accidentally catches where Hart is reaching
+  - **Hart Impeded**: Coordination failure - Hart's assistance disrupted
+  - **Result**: Failed assistance roll due to equipment interference
+- **Current Formation**: Aster→Banjo→Augustus rescue chain + Hart/Vaerenth coordination problems
+
+**CRITICAL MOMENT**: Augustus agility roll pending - final attempt to escape supernatural undertow
 
 ### Meyer's End Details
 **Settlement Structure**:
