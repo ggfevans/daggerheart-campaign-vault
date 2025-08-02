@@ -171,6 +171,12 @@ status: IN_PROGRESS
   - **Defensive Action**: Uses Rogue's Dodge for protection
   - **Tactical Impact**: Reduced horde numbers but elite threat remains
 
+**RULES CLARIFICATION MOMENT**:
+- **Hart and Battle Ritual**: Some confusion about ritual timing
+- **Player Concern**: Hart seemed upset about ritual usage rules
+- **Clarification Needed**: Rituals are performed prior to combat, not during
+- **Resolution**: [Rules discussion and agreement on ritual mechanics]
+
 **Zombie Horde Retaliation**:
 - **Target**: Zombie horde attacks Banjo in response to rain of blades
 - **Attack Roll**: Nearly critical hit against Banjo
