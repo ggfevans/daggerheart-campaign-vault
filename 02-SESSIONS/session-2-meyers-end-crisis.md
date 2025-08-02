@@ -325,7 +325,33 @@ status: IN_PROGRESS
   - **Result**: Failed assistance roll due to equipment interference
 - **Current Formation**: Aster→Banjo→Augustus rescue chain + Hart/Vaerenth coordination problems
 
-**CRITICAL MOMENT**: Augustus agility roll pending - final attempt to escape supernatural undertow
+**CRITICAL MOMENT - FINAL RESCUE**:
+- **Banjo's Assistance**: Rolled 6 - latched onto Augustus's shell with all four limbs
+- **Augustus Agility Roll**: Rolled 19 - SUCCESS!
+- **Rescue Result**: Party successfully pulled out of supernatural black water
+- **Team Achievement**: Despite coordination problems, core rescue chain (Aster→Banjo→Augustus) succeeds
+
+**ADDITIONAL THREAT REVEALED**:
+- **Huge Snake**: Spotted in the black water during rescue
+- **Party Status**: Successfully avoided the serpent threat
+- **Environmental Danger**: Black water contains multiple supernatural/natural hazards
+- **Implication**: The undertow may have been driving Augustus toward predator
+
+**POST-RESCUE CHARACTER MOMENTS**:
+- **Augustus**: Thanks the party for the rescue effort
+- **Banjo**: "It was the right thing to do" - moral compass and team loyalty
+- **Hart**: Quips about being "glad we are keeping to the wing it approach, plenty of chatter"
+- **Party Mood**: Relief, camaraderie, and humor after intense crisis
+- **Team Bonding**: Shared danger creating stronger group dynamic
+
+**RECOVERY AND CONTINUATION**:
+- **Rope Recovery**: Aster flies ropes back to party - no equipment lost
+- **Rest Period**: Party recovers sanity, dries off from black water rescue
+- **Morale**: Team confidence high after successful crisis management
+- **Mission Focus**: Continue pressing along the path toward the ruins
+- **Following Davrith's Trail**: Back on track to find missing investigator
+
+**Current Status**: All party members recovered, equipment secured, continuing journey to ruins where Davrith disappeared
 
 ### Meyer's End Details
 **Settlement Structure**:
