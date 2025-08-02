@@ -10,7 +10,8 @@
       "Bash(npx quartz:*)",
       "Bash(git add:*)",
       "Bash(git rm:*)",
-      "Bash(git stash:*)"
+      "Bash(git stash:*)",
+      "Bash(git commit:*)"
     ],
     "deny": []
   }
