@@ -128,7 +128,7 @@ status: IN_PROGRESS
 **Environmental Factor**: Combat within sacred temple with active radiant barrier
 
 ### Party Positioning
-- **Banjo**: Overwatch position - tactical advantage for ranged support
+- **Banjo**: Overwatch position disrupted - fell due to shock of zombie emergence, back at ground level
 - **Vaerenth**: Near Davrith at statue - front line position
 - **Aster**: [Position during zombie emergence]
 - **Augustus**: [Position during zombie emergence] 
@@ -136,7 +136,17 @@ status: IN_PROGRESS
 - **Davrith (Fungril)**: At statue with sacred branch - allied NPC
 
 ### Combat Progression
-[Document round-by-round combat actions, rolls, and tactical decisions]
+**Round 1 - Zombie Attacks**:
+- **Zombies vs. Aster**: Attack roll 0 - complete miss, no damage
+- **Zombies vs. Augustus**: Attack roll 13 - successful bite attack
+  - **Damage**: Blocked by armor
+  - **Horrifying Passive**: Marks 1 stress on Augustus despite armor block
+  - **Effect**: Augustus takes stress from traumatic bite attack
+
+**Combat Status**: 
+- **Aster**: Unharmed, avoided zombie bite
+- **Augustus**: No physical damage (armor effective) but 1 stress from horrifying bite
+- **Zombie Horde**: Engaging multiple party members in melee combat
 
 ### Tactical Considerations
 - **Sacred branch power** - does radiant energy affect undead?
