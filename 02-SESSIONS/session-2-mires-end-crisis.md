@@ -234,6 +234,17 @@ status: IN_PROGRESS
   - **Condition**: Elite threat isolated but still dangerous
 - **Tactical Victory**: Party successfully eliminated all minion threats and isolated boss enemy
 
+**RITUAL PROGRESS**: Sacred branch ritual now at 4/12 - countdown continuing
+
+**CRITICAL STATUS UPDATES**:
+- **Patchwork Zombie**: Uses last stress - now VULNERABLE
+  - **Mechanical Effect**: Zombie at maximum stress, easier to defeat
+  - **Tactical Opportunity**: Perfect time for coordinated party attack
+- **Aster Status**: At maximum stress, marks 1 HP from zombie hulk's spellcast
+  - **Stress Overload**: Aster at stress limit, taking health damage
+  - **Magical Retaliation**: Zombie hulk's supernatural ability affecting party leader
+  - **Critical Condition**: Aster needs stress relief or risks further HP damage
+
 **PLAYER ENGAGEMENT NOTE**:
 - **Carly/Hart**: Did not respond when prompted for action
 - **Possible concern**: Player may still be upset about battle ritual timing confusion
