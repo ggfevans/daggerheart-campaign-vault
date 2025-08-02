@@ -227,11 +227,12 @@ status: IN_PROGRESS
 - **Combat Impact**: Significant damage to primary threat while immobilized
 
 **BATTLEFIELD STATUS UPDATE**:
-- **Zombie Horde Reduction**: Only 2 hordes remaining after Banjo's Rain of Blades
-  - **Horde 1**: 1 zombie remaining
-  - **Horde 2**: 2-3 zombies remaining
-- **Elite Threat**: Huge zombie restrained but still dangerous, now damaged
-- **Tactical Advantage**: Dramatically reduced enemy numbers and controlled major threats
+- **Zombie Horde Elimination**: All zombie hordes eliminated through coordinated party attacks
+- **Remaining Threat**: Only the patchwork zombie (huge guy) remains
+  - **Status**: Restrained by Vaerenth's Vicious Entangle
+  - **Damage**: Taken 3 HP damage from Hart's attack
+  - **Condition**: Elite threat isolated but still dangerous
+- **Tactical Victory**: Party successfully eliminated all minion threats and isolated boss enemy
 
 **PLAYER ENGAGEMENT NOTE**:
 - **Carly/Hart**: Did not respond when prompted for action
