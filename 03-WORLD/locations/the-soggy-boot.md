@@ -7,7 +7,7 @@ tags:
 - social-hub
 created: 2025-08-01
 last-visited: 2025-08-01
-heading: 'The Soggy Boot - Mire\'s End Tavern'
+heading: "The Soggy Boot - Mires End Tavern"
 ---
 
 # The Soggy Boot

@@ -7,7 +7,7 @@ tags:
 - crisis/active
 created: 2025-08-01
 last-visited: 2025-08-01
-heading: 'Mire\'s End - Dying Laketown'
+heading: "Mires End - Dying Laketown"
 ---
 
 # Mire's End

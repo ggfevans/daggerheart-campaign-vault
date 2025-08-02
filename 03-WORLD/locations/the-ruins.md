@@ -9,7 +9,7 @@ tags:
 - supernatural
 created: 2025-08-01
 last-visited: 2025-08-01
-heading: 'The Ruins - Ancient Temple of the Sacred Branch'
+heading: "The Ruins - Ancient Temple of the Sacred Branch"
 ---
 
 # The Ruins
