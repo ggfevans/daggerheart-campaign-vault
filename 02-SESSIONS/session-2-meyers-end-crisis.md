@@ -119,8 +119,33 @@ status: IN_PROGRESS
 
 ---
 
-## ⚔️ Combat Encounters
-[Document any battles during Meyer's End investigation]
+## ⚔️ Combat Encounter: Patchwork Zombie Horde
+
+### Enemy Forces
+**Primary Threat**: Patchwork zombie horde emerging from corpse mound
+**Enemy Type**: Multiple undead rising from central temple pile
+**Tactical Challenge**: Zombies positioned between party and temple exit
+**Environmental Factor**: Combat within sacred temple with active radiant barrier
+
+### Party Positioning
+- **Banjo**: Overwatch position - tactical advantage for ranged support
+- **Vaerenth**: Near Davrith at statue - front line position
+- **Aster**: [Position during zombie emergence]
+- **Augustus**: [Position during zombie emergence] 
+- **Hart**: [Position during zombie emergence]
+- **Davrith (Fungril)**: At statue with sacred branch - allied NPC
+
+### Combat Progression
+[Document round-by-round combat actions, rolls, and tactical decisions]
+
+### Tactical Considerations
+- **Sacred branch power** - does radiant energy affect undead?
+- **Temple environment** - collapsed roof, statue positioning, exit routes
+- **Davrith's involvement** - can fungril form assist in combat?
+- **Zombie horde tactics** - multiple enemies vs. coordinated party
+
+### Combat Results
+[Track damage dealt, resources used, tactical successes, and encounter resolution]
 
 ### Enemy Types
 [Record creature types, tactics, difficulty]
@@ -228,7 +253,41 @@ status: IN_PROGRESS
 
 ---
 
-## 🌉 Journey to the Ruins
+## 🏛️ The Ruins - Ancient Temple Discovery
+
+### Temple Layout & Atmosphere
+**Structure**: Old temple with collapsed roof - open to sky
+**Central Horror**: Sickening mound of corpses in temple center
+**Far End**: Towering statue crowned with glowing branch
+**Atmosphere**: Supernatural dread, death, and ancient power
+
+### Party Tactical Positioning
+- **Banjo**: Climbs to overwatch position for tactical surveillance
+- **Vaerenth**: Rushes toward the figure at statue - direct confrontation approach
+
+### CRITICAL DISCOVERY: Davrith Found!
+**Figure at Statue**: FUNGRIL (Davrith) - found alive but transformed
+**Location**: Climbing the tall statue toward the glowing branch crown
+**Condition**: Appears to be fungril rather than normal humanoid form
+
+**Vaerenth's Challenge**: "Oi what are you doing?"
+**Davrith's Response**: "He needs the sacred branch to save Mire's End"
+**Mission Clarity**: Davrith pursuing same goal as party - saving the settlement
+
+### THE SACRED BRANCH ACTIVATION
+**Davrith's Action**: Grasps the sacred branch from statue's crown
+**Immediate Effects**:
+- **Pulsates with blinding light** - massive magical energy release
+- **Pushes back fog** - clearing supernatural corruption from area
+- **Deep rumble** - seismic/magical response throughout ruins
+- **Radiant barrier** - carves huge protective glow around temple area
+
+**COMBAT TRIGGERED**: Sacred branch activation awakens the corpse mound
+**Enemy**: Patchwork zombie horde - the "sickening mound" was undead enemies
+**Threat Level**: Multiple zombies rising from central corpse pile
+**Tactical Situation**: Party caught in temple with awakened undead between them and exit
+
+**Current Status**: Davrith has sacred branch, but temple filled with hostile zombies
 
 ### Trail Through Slithermarsh
 **Route**: Following Davrith's path from previous night up through marshland
