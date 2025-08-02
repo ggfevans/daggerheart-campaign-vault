@@ -108,7 +108,7 @@ The party docks and enters [[mires-end]], immediately sensing the weight of desp
 > - Multiple attempts with rituals and fuel have failed  
 >
 > **The Davrith Situation**:  
-> - **Davrith** left town seeking solution at "the ruins" (few hours away)  
+> - **Davrith** left town seeking solution at [[the-ruins]] (few hours away)
 > - **Public Blame**: Townspeople blame Davrith for the crisis  
 > - **Authority**: Townmaster **Holya** ("the biggest woman") located in town center  
 > - **Overdue Return**: Davrith normally travels safely, but hasn't returned  
