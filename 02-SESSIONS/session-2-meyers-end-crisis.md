@@ -142,11 +142,31 @@ status: IN_PROGRESS
   - **Damage**: Blocked by armor
   - **Horrifying Passive**: Marks 1 stress on Augustus despite armor block
   - **Effect**: Augustus takes stress from traumatic bite attack
+- **Second Zombie vs. Augustus**: Hit for 10 damage - blocked by armor
+  - **Result**: Augustus's armor proving highly effective against zombie attacks
+
+**HOPE/FEAR TRACKER UPDATE**: GM down to 5 Fear tokens
+
+**Round 1 - Party Response**:
+- **Vaerenth's Hope Trait**: Spends 3 Hope to activate multi-target attack ability
+  - **Attack**: Shortbow attack (rolled with Fear) - success
+  - **Damage**: 4 damage to 3 zombies simultaneously
+  - **Effect**: Devastating multi-target archery, significantly reducing zombie numbers
+  - **Tactical Impact**: Single action affects multiple enemies in horde
+
+**ESCALATION - Elite Zombie Emerges**:
+- **Huge Zombie**: Closes distance to engage party
+- **Special Ability**: Uses "Too Many Arms" - multi-limb attack capability
+- **Threat Level**: Elite undead with enhanced combat abilities
+- **Tactical Implication**: Zombie horde has stronger individual threats beyond basic undead
 
 **Combat Status**: 
 - **Aster**: Unharmed, avoided zombie bite
-- **Augustus**: No physical damage (armor effective) but 1 stress from horrifying bite
-- **Zombie Horde**: Engaging multiple party members in melee combat
+- **Augustus**: No physical damage (armor consistently effective) but 1 stress from horrifying bite
+- **Vaerenth**: Successful multi-target attack, 3 zombies damaged
+- **Huge Zombie**: Engaging with special multi-arm attack ability
+- **Zombie Horde**: Mix of damaged regular zombies and elite huge zombie threat
+- **Hope/Fear**: Player Hope reduced, GM Fear at 5 tokens
 
 ### Tactical Considerations
 - **Sacred branch power** - does radiant energy affect undead?
