@@ -21,6 +21,18 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Create content symlinks
+        run: |
+          cd .web/quartz/content
+          # Remove any existing symlinks/directories
+          rm -rf 00-CAMPAIGN 01-CHARACTERS 02-SESSIONS 03-WORLD 04-RESOURCES 05-LORE
+          # Create symlinks to root directories
+          ln -s ../../../00-CAMPAIGN 00-CAMPAIGN
+          ln -s ../../../01-CHARACTERS 01-CHARACTERS
+          ln -s ../../../02-SESSIONS 02-SESSIONS
+          ln -s ../../../03-WORLD 03-WORLD
+          ln -s ../../../04-RESOURCES 04-RESOURCES
+          ln -s ../../../05-LORE 05-LORE
       - name: Install deps
         run: |
           cd .web/quartz
