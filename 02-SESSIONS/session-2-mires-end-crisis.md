@@ -212,6 +212,27 @@ status: IN_PROGRESS
   - **Tactical Impact**: Major threats neutralized through magical restraint
   - **Archer Control**: Vaerenth using magical abilities for crowd control from range
 
+**BANJO'S HEROIC STATUE APPROACH**:
+- **Tactical Movement**: Rolls through legs of restrained huge zombie
+- **Opportunistic Attack**: Punches huge zombie "in the dick" during passage
+- **Objective Achievement**: Successfully reaches the statue where Davrith is positioned
+- **Sacred Branch Assistance**: Pulls off branches wrapped around statue base
+  - **Branch Ritual Progress**: Reduced from 8 to 7, now at 6/12 total
+  - **Environmental Help**: Physical removal of obstructions affecting ritual timing
+  - **Collaborative Action**: Banjo assisting Davrith's sacred branch activation
+
+**HART'S COMBAT EFFECTIVENESS**:
+- **Attack on Huge Zombie**: Deals 3 HP damage to patchwork zombie (huge guy)
+- **Target**: Restrained elite zombie - taking advantage of Vaerenth's Vicious Entangle
+- **Combat Impact**: Significant damage to primary threat while immobilized
+
+**BATTLEFIELD STATUS UPDATE**:
+- **Zombie Horde Reduction**: Only 2 hordes remaining after Banjo's Rain of Blades
+  - **Horde 1**: 1 zombie remaining
+  - **Horde 2**: 2-3 zombies remaining
+- **Elite Threat**: Huge zombie restrained but still dangerous, now damaged
+- **Tactical Advantage**: Dramatically reduced enemy numbers and controlled major threats
+
 **PLAYER ENGAGEMENT NOTE**:
 - **Carly/Hart**: Did not respond when prompted for action
 - **Possible concern**: Player may still be upset about battle ritual timing confusion
