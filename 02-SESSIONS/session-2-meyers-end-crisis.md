@@ -264,8 +264,19 @@ status: IN_PROGRESS
 **Environmental Details**:
 [Document weather, visibility, alternative routes, other crossing methods]
 
-**Party Approach**:
-[Record how party solves crossing challenge after discovering Davrith's abandoned camp]
+**PARTY APPROACH - ROPE BRIDGE SOLUTION**:
+**Strategy**: Span single long rope across ~110ft river for party to pull themselves across
+**Group Action Roll**: Coordinated effort to generate Hope or Fear tokens
+
+**EXECUTION**:
+- **Banjo (Leader)**: Tied ropes together at two connection points - organized crossing attempt
+- **Aster + Banjo Flight**: Aster succeeded Agility roll to fly Banjo across with rope
+  - Banjo "flaps his long arms like wings" during flight - memorable character moment
+  - Successfully transported rope to far side for anchoring
+- **Hart (Near Side)**: Successfully tied off rope at starting point - secure anchor established
+
+**Current Status**: Rope line established across black water torrent, ready for party crossing
+**Remaining**: [Other party members need to cross using established rope line]
 
 ### Meyer's End Details
 **Settlement Structure**:
