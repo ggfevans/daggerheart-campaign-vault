@@ -272,11 +272,14 @@ status: IN_PROGRESS
 - **Banjo (Leader)**: Tied ropes together at two connection points - organized crossing attempt
 - **Aster + Banjo Flight**: Aster succeeded Agility roll to fly Banjo across with rope
   - Banjo "flaps his long arms like wings" during flight - memorable character moment
+  - **Critical Moment**: Banjo rolled 9 (nearly failed the crossing!)
+  - **Aster's Prayer Dice**: Added +4 Prayer dice that saved the attempt
   - Successfully transported rope to far side for anchoring
 - **Hart (Near Side)**: Successfully tied off rope at starting point - secure anchor established
+- **Line Secured**: Both sides anchored, rope bridge established across black water torrent
 
-**Current Status**: Rope line established across black water torrent, ready for party crossing
-**Remaining**: [Other party members need to cross using established rope line]
+**Group Action Result**: Success with dramatic tension - near failure saved by divine intervention
+**Current Status**: Rope line secured across ~110ft span, ready for remaining party members to cross
 
 ### Meyer's End Details
 **Settlement Structure**:
