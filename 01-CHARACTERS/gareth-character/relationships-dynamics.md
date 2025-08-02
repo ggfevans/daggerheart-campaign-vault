@@ -112,16 +112,22 @@ character-type: social-reference
 ### **Group Dynamic Patterns**
 
 #### **Decision-Making Situations**
-- **Complex Moral Choices**: Banjo steps forward to absorb decision burden
-- **Combat Tactics**: Uses oracle insight to guide strategy without explaining visions
-- **Investigation**: Shares corruption knowledge while protecting from cosmic scope
-- **Social Encounters**: Adapts role based on what group needs (intimidation, deflection, etc.)
+- **Moral Consensus**: The party showed unified moral compass choosing to help Mire's End over staying focused on Shalk Chasm mission. Banjo's "We will do the right thing" aligned perfectly with group values.
+- **Combat Coordination**: Each member found their tactical role - Augustus protecting, Vaerenth controlling, Aster supporting/leading, Hart finishing threats, Banjo disrupting/eliminating. Natural team synergy developing.
+- **Crisis Management**: River crossing showed excellent collaborative problem-solving with multiple members contributing to successful solution.
+- **Leadership Distribution**: Aster emerging as decision leader, Augustus as protection leader, Banjo as tactical leader, creating healthy leadership distribution.
 
-#### **Protective Behaviors**
-- **Information Filtering**: Shares tactical knowledge, conceals psychological weight
-- **Physical Positioning**: Places himself between party and greatest threats
-- **Emotional Buffering**: Uses humor to maintain group morale during dark moments
-- **Burden Taking**: Volunteers for tasks others would find psychologically damaging
+#### **Trust Development Milestones**
+- **Shared Risk**: Everyone contributed to dangerous river crossing rescue of Augustus
+- **Combat Unity**: Coordinated temple combat showed party can work as unit under extreme pressure  
+- **Moral Alignment**: Group's choice to help Mire's End confirmed shared values with Banjo's protective instincts
+- **Vulnerability Acceptance**: Augustus's near-death protection of others, Banjo's tactical positioning through zombie legs, everyone showing willingness to take risks for group
+
+#### **Communication Evolution**
+- **Tactical Coordination**: Natural battlefield communication developing without need for extensive planning
+- **Information Sharing**: Banjo more willing to share practical threat assessments after seeing group's competence
+- **Humor Integration**: Party acceptance of Banjo's combat humor (zombie punch) shows social integration
+- **Decision Input**: Banjo starting to ask for and accept group input on tactical decisions rather than deciding alone
 
 ## 🌍 NPC Relationship Framework
 
