@@ -9,7 +9,7 @@ participants:
 - Andi (Carly, Mark, Luie as Vaerenth, Aster, Augustus)
 location: Mire's End (The Soggy Boot tavern) → [TBD based on session events]
 duration: 4:00 PM - [TBD]
-status: IN_PROGRESS
+status: COMPLETED
 ---
 
 # Session 2 - Mire's End Crisis
@@ -264,6 +264,26 @@ status: IN_PROGRESS
 - **Banjo's Loss**: Mount/companion forced out of battle after heroic contribution
 - **Combat Status**: Hogpog unavailable until next long rest (standard companion rules)
 - **Emotional Impact**: Banjo's loyal companion eliminated after dealing crucial damage
+
+**FINAL VICTORY - HART'S KILLING BLOW**:
+- **Hart's Attack**: With Aster's assistance support
+- **Damage Dealt**: 5 damage to patchwork zombie
+- **COMBAT ENDED**: Takes last HP from patchwork zombie - ELITE ENEMY DOWN
+- **Coordinated Finish**: Hart and Aster working together for final blow
+- **Temple Victory**: All zombie threats eliminated, sacred branch ritual can continue
+
+**MISSION ACCOMPLISHED - SACRED BRANCH RETRIEVED**:
+- **Complete Temple Victory**: All zombies eliminated from ancient temple
+- **Sacred Branch Secured**: Successfully retrieved the rare and powerful artifact
+- **Davrith Safe**: Fungril form protected and able to complete his mission
+- **Mire's End Solution**: Obtained the supernatural cure for the dying pyre crisis
+- **Rare Achievement**: Retrieving the sacred branch described as "a very rare thing"
+
+**SESSION 2 CONCLUSION**:
+- **Epic Combat Victory**: Overcame devastating zombie horde and elite patchwork zombie
+- **Team Heroics**: Every party member contributed to final success
+- **Mission Success**: From tavern investigation to sacred branch retrieval
+- **Story Milestone**: Party has solution to save Mire's End and its people
 
 **PLAYER ENGAGEMENT NOTE**:
 - **Carly/Hart**: Did not respond when prompted for action
@@ -641,13 +661,16 @@ status: IN_PROGRESS
 
 ## 🎯 Session 2 Achievements
 
-[ ] **Meyer's End Crisis Response**: [Resolution of dying pyre situation]
-[ ] **Investigation Success**: [Discovery of key information about threat]
-[ ] **Party Decision Making**: [Group consensus on expedition priorities]
-[ ] **Combat Effectiveness**: [Successful engagement with new threats]
-[ ] **Character Growth**: [Individual development moments]
-[ ] **World Expansion**: [New lore and setting details established]
-[ ] **Mission Advancement**: [Progress toward Shalk Chasm objectives]
+✅ **Mire's End Crisis Investigation**: Successfully investigated dying pyre and shambling townsfolk  
+✅ **Tavern Information Gathering**: Vaerenth's performance unlocked crucial intelligence about Davrith and Holya  
+✅ **Townmaster Holya Meeting**: Discovered truth about Davrith's mission and fake public hostility  
+✅ **Dangerous River Crossing**: Overcame supernatural black water, giant serpent, and environmental hazards  
+✅ **Davrith Rescue Mission**: Found missing investigator at ancient temple ruins  
+✅ **Temple Combat Victory**: Defeated overwhelming zombie horde and elite patchwork zombie  
+✅ **Sacred Branch Retrieval**: Obtained rare supernatural artifact to save Mire's End  
+✅ **Team Heroics**: Every party member contributed crucial actions for mission success  
+✅ **Character Development**: Augustus's Guardian sacrifice, Aster's leadership, Hart's decisive blow  
+✅ **World Expansion**: Discovered temple, sacred branch lore, and supernatural threats
 
 ---
 
