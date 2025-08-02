@@ -14,7 +14,7 @@ heading: Session Tracker
 |---------|------|------|--------|------------|-------|
 | 0 | 2025-07-18 | **COMPLETED** | ✅ | Character creation, world intro | 1 |
 | 1 | Fri, Jul 25 | 4:00 PM | ✅ **COMPLETED** | Hope's Call pub, social combat victory, Shalk Chasm mission | 1 |
-| 2 | Fri, Aug 01 | 4:00 PM | 📅 | TBD | 1 |
+| 2 | Fri, Aug 01 | 4:00 PM | ✅ **COMPLETED** | Meyer's End crisis, dying pyre investigation | 1 |
 | 3 | Fri, Aug 08 | 4:00 PM | 📅 | TBD | 1 |
 | 4 | Fri, Aug 15 | 4:00 PM | 📅 | TBD | TBD |
 | 5 | Fri, Aug 22 | 4:00 PM | 📅 | TBD | TBD |
@@ -33,7 +33,7 @@ heading: Session Tracker
 ## 📊 Campaign Statistics
 - **Campaign Type**: 10-Session Mini-Campaign
 - **Total Sessions Planned**: 10 sessions
-- **Sessions Completed**: 2 (Session 0 - Character Creation, Session 1 - Last Light Beginning)
+- **Sessions Completed**: 3 (Session 0 - Character Creation, Session 1 - Last Light Beginning, Session 2 - Meyer's End Crisis)
 - **Campaign Duration**: July 25 - September 26, 2025
 - **Total Hours**: [To be tracked]
 - **Current Level**: 1
@@ -42,8 +42,8 @@ heading: Session Tracker
 - **Campaign Format**: Weekly sessions, Fridays at 4:00 PM
 - **Current Status**: Party discovered Meyer's End - decision point about dying pyre and Craven Vakvom threat
 ## 🎯 Next Session
-**Date**: Session 2 - Friday, August 1, 2025 at 4:00 PM
-**Focus**: Meyer's End crisis - dying pyre and shambling townsfolk, then Shalk Chasm expedition
+**Date**: Session 3 - Friday, August 8, 2025 at 4:00 PM
+**Focus**: [To be determined based on Session 2 outcomes - either Shalk Chasm expedition or Meyer's End aftermath]
 **Stakes**: Immediate crisis vs. hunting confirmed enemy Craven Vakvom
 
 **Prep Notes**:
@@ -55,7 +55,9 @@ heading: Session Tracker
 - [ ] Craven Vakvom now confirmed enemy who attacked his own son Nicholas Vakvom
 
 ## 📝 Session Notes Links
+## 📝 Session Notes Links
 - [[02-SESSIONS/session-1-last-light-beginning]] - Session 1 (2025-07-25): Hope's Call pub beginning
+- [[session-2-mires-end-crisis]] - Session 2 (2025-08-01): Meyer's End crisis investigation
 
 *Links will be added as sessions are completed*
 

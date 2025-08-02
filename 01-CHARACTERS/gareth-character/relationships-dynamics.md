@@ -79,33 +79,55 @@ character-type: social-reference
 ## 👥 Current Party Dynamics
 
 ### **Relationship Status Tracking**
-*[Update after each session based on interactions]*
+*Updated after Session 2: Mire's End Crisis*
 
-#### **[Party Member Name]**
-- **Current Dynamic**: [Trust level, communication style, shared experiences]
-- **Banjo's Protective Mode**: [What he shields them from, how he adapts behavior]
-- **Growth Opportunities**: [How this relationship challenges or develops his character]
-- **Oracle Sharing Level**: [How much cosmic knowledge he reveals to them]
+#### **Augustus Penhallow** - The Willing Shield
+- **Current Dynamic**: Deep respect and protective kinship, guardian bond forming
+- **Session 2 Development**: Augustus used "I Am Your Shield" until he literally fell unconscious protecting the party, including redirecting attacks from Banjo. This reminded Banjo of his mentor Old Whisper-Steps' protective nature, but Augustus chose this role willingly rather than being thrust into it.
+- **Banjo's Protective Mode**: Recognizes Augustus's protective instincts and tries to position tactically to reduce the guardian's burden. Sees Augustus as someone who understands necessary sacrifice.
+- **Growth Opportunities**: Augustus's willing sacrifice challenges Banjo's assumption that he must bear all protective responsibility alone. Learning to coordinate protection rather than shouldering it entirely.
+- **Oracle Sharing Level**: Level 2 (Tactical Knowledge) - Shares tactical insights and threat assessments but not cosmic horror scope.
 
-#### **[Party Member Name]**
-- **Current Dynamic**: [Trust level, communication style, shared experiences]
-- **Banjo's Protective Mode**: [What he shields them from, how he adapts behavior]
-- **Growth Opportunities**: [How this relationship challenges or develops his character]
-- **Oracle Sharing Level**: [How much cosmic knowledge he reveals to them]
+#### **Vaerenth** - The Versatile Professional  
+- **Current Dynamic**: Tactical respect and growing trust, sees them as adaptable survivor
+- **Session 2 Development**: Vaerenth's tavern performance unlocked crucial intelligence, their magical battlefield control (Vicious Entangle) saved the party from the patchwork zombie's devastation, and they showed practical survival instincts collecting Davrith's abandoned gear.
+- **Banjo's Protective Mode**: Appreciates their self-sufficiency and tactical awareness. Doesn't feel need to shield them from harsh realities as much as others.
+- **Growth Opportunities**: Vaerenth's combination of social skills and combat effectiveness shows Banjo alternatives to pure violence for problem-solving.
+- **Oracle Sharing Level**: Level 2 (Tactical Knowledge) - Trusts them with strategic assessments and corruption threat intel.
+
+#### **Aster Luferi** - The Emerging Leader
+- **Current Dynamic**: Respect for decisive leadership, sees them as group's moral anchor
+- **Session 2 Development**: Aster stepped forward to commit the party to rescuing Davrith ("We should go for it"), used Prayer dice to support Hart in combat, and consistently made quick decisions under pressure. Their magical flight abilities proved crucial for the dangerous river crossing.
+- **Banjo's Protective Mode**: Views Aster as someone who needs to stay morally clear for leadership role. Tries to handle darker decisions to preserve their optimism and decision-making clarity.
+- **Growth Opportunities**: Aster's leadership challenges Banjo to share decision-making burden rather than taking it all on himself.
+- **Oracle Sharing Level**: Level 2-3 (Tactical to Partial Truth) - Willing to share more oracle insight with proven leader, but still protecting from cosmic scope.
+
+#### **Hart** - The Determined Fighter
+- **Current Dynamic**: Mutual respect for combat effectiveness, appreciates their direct approach
+- **Session 2 Development**: Hart delivered the killing blow to the patchwork zombie with Aster's support, showed determination during the river crossing (carrying Vaerenth), and expressed willingness to retrieve Davrith "if he still breathes" or handle consequences if not.
+- **Banjo's Protective Mode**: Recognizes Hart's comfort with necessary violence, feels less need to shield them from combat realities. Sees them as capable of handling dark choices.
+- **Growth Opportunities**: Hart's direct approach to violence without apparent psychological burden shows Banjo that others can handle necessary darkness without becoming corrupted.
+- **Oracle Sharing Level**: Level 2 (Tactical Knowledge) - Comfortable sharing combat-related oracle insights and threat assessments.
 
 ### **Group Dynamic Patterns**
 
 #### **Decision-Making Situations**
-- **Complex Moral Choices**: Banjo steps forward to absorb decision burden
-- **Combat Tactics**: Uses oracle insight to guide strategy without explaining visions
-- **Investigation**: Shares corruption knowledge while protecting from cosmic scope
-- **Social Encounters**: Adapts role based on what group needs (intimidation, deflection, etc.)
+- **Moral Consensus**: The party showed unified moral compass choosing to help Mire's End over staying focused on Shalk Chasm mission. Banjo's "We will do the right thing" aligned perfectly with group values.
+- **Combat Coordination**: Each member found their tactical role - Augustus protecting, Vaerenth controlling, Aster supporting/leading, Hart finishing threats, Banjo disrupting/eliminating. Natural team synergy developing.
+- **Crisis Management**: River crossing showed excellent collaborative problem-solving with multiple members contributing to successful solution.
+- **Leadership Distribution**: Aster emerging as decision leader, Augustus as protection leader, Banjo as tactical leader, creating healthy leadership distribution.
 
-#### **Protective Behaviors**
-- **Information Filtering**: Shares tactical knowledge, conceals psychological weight
-- **Physical Positioning**: Places himself between party and greatest threats
-- **Emotional Buffering**: Uses humor to maintain group morale during dark moments
-- **Burden Taking**: Volunteers for tasks others would find psychologically damaging
+#### **Trust Development Milestones**
+- **Shared Risk**: Everyone contributed to dangerous river crossing rescue of Augustus
+- **Combat Unity**: Coordinated temple combat showed party can work as unit under extreme pressure  
+- **Moral Alignment**: Group's choice to help Mire's End confirmed shared values with Banjo's protective instincts
+- **Vulnerability Acceptance**: Augustus's near-death protection of others, Banjo's tactical positioning through zombie legs, everyone showing willingness to take risks for group
+
+#### **Communication Evolution**
+- **Tactical Coordination**: Natural battlefield communication developing without need for extensive planning
+- **Information Sharing**: Banjo more willing to share practical threat assessments after seeing group's competence
+- **Humor Integration**: Party acceptance of Banjo's combat humor (zombie punch) shows social integration
+- **Decision Input**: Banjo starting to ask for and accept group input on tactical decisions rather than deciding alone
 
 ## 🌍 NPC Relationship Framework
 
