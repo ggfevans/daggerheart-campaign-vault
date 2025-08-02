@@ -1,8 +1,9 @@
 name: Deploy Quartz site
 
 on:
-  push:
-    branches: [ prod ]
+  workflow_dispatch: # Manual trigger only
+  # push:
+  #   branches: [ prod ]
 
 permissions:
   contents: read
