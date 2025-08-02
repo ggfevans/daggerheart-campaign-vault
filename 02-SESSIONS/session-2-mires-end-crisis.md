@@ -245,6 +245,26 @@ status: IN_PROGRESS
   - **Magical Retaliation**: Zombie hulk's supernatural ability affecting party leader
   - **Critical Condition**: Aster needs stress relief or risks further HP damage
 
+**AUGUSTUS DOWN - GUARDIAN FALLS**:
+- **Heroic Sacrifice**: Took a hit meant for Hart that consumed all his HP
+- **Guardian's Final Stand**: Used "I Am Your Shield" ability until he couldn't anymore
+- **Status**: Unconscious and out of combat
+- **Tactical Impact**: Party loses primary tank and damage absorber
+- **Character Moment**: Augustus proved his Guardian role by protecting allies to the end
+
+**HOGPOG'S REVENGE**:
+- **Companion Attack**: Hogpog attacks the patchwork zombie
+- **Damage Dealt**: 3 damage successfully applied
+- **Zombie Status**: 1 HP remaining (down from previous Hart damage + Hogpog attack)
+- **Tactical Significance**: Banjo's mount contributing to final push against elite enemy
+
+**HOGPOG FALLS**:
+- **Patchwork Zombie Retaliation**: Hits Hogpog hard in response to damage
+- **Companion Down**: Hogpog leaves combat (hiding, fleeing, or similar action)
+- **Banjo's Loss**: Mount/companion forced out of battle after heroic contribution
+- **Combat Status**: Hogpog unavailable until next long rest (standard companion rules)
+- **Emotional Impact**: Banjo's loyal companion eliminated after dealing crucial damage
+
 **PLAYER ENGAGEMENT NOTE**:
 - **Carly/Hart**: Did not respond when prompted for action
 - **Possible concern**: Player may still be upset about battle ritual timing confusion
