@@ -32,6 +32,17 @@ jobs:
           DEV_SESSIONS=$(git ls-tree -r origin/dev --name-only | grep "^02-SESSIONS/session-[0-9]\+-" | sort)
           PROD_SESSIONS=$(git ls-tree -r origin/prod --name-only | grep "^02-SESSIONS/session-[0-9]\+-" | sort)
           
+          # Always find the highest session number in dev branch (excluding session-0)
+          # Extract session numbers, filter out session-0, and find the max
+          SESSION_COUNT=$(echo "$DEV_SESSIONS" | grep -oE 'session-[0-9]+' | grep -oE '[0-9]+' | grep -v '^0$' | sort -n | tail -1)
+          
+          # If no sessions found (shouldn't happen), default to 1
+          if [ -z "$SESSION_COUNT" ]; then
+            SESSION_COUNT=1
+          fi
+          
+          echo "session_count=$SESSION_COUNT" >> $GITHUB_OUTPUT
+          
           # Check if there are new sessions in dev
           NEW_SESSIONS=$(comm -23 <(echo "$DEV_SESSIONS") <(echo "$PROD_SESSIONS"))
           
@@ -42,10 +53,6 @@ jobs:
             echo "New sessions found:"
             echo "$NEW_SESSIONS"
             echo "has_new_sessions=true" >> $GITHUB_OUTPUT
-            
-            # Count total sessions in dev branch
-            SESSION_COUNT=$(echo "$DEV_SESSIONS" | wc -l)
-            echo "session_count=$SESSION_COUNT" >> $GITHUB_OUTPUT
           fi
       
       - name: Update README and sync branches
