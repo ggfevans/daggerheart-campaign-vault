@@ -186,6 +186,27 @@ status: IN_PROGRESS
   - **Melee engagement**: Aster engaging zombies in close combat
   - **Combat effectiveness**: Successful attack against undead threats
 
+**ROUND 2 CONTINUED - HOPE EXPENDITURE**:
+- **Banjo's Second Rain of Blades**: Burns last Hope token for another area attack
+  - **Devastating Results**: Kills 3-4 zombies with final Hope expenditure
+  - **Resource Investment**: Using final Hope for maximum battlefield impact
+  - **Tactical Success**: Significantly reduced zombie horde numbers
+- **Aster's Prayer Dice Support**: Uses Prayer dice to boost Hart's Hope by 4
+  - **Team Support**: Magical/divine assistance to ally
+  - **Hope Generation**: Hart gains 4 Hope tokens from Aster's prayer
+  - **Divine Coordination**: Using prayer abilities to enhance team resources
+
+**TACTICAL SITUATION UPDATE**:
+- **Davrith's Position**: Still out of reach - up on statue with sacred branch
+- **Temple Layout**: Davrith safe from immediate zombie threat but unreachable
+
+**VAERENTH'S BATTLEFIELD CONTROL**:
+- **Vicious Entangle**: Restrains huge zombie and another zombie horde
+  - **Target 1**: Huge zombie with "Too Many Arms" - restrained and unable to attack
+  - **Target 2**: Additional zombie horde - multiple enemies controlled
+  - **Tactical Impact**: Major threats neutralized through magical restraint
+  - **Archer Control**: Vaerenth using magical abilities for crowd control from range
+
 **Zombie Horde Retaliation**:
 - **Target**: Zombie horde attacks Banjo in response to rain of blades
 - **Attack Roll**: Nearly critical hit against Banjo
