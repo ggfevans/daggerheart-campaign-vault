@@ -1,3 +1,15 @@
+---
+title: "Castle Siege"
+aliases: []
+tags: ["daggerheart", "environment", "gm-tools", "reference", "scenarios", "setting", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/environments/Castle Siege.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "environments"
+created: "2025-07-30T01:28:23.788496"
+updated: "2025-07-30T01:28:23.788496"
+---
+
 ﻿# CASTLE SIEGE
 
 ***Tier 3 Event***  
@@ -27,3 +39,14 @@
   - Targets who succeed must mark a Stress.
 
   *What debris is scattered by the attack? What is broken by the strike that can’t be easily mended?*
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/environments/Castle Siege.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `environments/Castle Siege.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:23
+

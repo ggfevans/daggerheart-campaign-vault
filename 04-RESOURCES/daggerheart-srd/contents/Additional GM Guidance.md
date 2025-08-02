@@ -1,3 +1,15 @@
+---
+title: "Additional GM Guidance"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Additional GM Guidance.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:28:58.529561"
+updated: "2025-07-30T01:28:58.529561"
+---
+
 # ADDITIONAL GM GUIDANCE
 
 This section provides additional guidance for preparing and running a session of Daggerheart.
@@ -86,3 +98,14 @@ Simple projects advance their countdown each time a player uses the Work on a Pr
 ## EXTENDED DOWNTIME
 
 When you fast-forward the story across an extended period, use montages to illustrate the passage of time. You gain 1d6 Fear per PC and advance any long-term countdowns as appropriate.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Additional GM Guidance.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Additional GM Guidance.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:58
+

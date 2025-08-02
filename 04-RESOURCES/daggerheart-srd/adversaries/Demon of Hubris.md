@@ -1,3 +1,15 @@
+---
+title: "Demon of Hubris"
+aliases: []
+tags: ["adversary", "combat", "daggerheart", "gm-tools", "monster", "npc", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Demon of Hubris.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "adversaries"
+created: "2025-07-30T01:28:34.217603"
+updated: "2025-07-30T01:28:34.217603"
+---
+
 ﻿# DEMON OF HUBRIS
 
 ***Tier 3 Leader***  
@@ -19,3 +31,14 @@
 ***The Root of Villainy - Action:*** Spend a Fear to spotlight two other Demons within Far range.
 
 ***You Pale in Comparison - Reaction:*** When a PC fails a roll within Close range of the Demon, they must mark a Stress.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Demon of Hubris.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `adversaries/Demon of Hubris.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:34
+

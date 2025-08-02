@@ -1,3 +1,15 @@
+---
+title: "Teleport"
+aliases: []
+tags: ["ability", "class-features", "daggerheart", "mechanics", "powers", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Teleport.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "abilities"
+created: "2025-07-30T01:26:48.114947"
+updated: "2025-07-30T01:26:48.114947"
+---
+
 ﻿# TELEPORT
 
 > **Level 5 Codex Spell**  
@@ -11,3 +23,14 @@ Once per long rest, you can instantly teleport yourself and any number of willin
 - If you’ve only been there once, gain a -2 penalty.
 
 On a success, you appear where you were intending to go. On a failure, you appear off course, with the range of failure determining how far off course.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Teleport.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `abilities/Teleport.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:48
+

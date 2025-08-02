@@ -1,3 +1,15 @@
+---
+title: "Warrior"
+aliases: []
+tags: ["character-options", "class", "daggerheart", "mechanics", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/classes/Warrior.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "classes"
+created: "2025-07-30T01:26:35.436023"
+updated: "2025-07-30T01:26:35.436023"
+---
+
 ﻿# WARRIOR
 
 Becoming a warrior requires years, often a lifetime, of training and dedication to the mastery of weapons and violence. While many who seek to fight hone only their strength, warriors understand the importance of an agile body and mind, making them some of the most sought-after fighters across the realms. Frequently, warriors find employment within an army, a band of mercenaries, or even a royal guard, but their potential is wasted in any position where they cannot continue to improve and expand their skills. Warriors are known to have a favored weapon; to come between them and their blade would be a grievous mistake.
@@ -40,3 +52,14 @@ Choose either the **[Call of the Brave](../subclasses/Call%20of%20the%20Brave.md
 - We knew each other long before this party came together. How?
 - What mundane task do you usually help me with off the battlefield?
 - What fear am I helping you overcome?
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/classes/Warrior.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `classes/Warrior.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:35
+

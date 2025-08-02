@@ -1,3 +1,15 @@
+---
+title: "Rogue"
+aliases: []
+tags: ["character-options", "class", "daggerheart", "mechanics", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/classes/Rogue.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "classes"
+created: "2025-07-30T01:26:34.328449"
+updated: "2025-07-30T01:26:34.328449"
+---
+
 ﻿# ROGUE
 
 Rogues are scoundrels, often in both attitude and practice. Broadly known as liars and thieves, the best among this class move through the world anonymously. Utilizing their sharp wits and blades, rogues trick their foes through social manipulation as easily as breaking locks, climbing through windows, or dealing underhanded blows. These masters of magical craft manipulate shadow and movement, adding an array of useful and deadly tools to their repertoire. Rogues frequently establish guilds to meet future accomplices, hire out jobs, and hone secret skills, proving that there’s honor among thieves for those who know where to look.
@@ -41,3 +53,14 @@ Choose either the **[Nightwalker](../subclasses/Nightwalker.md)** or **[Syndicat
 - What did I recently convince you to do that got us both in trouble?
 - What have I discovered about your past that I hold secret from the others?
 - Who do you know from my past, and how have they influenced your feelings about me?
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/classes/Rogue.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `classes/Rogue.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:34
+

@@ -1,3 +1,15 @@
+---
+title: "Additional Rules"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Additional Rules.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:28:59.619420"
+updated: "2025-07-30T01:28:59.619420"
+---
+
 # ADDITIONAL RULES
 
 The following rules apply to many aspects of the game.
@@ -33,3 +45,14 @@ Unless an effect states otherwise, you can’t spend Hope or mark Stress multipl
 ## USING FEATURES AFTER A ROLL
 
 If a feature allows you to affect a roll after the result has been totaled, you can use it after the GM declares whether the roll succeeds or fails, but not after the consequences unfold or another roll is made.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Additional Rules.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Additional Rules.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:59
+

@@ -1,3 +1,15 @@
+---
+title: "Armor Tables"
+aliases: []
+tags: ["combat", "core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Armor Tables.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:26:44.439391"
+updated: "2025-07-30T01:26:44.439391"
+---
+
 # ARMOR TABLES
 
 ## TIER 1 (LEVEL 1)
@@ -53,3 +65,14 @@
 | [Full Fortified Armor](../armor/Full%20Fortified%20Armor.md)       | 15 / 40             | 4              | ***Fortified:*** When you mark an Armor Slot, you reduce the severity of an attack by two thresholds instead of one.         |
 | [Veritas Opal Armor](../armor/Veritas%20Opal%20Armor.md)         | 13 / 36             | 6              | ***Truthseeking:*** This armor glows when another creature within Close range tells a lie.                                   |
 | [Savior Chainmail](../armor/Savior%20Chainmail.md)           | 18 / 48             | 8              | ***Difficult:*** -1 to all character traits and Evasion                                                                      |
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Armor Tables.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Armor Tables.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:44
+

@@ -1,3 +1,15 @@
+---
+title: "Hallowed Temple"
+aliases: []
+tags: ["daggerheart", "environment", "gm-tools", "reference", "scenarios", "setting", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/environments/Hallowed Temple.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "environments"
+created: "2025-07-30T01:28:24.192822"
+updated: "2025-07-30T01:28:24.192822"
+---
+
 ﻿# HALLOWED TEMPLE
 
 ***Tier 2 Social***  
@@ -29,3 +41,14 @@
 ***Divine Censure - Reaction:*** When the PCs have trespassed, blasphemed, or offended the clergy, you can spend a Fear to summon a High Seraph and 1d4 Bladed Guards within Close range of the senior priest to reinforce their will.
 
   *What symbols or icons do they bear that signal they are anointed agents of the divinity? Who leads the group and what led them to this calling?*
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/environments/Hallowed Temple.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `environments/Hallowed Temple.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:24
+

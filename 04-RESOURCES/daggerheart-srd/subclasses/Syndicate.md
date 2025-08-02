@@ -1,3 +1,15 @@
+---
+title: "Syndicate"
+aliases: []
+tags: ["character-options", "class", "daggerheart", "mechanics", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Syndicate.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "subclasses"
+created: "2025-07-30T01:26:36.277408"
+updated: "2025-07-30T01:26:36.277408"
+---
+
 ﻿# SYNDICATE
 
 Play the Syndicate if you want to have a web of contacts everywhere you go.
@@ -30,3 +42,14 @@ Finesse
 
 - When you mark 1 or more Hit Points, they can rush out to shield you, reducing the Hit Points marked by 1.
 - When you make a Presence Roll in conversation, they back you up. You can roll a d20 as your Hope Die.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Syndicate.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `subclasses/Syndicate.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:36
+

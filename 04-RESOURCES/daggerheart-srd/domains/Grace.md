@@ -1,3 +1,15 @@
+---
+title: "Grace"
+aliases: []
+tags: ["daggerheart", "domain", "magic", "mechanics", "progression", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/domains/Grace.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "domains"
+created: "2025-07-30T01:26:44.644322"
+updated: "2025-07-30T01:26:44.644322"
+---
+
 # GRACE
 
 Grace is the domain of charisma. Through rapturous storytelling, charming spells, or a shroud of lies, those who channel this power define the realities of their adversaries, bending perception to their will. Grace offers its wielders raw magnetism and mastery over language. The Grace domain can be accessed by the Bard and Rogue classes.
@@ -16,3 +28,14 @@ Grace is the domain of charisma. Through rapturous storytelling, charming spells
 |   **8**   | [Astral Projection](../abilities/Astral%20Projection.md) | [Mass Enrapture](../abilities/Mass%20Enrapture.md)               | —                                                            |
 |   **9**   | [Copycat](../abilities/Copycat.md)                       | [Master of The Craft](../abilities/Master%20of%20the%20Craft.md) | —                                                            |
 |  **10**   | [Encore](../abilities/Encore.md)                         | [Notorious](../abilities/Notorious.md)                           | —                                                            |
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/domains/Grace.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `domains/Grace.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:44
+

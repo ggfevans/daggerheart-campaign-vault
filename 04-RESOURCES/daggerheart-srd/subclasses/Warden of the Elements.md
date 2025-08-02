@@ -1,3 +1,15 @@
+---
+title: "Warden of the Elements"
+aliases: []
+tags: ["character-options", "class", "daggerheart", "mechanics", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Warden of the Elements.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "subclasses"
+created: "2025-07-30T01:26:35.851971"
+updated: "2025-07-30T01:26:35.851971"
+---
+
 ﻿# WARDEN OF THE ELEMENTS
 
 Play the Warden of the Elements if you want to embody the natural elements of the wild.
@@ -32,3 +44,14 @@ Instinct
 - **Earth:** When you would mark Hit Points, roll a d6 per Hit Point marked. For each result of 6, reduce the number of Hit Points you mark by 1.
 - **Water:** When an attack against you succeeds, you can mark a Stress to make the attacker temporarily Vulnerable.
 - **Air:** You gain a +1 bonus to your Evasion and can fly.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/Warden of the Elements.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `subclasses/Warden of the Elements.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:35
+

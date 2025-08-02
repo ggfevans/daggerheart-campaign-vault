@@ -1,3 +1,15 @@
+---
+title: "Fallen Warlord Undefeated Champion"
+aliases: []
+tags: ["adversary", "combat", "daggerheart", "gm-tools", "monster", "npc", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Fallen Warlord Undefeated Champion.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "adversaries"
+created: "2025-07-30T01:28:26.323936"
+updated: "2025-07-30T01:28:26.323936"
+---
+
 ﻿# FALLEN WARLORD: UNDEFEATED CHAMPION
 
 ***Tier 4 Solo***  
@@ -23,3 +35,14 @@
 ***Doombringer - Reaction:*** When the Undefeated Champion makes a successful attack against a PC, you gain a Fear.
 
 ***Doombringer - Reaction:*** When a target marks HP from an attack by the Undefeated Champion, all PCs within Far range of the target lose a Hope.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Fallen Warlord Undefeated Champion.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `adversaries/Fallen Warlord Undefeated Champion.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:26
+

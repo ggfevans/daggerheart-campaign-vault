@@ -1,3 +1,15 @@
+---
+title: "Mending Touch"
+aliases: []
+tags: ["ability", "class-features", "daggerheart", "mechanics", "powers", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Mending Touch.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "abilities"
+created: "2025-07-30T01:26:58.317198"
+updated: "2025-07-30T01:26:58.317198"
+---
+
 ﻿# MENDING TOUCH
 
 > **Level 1 Splendor Spell**  
@@ -6,3 +18,14 @@
 You lay your hands upon a creature and channel healing magic to close their wounds. When you can take a few minutes to focus on the target you’re helping, you can spend 2 Hope to clear a Hit Point or a Stress on them.
 
 Once per long rest, when you spend this healing time learning something new about them or revealing something about yourself, you can clear 2 Hit Points or 2 Stress on them instead.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/abilities/Mending Touch.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `abilities/Mending Touch.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:58
+

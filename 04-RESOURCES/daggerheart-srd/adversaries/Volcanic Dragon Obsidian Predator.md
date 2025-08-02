@@ -1,3 +1,15 @@
+---
+title: "Volcanic Dragon Obsidian Predator"
+aliases: []
+tags: ["adversary", "combat", "daggerheart", "gm-tools", "monster", "npc", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Volcanic Dragon Obsidian Predator.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "adversaries"
+created: "2025-07-30T01:28:32.460925"
+updated: "2025-07-30T01:28:32.460925"
+---
+
 ﻿# VOLCANIC DRAGON: OBSIDIAN PREDATOR
 
 ***Tier 4 Solo***  
@@ -21,3 +33,14 @@
 ***Dive-Bomb - Action:*** If flying, mark a Stress to choose point within Far range, move there, attack all targets within Very Close range; on success, 2d10+6 physical, mark a Stress, lose a Hope.
 
 ***Erupting Rage (Phase Change) - Reaction:*** When marks last HP, replace with Molten Scourge and immediately spotlight.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Volcanic Dragon Obsidian Predator.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `adversaries/Volcanic Dragon Obsidian Predator.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:32
+

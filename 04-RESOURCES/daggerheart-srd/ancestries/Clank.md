@@ -1,3 +1,15 @@
+---
+title: "Clank"
+aliases: []
+tags: ["ancestry", "character-creation", "daggerheart", "heritage", "racial-traits", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/ancestries/Clank.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "ancestries"
+created: "2025-07-30T01:26:37.253252"
+updated: "2025-07-30T01:26:37.253252"
+---
+
 ﻿# CLANK
 
 Clanks are sentient mechanical beings built from a variety of materials, including metal, wood, and stone. They can resemble humanoids, animals, or even inanimate objects. Like organic beings, their bodies come in a wide array of sizes. Because of their bespoke construction, many clanks have highly specialized physical configurations. Examples include clawed hands for grasping, wheels for movement, or built-in weaponry.
@@ -9,3 +21,14 @@ Many clanks embrace body modifications for style as well as function, and member
 ***Purposeful Design:*** Decide who made you and for what purpose. At character creation, choose one of your Experiences that best aligns with this purpose and gain a permanent +1 bonus to it.
 
 ***Efficient:*** When you take a short rest, you can choose a long rest move instead of a short rest move.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/ancestries/Clank.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `ancestries/Clank.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:37
+

@@ -1,3 +1,15 @@
+---
+title: "Sorcerer"
+aliases: []
+tags: ["character-options", "class", "daggerheart", "mechanics", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/classes/Sorcerer.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "classes"
+created: "2025-07-30T01:26:35.018087"
+updated: "2025-07-30T01:26:35.018087"
+---
+
 ﻿# SORCERER
 
 Not all innate magic users choose to hone their craft, but those who do can become powerful sorcerers. The gifts of these wielders are passed down through families, even if the family is unaware of or reluctant to practice them. A sorcerer’s abilities can range from the elemental to the illusionary and beyond, and many practitioners band together into collectives based on their talents. The act of becoming a formidable sorcerer is not the practice of acquiring power, but learning to cultivate and control the power one already possesses. The magic of a misguided or undisciplined sorcerer is a dangerous force indeed.
@@ -41,3 +53,14 @@ Choose either the **[Elemental Origin](../subclasses/Elemental%20Origin.md)** or
 - Why do you trust me so deeply?
 - What did I do that makes you cautious around me?
 - Why do we keep our shared past a secret?
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/classes/Sorcerer.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `classes/Sorcerer.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:35
+

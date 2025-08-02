@@ -1,3 +1,15 @@
+---
+title: "Secondary Weapon Tables"
+aliases: []
+tags: ["combat", "core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Secondary Weapon Tables.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:28:58.325581"
+updated: "2025-07-30T01:28:58.325581"
+---
+
 # SECONDARY WEAPON TABLES
 
 *Players can choose one Tier 1 secondary weapon during character creation. The GM can make other weapons available throughout the campaign as the PCs level up.*
@@ -58,3 +70,14 @@
 | [Braveshield](../weapons/Braveshield.md)             | Agility   | Melee      | d4+6 phy   | One-Handed | ***Sheltering:*** When you mark an Armor Slot, it reduces damage for you and all allies within Melee range of you who took the same damage. |
 | [Knuckle Claws](../weapons/Knuckle%20Claws.md)           | Strength  | Melee      | d6+8 phy   | One-Handed | ***Doubled Up:*** When you make an attack with your primary weapon, you can deal damage to another target within Melee range.               |
 | [Primer Shard](../weapons/Primer%20Shard.md)            | Instinct  | Very Close | d4 phy     | One-Handed | ***Locked On:*** On a successful attack, your next attack against the same target with your primary weapon automatically succeeds.          |
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Secondary Weapon Tables.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Secondary Weapon Tables.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:58
+

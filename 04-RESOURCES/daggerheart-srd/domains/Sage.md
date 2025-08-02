@@ -1,3 +1,15 @@
+---
+title: "Sage"
+aliases: []
+tags: ["daggerheart", "domain", "magic", "mechanics", "progression", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/domains/Sage.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "domains"
+created: "2025-07-30T01:26:44.857476"
+updated: "2025-07-30T01:26:44.857476"
+---
+
 # SAGE
 
 Sage is the domain of the natural world. Those who walk this path tap into the unfettered power of the earth and its creatures to unleash raw magic. Sage grants its adherents the vitality of a blooming flower and the ferocity of a ravenous predator. The Sage domain can be accessed by the Druid and Ranger classes.
@@ -16,3 +28,14 @@ Sage is the domain of the natural world. Those who walk this path tap into the u
 |   **8**   | [Forest Sprites](../abilities/Forest%20Sprites.md)             | [Rejuvenation Barrier](../abilities/Rejuvenation%20Barrier.md) | —                                                      |
 |   **9**   | [Fane of The Wilds](../abilities/Fane%20of%20the%20Wilds.md)   | [Plant Dominion](../abilities/Plant%20Dominion.md)             | —                                                      |
 |  **10**   | [Force of Nature](../abilities/Force%20of%20Nature.md)         | [Tempest](../abilities/Tempest.md)                             | —                                                      |
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/domains/Sage.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `domains/Sage.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:44
+

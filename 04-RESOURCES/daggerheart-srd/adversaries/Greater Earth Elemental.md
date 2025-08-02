@@ -1,3 +1,15 @@
+---
+title: "Greater Earth Elemental"
+aliases: []
+tags: ["adversary", "combat", "daggerheart", "gm-tools", "monster", "npc", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Greater Earth Elemental.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "adversaries"
+created: "2025-07-30T01:28:26.927867"
+updated: "2025-07-30T01:28:26.927867"
+---
+
 ﻿# GREATER EARTH ELEMENTAL
 
 ***Tier 3 Bruiser***  
@@ -18,3 +30,14 @@
 ***Rockslide - Action:*** Mark a Stress to create a rockslide that buries all the land in front of Elemental within Close range with rockfall. All targets in this area must make an Agility Reaction Roll (19). Targets who fail take 2d12+5 physical damage and become Vulnerable until their next roll with Hope. Targets who succeed take half damage.
 
 ***Momentum - Reaction:*** When the Elemental makes a successful attack against a PC, you gain a Fear.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Greater Earth Elemental.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `adversaries/Greater Earth Elemental.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:26
+

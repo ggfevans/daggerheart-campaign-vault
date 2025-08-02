@@ -1,3 +1,15 @@
+---
+title: "School of War"
+aliases: []
+tags: ["character-options", "class", "daggerheart", "mechanics", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/School of War.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "subclasses"
+created: "2025-07-30T01:26:41.128894"
+updated: "2025-07-30T01:26:41.128894"
+---
+
 ﻿# SCHOOL OF WAR
 
 Play the School of War if you want to utilize trained magic for violence.
@@ -23,3 +35,14 @@ Knowledge
 ***Thrive in Chaos:*** When you succeed on an attack, you can mark a Stress after rolling damage to force the target to mark an additional Hit Point.
 
 ***Have No Fear:*** The extra magic damage from your “Face Your Fear” feature increases to 3d10.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/subclasses/School of War.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `subclasses/School of War.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:41
+

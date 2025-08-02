@@ -1,3 +1,15 @@
+---
+title: "The Basics"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/The Basics.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:26:32.303239"
+updated: "2025-07-30T01:26:32.303239"
+---
+
 # THE BASICS
 
 ## WHAT IS DAGGERHEART?
@@ -21,3 +33,14 @@ For example, Daggerheart has a weapon called a grappler that lets you pull a tar
 Similarly, if your character does something that would logically result in immediate death—such as diving into an active volcano without protection—you might not get to make one of Daggerheart’s death moves, which normally give you control of your character’s fate in their final moments. This kind of consequence should be made clear before the action is completed, and it should always follow the logic of the world.
 
 As a narrative-focused game, Daggerheart is not a place where technical, out-of-context interpretations of the rules are encouraged. Everything should flow back to the fiction, and the GM has the authority and responsibility to make rulings about how rules are applied to underscore that fiction.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/The Basics.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/The Basics.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:32
+

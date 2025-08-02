@@ -1,3 +1,15 @@
+---
+title: "Combat Wheelchair"
+aliases: []
+tags: ["combat", "core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Combat Wheelchair.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:26:31.817470"
+updated: "2025-07-30T01:26:31.817470"
+---
+
 # COMBAT WHEELCHAIR
 
 *By Mark Thompson*
@@ -66,3 +78,14 @@ These wheelchairs have frames that are attuned to your character and their magic
 | **Improved Arcane-Frame Wheelchair**  | 2        | Spellcast | Far       | d6+3 mag   | One-Handed | ***Reliable:*** +1 to attack rolls |
 | **Advanced Arcane-Frame Wheelchair**  | 3        | Spellcast | Far       | d6+6 mag   | One-Handed | ***Reliable:*** +1 to attack rolls |
 | **Legendary Arcane-Frame Wheelchair** | 4        | Spellcast | Far       | d6+9 mag   | One-Handed | ***Reliable:*** +1 to attack rolls |
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Combat Wheelchair.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Combat Wheelchair.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:31
+

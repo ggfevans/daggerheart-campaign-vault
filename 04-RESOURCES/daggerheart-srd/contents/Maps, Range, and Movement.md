@@ -1,3 +1,15 @@
+---
+title: "Maps, Range, and Movement"
+aliases: []
+tags: ["core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Maps, Range, and Movement.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:28:58.962001"
+updated: "2025-07-30T01:28:58.962001"
+---
+
 # MAPS, RANGE, AND MOVEMENT
 
 You can play Daggerheart using “theater of the mind” or maps and miniatures. The conversions below from abstract ranges to physical measurements assume 1 inch of map represents about 5 feet of fictional space.
@@ -39,3 +51,14 @@ Unless stated otherwise, all the targets of a group effect must be within Very C
 ## LINE OF SIGHT & COVER
 
 Unless stated otherwise, a ranged attacker must have **line of sight** to their intended target to make an attack roll. If a partial obstruction lies between the attacker and target, the target has **cover**. Attacks made through cover are rolled with disadvantage. If the obstruction is total, there is no line of sight.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Maps, Range, and Movement.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Maps, Range, and Movement.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:58
+

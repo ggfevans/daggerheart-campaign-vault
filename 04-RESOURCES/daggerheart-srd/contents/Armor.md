@@ -1,3 +1,15 @@
+---
+title: "Armor"
+aliases: []
+tags: ["combat", "core-rules", "daggerheart", "mechanics", "reference", "rules", "srd", "system", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/contents/Armor.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "contents"
+created: "2025-07-30T01:26:46.818873"
+updated: "2025-07-30T01:26:46.818873"
+---
+
 # ARMOR
 
 Every armor has a name, base damage thresholds, and a base Armor Score. Some armor also has a feature.
@@ -15,3 +27,14 @@ When you take damage, you can mark one Armor Slot to reduce the number of Hit Po
 ## ARMOR TABLES
 
 - [Armor Tables](../contents/Armor%20Tables.md)
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/contents/Armor.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `contents/Armor.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:26:46
+

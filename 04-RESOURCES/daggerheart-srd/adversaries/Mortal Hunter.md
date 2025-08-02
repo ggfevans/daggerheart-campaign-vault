@@ -1,3 +1,15 @@
+---
+title: "Mortal Hunter"
+aliases: []
+tags: ["adversary", "combat", "daggerheart", "gm-tools", "monster", "npc", "reference", "srd", "ttrpg"]
+source_url: "https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Mortal Hunter.md"
+source_repo: "seansbox/daggerheart-srd"
+license: "CC BY 4.0"
+category: "adversaries"
+created: "2025-07-30T01:28:30.704736"
+updated: "2025-07-30T01:28:30.704736"
+---
+
 ﻿# MORTAL HUNTER
 
 ***Tier 2 Leader***  
@@ -17,3 +29,14 @@
 ***Inevitable Death - Action:*** Mark a Stress to spotlight 1d4 allies. Attacks they make while spotlighted in this way deal half damage.
 
 ***Rampage - Reaction:*** Countdown (Loop 1d6). When the Hunter is in the spotlight for the first time, activate the countdown. When it triggers, move the Hunter in a straight line to a point within Far range and make an attack against all targets in their path. Targets the Hunter succeeds against take 2d8+2 physical damage.
+
+---
+
+## Attribution
+
+This content is from the [Daggerheart SRD](https://github.com/seansbox/daggerheart-srd/blob/main/adversaries/Mortal Hunter.md) by [Darrington Press](https://darringtonpress.com/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**Source:** `adversaries/Mortal Hunter.md`  
+**Repository:** [seansbox/daggerheart-srd](https://github.com/seansbox/daggerheart-srd)  
+**Downloaded:** 2025-07-30 01:28:30
+
