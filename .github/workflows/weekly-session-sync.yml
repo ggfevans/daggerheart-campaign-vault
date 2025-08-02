@@ -10,10 +10,14 @@ permissions:
   contents: write
   issues: write
   pull-requests: read
+  pages: write
+  id-token: write
 
 jobs:
   sync-session:
     runs-on: ubuntu-latest
+    outputs:
+      synced_to_prod: ${{ steps.check_sync.outputs.synced_to_prod }}
     
     steps:
       - name: Checkout repository
@@ -92,6 +96,7 @@ jobs:
           
       - name: Sync to production
         if: steps.check_sessions.outputs.has_new_sessions == 'true' || steps.update_badge.outputs.badge_updated == 'true'
+        id: sync_prod
         run: |
           set -e # Exit on any error
           
@@ -102,6 +107,17 @@ jobs:
           
           # Push to prod
           git push origin prod
+          
+          echo "synced_to_prod=true" >> $GITHUB_OUTPUT
+          
+      - name: Set sync status
+        id: check_sync
+        run: |
+          if [ "${{ steps.check_sessions.outputs.has_new_sessions }}" == "true" ] || [ "${{ steps.update_badge.outputs.badge_updated }}" == "true" ]; then
+            echo "synced_to_prod=true" >> $GITHUB_OUTPUT
+          else
+            echo "synced_to_prod=false" >> $GITHUB_OUTPUT
+          fi
           
       - name: Summary
         if: always()
@@ -122,6 +138,7 @@ jobs:
           
           if [ "${{ steps.check_sessions.outputs.has_new_sessions }}" == "true" ] || [ "${{ steps.update_badge.outputs.badge_updated }}" == "true" ]; then
             echo "🚀 Changes synced to production"
+            echo "🌐 Site deployment will be triggered automatically"
           else
             echo "✅ No sync needed - everything up to date"
           fi
@@ -142,3 +159,49 @@ jobs:
               Please check the logs and resolve any merge conflicts or errors.`,
               labels: ['automation', 'error']
             })
+
+  deploy-site:
+    needs: sync-session
+    if: needs.sync-session.outputs.synced_to_prod == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    steps:
+      - name: Checkout prod branch
+        uses: actions/checkout@v4
+        with:
+          ref: prod
+          
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          
+      - name: Install dependencies
+        run: |
+          cd .web/quartz
+          npm ci
+          
+      - name: Build Quartz site
+        run: |
+          cd .web/quartz
+          npx quartz build
+          
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .web/quartz/public
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        
+      - name: Deployment summary
+        run: |
+          echo "🚀 Site deployed successfully!"
+          echo "📝 Site URL: ${{ steps.deployment.outputs.page_url }}"
