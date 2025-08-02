@@ -727,8 +727,15 @@ Following the intelligence gathered at [[the-soggy-boot]], the party seeks out *
 
 **Preparation for Next Session**: [GM notes and player interests to follow up]
 
+## 📍 Location Files Created
+Based on this session, the following location entries have been created:
+- **[[mires-end]]**: The failing laketown with dying protective pyre
+- **[[the-soggy-boot]]**: Primary tavern and social hub of Mire's End  
+- **[[slithermarsh]]**: Treacherous marshland region with supernatural threats
+- **[[the-ruins]]**: Ancient temple where sacred branch was retrieved
+
 ---
 
-*Session 2 Status: [COMPLETED/IN_PROGRESS]*  
+*Session 2 Status: COMPLETED*  
 *Campaign: Daggerheart - Last Light Chronicles*  
 *Date: August 1, 2025*
