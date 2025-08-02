@@ -55,8 +55,7 @@ jobs:
             echo "has_new_sessions=true" >> $GITHUB_OUTPUT
           fi
       
-      - name: Update README and sync branches
-        if: steps.check_sessions.outputs.has_new_sessions == 'true'
+      - name: Update README badge
         run: |
           set -e # Exit on any error
           # Checkout dev branch
@@ -64,19 +63,37 @@ jobs:
           
           # Update the session badge in README.md
           SESSION_COUNT=${{ steps.check_sessions.outputs.session_count }}
-          sed -i "s/\[\!\[Last Vigil\](https:\/\/img\.shields\.io\/badge\/Last_Vigil-Session_[0-9]*-grey\.svg)\]/[![Last Vigil](https:\/\/img.shields.io\/badge\/Last_Vigil-Session_${SESSION_COUNT}-grey.svg)]/" README.md
           
-          # Commit the change
-          git add README.md
-          git commit -m "Update session badge to Session ${SESSION_COUNT}"
+          # Check if README needs updating
+          CURRENT_BADGE=$(grep -o "Last_Vigil-Session_[0-9]*-grey" README.md | grep -o "[0-9]*" || echo "0")
           
-          # Push to dev
-          git push origin dev
+          if [ "$CURRENT_BADGE" != "$SESSION_COUNT" ]; then
+            echo "Updating badge from Session $CURRENT_BADGE to Session $SESSION_COUNT"
+            sed -i "s/\[\!\[Last Vigil\](https:\/\/img\.shields\.io\/badge\/Last_Vigil-Session_[0-9]*-grey\.svg)\]/[![Last Vigil](https:\/\/img.shields.io\/badge\/Last_Vigil-Session_${SESSION_COUNT}-grey.svg)]/" README.md
+            
+            # Commit the change
+            git add README.md
+            git commit -m "Update session badge to Session ${SESSION_COUNT}"
+            
+            # Push to dev
+            git push origin dev
+            
+            echo "badge_updated=true" >> $GITHUB_OUTPUT
+          else
+            echo "Badge already correct (Session $SESSION_COUNT)"
+            echo "badge_updated=false" >> $GITHUB_OUTPUT
+          fi
+        id: update_badge
+          
+      - name: Sync to production
+        if: steps.check_sessions.outputs.has_new_sessions == 'true' || steps.update_badge.outputs.badge_updated == 'true'
+        run: |
+          set -e # Exit on any error
           
           # Checkout prod and merge dev
           git checkout prod
           git pull origin prod
-          git merge dev -m "Weekly session sync: Session ${SESSION_COUNT}"
+          git merge dev -m "Weekly session sync: Session ${{ steps.check_sessions.outputs.session_count }}"
           
           # Push to prod
           git push origin prod
@@ -84,12 +101,24 @@ jobs:
       - name: Summary
         if: always()
         run: |
-          if [ "${{ steps.check_sessions.outputs.has_new_sessions }}" == "true" ]; then
-            echo "✅ Session sync completed successfully!"
-            echo "📊 Updated to Session ${{ steps.check_sessions.outputs.session_count }}"
-            echo "🚀 dev branch merged to prod"
+          echo "📊 Current session count: ${{ steps.check_sessions.outputs.session_count }}"
+          
+          if [ "${{ steps.update_badge.outputs.badge_updated }}" == "true" ]; then
+            echo "🏷️ Badge updated to Session ${{ steps.check_sessions.outputs.session_count }}"
           else
-            echo "ℹ️ No new sessions found - no sync needed"
+            echo "🏷️ Badge already correct (Session ${{ steps.check_sessions.outputs.session_count }})"
+          fi
+          
+          if [ "${{ steps.check_sessions.outputs.has_new_sessions }}" == "true" ]; then
+            echo "🆕 New sessions detected"
+          else
+            echo "ℹ️ No new sessions found"
+          fi
+          
+          if [ "${{ steps.check_sessions.outputs.has_new_sessions }}" == "true" ] || [ "${{ steps.update_badge.outputs.badge_updated }}" == "true" ]; then
+            echo "🚀 Changes synced to production"
+          else
+            echo "✅ No sync needed - everything up to date"
           fi
       
       - name: Notify on failure
