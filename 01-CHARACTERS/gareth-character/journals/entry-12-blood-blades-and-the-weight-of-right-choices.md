@@ -9,7 +9,7 @@ But it was the right thing to do.
 
 The oracle dreams have been quiet since the branch lit up. Maybe even cosmic horror takes a break when something genuinely pure enters the world. Or maybe it's gathering strength for whatever's coming next. The waterfall in my visions has been flowing faster lately, reality bending backwards at an accelerating pace. This sacred branch... it's not a solution. It's a bandage on a severed artery.
 
-Augustus nearly died today. Nearly fucking died. I watched him use "I Am Your Shield" until his body gave out, taking hits meant for the rest of us. The way he threw himself between me and that zombie horde—Christ, I haven't seen protection instincts like that since Old Whisper-Steps. Different motivation, same result: good people willing to bleed for others.
+Augustus nearly died today. Nearly fucking died. I watched him use "I Am Your Shield" until his body gave out, taking hits meant for the rest of us. The way he threw himself between me and that zombie horde—Veiled Gods, I haven't seen protection instincts like that since Old Whisper-Steps. Different motivation, same result: good people willing to bleed for others.
 
 The difference is Augustus chose it. Whisper-Steps got corrupted.
 
