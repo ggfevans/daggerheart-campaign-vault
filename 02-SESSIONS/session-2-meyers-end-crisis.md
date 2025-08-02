@@ -299,9 +299,22 @@ status: IN_PROGRESS
 - **Vaerenth's Presence Roll**: Rolled 18 - outstanding coordination/support during crossing
 - **Result**: Exceptional teamwork crossing - both succeed with high rolls
 - **Status**: Hart and Vaerenth successfully across with excellent execution
-- **Team Achievement**: All party members safely crossed the black water torrent
 
-**Remaining**: Hogpog aerial transport via Aster's flight ability
+**FEAR TOKEN COMPLICATION - AUGUSTUS IN DANGER**:
+- **GM Spends Fear**: Major environmental hazard activates mid-crossing
+- **River Widens**: Bottom opens up much wider, creating dangerous undertow
+- **Augustus Caught**: Undertow grabs Augustus, pulls him underneath black water
+- **First Rescue Attempt**: 
+  - Augustus Agility reaction roll: 11 total (with Hart & Vaerenth assist)
+  - **Failed** - Augustus pulled further downstream by current
+  - Vaerenth's whip used to catch him **slips off**
+- **Second Rescue Attempt**:
+  - Augustus Instinct reaction roll: 11 total 
+  - **Failed** - Augustus continues to be dragged by supernatural undertow
+- **Current Status**: Augustus in serious danger, being pulled away by black water current
+
+**Team Achievement**: Most party members safely crossed, but Augustus now in mortal peril
+**Remaining**: Hogpog aerial transport + URGENT Augustus rescue needed
 
 ### Meyer's End Details
 **Settlement Structure**:
