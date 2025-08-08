@@ -26,7 +26,7 @@ status: missing
 **Notable Qualities**: [Willing to leave town alone to find solutions]  
 
 ## 🔗 Relationships & Connections
-**Relationship to Holya**: [Connection to townmaster - subordinate? peer? rival?]  
+**Relationship to Holya**: Subordinate
 **Town Standing**: Complicated - both trusted with crisis and blamed for it  
 **Public Opinion**: Townsfolk blame Davrinth for pyre crisis  
 **Tavern Keeper's View**: [Mentioned as key figure who "left looking for solution"]  
