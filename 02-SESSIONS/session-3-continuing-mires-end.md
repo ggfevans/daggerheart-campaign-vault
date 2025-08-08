@@ -28,16 +28,32 @@ participants: [User, Andi]
 - **Companion Reunion**: Vaerenth finds Hogpog, who returns meekly and scared from temple combat
 - **Magic Awe**: Davirith astounded by Aster's divine healing power, wants to share openly
 - **Enforced Secrecy**: Augustus warns against sharing with subtle threat, Vaerenth backs him up
-- **Social Tension**: Party divided on openness vs. secrecy about magical abilities
+- **Curse Revelation**: Davirith mentions being "cursed" - Vaerenth questions this
+- **Timeline Revealed**: Pyre flickering began months ago, townsfolk blamed Davirith without proof
+- **Scapegoat Story**: Community created curse narrative around Davirith to explain crisis
+- **Equipment Recognition**: Davirith notices Vaerenth has his fancy bedroll, she deflects casually
+- **Return to Mire's End**: Whole party escorts Davirith back to settlement
+- **Holya's Joy**: Townmaster ecstatic to have Davirith back safely
+- **Public Declaration**: Davirith announces he's not cursed, credits party for helping him see truth
+- **Holya's Gratitude**: Townmaster thanks party for bringing Davirith back
+- **Temple Flash**: Holya reports large flash was seen from direction of the temple
+- **Arcane Prism Reward**: Holya gives party valuable magical item as thanks (Vaerenth takes it)
 
 ## 🎭 Character Moments
-### Davirith (Impressed Observer)
+### Davirith (Scapegoated Investigator)
 - **Profound Loss**: The mysterious branch turned to ash in his hands
 - **Emotional Vulnerability**: Visibly distraught at the branch's destruction
 - **Community Decision**: Convinced by party to return to Mire's End - "they need him"
 - **Magic Fascination**: Astounded by Aster's divine healing power
 - **Desire to Share**: Wants to openly discuss Aster's impressive abilities
 - **Silenced**: Warned not to share by Augustus's subtle threat and Vaerenth's backing
+- **"Curse" Revelation**: Mentions being cursed, but uncertain about why or how
+- **Timeline Connection**: Notes pyre began flickering months ago when townspeople blame started
+- **Scapegoat Status**: Community created curse story around him without actual proof
+- **Equipment Recognition**: Notices Vaerenth has his fancy bedroll, doesn't pursue it
+- **Public Vindication**: Declares to Holya that he's not cursed
+- **Gratitude Expression**: Credits party as "wonderful enduring" for helping him see truth
+- **Character Growth**: Moving from self-doubt to restored confidence in his abilities
 
 ### Aster (Leadership Through Crisis)
 - **Protective Instincts**: Immediately moved to help fallen Augustus with Mending Touch
@@ -57,12 +73,25 @@ participants: [User, Andi]
 - **Group Cohesion**: Contributing to collective party support during crisis
 - **Character Consistency**: Showing care for party members in distress
 
-### Vaerenth (Supportive Authority)
+### Vaerenth (Skeptical Questioner)
 - **Companion Retrieval**: Successfully found Hogpog after temple combat flight
 - **Emotional Reunion**: Hogpog returns meekly and scared from the traumatic battle
 - **Social Backup**: Successful Presence roll supporting Augustus's warning to Davirith
 - **Alliance Building**: Siding with Augustus on magic secrecy enforcement
-- **Practical Wisdom**: Understanding social dangers of magical exposure
+- **Critical Questioning**: Challenges Davirith's "curse" narrative
+- **Truth Seeking**: Pushing for facts vs. community blame stories
+- **Equipment Deflection**: Plays off having Davirith's fancy bedroll when he notices
+- **Social Navigation**: Smoothly avoiding confrontation about acquired equipment
+- **Arcane Prism Acquisition**: Takes valuable magical reward from Holya
+- **Party Caster Support**: Now carries item that benefits all party spellcasters
+
+### Holya (Generous Leader)
+- **Ecstatic Reunion**: Overjoyed to have Davirith safely returned to Mire's End
+- **Leadership Vindicated**: Her trust in Davirith proven correct by his return
+- **Gratitude to Party**: Thanks adventurers for bringing back crucial settlement member
+- **Information Sharing**: Reports mysterious large flash seen from temple direction
+- **Generous Reward**: Gives party valuable Arcane Prism as thanks for their service
+- **Community Coordination**: Managing crisis response and information gathering
 
 ### Augustus (Protective Enforcer)
 - **Receiving Aid**: Target of Aster's Mending Touch healing (successful)
@@ -90,15 +119,20 @@ participants: [User, Andi]
 - **Emotional Stakes**: Loss of significant objects creates personal investment
 
 #### New Mysteries or Questions
-- **Why did Davirith's branch turn to ash?** Connection to Mire's End's dying pyre?
-- **Was the branch magical or spiritually significant?** Destruction suggests power drain
-- **Does the ash destruction relate to regional undead influence?** Necromantic corruption?
-- **How does this loss affect Davirith's connection to nature/magic?**
-- **Is Augustus's condition related to the same forces affecting the branch?**
-- **Can the corruption be stopped or reversed?**
+- **What caused the large flash from the temple?** Connection to Session 2's sacred branch ritual?
+- **Is the temple now safe or changed after the zombie combat?** Environmental effects?
+- **How will community react to Davirith's public declaration he's not cursed?** Social shift?
+- **What really caused the pyre to start flickering months ago?** Still needs investigation
+- **Does the flash indicate success or new supernatural development?** Temple aftermath
+- **Will clearing Davirith's name help solve the actual pyre crisis?** Community healing vs. technical solution
+- **What's the real source of Mire's End's supernatural problems?** Core mystery remains
 
 #### Resolved Plot Points
-- Branch's fate determined (destroyed, not retained as magical item)
+- **Davirith's "curse" status**: Publicly declared not cursed, community blame narrative challenged
+- **Davirith's return**: Successfully convinced to help Mire's End despite branch loss
+- **Party reputation**: Established as "wonderful enduring" helpers by Davirith and Holya
+- **Equipment acquisition**: Vaerenth's possession of fancy bedroll acknowledged but not contested
+- **Social scapegoating**: Pattern identified and broken through party intervention
 
 ## 🏛️ Lore Revealed
 ### Supernatural Mechanics
@@ -114,17 +148,27 @@ participants: [User, Andi]
 - **Fascination vs. Fear**: Davirith impressed by magic, but forced to stay silent about it
 - **Cultural Sensitivity**: Even helpful magic must be hidden from general population
 
-### Community Dynamics
-- **Davirith's Importance**: Settlement genuinely needs his expertise and presence
-- **Leadership Crisis**: Without Davirith, Mire's End lacks crucial guidance
-- **Collective Responsibility**: Party recognizes their role in encouraging community leaders
+### Community Dynamics & Scapegoating
+- **Timeline Established**: Pyre problems began months ago, blame started simultaneously
+- **Scapegoat Psychology**: Community created curse narrative around Davirith without proof
+- **Social Blame Mechanics**: Fear drives communities to find someone to blame during crises
+- **Self-Doubt Impact**: Davirith unsure if he's actually cursed or just blamed
+- **Investigation vs. Prejudice**: Real supernatural causes vs. community fear responses
+
+### Temple Flash Investigation
+- **Witness Report**: Holya confirms large flash visible from temple direction
+- **Timing Connection**: Flash likely occurred during Session 2's sacred branch ritual or temple combat
+- **Community Observation**: Settlement aware of supernatural activity at temple site
+- **Investigation Opportunity**: Party has direct knowledge of temple events Holya is reporting
 
 ### Lore Questions Raised
+- [ ] Is Davirith actually cursed or just scapegoated by frightened community?
+- [ ] What really caused the pyre flickering to begin months ago?
 - [ ] Extent of magical prejudice across Age of Umbra communities
 - [ ] Historical reasons for magic being feared and misunderstood
-- [ ] How do magical characters navigate social stigma?
-- [ ] Does Mire's End specifically have anti-magic sentiment?
-- [ ] Connection between branch destruction and pyre failure mechanics
+- [ ] How do magical characters navigate social stigma and false blame?
+- [ ] Does Mire's End specifically have anti-magic sentiment driving scapegoating?
+- [ ] Connection between community fear responses and actual supernatural investigation
 
 ## ⚔️ Mechanics & Rules
 ### Companion Mechanics
@@ -171,9 +215,14 @@ participants: [User, Andi]
 - [ ] Presence roll critical success effects
 
 ### Experience & Rewards
-- XP gained: [amount]
-- Character development: Emotional growth through loss and support
-- Story progression: Understanding of regional supernatural threat
+- **XP gained**: [amount]
+- **Character development**: Emotional growth through loss, support, and community service
+- **Story progression**: Understanding of regional supernatural threat and social dynamics
+- **Equipment Acquired**: **Arcane Prism** (taken by Vaerenth)
+  - **Effect**: All allies within Close range get +1 bonus to spellcasting when activated
+  - **Usage**: One use per long rest
+  - **Tactical Value**: Significant boost for party's magical abilities
+  - **Reward Source**: Gift from grateful Townmaster Holya for bringing Davirith back
 
 ## 🔮 Looking Forward
 ### Immediate Situation
