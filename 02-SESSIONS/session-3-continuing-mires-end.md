@@ -26,22 +26,26 @@ participants: [User, Andi]
 - **Critical Success**: Aster's Presence role with Hart's help convinces Davirith to return to town
 - **Group Encouragement**: Banjo and entire party rally around Davirith in his moment of loss
 - **Companion Reunion**: Vaerenth finds Hogpog, who returns meekly and scared from temple combat
-- **Divine Caution**: Augustus warns Aster about displaying divine magic (feared/misunderstood)
-- **Healing Action**: Aster cast Mending Touch on Augustus during crisis
+- **Magic Awe**: Davirith astounded by Aster's divine healing power, wants to share openly
+- **Enforced Secrecy**: Augustus warns against sharing with subtle threat, Vaerenth backs him up
+- **Social Tension**: Party divided on openness vs. secrecy about magical abilities
 
 ## 🎭 Character Moments
-### Davirith (Natural Connection Character)
+### Davirith (Impressed Observer)
 - **Profound Loss**: The mysterious branch turned to ash in his hands
 - **Emotional Vulnerability**: Visibly distraught at the branch's destruction
 - **Community Decision**: Convinced by party to return to Mire's End - "they need him"
-- **Character Growth**: Accepting party support and recognizing his importance to the settlement
+- **Magic Fascination**: Astounded by Aster's divine healing power
+- **Desire to Share**: Wants to openly discuss Aster's impressive abilities
+- **Silenced**: Warned not to share by Augustus's subtle threat and Vaerenth's backing
 
 ### Aster (Leadership Through Crisis)
 - **Protective Instincts**: Immediately moved to help fallen Augustus with Mending Touch
 - **Critical Social Success**: Presence role with Hart's assistance - CRITICAL SUCCESS
 - **Persuasive Leadership**: Successfully convinced Davirith to return and help the town
-- **Divine Magic Display**: Used healing openly, prompting Augustus's caution
-- **Character Arc**: Balancing magical abilities with social awareness
+- **Divine Magic Display**: Used healing openly, creating both awe and social tension
+- **Center of Attention**: Davirith astounded by divine power, wants to share knowledge
+- **Social Pressure**: Caught between openness about abilities and enforced secrecy
 
 ### Hart (Supportive Ally)
 - **Collaborative Support**: Helped Aster with the crucial Presence roll
@@ -53,17 +57,19 @@ participants: [User, Andi]
 - **Group Cohesion**: Contributing to collective party support during crisis
 - **Character Consistency**: Showing care for party members in distress
 
-### Vaerenth (Companion Care)
+### Vaerenth (Supportive Authority)
 - **Companion Retrieval**: Successfully found Hogpog after temple combat flight
 - **Emotional Reunion**: Hogpog returns meekly and scared from the traumatic battle
-- **Character Growth**: Taking responsibility for companion's wellbeing
-- **Combat Aftermath**: Dealing with consequences of intense zombie temple fight
+- **Social Backup**: Successful Presence roll supporting Augustus's warning to Davirith
+- **Alliance Building**: Siding with Augustus on magic secrecy enforcement
+- **Practical Wisdom**: Understanding social dangers of magical exposure
 
-### Augustus (Wounded but Wise Guardian)
+### Augustus (Protective Enforcer)
 - **Receiving Aid**: Target of Aster's Mending Touch healing (successful)
-- **Cultural Caution**: Warned Aster about displaying divine magic openly
-- **Worldbuilding Insight**: "Magic is feared and misunderstood" - important setting knowledge
-- **Protective Wisdom**: Even while wounded, looking out for party member's social safety
+- **Cultural Guardian**: Warned Aster about displaying divine magic openly
+- **Escalated Warning**: Made subtle threat to Davirith about sharing magic knowledge
+- **Social Protector**: Willing to use intimidation to protect party from magical prejudice
+- **Worldbuilding Authority**: Enforcing "magic is feared and misunderstood" reality
 
 ## 🌍 World & Story
 ### Current Location: Mire's End
@@ -102,9 +108,11 @@ participants: [User, Andi]
 
 ### Age of Umbra Social Context
 - **Magic Stigma**: "Magic is feared and misunderstood" in this setting
-- **Divine Magic Caution**: Open displays of healing magic can cause social problems
-- **Cultural Sensitivity**: Even helpful magic should be used discretely
-- **Social Dynamics**: Augustus's protective warning shows awareness of magical prejudice
+- **Enforced Secrecy**: Party members willing to use threats to maintain magical concealment
+- **Social Intimidation**: Augustus's subtle threats show serious consequences for magical exposure
+- **Community Support**: Vaerenth backing Augustus suggests widespread agreement on secrecy
+- **Fascination vs. Fear**: Davirith impressed by magic, but forced to stay silent about it
+- **Cultural Sensitivity**: Even helpful magic must be hidden from general population
 
 ### Community Dynamics
 - **Davirith's Importance**: Settlement genuinely needs his expertise and presence
@@ -132,6 +140,12 @@ participants: [User, Andi]
 - **Assistance**: Hart provided help, improving the roll
 - **Result**: Critical success - Davirith completely convinced
 - **Collaborative Mechanics**: Help action working effectively
+
+**Vaerenth's Presence Roll (SUCCESS)**:
+- **Target**: Supporting Augustus's warning to Davirith about magic secrecy
+- **Result**: Success - Davirith convinced not to share Aster's magical abilities
+- **Social Alliance**: Backing up Augustus's intimidation with additional authority
+- **Enforcement Mechanics**: Multiple characters ensuring magic secrecy
 
 ### Spellcasting Used
 **Mending Touch (Aster)**:
@@ -204,9 +218,10 @@ participants: [User, Andi]
 - **Critical Social Success**: Aster's Presence roll with Hart's help - perfect teamwork
 - **Party Unity**: Every character contributing to support Davirith in crisis
 - **Companion Reunion**: Vaerenth finding scared Hogpog after temple combat trauma
-- **Worldbuilding Moment**: Augustus revealing magic stigma in Age of Umbra
-- **Character Growth**: Davirith accepting his importance to the community
-- **Collaborative Mechanics**: Help actions and group persuasion working beautifully
+- **Magic Secrecy Enforcement**: Augustus's subtle threat backed by Vaerenth's Presence success
+- **Social Tension**: Party divided between openness (Davirith) and enforced secrecy (Augustus/Vaerenth)
+- **Worldbuilding Depth**: Magic stigma serious enough to warrant intimidation and threats
+- **Character Growth**: Multiple characters navigating complex social dynamics around magical abilities
 
 ### Story Elements
 - **Symbolic Loss**: Branch represented connection to nature/life
