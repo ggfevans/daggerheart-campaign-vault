@@ -4,7 +4,12 @@ tags:
   - date/2025-08-08
 session-number: 3
 date: 2025-08-08
-participants: [User, Andi]
+participants:
+  - Andi
+  - Luie
+  - Gareth
+  - Mark
+  - Carly
 ---
 
 # Session 3 - 2025-08-08
@@ -47,6 +52,13 @@ participants: [User, Andi]
 - **Social Combat**: Vaerenth uses Charm Potion and Hope for brilliant Presence response
 - **Hart's Failed Response**: Attempts sarcastic counter but fails roll, marks stress
 - **Escalating Tension**: Hostile townsperson continues anti-Davirith rhetoric despite party intervention
+- **Aster's Failed Speech**: Passionate shouting attempt to calm crowd fails roll despite powerful delivery
+- **Party Coordination**: Multi-character tactical response to social crisis
+  - **Banjo's Shadowstep**: Teleports to rear of crowd for positive reinforcement voice
+  - **Hart & Augustus**: Intimidating supportive stance backing Davirith
+- **Murder Attempt Revealed**: Crowd admits "we cut the rope, we let him go" - attempted killing
+- **Holya's Shock**: Townmaster unaware of assassination attempt on Davirith
+- **Davirith's Trauma**: Silent and shocked at learning of murder attempt
 
 ## 🎭 Character Moments
 ### Davirith (Scapegoated Investigator)
@@ -65,8 +77,11 @@ participants: [User, Andi]
 - **Personal Rewards**: Gives additional magical items beyond Holya's gifts
 - **Thoughtful Giving**: Arcane Cloak clearly intended for Aster (stares directly at him)
 - **Character Growth**: Moving from self-doubt to restored confidence and generous appreciation
+- **Murder Attempt Victim**: Silent and shocked to learn crowd previously tried to kill him
+- **Traumatic Revelation**: Learning of assassination attempt ("we cut the rope, we let him go")
+- **Betrayal Processing**: Understanding extent of community hostility toward him
 
-### Aster (Recipient of Thoughtful Gift)
+### Aster (Failed Orator)
 - **Protective Instincts**: Immediately moved to help fallen Augustus with Mending Touch
 - **Critical Social Success**: Presence role with Hart's assistance - CRITICAL SUCCESS
 - **Persuasive Leadership**: Successfully convinced Davirith to return and help the town
@@ -75,6 +90,9 @@ participants: [User, Andi]
 - **Social Pressure**: Caught between openness about abilities and enforced secrecy
 - **Magical Disguise**: Receives Arcane Cloak from Davirith via Vaerenth's thoughtful distribution
 - **Perfect Gift**: Cloak's disguise abilities directly address magic stigma problems
+- **Crowd Control Attempt**: Gives impassioned speech trying to shout down hostile crowd
+- **Failed Social Roll**: Despite powerful delivery, fails to calm community tensions
+- **Leadership Under Pressure**: Continuing to attempt crowd management despite setbacks
 
 ### Hart (Failed Social Support)
 - **Collaborative Support**: Helped Aster with the crucial Presence roll
@@ -85,13 +103,20 @@ participants: [User, Andi]
 - **Failed Roll**: "Well let's all just die today" - unsuccessful Presence attempt
 - **Stress Consequence**: Marks stress from failed social encounter
 - **Social Combat Risk**: Demonstrating how failed social rolls have mechanical consequences
+- **Intimidating Support**: Works with Augustus to provide threatening backing for Davirith
+- **Physical Presence**: Using intimidating stance to discourage crowd hostility
+- **Coordinated Defense**: Part of multi-character protective formation around Davirith
 
-### Banjo (Rewarded Rogue)
+### Banjo (Tactical Rogue)
 - **Emotional Support**: Added his voice to encourage Davirith's return
 - **Group Cohesion**: Contributing to collective party support during crisis
 - **Character Consistency**: Showing care for party members in distress
 - **Premium Bedroll Acquisition**: Takes second magical bedroll reward from Holya
 - **Stress Management**: Now has personal magical item for rogue-specific recovery needs
+- **Shadowstep Tactics**: Uses rogue ability to teleport to rear of hostile crowd
+- **Social Positioning**: Creates positive reinforcement voice from unexpected location
+- **Crowd Psychology**: Understanding how to work crowd dynamics from multiple angles
+- **Party Coordination**: Supporting overall social combat strategy with positioning
 
 ### Vaerenth (Skeptical Questioner)
 - **Companion Retrieval**: Successfully found Hogpog after temple combat flight
@@ -120,13 +145,18 @@ participants: [User, Andi]
 - **Generous Reward**: Gives party valuable Arcane Prism as thanks for their service
 - **Additional Equipment**: Provides Premium Bedroll - second magical item reward
 - **Community Coordination**: Managing crisis response and information gathering
+- **Authority Challenged**: Learning of assassination attempt she was unaware of
+- **Leadership Crisis**: Discovering extent of community division and violence against Davirith
 
-### Augustus (Protective Enforcer)
+### Augustus (Intimidating Guardian)
 - **Receiving Aid**: Target of Aster's Mending Touch healing (successful)
 - **Cultural Guardian**: Warned Aster about displaying divine magic openly
 - **Escalated Warning**: Made subtle threat to Davirith about sharing magic knowledge
 - **Social Protector**: Willing to use intimidation to protect party from magical prejudice
 - **Worldbuilding Authority**: Enforcing "magic is feared and misunderstood" reality
+- **Physical Backing**: Provides intimidating supportive stance defending Davirith
+- **Crowd Control**: Using Guardian presence and authority to support party social efforts
+- **Coordinated Response**: Working with Hart to present unified intimidating front
 
 ## 🌍 World & Story
 ### Current Location: Mire's End
@@ -148,12 +178,12 @@ participants: [User, Andi]
 
 #### New Mysteries or Questions
 - **What caused the large flash from the temple?** Connection to Session 2's sacred branch ritual?
-- **Is the temple now safe or changed after the zombie combat?** Environmental effects?
-- **How will community react to Davirith's public declaration he's not cursed?** Social shift?
-- **What really caused the pyre to start flickering months ago?** Still needs investigation
-- **Does the flash indicate success or new supernatural development?** Temple aftermath
-- **Will clearing Davirith's name help solve the actual pyre crisis?** Community healing vs. technical solution
-- **What's the real source of Mire's End's supernatural problems?** Core mystery remains
+- **How will community react to murder attempt revelation?** Will Holya take action?
+- **What exactly did "we cut the rope, we let him go" mean?** Method and location of assassination attempt?
+- **Are there other violent actions against Davirith the leadership doesn't know about?**
+- **How can the community heal from attempted murder of their investigator?**
+- **Will the party's intervention change community dynamics or escalate tensions?**
+- **Does the crowd's violence connect to the supernatural corruption affecting the settlement?**
 
 #### Resolved Plot Points
 - **Davirith's "curse" status**: Publicly declared not cursed, community blame narrative challenged
@@ -176,7 +206,13 @@ participants: [User, Andi]
 - **Fascination vs. Fear**: Davirith impressed by magic, but forced to stay silent about it
 - **Cultural Sensitivity**: Even helpful magic must be hidden from general population
 
-### Community Divisions & Scapegoating Psychology
+### Assassination Attempt Revelation
+- **Murder Confession**: Hostile crowd admits "we cut the rope, we let him go"
+- **Attempted Killing**: Community members previously tried to murder Davirith
+- **Leadership Ignorance**: Holya unaware of assassination attempt on settlement investigator
+- **Davirith's Trauma**: Silent shock at learning extent of community betrayal
+- **Authority Undermined**: Townmaster's control questioned by secretive violent actions
+- **Social Fracture**: Deep community division leading to attempted murder of scapegoat
 - **Mixed Reactions**: Some townspeople celebrate Davirith's return, others remain hostile
 - **Persistent Blame**: Anti-Davirith sentiment despite public vindication by leadership
 - **Scapegoat Resistance**: Community members clinging to blame narrative even when disproven
@@ -211,11 +247,17 @@ participants: [User, Andi]
 - **Brilliant Delivery**: "Strange, lies spread quickest through wagging tongues. If loudness was proof then you'd have me convinced already"
 - **Result**: Successful counter to hostile townsperson with enhanced magical persuasion
 
-**Hart's Social Response (FAILURE)**:
-- **Attempted Counter**: "Well let's all just die today" - sarcastic dark humor approach
-- **Failed Roll**: Unsuccessful Presence attempt against hostile crowd member
-- **Stress Consequence**: Marks stress from failed social encounter
-- **Escalation Risk**: Failed response potentially making situation worse
+**Aster's Speech Attempt (FAILURE)**:
+- **Impassioned Delivery**: Powerful shouting attempt to calm hostile crowd
+- **Failed Roll**: Despite strong delivery and leadership intent, fails to control situation
+- **Escalation Risk**: Failed crowd control potentially making situation more volatile
+
+**Multi-Character Coordinated Response**:
+- **Banjo's Shadowstep**: Teleports to rear of crowd using rogue ability
+- **Positive Reinforcement**: Creates supportive voice from unexpected crowd position
+- **Hart & Augustus**: Intimidating supportive stance backing Davirith
+- **Physical Presence**: Using threatening body language to discourage hostility
+- **Tactical Coordination**: Multiple party members working different crowd control angles
 **Hogpog's Recovery**:
 - **Post-Combat Return**: Companion available again after forced retreat
 - **Emotional State**: Meek and scared from temple zombie combat trauma
