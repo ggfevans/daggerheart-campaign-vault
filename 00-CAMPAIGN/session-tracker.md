@@ -14,8 +14,8 @@ heading: Session Tracker
 |---------|------|------|--------|------------|-------|
 | 0 | 2025-07-18 | **COMPLETED** | ✅ | Character creation, world intro | 1 |
 | 1 | Fri, Jul 25 | 4:00 PM | ✅ **COMPLETED** | Hope's Call pub, social combat victory, Shalk Chasm mission | 1 |
-| 2 | Fri, Aug 01 | 4:00 PM | ✅ **COMPLETED** | Meyer's End crisis, dying pyre investigation | 1 |
-| 3 | Fri, Aug 08 | 4:00 PM | 📅 | TBD | 1 |
+| 2 | Fri, Aug 01 | 4:00 PM | ✅ **COMPLETED** | Mire's End crisis, sacred branch retrieved | 1 |
+| 3 | Fri, Aug 08 | 4:00 PM | 🎲 **IN PROGRESS** | Branch turns to ash, Aster heals Augustus | 1 |
 | 4 | Fri, Aug 15 | 4:00 PM | 📅 | TBD | TBD |
 | 5 | Fri, Aug 22 | 4:00 PM | 📅 | TBD | TBD |
 | 6 | Fri, Aug 29 | 4:00 PM | 📅 | TBD | TBD |
@@ -57,7 +57,8 @@ heading: Session Tracker
 ## 📝 Session Notes Links
 ## 📝 Session Notes Links
 - [[02-SESSIONS/session-1-last-light-beginning]] - Session 1 (2025-07-25): Hope's Call pub beginning
-- [[session-2-mires-end-crisis]] - Session 2 (2025-08-01): Meyer's End crisis investigation
+- [[session-2-mires-end-crisis]] - Session 2 (2025-08-01): Mire's End crisis, sacred branch retrieved
+- [[session-3-continuing-mires-end]] - Session 3 (2025-08-08): Branch turns to ash, Aster heals Augustus
 
 *Links will be added as sessions are completed*
 
