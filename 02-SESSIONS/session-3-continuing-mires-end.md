@@ -37,7 +37,12 @@ participants: [User, Andi]
 - **Public Declaration**: Davirith announces he's not cursed, credits party for helping him see truth
 - **Holya's Gratitude**: Townmaster thanks party for bringing Davirith back
 - **Temple Flash**: Holya reports large flash was seen from direction of the temple
-- **Arcane Prism Reward**: Holya gives party valuable magical item as thanks (Vaerenth takes it)
+- **Generous Rewards**: Holya gives party valuable magical items as thanks
+  - **Arcane Prism** (Vaerenth takes it) - spellcasting bonus for allies
+  - **Premium Bedroll** (Banjo takes it) - stress recovery for rogues
+- **Davirith's Gratitude**: Additional rewards from grateful investigator
+  - **Charm Potion** (Vaerenth stores in saddlebags) - social magic consumable
+  - **Arcane Cloak** (intended for Aster, Vaerenth passes it along) - magical disguise item
 
 ## 🎭 Character Moments
 ### Davirith (Scapegoated Investigator)
@@ -53,25 +58,31 @@ participants: [User, Andi]
 - **Equipment Recognition**: Notices Vaerenth has his fancy bedroll, doesn't pursue it
 - **Public Vindication**: Declares to Holya that he's not cursed
 - **Gratitude Expression**: Credits party as "wonderful enduring" for helping him see truth
-- **Character Growth**: Moving from self-doubt to restored confidence in his abilities
+- **Personal Rewards**: Gives additional magical items beyond Holya's gifts
+- **Thoughtful Giving**: Arcane Cloak clearly intended for Aster (stares directly at him)
+- **Character Growth**: Moving from self-doubt to restored confidence and generous appreciation
 
-### Aster (Leadership Through Crisis)
+### Aster (Recipient of Thoughtful Gift)
 - **Protective Instincts**: Immediately moved to help fallen Augustus with Mending Touch
 - **Critical Social Success**: Presence role with Hart's assistance - CRITICAL SUCCESS
 - **Persuasive Leadership**: Successfully convinced Davirith to return and help the town
 - **Divine Magic Display**: Used healing openly, creating both awe and social tension
 - **Center of Attention**: Davirith astounded by divine power, wants to share knowledge
 - **Social Pressure**: Caught between openness about abilities and enforced secrecy
+- **Magical Disguise**: Receives Arcane Cloak from Davirith via Vaerenth's thoughtful distribution
+- **Perfect Gift**: Cloak's disguise abilities directly address magic stigma problems
 
 ### Hart (Supportive Ally)
 - **Collaborative Support**: Helped Aster with the crucial Presence roll
 - **Team Player**: Contributing to group effort to convince Davirith
 - **Strategic Assistance**: Understanding when to support others' leadership moments
 
-### Banjo (Party Encourager)
+### Banjo (Rewarded Rogue)
 - **Emotional Support**: Added his voice to encourage Davirith's return
 - **Group Cohesion**: Contributing to collective party support during crisis
 - **Character Consistency**: Showing care for party members in distress
+- **Premium Bedroll Acquisition**: Takes second magical bedroll reward from Holya
+- **Stress Management**: Now has personal magical item for rogue-specific recovery needs
 
 ### Vaerenth (Skeptical Questioner)
 - **Companion Retrieval**: Successfully found Hogpog after temple combat flight
@@ -84,6 +95,9 @@ participants: [User, Andi]
 - **Social Navigation**: Smoothly avoiding confrontation about acquired equipment
 - **Arcane Prism Acquisition**: Takes valuable magical reward from Holya
 - **Party Caster Support**: Now carries item that benefits all party spellcasters
+- **Charm Potion Storage**: Stows Davirith's social magic consumable in saddlebags
+- **Thoughtful Distribution**: Takes Arcane Cloak but immediately gives it to intended recipient Aster
+- **Social Awareness**: Understanding gift intentions and proper party dynamics
 
 ### Holya (Generous Leader)
 - **Ecstatic Reunion**: Overjoyed to have Davirith safely returned to Mire's End
@@ -91,6 +105,7 @@ participants: [User, Andi]
 - **Gratitude to Party**: Thanks adventurers for bringing back crucial settlement member
 - **Information Sharing**: Reports mysterious large flash seen from temple direction
 - **Generous Reward**: Gives party valuable Arcane Prism as thanks for their service
+- **Additional Equipment**: Provides Premium Bedroll - second magical item reward
 - **Community Coordination**: Managing crisis response and information gathering
 
 ### Augustus (Protective Enforcer)
@@ -218,11 +233,24 @@ participants: [User, Andi]
 - **XP gained**: [amount]
 - **Character development**: Emotional growth through loss, support, and community service
 - **Story progression**: Understanding of regional supernatural threat and social dynamics
-- **Equipment Acquired**: **Arcane Prism** (taken by Vaerenth)
-  - **Effect**: All allies within Close range get +1 bonus to spellcasting when activated
-  - **Usage**: One use per long rest
-  - **Tactical Value**: Significant boost for party's magical abilities
-  - **Reward Source**: Gift from grateful Townmaster Holya for bringing Davirith back
+- **Equipment Acquired**: 
+  - **Arcane Prism** (taken by Vaerenth)
+    - **Effect**: All allies within Close range get +1 bonus to spellcasting when activated
+    - **Usage**: One use per long rest
+    - **Tactical Value**: Significant boost for party's magical abilities
+  - **Premium Bedroll** (taken by Banjo)
+    - **Effect**: Recover 1 additional stress per long rest
+    - **Usage**: Personal recovery item, especially valuable for rogues
+    - **Tactical Value**: Improved stress management for high-stress class
+  - **Charm Potion** (stored by Vaerenth)
+    - **Effect**: Social magic consumable for enhanced persuasion/charisma
+    - **Usage**: Single-use consumable for social encounters
+    - **Tactical Value**: Backup for difficult social situations
+  - **Arcane Cloak** (given to Aster via Vaerenth)
+    - **Effect**: Adjust texture, color, and size at will - magical disguise
+    - **Usage**: Continuous magical disguise and concealment abilities
+    - **Tactical Value**: Perfect solution for magic stigma and social navigation
+- **Reward Sources**: Generous gifts from grateful Townmaster Holya and restored investigator Davirith
 
 ## 🔮 Looking Forward
 ### Immediate Situation
@@ -268,7 +296,8 @@ participants: [User, Andi]
 - **Party Unity**: Every character contributing to support Davirith in crisis
 - **Companion Reunion**: Vaerenth finding scared Hogpog after temple combat trauma
 - **Magic Secrecy Enforcement**: Augustus's subtle threat backed by Vaerenth's Presence success
-- **Social Tension**: Party divided between openness (Davirith) and enforced secrecy (Augustus/Vaerenth)
+- **Social Restoration**: Davirith publicly declaring he's not cursed, community leader grateful
+- **Valuable Reward**: Arcane Prism acquisition - significant magical item for party
 - **Worldbuilding Depth**: Magic stigma serious enough to warrant intimidation and threats
 - **Character Growth**: Multiple characters navigating complex social dynamics around magical abilities
 
