@@ -43,6 +43,10 @@ participants: [User, Andi]
 - **Davirith's Gratitude**: Additional rewards from grateful investigator
   - **Charm Potion** (Vaerenth stores in saddlebags) - social magic consumable
   - **Arcane Cloak** (intended for Aster, Vaerenth passes it along) - magical disguise item
+- **Community Division**: Crowd erupts - some celebrate, one townsperson freaks out about Davirith's return
+- **Social Combat**: Vaerenth uses Charm Potion and Hope for brilliant Presence response
+- **Hart's Failed Response**: Attempts sarcastic counter but fails roll, marks stress
+- **Escalating Tension**: Hostile townsperson continues anti-Davirith rhetoric despite party intervention
 
 ## 🎭 Character Moments
 ### Davirith (Scapegoated Investigator)
@@ -72,10 +76,15 @@ participants: [User, Andi]
 - **Magical Disguise**: Receives Arcane Cloak from Davirith via Vaerenth's thoughtful distribution
 - **Perfect Gift**: Cloak's disguise abilities directly address magic stigma problems
 
-### Hart (Supportive Ally)
+### Hart (Failed Social Support)
 - **Collaborative Support**: Helped Aster with the crucial Presence roll
 - **Team Player**: Contributing to group effort to convince Davirith
 - **Strategic Assistance**: Understanding when to support others' leadership moments
+- **Arcane Cloak Holder**: Receives magical item from Vaerenth for safekeeping during crisis
+- **Sarcastic Response**: Attempts to counter hostile townsperson with dark humor
+- **Failed Roll**: "Well let's all just die today" - unsuccessful Presence attempt
+- **Stress Consequence**: Marks stress from failed social encounter
+- **Social Combat Risk**: Demonstrating how failed social rolls have mechanical consequences
 
 ### Banjo (Rewarded Rogue)
 - **Emotional Support**: Added his voice to encourage Davirith's return
@@ -97,7 +106,11 @@ participants: [User, Andi]
 - **Party Caster Support**: Now carries item that benefits all party spellcasters
 - **Charm Potion Storage**: Stows Davirith's social magic consumable in saddlebags
 - **Thoughtful Distribution**: Takes Arcane Cloak but immediately gives it to intended recipient Aster
-- **Social Awareness**: Understanding gift intentions and proper party dynamics
+- **Crisis Response**: Immediately passes Arcane Cloak to Hart for safekeeping during social combat
+- **Consumable Usage**: Drinks Charm Potion for social enhancement
+- **Hope Investment**: Burns Hope token for enhanced Presence reaction
+- **Brilliant Counter**: "Strange, lies spread quickest through wagging tongues. If loudness was proof then you'd have me convinced already"
+- **Social Victory**: Successfully counters hostile townsperson with wit and magical enhancement
 
 ### Holya (Generous Leader)
 - **Ecstatic Reunion**: Overjoyed to have Davirith safely returned to Mire's End
@@ -163,7 +176,12 @@ participants: [User, Andi]
 - **Fascination vs. Fear**: Davirith impressed by magic, but forced to stay silent about it
 - **Cultural Sensitivity**: Even helpful magic must be hidden from general population
 
-### Community Dynamics & Scapegoating
+### Community Divisions & Scapegoating Psychology
+- **Mixed Reactions**: Some townspeople celebrate Davirith's return, others remain hostile
+- **Persistent Blame**: Anti-Davirith sentiment despite public vindication by leadership
+- **Scapegoat Resistance**: Community members clinging to blame narrative even when disproven
+- **Social Pressure**: Hostile townsperson claiming "if he wasn't here we could all thrive"
+- **Fear-Driven Behavior**: Community division showing psychological impact of prolonged crisis
 - **Timeline Established**: Pyre problems began months ago, blame started simultaneously
 - **Scapegoat Psychology**: Community created curse narrative around Davirith without proof
 - **Social Blame Mechanics**: Fear drives communities to find someone to blame during crises
@@ -186,7 +204,18 @@ participants: [User, Andi]
 - [ ] Connection between community fear responses and actual supernatural investigation
 
 ## ⚔️ Mechanics & Rules
-### Companion Mechanics
+### Social Combat Mechanics
+**Vaerenth's Social Response (SUCCESS)**:
+- **Resource Investment**: Used Charm Potion consumable for enhanced social ability
+- **Hope Expenditure**: Burned Hope token for improved Presence reaction roll
+- **Brilliant Delivery**: "Strange, lies spread quickest through wagging tongues. If loudness was proof then you'd have me convinced already"
+- **Result**: Successful counter to hostile townsperson with enhanced magical persuasion
+
+**Hart's Social Response (FAILURE)**:
+- **Attempted Counter**: "Well let's all just die today" - sarcastic dark humor approach
+- **Failed Roll**: Unsuccessful Presence attempt against hostile crowd member
+- **Stress Consequence**: Marks stress from failed social encounter
+- **Escalation Risk**: Failed response potentially making situation worse
 **Hogpog's Recovery**:
 - **Post-Combat Return**: Companion available again after forced retreat
 - **Emotional State**: Meek and scared from temple zombie combat trauma
