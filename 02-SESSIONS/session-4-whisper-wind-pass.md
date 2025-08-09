@@ -168,6 +168,10 @@ participants: [User, Andi]
 - **Hart Severely Wounded**: Caught in devastating ogre area attack but still standing
 - **Banjo Survives**: Rogue evasion allows escape from ogre's area damage
 - **Tactical Simplification**: Three-way battle reduced to party vs. ogre only
+- **Dual Combat Split**: Banjo pursues lieutenant while Hart faces ogre with support from Aster/Vaerenth
+- **Banjo's Critical Success**: Shadowstep pursuit and critical backstab severely wounds fleeing leader
+- **Lieutenant's Desperation**: Wounded bandit leader fighting for survival while trying to escape
+- **Combat Exchange**: Both Banjo and lieutenant miss follow-up attacks in pursuit battle
 
 ## 🏛️ Lore Revealed
 
