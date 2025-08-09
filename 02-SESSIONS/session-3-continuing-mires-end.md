@@ -66,6 +66,10 @@ participants:
 - **Departure Consideration**: Davirith notes it may be necessary to leave town
 - **Hope Philosophy**: "There is always a chance of redemption, a chance of seeing the light"
 - **Generous Accommodation**: Holya provides free room and board, apologizes for stress caused
+- **Augustus's Protective Suggestion**: Recommends sending Davirith to pyre city of Valeria if town turns against him again
+- **Future Planning**: Augustus notes Valeria could use someone with Davirith's experience and initiative
+- **Transition to Celebration**: Party moves to The Soggy Boot tavern for drinks
+- **Atmospheric Shift**: Depressed state remains but slight feeling of hope begins to break through
 
 ## 🎭 Character Moments
 ### Davirith (Scapegoated Investigator)
@@ -119,6 +123,10 @@ participants:
 - **Intimidating Support**: Works with Augustus to provide threatening backing for Davirith
 - **Physical Presence**: Using intimidating stance to discourage crowd hostility
 - **Coordinated Defense**: Part of multi-character protective formation around Davirith
+- **Protective Wisdom**: Suggests sending Davirith to pyre city of Valeria if community turns hostile again
+- **World Knowledge**: Understanding of broader Age of Umbra geography and opportunities
+- **Practical Planning**: Recognizing Valeria could use someone with Davirith's experience and initiative
+- **Long-term Thinking**: Providing backup plan for Davirith's safety and future usefulness
 
 ### Banjo (Tactical Rogue)
 - **Emotional Support**: Added his voice to encourage Davirith's return
@@ -236,12 +244,18 @@ participants:
 - **Practical Accommodation**: Free room and board provided as gesture of responsibility
 - **Personal Responsibility**: Holya apologizes for stress caused by community actions
 
-### Philosophy of Redemption
-- **Davirith's Wisdom**: "There is always a chance of redemption, a chance of seeing the light"
-- **Hope Despite Trauma**: Choosing philosophical optimism over bitterness
-- **Spiritual Growth**: Showing maturity and resilience in face of attempted murder
-- **Community Healing**: Leaving door open for future reconciliation
-- **Practical Departure**: Acknowledging it may be necessary to leave for safety while maintaining hope
+### Practical Future Planning
+- **Augustus's Backup Plan**: Suggests Valeria (pyre city) as refuge if Mire's End turns hostile again
+- **Professional Recognition**: Notes Valeria could use someone with Davirith's experience and initiative
+- **Protective Foresight**: Creating safety net for Davirith's future wellbeing
+- **World Knowledge**: Augustus demonstrating understanding of broader Age of Umbra opportunities
+- **Career Advancement**: Valeria potentially offering better prospects than small settlement
+
+### Atmospheric Transition
+- **Location Shift**: Party moves to The Soggy Boot tavern for celebration drinks
+- **Emotional Complexity**: Depressed state persists but hope begins breaking through
+- **Celebration with Melancholy**: Joy tempered by recent trauma and community divisions
+- **Healing Process**: Beginning of emotional recovery through companionship and shared experience
 - **Mixed Reactions**: Some townspeople celebrate Davirith's return, others remain hostile
 - **Persistent Blame**: Anti-Davirith sentiment despite public vindication by leadership
 - **Scapegoat Resistance**: Community members clinging to blame narrative even when disproven
@@ -402,6 +416,8 @@ participants:
 - **Coordinated Party Response**: Multi-character tactical social intervention under extreme pressure
 - **Grace Under Trauma**: Davirith's forgiveness and philosophy of redemption despite attempted murder
 - **Mature Conflict Resolution**: Complex community issues resolved through wisdom rather than retribution
+- **Protective Planning**: Augustus providing practical backup plan for Davirith's future safety
+- **Atmospheric Transition**: From trauma to cautious celebration - hope breaking through depression
 - **Character Growth**: Multiple characters navigating complex social dynamics and moral challenges
 
 ### Story Elements
