@@ -36,6 +36,12 @@ participants: [User, Andi]
 - **Three-Way Battle**: Combat becomes chaotic free-for-all between party, bandits, and territorial ogre
 - **Ogre Melee Advance**: Cave ogre closes distance and engages Hart and Banjo in close combat
 - **Critical Danger**: Two party members now facing massive territorial giant in direct melee combat
+- **Ogre Area Clobber**: Cave ogre unleashes devastating area attack hitting everyone in melee range
+- **Hart Takes Massive Damage**: Hart caught in ogre's area attack and severely injured
+- **Banjo Escapes Harm**: Rogue manages to avoid the ogre's devastating area attack
+- **Ribbet Casualties**: Remaining Ribbet bandits caught in ogre attack and eliminated/scattered
+- **Bandit Route**: Surviving Ribbet bandits flee in terror from overwhelming ogre threat
+- **Lieutenant Retreat**: Ribbet leader abandons position and runs from unstoppable ogre
 
 ## 🎭 Character Moments
 
