@@ -75,6 +75,22 @@ participants:
 - **Return Through Slithermarsh**: Party travels back through treacherous marshland
 - **Massive Mountain Ridge**: Arrive at shoreline to see imposing mountain barrier ahead
 - **Whisper Wind Pass**: Party recognizes they must traverse this specific mountain passage to continue
+- **Ribbet Guard Encounter**: Multiple hooded Ribbets guard the mountain pass demanding toll
+- **True Nature Revealed**: Lead Ribbet mutters about "not having to kill people anymore" - mercenary robbers
+- **Combat Initiated**: Party recognizes threat and battle begins at mountain pass
+- **Hart's Aggressive Rush**: Hart charges into combat and becomes surrounded by Ribbet bandits
+- **Banjo's Tactical Rescue**: Uses shadowstep ability to teleport close and support surrounded Hart
+- **Aster's Hope Magic**: Casts magic to grant Hope token to ally (Vaerenth)
+- **Rain of Blades Devastation**: Vaerenth immediately spends Hope for Rain of Blades, eliminating 4 minion bandits
+- **Cave Ogre Emerges**: Massive cave ogre appears and begins attacking indiscriminately
+- **Ogre Area Clobber**: Cave ogre unleashes devastating area attack hitting everyone in melee range
+- **Hart Takes Massive Damage**: Hart caught in ogre's area attack and severely injured
+- **Bandit Route**: Surviving Ribbet bandits flee in terror from overwhelming ogre threat
+- **Banjo's Pursuit**: Shadowsteps after fleeing lieutenant, critical backstab severely wounds leader
+- **Caster Reveal**: Three different enemy casters emerge and curse party members
+- **Curse Afflictions**: Aster, Hart, and Banjo all cursed by hostile spellcasters
+- **Hart's Whirlwind**: Despite curse and wounds, Hart unleashes whirlwind attack and kills huge Ribbet
+- **Priority Target Shift**: Party focuses on eliminating dangerous casters to remove curses
 
 ## 🎭 Character Moments
 ### Davirith (Scapegoated Investigator)
@@ -209,12 +225,13 @@ participants:
 
 #### New Mysteries or Questions
 - **What caused the large flash from the temple?** Connection to Session 2's sacred branch ritual?
-- **How will community react to murder attempt revelation?** Will Holya take action?
-- **What exactly did "we cut the rope, we let him go" mean?** Method and location of assassination attempt?
-- **Are there other violent actions against Davirith the leadership doesn't know about?**
-- **How can the community heal from attempted murder of their investigator?**
-- **Will the party's intervention change community dynamics or escalate tensions?**
-- **Does the crowd's violence connect to the supernatural corruption affecting the settlement?**
+- **Who are the three enemy casters and why are they cursing the party?** Connection to bandit operation?
+- **Are the casters working with the Ribbet bandits or independent threat?** Magical backup for criminals?
+- **What are the curse effects on Aster, Hart, and Banjo?** Combat penalties, ongoing damage, or other debuffs?
+- **Is the cave ogre connected to the casters or just territorial?** Natural guardian vs. magical ally?
+- **How can the party remove the curses?** Killing casters, magical dispelling, or other methods?
+- **Are there more magical threats in Whisper Wind Pass?** Supernatural danger beyond bandits and ogre?
+- **Does this magical activity connect to regional corruption affecting Mire's End and other areas?**
 
 #### Resolved Plot Points
 - **Davirith's "curse" status**: Publicly declared not cursed, community blame narrative challenged
@@ -425,12 +442,16 @@ participants:
 - **Social Restoration**: Davirith publicly declaring he's not cursed, community leader grateful
 - **Valuable Rewards**: Multiple magical items acquired from grateful leaders
 - **Murder Attempt Revelation**: Shocking assassination conspiracy exposed through social combat
-- **Coordinated Party Response**: Multi-character tactical social intervention under extreme pressure
-- **Grace Under Trauma**: Davirith's forgiveness and philosophy of redemption despite attempted murder
-- **Mature Conflict Resolution**: Complex community issues resolved through wisdom rather than retribution
-- **Protective Planning**: Augustus providing practical backup plan for Davirith's future safety
-- **Atmospheric Transition**: From trauma to cautious celebration - hope breaking through depression
-- **Character Growth**: Multiple characters navigating complex social dynamics and moral challenges
+- **Graceful Forgiveness**: Davirith's wisdom and philosophy of redemption despite trauma
+- **Enhanced Equipment**: Arcane Prism, Premium Bedrolls, Arcane Cloak, Charm Potion acquired
+- **Long Rest Recovery**: Full restoration before continuing to Shalk Chasm mission
+- **Whisper Wind Pass**: Mountain chokepoint guarded by deceptive Ribbet bandits
+- **Rain of Blades Devastation**: Vaerenth's Hope-enhanced attack eliminating 4 minions
+- **Cave Ogre Chaos**: Territorial giant transforming combat into three-way battle
+- **Hart's Heroic Tanking**: Taking massive damage while eliminating threats with whirlwind
+- **Magical Escalation**: Three enemy casters cursing party members and creating priority targets
+- **Complex Multi-Combat**: Fighting ogre, bandits, lieutenant, casters simultaneously
+- **Character Growth**: Multiple characters navigating complex social dynamics and deadly magical combat
 
 ### Story Elements
 - **Symbolic Loss**: Branch represented connection to nature/life
