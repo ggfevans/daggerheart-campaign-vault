@@ -55,21 +55,23 @@ participants: [User, Andi]
 - **Minion Elimination**: Takes out 4 Ribbet bandit minions in single devastating attack
 - **Combat Efficiency**: Maximizing magical enhancement for battlefield control
 
-### Hart (Surrounded Vanguard)
+### Hart (Severely Injured Tank)
 - **Bold Rush**: Charges aggressively into combat against multiple enemies
 - **Surrounded Position**: Becomes encircled by Ribbet bandits in dangerous tactical position
 - **Combat Initiative**: Taking point position despite numerical disadvantage
-- **Risk-Taking**: Prioritizing aggressive action over cautious positioning
 - **Ogre Threat**: Now facing massive cave ogre in direct melee combat alongside bandit threats
-- **Critical Danger**: Multiple severe threats requiring immediate rescue or support
+- **Massive Damage Taken**: Caught in ogre's devastating area clobber attack
+- **Critical Condition**: Severely injured but still standing after ogre's area assault
+- **Tactical Success**: Aggressive positioning inadvertently caused ogre to eliminate bandits
+- **Survival Mode**: Now facing ogre one-on-one while badly wounded
 
-### Banjo (Rescue Turned Target)
+### Banjo (Lucky Survivor)
 - **Shadowstep Rescue**: Uses rogue teleportation ability to reach surrounded Hart
 - **Tactical Support**: Recognizing ally in danger and responding immediately
-- **Positioning Expertise**: Using supernatural movement to gain combat advantage
-- **Team Coordination**: Supporting aggressive ally with tactical movement
 - **Ogre Engagement**: Now in melee range with territorial giant after rescue attempt
-- **Tactical Crisis**: Rescue mission becoming life-threatening situation for both allies
+- **Evasion Success**: Manages to avoid ogre's devastating area clobber attack
+- **Tactical Advantage**: Rogue agility and positioning allowing escape from area damage
+- **Support Position**: Now able to assist severely wounded Hart against ogre threat
 
 ### Aster (Hope-Granting Supporter)
 - **Magical Support**: Casts spell to grant Hope token to ally
@@ -151,9 +153,12 @@ participants: [User, Andi]
 - **Bridge Control**: Central wooden bridge key to pass access
 - **Multiple Levels**: Rocky terrain creating elevation advantages/disadvantages
 - **Camp Loot**: Bandit camp likely containing stolen goods and supplies
-- **Two Allies in Extreme Danger**: Hart and Banjo now facing massive ogre and remaining bandits
-- **Reduced Bandit Threat**: 5 fewer enemies (4 to Rain of Blades, 1 to ogre) improving tactical position vs. bandits
 - **Ogre Escalation**: Massive new threat in melee range overshadowing bandit combat entirely
+- **Bandit Force Eliminated**: Ogre's area clobber attack destroys remaining Ribbet bandits
+- **Complete Bandit Route**: Surviving bandits and leader flee in terror from ogre
+- **Hart Severely Wounded**: Caught in devastating ogre area attack but still standing
+- **Banjo Survives**: Rogue evasion allows escape from ogre's area damage
+- **Tactical Simplification**: Three-way battle reduced to party vs. ogre only
 
 ## 🏛️ Lore Revealed
 
