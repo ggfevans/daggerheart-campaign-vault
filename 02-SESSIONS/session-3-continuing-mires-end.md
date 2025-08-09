@@ -91,6 +91,11 @@ participants:
 - **Curse Afflictions**: Aster, Hart, and Banjo all cursed by hostile spellcasters
 - **Hart's Whirlwind**: Despite curse and wounds, Hart unleashes whirlwind attack and kills huge Ribbet
 - **Priority Target Shift**: Party focuses on eliminating dangerous casters to remove curses
+- **Systematic Caster Elimination**: Party kills all three enemy casters one by one, removing curse effects
+- **Banjo's Lieutenant Finish**: Completes pursuit and kills fleeing Ribbet leader with signature style
+- **"I Made Him Croak!"**: Banjo's triumphant announcement of criminal leader's demise
+- **Final Boss Standing**: Cave ogre remains as last enemy, storming around the battlefield
+- **Ogre Showdown**: Party now faces territorial giant in final confrontation for pass control
 
 ## 🎭 Character Moments
 ### Davirith (Scapegoated Investigator)
