@@ -70,6 +70,11 @@ participants:
 - **Future Planning**: Augustus notes Valeria could use someone with Davirith's experience and initiative
 - **Transition to Celebration**: Party moves to The Soggy Boot tavern for drinks
 - **Atmospheric Shift**: Depressed state remains but slight feeling of hope begins to break through
+- **Long Rest Recovery**: Party takes full rest in Mire's End with free accommodation
+- **Journey Resumes**: Group gets back on the road, leaving Mire's End behind
+- **Return Through Slithermarsh**: Party travels back through treacherous marshland
+- **Massive Mountain Ridge**: Arrive at shoreline to see imposing mountain barrier ahead
+- **Whisper Wind Pass**: Party recognizes they must traverse this specific mountain passage to continue
 
 ## 🎭 Character Moments
 ### Davirith (Scapegoated Investigator)
@@ -347,6 +352,7 @@ participants:
 - **XP gained**: [amount]
 - **Character development**: Emotional growth through loss, support, and community service
 - **Story progression**: Understanding of regional supernatural threat and social dynamics
+- **Long Rest Completed**: Full recovery of abilities, stress, and magical resources
 - **Equipment Acquired**: 
   - **Arcane Prism** (taken by Vaerenth)
     - **Effect**: All allies within Close range get +1 bonus to spellcasting when activated
@@ -365,38 +371,44 @@ participants:
     - **Usage**: Continuous magical disguise and concealment abilities
     - **Tactical Value**: Perfect solution for magic stigma and social navigation
 - **Reward Sources**: Generous gifts from grateful Townmaster Holya and restored investigator Davirith
+- **Enhanced Capabilities**: Party significantly more capable than session start with magical equipment and social connections
 
 ## 🔮 Looking Forward
-### Immediate Situation
-**Davirith's Decision**: Successfully convinced to return to Mire's End
-**Party Unity**: Strong group cohesion demonstrated through crisis support
-**Augustus's Recovery**: Mending Touch successful, but magical stigma revealed
-**Mission Refocus**: Party commitment to helping Mire's End before continuing to Shalk Chasm
+### Journey Continuation
+**Mission Refocus**: After resolving Mire's End crisis, party returns to original Shalk Chasm expedition
+**Long Rest Benefits**: Full recovery of abilities, stress, and magical resources from generous Mire's End accommodation
+**Travel Progress**: Successfully navigated back through Slithermarsh marshlands
+**Geographic Challenge**: Confronted with massive mountain ridge blocking path to Shalk Chasm
+**Known Route**: Party recognizes Whisper Wind Pass as necessary passage through mountains
 
 ### Next Session Setup
-- Return to Mire's End with Davirith to address pyre crisis
-- Navigate social dynamics with magic-wary community
-- Apply sacred branch (if recoverable) or find alternative solution
-- Balance magical assistance with cultural sensitivity
+- **Mountain passage navigation** through dangerous Whisper Wind Pass
+- **Environmental challenges** of high-altitude mountain travel
+- **Potential encounters** in treacherous mountain terrain
+- **Resource management** during extended wilderness travel
+- **Party dynamics** after strengthened bonds from Mire's End crisis resolution
 
 ### Character Goals
 #### Short-term Objectives
-- Help Davirith restore Mire's End's protective pyre
-- Navigate magical prejudice carefully in the settlement
-- Support community leadership during supernatural crisis
-- Maintain party bonds strengthened through crisis
+- Successfully traverse Whisper Wind Pass without casualties
+- Manage resources during mountain passage travel
+- Navigate environmental hazards and potential mountain threats
+- Maintain party unity and morale during challenging terrain
 
 #### Long-term Aspirations
-- Complete Shalk Chasm expedition after resolving local crisis
-- Understand and counter regional supernatural corruption
-- Develop strategies for using magic discretely in prejudiced communities
-- Build reputation as helpful rather than threatening magical users
+- Complete original Shalk Chasm expedition to investigate Craven Vakvom
+- Apply lessons learned from Mire's End crisis to future community interactions
+- Continue building party reputation as reliable "wonderful enduring" helpers
+- Develop enhanced magical abilities through acquired equipment usage
 
-### Social Dynamics
-**Magic Use Caution**: Augustus's warning about displays of divine power
-**Community Relations**: Returning Davirith will improve standing with Mire's End
-**Cultural Navigation**: Learning to balance magical abilities with social acceptance
-**Party Leadership**: Aster's critical persuasion success establishes social leadership role
+### Enhanced Party Capabilities
+**Magical Equipment Benefits**:
+- **Arcane Prism** (Vaerenth) - spellcasting bonus for challenging encounters
+- **Premium Bedrolls x2** (Vaerenth, Banjo) - enhanced stress recovery during travel
+- **Charm Potion** (Vaerenth) - social encounters backup
+- **Arcane Cloak** (Aster) - magical disguise for community navigation
+
+**Character Development**: Stronger party bonds, enhanced social skills, improved resource management
 
 ### Lore Integration Opportunities
 - [ ] Explore connection between natural corruption and undead forces

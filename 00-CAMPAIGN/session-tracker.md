@@ -15,8 +15,8 @@ heading: Session Tracker
 | 0 | 2025-07-18 | **COMPLETED** | ✅ | Character creation, world intro | 1 |
 | 1 | Fri, Jul 25 | 4:00 PM | ✅ **COMPLETED** | Hope's Call pub, social combat victory, Shalk Chasm mission | 1 |
 | 2 | Fri, Aug 01 | 4:00 PM | ✅ **COMPLETED** | Mire's End crisis, sacred branch retrieved | 1 |
-| 3 | Fri, Aug 08 | 4:00 PM | 🎲 **IN PROGRESS** | Branch turns to ash, Aster heals Augustus | 1 |
-| 4 | Fri, Aug 15 | 4:00 PM | 📅 | TBD | TBD |
+| 3 | Fri, Aug 08 | 4:00 PM | ✅ **COMPLETED** | Branch turns to ash, Mire's End crisis resolved, magical gifts received | 1 |
+| 4 | Fri, Aug 15 | 4:00 PM | 📅 | Whisper Wind Pass - mountain passage to Shalk Chasm | TBD |
 | 5 | Fri, Aug 22 | 4:00 PM | 📅 | TBD | TBD |
 | 6 | Fri, Aug 29 | 4:00 PM | 📅 | TBD | TBD |
 | 7 | Fri, Sep 05 | 4:00 PM | 📅 | TBD | TBD |
