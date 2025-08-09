@@ -493,3 +493,33 @@ participants:
 *Next Session: 2025-08-15 (Session 4)*
 *Campaign: Daggerheart - Last Light Chronicles*
 *Location: Mire's End settlement - supernatural corruption crisis*
+
+## 🎭 Final Combat Phase
+
+### Banjo (Justice Delivered)
+- **Systematic Caster Elimination**: Helped party eliminate all three curse-casting enemies
+- **Lieutenant Pursuit Success**: Completed assassination of fleeing Ribbet criminal leader
+- **Signature Victory Cry**: "Hey guys, I made him croak!" - triumphant style and humor
+- **Justice Mission Complete**: Ensured criminal leader couldn't escape to rebuild bandit operation
+- **Curse Liberation**: Freed from magical affliction when casters eliminated
+- **Ready for Boss Fight**: Now available to assist in final ogre confrontation
+
+### Hart (Cursed Hero)
+- **Systematic Threat Elimination**: Helped eliminate all three dangerous spellcasters
+- **Whirlwind Success**: Killed huge Ribbet despite severe wounds and curse effects
+- **Curse Liberation**: Magical affliction removed when party killed hostile casters
+- **Tank Persistence**: Continued fighting through physical wounds and magical debuffs
+- **Boss Fight Ready**: Wounded but freed from curse, ready for final ogre confrontation
+
+### Cave Ogre (Final Boss)
+- **Sole Survivor**: Only remaining enemy after systematic elimination of all other threats
+- **Territorial Rage**: Storming around battlefield as final defender of mountain pass
+- **Boss Encounter**: Pure territorial giant vs. enhanced party with full coordination
+- **Pass Guardian**: Must be defeated for party to continue through Whisper Wind Pass to Shalk Chasm
+
+### Party Victory Progression
+- **Phase 1**: Rain of Blades eliminated 4 bandit minions
+- **Phase 2**: Ogre area attack scattered remaining bandits
+- **Phase 3**: Systematic elimination of three dangerous casters
+- **Phase 4**: Banjo finished fleeing lieutenant with style
+- **Phase 5**: Final boss confrontation with territorial cave ogre
