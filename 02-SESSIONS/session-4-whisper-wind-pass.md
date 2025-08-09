@@ -69,8 +69,15 @@ participants: [User, Andi]
 ### Combat Encounter Mechanics
 - **Initiative Order**: [To be determined]
 - **Enemy Composition**: Ribbet Leader + Multiple Ribbet Bandits
-- **Terrain**: Mountain pass - potentially elevated positions, narrow passages
+- **Terrain**: Mountain pass - elevated positions, narrow bridge crossing, rocky terrain
 - **Combat Trigger**: Leader's careless revelation of murderous intent
+
+### Battlefield Analysis
+- **Central Bridge**: Wooden bridge creating chokepoint across mountain pass
+- **Elevated Rocky Terrain**: Multiple levels providing high ground advantages
+- **Bandit Camp**: Visible camp structures with tents and supplies
+- **Scattered Positioning**: Ribbets positioned across multiple elevations and bridge access
+- **Cover Opportunities**: Rocky outcroppings and camp structures providing protection
 
 ### Enhanced Party Resources Available
 - **Arcane Prism** (Vaerenth): +1 spellcasting bonus for allies in Close range
@@ -78,6 +85,12 @@ participants: [User, Andi]
 - **Arcane Cloak** (Aster): Disguise and concealment capabilities
 - **Charm Potion** (Vaerenth): Social magic backup (may not be relevant in combat)
 - **Full Abilities**: Long rest completed - all spells and abilities available
+
+### Tactical Considerations
+- **Bridge Control**: Central wooden bridge key to pass access
+- **Multiple Levels**: Rocky terrain creating elevation advantages/disadvantages
+- **Camp Loot**: Bandit camp likely containing stolen goods and supplies
+- **Escape Routes**: Mountain terrain offering various movement paths
 
 ## 🏛️ Lore Revealed
 
