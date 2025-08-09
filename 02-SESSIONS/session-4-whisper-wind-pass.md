@@ -42,6 +42,12 @@ participants: [User, Andi]
 - **Ribbet Casualties**: Remaining Ribbet bandits caught in ogre attack and eliminated/scattered
 - **Bandit Route**: Surviving Ribbet bandits flee in terror from overwhelming ogre threat
 - **Lieutenant Retreat**: Ribbet leader abandons position and runs from unstoppable ogre
+- **Banjo's Pursuit**: Shadowsteps after fleeing lieutenant instead of staying for ogre fight
+- **Critical Backstab**: Jumps on lieutenant's back with knife, scores critical hit
+- **Severe Damage**: Knife sinks deep but doesn't kill the fleeing bandit leader
+- **Lieutenant's Missed Retaliation**: Ribbet leader's counterattack fails to hit Banjo
+- **Banjo's Follow-up Miss**: Second attack attempt fails to connect with wounded lieutenant
+- **Dual Combat**: Party now split between Hart vs. ogre and Banjo vs. lieutenant pursuit
 
 ## 🎭 Character Moments
 
@@ -65,13 +71,16 @@ participants: [User, Andi]
 - **Tactical Success**: Aggressive positioning inadvertently caused ogre to eliminate bandits
 - **Survival Mode**: Now facing ogre one-on-one while badly wounded
 
-### Banjo (Lucky Survivor)
+### Banjo (Relentless Pursuer)
 - **Shadowstep Rescue**: Uses rogue teleportation ability to reach surrounded Hart
-- **Tactical Support**: Recognizing ally in danger and responding immediately
-- **Ogre Engagement**: Now in melee range with territorial giant after rescue attempt
 - **Evasion Success**: Manages to avoid ogre's devastating area clobber attack
 - **Tactical Advantage**: Rogue agility and positioning allowing escape from area damage
 - **Support Position**: Now able to assist severely wounded Hart against ogre threat
+- **Strategic Pursuit**: Shadowsteps after fleeing lieutenant instead of staying for ogre
+- **Critical Backstab**: Jumps on lieutenant's back with knife out, scores critical hit
+- **Assassination Attempt**: Knife sinks deep into fleeing bandit leader causing severe damage
+- **Combat Persistence**: Continues engagement despite missed follow-up attack
+- **Justice Seeker**: Ensuring criminal leader doesn't escape to continue banditry elsewhere
 
 ### Aster (Hope-Granting Supporter)
 - **Magical Support**: Casts spell to grant Hope token to ally
