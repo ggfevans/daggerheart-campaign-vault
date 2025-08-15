@@ -119,3 +119,31 @@ Given the precarious nature of the spire and its chain restraint system:
 
 ---
 *Updated: Session 4 - Primary lead confirmed for Craven Vakvom investigation*
+
+## 💰 Session 4 Update - Economic Control & Political Division
+
+### Chasmtenders' Economic Monopoly
+- **Total Economic Control**: Life in Anchorpoint "entirely based on trade from stuff pulled from below"
+- **Resource Access**: Chasmtenders control extraction of artifacts from Shalk Chasm
+- **Community Dependence**: All local commerce flows through chasmtender-controlled resources
+- **Valuable Artifacts**: Chasm contains significant wealth including **portal to another world**
+
+### Political Division in Anchorpoint
+**Supporters of Chasmtenders**:
+- Believe they're doing necessary work "keeping the Void Spire clean"
+- Think funds are being "used appropriately" for community safety
+- View their work as legitimate maintenance and protection
+
+**Critics of Chasmtenders**:
+- See them as **"extortionists"** exploiting community dependence
+- Question the legitimacy of their economic control
+- View their monopoly as harmful to community welfare
+
+### Strategic Implications for Craven Investigation
+- **Complex Politics**: Approaching chasmtenders involves navigating local political tensions
+- **Economic Power**: Their control suggests significant resources and influence
+- **Community Stakes**: Investigation impacts entire Anchorpoint economic system
+- **Legitimacy Questions**: Uncertain whether chasmtenders are allies or exploiters
+
+---
+*Session 4 - Political complexity revealed around chasmtenders and economic control*
