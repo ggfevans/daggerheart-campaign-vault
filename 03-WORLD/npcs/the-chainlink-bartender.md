@@ -82,3 +82,25 @@ session-met: 4
 ---
 *Session 4*  
 *A helpful local contact who provided the party's first direct lead on their investigation target*
+
+## 📋 Session 4 Update - Craven Vakvom Lead
+### Major Information Discovery
+- **Banjo's Investigation**: Direct question about Craven Vakvom 
+- **Social Success**: Presence roll with Hope magic yielded crucial intelligence
+- **Key Information**: Bartender mentioned Craven has contact with **"chasmtenders at the void spire"**
+- **Investigation Lead**: First direct connection to investigation target's whereabouts
+
+### Bartender's Knowledge
+- **Recognition**: Immediately knew who Craven was when asked
+- **Professional Awareness**: Well-informed about significant visitors to Anchorpoint  
+- **Community Intelligence**: Access to local information networks through tavern position
+- **Helpful Response**: Provided clear direction without suspicion or reluctance
+
+### Investigation Implications
+- **Direct Lead**: Points party toward Void Spire and chasmtenders organization
+- **Local Connection**: Craven has established relationships in the area
+- **Professional Contact**: Chasmtenders are known, legitimate group
+- **Next Step Clear**: Party now has specific destination and contact group
+
+---
+*Updated: Session 4 - First successful lead in Craven Vakvom investigation*

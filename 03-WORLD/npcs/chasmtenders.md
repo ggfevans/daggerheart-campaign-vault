@@ -96,3 +96,26 @@ Given the precarious nature of the spire and its chain restraint system:
 ---
 *Session 4 Discovery*  
 *A specialized organization that may hold the key to finding Craven Vakvom and understanding the Void Spire's mysteries*
+
+## 🎯 Session 4 Update - Craven Vakvom Connection Confirmed
+### Investigation Breakthrough
+- **The Chainlink Bartender**: Confirmed Craven Vakvom has contact with chasmtenders
+- **Professional Recognition**: Organization known to local community as legitimate specialists
+- **Direct Lead**: Party now has specific group to contact regarding Craven investigation
+- **Active Relationship**: Bartender's mention suggests ongoing or recent contact between Craven and chasmtenders
+
+### Investigation Questions for Chasmtender Contact
+- **Nature of Relationship**: What business does Craven have with Void Spire specialists?
+- **Recent Activity**: How recently has Craven been in contact with the organization?
+- **Purpose of Contact**: What service, information, or expertise did Craven seek?
+- **Ongoing Arrangements**: Are there continuing agreements or completed transactions?
+- **Craven's Interests**: What does his connection to Void Spire work reveal about his activities?
+
+### Approach Strategy Considerations
+- **Professional Contact**: Chasmtenders appear to be legitimate, recognized specialists
+- **Community Acceptance**: Local bartender mentioned them casually, suggesting public knowledge
+- **Dangerous Location**: Work site at precarious Void Spire requires careful approach
+- **Information Value**: Direct connection to investigation target through professional relationship
+
+---
+*Updated: Session 4 - Primary lead confirmed for Craven Vakvom investigation*
