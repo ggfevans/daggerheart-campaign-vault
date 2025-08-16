@@ -151,3 +151,32 @@ session-met: 4
 
 ---
 *Augustus's bribery attempt reveals administrator's professional integrity within corrupt system*
+
+## 📋 Session 4 Customs Intelligence - MAJOR REVELATION
+
+### Comprehensive Traffic Control System
+- **ALL CHASM TRAFFIC CONTROLLED**: Forms reveal chasmtenders manage **every entry and exit**
+- **Organized Customs Operation**: Not just maintenance - **systematic import/export control**
+- **Revenue Maximization**: **Exit charges unreasonable and inconsistent** - designed for maximum extraction
+- **Monopolistic Stranglehold**: Complete control over all goods movement to/from chasm
+
+### Bureaucratic Intelligence Gathering
+- **Banjo's Four-Limb Efficiency**: Used all limbs with writing utensils to complete massive paperwork quickly
+- **Forms Analysis**: Paperwork reveals **true scope** of chasmtender operations
+- **Traffic Documentation**: Every expedition documented, tracked, and charged
+- **Revenue Streams**: Multiple fee structures for different types of transport
+
+### Economic Exploitation Evidence
+- **Inconsistent Pricing**: Charges vary arbitrarily to maximize what each group can pay
+- **Exit Tax Abuse**: **Leaving** the chasm costs as much or more than entering
+- **Goods Taxation**: Transporting items out subject to excessive fees
+- **Revenue Extraction**: System designed to extract maximum wealth from all chasm access
+
+### Investigation Implications
+- **Criminal Enterprise**: This goes far beyond "maintenance" - it's **organized economic exploitation**
+- **Evidence for Torque**: **Written documentation** of exactly the corruption he needs to prove
+- **Community Impact**: Every artifact in Anchorpoint bazaar passed through this exploitative system
+- **Monopoly Mechanics**: Understanding how chasmtenders maintain economic stranglehold
+
+---
+*Session 4 - Paperwork reveals the full scope of chasmtender economic exploitation and control*
