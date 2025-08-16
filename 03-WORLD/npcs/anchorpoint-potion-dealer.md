@@ -81,3 +81,25 @@ session-met: 4
 ---
 *Session 4 Contact*  
 *Specialized merchant providing essential magical consumables for dangerous expedition preparation*
+
+## 🧪 Session 4 Transactions
+
+### Party Purchases
+- **Vaerenth**: Bought **1 stamina potion for Augustus** - strategic team support for injured member
+- **Augustus**: Bought **1 health potion** for himself - personal preparation for dangerous mission
+- **Aster**: Bought **1 health potion for Banjo** - generous team support and care
+
+### Business Observations
+- **Team-Focused Shopping**: Party members buying potions for each other, not just themselves
+- **Strategic Preparation**: Combination of healing and stamina restoration for expedition
+- **Generous Investment**: Multiple party members spending on teammates' safety
+- **Mission Readiness**: Clear preparation for dangerous Void Spire/chasm descent
+
+### Customer Analysis
+- **Well-Funded Group**: Able to afford multiple potion purchases in expensive market
+- **Team Coordination**: Strategic potion distribution based on party member needs
+- **Expedition Preparation**: Customers clearly preparing for dangerous undertaking
+- **Mutual Support**: Unusual level of inter-party generosity and care
+
+---
+*Successful transactions showing party's team support and expedition preparation*
