@@ -104,3 +104,20 @@ session-met: 4
 
 ---
 *Updated: Session 4 - First successful lead in Craven Vakvom investigation*
+
+## 🍺 Session 4 Additional Interactions
+
+### Oil Purchase Transaction
+- **Banjo's Generosity**: Tossed coin to Jimmy for bottle of oil intended for Torque
+- **Professional Service**: Provided requested oil without question
+- **Social Lubricant**: Transaction helped build rapport with local informants
+- **Community Integration**: Simple commercial interaction demonstrating tavern's normal operations
+
+### Tavern Business Context
+- **Diverse Clientele**: Serves both travelers (party) and locals (Torque)
+- **Information Hub**: Natural gathering place where conversations about local issues occur
+- **Commercial Operation**: Sells various supplies including maintenance items like oil
+- **Neutral Ground**: Safe space for different factions to interact and share information
+
+---
+*Name confirmed as Jimmy - professional bartender serving community and travelers*

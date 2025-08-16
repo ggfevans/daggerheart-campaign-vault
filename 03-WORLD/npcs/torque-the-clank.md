@@ -158,3 +158,27 @@ session-met: 4
 
 ---
 *Evidence-seeking ally with unclear authority structure - potential community justice opportunity*
+
+## 🗿 Ancestry Clarification - Session 4
+
+### Rock-Based, Not Robot
+- **Banjo's Assumption**: Initially thought Torque was mechanical/robot-based due to "Clank" ancestry
+- **Oil Gesture**: Banjo generously bought oil thinking Torque needed mechanical maintenance
+- **Reality**: Torque is **rock-based, not robot** - oil not needed for functioning
+- **Appreciation**: Despite not needing oil, Torque appreciated Banjo's thoughtful gesture
+- **Social Success**: Misunderstanding didn't harm relationship - kindness transcended practical utility
+
+### Clank Ancestry Understanding
+- **Name Confusion**: "Clank" ancestry doesn't necessarily mean mechanical/metal construction
+- **Diverse Construction**: Clanks can be made from various materials including stone/rock
+- **Cultural Learning**: Party gaining better understanding of constructed being diversity
+- **Stereotype Correction**: Avoiding assumptions about Clank needs based on name alone
+
+### Character Development
+- **Banjo's Kindness**: Instinctive generosity toward potential ally
+- **Cross-Ancestry Relations**: Building bridges with constructed beings
+- **Learning Moment**: Expanding understanding of different ancestries
+- **Social Investment**: Small gestures building community relationships
+
+---
+*Rock-based Clank ally who appreciated party's kindness despite misunderstood needs*
