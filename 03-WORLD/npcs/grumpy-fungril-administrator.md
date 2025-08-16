@@ -210,3 +210,40 @@ session-met: 4
 
 ---
 *Session 4 - Final bureaucratic success enabling official chasm access for rescue mission*
+
+## 💰 Session 4 Pricing Structure - EXTREME CORRUPTION REVEALED
+
+### Extortionate Pricing Schema
+- **Round Trip**: **6 bags enter/exit + 1 handful for stamps** - already excessive
+- **One Way Option**: **1 FULL CHEST** - **EVEN MORE EXPENSIVE** than round trip!
+- **Pricing Logic**: One-way costs MORE than round trip - **deliberately punitive**
+- **Economic Manipulation**: Pricing designed to trap people or extract maximum wealth
+
+### Corruption Evidence
+- **Illogical Pricing**: One-way being more expensive than round trip defies all logic
+- **Deliberate Exploitation**: System designed to financially punish those seeking to leave
+- **Revenue Maximization**: Every pricing option designed for maximum extraction
+- **Economic Hostage-Taking**: Making leaving more expensive than staying
+
+## 🏥 Medical Liability Control System
+
+### Augustus Fake Emergency Consequences
+- **Guard Response**: Want to escort Augustus to **"chasmtender approved facility"**
+- **Liability Management**: Organization controlling medical emergencies to avoid responsibility
+- **Forced Medical Custody**: Using medical concerns to control and detain individuals
+- **Corporate Medicine**: Medical facilities controlled by chasmtender organization
+
+### Augustus's Evasion
+- **Quick Recovery**: **"It was just gas"** - dismissing medical concerns immediately
+- **Authority Avoidance**: Refusing medical custody to maintain mission freedom
+- **Liability Dodge**: Avoiding forced medical detention that could separate him from party
+- **System Manipulation**: Using humor/embarrassment to deflect institutional control
+
+### System Implications
+- **Total Control**: Chasmtenders control security, customs, bureaucracy, AND medical care
+- **Liability Protection**: Using medical emergencies as excuse for detention and control
+- **Institutional Capture**: Every aspect of chasm access controlled by single organization
+- **Freedom Restriction**: Medical emergencies become pretexts for forced custody
+
+---
+*Session 4 - Revealing the complete scope of chasmtender institutional control and economic manipulation*
