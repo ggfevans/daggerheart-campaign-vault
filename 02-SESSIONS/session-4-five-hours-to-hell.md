@@ -4,8 +4,12 @@ tags:
   - date/2025-08-15
 session-number: 4
 date: 2025-08-15
-participants: [User, Andi]
-system-notes: "First session using foundryborne system - excellent UX!"
+participants:
+  - User
+  - Andi
+  - Luie
+  - Mike
+system-notes: First session using foundryborne system - excellent UX!
 ---
 
 # Session 4 - Five Hours to Hell
