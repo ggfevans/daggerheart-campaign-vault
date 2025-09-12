@@ -17,7 +17,7 @@ heading: Session Tracker
 | 2 | Fri, Aug 01 | 4:00 PM | ✅ **COMPLETED** | Mire's End crisis, sacred branch retrieved | 1 |
 | 3 | Fri, Aug 08 | 4:00 PM | ✅ **COMPLETED** | Branch turns to ash, Mire's End crisis resolved, magical gifts received | 1 |
 | 4 | Fri, Aug 15 | 4:00 PM | 📅 | Whisper Wind Pass - mountain passage to Shalk Chasm | TBD |
-| 5 | Fri, Aug 22 | 4:00 PM | 📅 | TBD | TBD |
+| 5 | 2025-08-29 | 4:00 PM | ✅ **COMPLETED** | Unbroken Spire arrival, hidden city discovery, xenophobic panic, spy hunt | 2 |
 | 6 | Fri, Aug 29 | 4:00 PM | 📅 | TBD | TBD |
 | 7 | Fri, Sep 05 | 4:00 PM | 📅 | TBD | TBD |
 | 8 | Fri, Sep 12 | 4:00 PM | 📅 | TBD | TBD |
@@ -36,7 +36,7 @@ heading: Session Tracker
 - **Sessions Completed**: 3 (Session 0 - Character Creation, Session 1 - Last Light Beginning, Session 2 - Meyer's End Crisis)
 - **Campaign Duration**: July 25 - September 26, 2025
 - **Total Hours**: [To be tracked]
-- **Current Level**: 1
+- **Current Level**: 2
 - **Players**: User + Andi (2-player campaign)
 - **Setting**: Last Light settlement (Age of Umbra)
 - **Campaign Format**: Weekly sessions, Fridays at 4:00 PM
@@ -58,7 +58,8 @@ heading: Session Tracker
 ## 📝 Session Notes Links
 - [[02-SESSIONS/session-1-last-light-beginning]] - Session 1 (2025-07-25): Hope's Call pub beginning
 - [[session-2-mires-end-crisis]] - Session 2 (2025-08-01): Mire's End crisis, sacred branch retrieved
-- [[session-3-continuing-mires-end]] - Session 3 (2025-08-08): Branch turns to ash, Aster heals Augustus
+- [[session-3-continuing-mires-end]] - Session 3 (2025-08-08): Branch turns to ash, Aster heals Augustus\r
+- [[02-SESSIONS/session-5-the-unbroken-spire-outsiders-unwelcome]] - Session 5 (2025-08-29): Unbroken Spire arrival, hidden city discovery, Level 2 advancement\r
 
 *Links will be added as sessions are completed*
 
