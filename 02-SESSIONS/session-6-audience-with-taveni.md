@@ -27,6 +27,10 @@ session-name: "Audience with Taveni"
 - **🏛️ Homeland Context**: Navigating the underground city that mirrors his Undergarden heritage
 - **🕵️ Spy Hunt Follow-up**: Continuing from Session 5's surveillance detection and pursuit
 - **💔 Outsider's Dilemma**: Dealing with being unwelcome in a place that feels like home
+- **🔥 CORRUPTION PHILOSOPHY REVELATION**: Discovers Taloom doesn't know of sacred pyres or blessed branches
+- **🗡️ EXCISION MENTALITY**: Relates deeply to their "cut it out and remove" approach to umbral corruption
+- **😞 OUTSIDER BLAME UNDERSTANDING**: Painfully resonates with their belief that outsiders bring corruption
+- **💭 FAMILIAR BRUTALITY**: Recognizes their harsh but effective methods from his own experience
 
 ### Vaerenth (Andi)
 - **🤝 Diplomatic Engagement**: Participating in political negotiations with local factions
@@ -55,6 +59,15 @@ session-name: "Audience with Taveni"
 - **Time Pressure**: Extended stay increases exposure to hostile factions
 
 ## 🏛️ Lore Revealed
+
+### **MAJOR CORRUPTION PHILOSOPHY DIFFERENCES**
+- **🔥 SACRED PRACTICES UNKNOWN**: Taloom residents have never heard of sacred pyres or blessed branches
+- **🗡️ EXCISION METHODOLOGY**: Their approach to umbral corruption is "cut it out and remove completely"
+- **👥 OUTSIDER SCAPEGOATING**: Firm belief that outsiders are the primary source of corruption
+- **⚔️ HARSH BUT EFFECTIVE**: Brutal methods that apparently work within their isolated community
+- **🚫 NO PURIFICATION RITUALS**: Lack knowledge of cleansing or redemption practices
+- **💔 EXILE PHILOSOPHY**: Anyone touched by corruption is removed rather than healed
+
 ### Underground Civilization Details
 - **Culinary Culture**: Insect-based protein sources adapted to underground ecosystem
 - **Communication Networks**: Established messenger systems between faction leadership
