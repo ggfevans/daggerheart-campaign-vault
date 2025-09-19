@@ -31,6 +31,9 @@ session-name: "Audience with Taveni"
 - **📋 AUDIENCE GRANTED**: Messenger returns with written acceptance for Taveni meeting
 - **🔥 SECURITY PROTOCOL**: Banjo burns the message paper after reading - Zafir approves of operational security
 - **🕵️ KABUTO AVOIDANCE**: Zafir warns party not to let extremist faction know their destination
+- **🥷 STEALTH MISSION**: Party attempts group stealth check to cross town undetected - Banjo leading
+- **👁️ DETECTION ESCALATION**: Initial stealth success deteriorates into being seen and heckled by locals
+- **🔍 SURVEILLANCE AWARENESS**: Growing feeling of being watched and observed during transit
 
 ## 🎭 Character Moments
 
