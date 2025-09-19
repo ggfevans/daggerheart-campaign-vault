@@ -29,7 +29,8 @@ system-notes: First session using foundryborne system - excellent UX!
 ### Critical Information Discovered
 - **Craven is attacking chasmtenders**: Not working with them, but systematically destroying their operations
 - **The Chainlord**: Ultimate authority overseeing Void Spire operations
-- **Official contract secured**: Party hired to stop Craven and recover mysterious artifact
+- **Official contract secured**: Party hired to stop Craven and recover mysterious **sphere artifact**
+- **Sphere Artifact Mission**: Chainlord tasks party to find specific sphere artifact as payment for chasm expedition
 - **Chasm ecosystem hostile**: Ooze creatures and other predators inhabit the depths
 
 ### Chasmtenders Political Situation
