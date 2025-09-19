@@ -34,6 +34,11 @@ session-name: "Audience with Taveni"
 - **🥷 STEALTH MISSION**: Party attempts group stealth check to cross town undetected - Banjo leading
 - **👁️ DETECTION ESCALATION**: Initial stealth success deteriorates into being seen and heckled by locals
 - **🔍 SURVEILLANCE AWARENESS**: Growing feeling of being watched and observed during transit
+- **🏭 WAREHOUSE ARRIVAL**: Party brought into warehouse-like building with workers moving behind shelving
+- **🚪 BACK OFFICE APPROACH**: Led through warehouse to private back office area
+- **😠 ANGRY BOSS VOICE**: Voice behind door angrily demanding work completion by specific deadlines
+- **👔 TAVENI ENCOUNTER**: Zafir opens door revealing man in overalls with slicked-back hair and patchy beard
+- **❓ OUTSIDER CONFUSION**: Taveni confused and surprised that outsiders are present at meeting
 
 ## 🎭 Character Moments
 
@@ -47,18 +52,22 @@ session-name: "Audience with Taveni"
 - **💭 FAMILIAR BRUTALITY**: Recognizes their harsh but effective methods from his own experience
 - **📚 CHASM EDUCATOR**: Explains chasmtender dynamics and Shalk Chasm situation to Zafir
 - **🔥 OPERATIONAL SECURITY**: Burns Taveni's acceptance message to protect mission - Zafir approves
+- **🥷 STEALTH LEADER**: Takes point on group stealth check (Finesse 19 with Fear) to navigate across town
+- **👁️ DETECTION AWARENESS**: Nightwalker skills detecting increasing surveillance and observation
 
 ### Vaerenth (Andi)
 - **🤝 Diplomatic Engagement**: Participating in political negotiations with local factions
 - **🧙 Magical Caution**: Careful not to trigger xenophobic reactions with spell use
 - **🏛️ SPIRE PROTECTION THEORY**: Suggests the Unbroken Spire itself may help prevent corruption
 - **🗂️ MISSION DISCLOSURE**: Reveals party was tasked by the Chainlord to find sphere artifact as payment for chasm journey
+- **🥷 STEALTH EXCELLENCE**: Rolls 20 with Fear on Presence check during group stealth mission
 
 ### Augustus (Mike)
 - **⚔️ Tactical Assessment**: Evaluating the political and security situation
 - **🛡️ Party Protection**: Maintaining security awareness in hostile territory
 - **🏛️ UNDERGROUND CORRUPTION THEORY**: Side conversation with Vaerenth pondering if being underground prevents corruption
 - **🤔 ENVIRONMENTAL HYPOTHESIS**: Wondering if physical location affects corruption exposure
+- **🥷 STEALTH PARTICIPATION**: Presence check (19) during group stealth mission across town
 
 ### Aster (Luie)
 - **🌿 Adapting to Underground**: Druid navigating artificial cavern environment
@@ -66,14 +75,17 @@ session-name: "Audience with Taveni"
 - **❓ UNCERTAIN OBJECTIVES**: When questioned by Zafir, admits uncertainty about why party is here
 - **🔍 RESOURCE SEEKING**: Mentions the party is "looking for resources" as general mission explanation
 - **📚 CHASM EDUCATOR**: Helps explain chasmtender operations and chasm dynamics to Zafir
+- **💪 FEARLESS STRESS**: Marks Stress as Fearless during stealth mission
+- **🥷 STEALTH SUCCESS**: Presence check (12) during group stealth across town
 
 ## 🌍 World & Story
 
-### Current Location: [[underground-tavern]] in [[spire-dweller-hidden-city]]
-- **Political Sanctuary**: Safe meeting place for [[taveni-moderate-leader]]'s faction
-- **Local Cuisine**: Spitroast cockroach-like creatures served as tavern food
-- **Messenger Network**: Zafir utilizing established communication channels to reach Taveni
-- **Outsider Restriction**: Party still confined to back areas of establishment
+### Current Location: [[taveni-warehouse-base]] in [[spire-dweller-hidden-city]]
+- **🏭 Industrial Operation**: Warehouse-style building with active workers and shelving units
+- **👥 Background Activity**: Workers moving around behind shelving, ongoing operations
+- **🚪 Private Office**: Separate back office area for confidential meetings
+- **💼 Business Front**: Appears to be legitimate commercial operation providing cover
+- **🔒 Security Through Obscurity**: Meeting location hidden within normal business activities
 
 ### Political Situation
 - **Taveni Contact Initiated**: Messenger sent to arrange formal audience
@@ -92,7 +104,13 @@ session-name: "Audience with Taveni"
 - **🔗 SURFACE CONNECTION**: Chasm represents link between underground Taloom and surface world above
 - **📖 EDUCATIONAL EXCHANGE**: Party sharing outside world knowledge with isolated community
 
-### **TAVENI AUDIENCE SUCCESS**
+### **TAVENI'S INDUSTRIAL OPERATION**
+- **🏭 WAREHOUSE BASE**: Moderate faction operates from active industrial facility
+- **👥 WORKER COORDINATION**: Multiple employees moving behind shelving units during active operations
+- **📋 DEADLINE PRESSURE**: Taveni demanding work completion by specific times - stressed management
+- **💼 LEGITIMATE COVER**: Business operations provide camouflage for political activities
+- **🚪 COMPARTMENTALIZED SECURITY**: Private back office separated from main warehouse floor
+- **❓ OUTSIDER PROTOCOL**: Taveni unprepared for direct outsider contact despite message acceptance
 - **📋 WRITTEN ACCEPTANCE**: Formal message confirms Taveni will meet with party
 - **🏃 CROSS-TOWN LOGISTICS**: Meeting requires travel across Taloom to different location  
 - **🕵️ COUNTER-INTELLIGENCE**: Must avoid Kabuto faction detection during transit
@@ -128,25 +146,40 @@ session-name: "Audience with Taveni"
 - **Communication Networks**: Established messenger systems between faction leadership
 - **Social Hierarchy**: Different access levels within tavern reflect political status
 
-### [[zafir-mediator]] Intelligence
-- **Political Access**: Demonstrated ability to reach [[taveni-moderate-leader]] through proper channels
-- **Risk Assessment**: Continuing to risk personal safety by associating with outsiders
-- **Local Knowledge**: Understanding of tavern protocols and messenger systems
-- **🌍 COMPLETE SURFACE ISOLATION**: Has never been to the surface - lifetime underground dweller
-- **😲 SURFACE SAFETY SHOCK**: Amazed and disbelieving at concept of "safe spots on the surface"
-- **🏛️ WORKING CIVILIZATION**: Despite isolation, Taloom appears to function as healthy community
-- **⚖️ SURVIVAL ASSESSMENT**: Claims community is "barely surviving, not thriving" despite appearances
-- **❓ MISSION QUESTIONING**: Challenges party's reasoning for being in dangerous underground territory
+### Key NPCs Encountered
+
+#### [[taveni-moderate-leader]]
+- **Appearance**: Man in work overalls with slicked-back hair and patchy beard - working-class aesthetic
+- **Demeanor**: Busy, stressed manager dealing with demanding deadlines and operations
+- **Leadership Style**: Angry boss voice demanding work completion by specific times
+- **Environment**: Operating from warehouse back office - industrial base of operations
+- **Initial Reaction**: Confused and surprised that outsiders are present at the meeting
+- **Political Position**: Moderate faction leader seeking "something better" for Taloom community
+
+#### [[zafir-mediator]] (Continued)
+- **Guide Role**: Successfully navigated party through stealth mission to Taveni's location
+- **Access Provider**: Opens office door to introduce party to confused Taveni
+- **Operational Knowledge**: Familiar with warehouse location and security protocols
 
 ## ⚔️ Mechanics & Rules
-### Social Encounters
-- **Faction Navigation**: Reputation management with competing political groups
-- **Cultural Adaptation**: Dealing with xenophobic environment and local customs
-- **Information Gathering**: Using diplomatic channels vs. direct investigation
+
+### Stealth Sequence - Cross-Town Navigation
+- **🥷 GROUP STEALTH CHECK**: Party attempts coordinated stealth to reach Taveni meeting
+- **👑 Banjo (Leader)**: Finesse 19 with Fear - excellent stealth leadership using Nightwalker skills
+- **⭐ Vaerenth**: Presence 20 with Fear - outstanding social stealth and crowd blending
+- **🛡️ Augustus**: Presence 19 - strong stealth performance maintaining low profile
+- **🌿 Aster**: Presence 12, Marks Stress (Fearless) - adequate stealth but growing tension
+
+### Stealth Degradation Pattern
+- **Initial Success**: Party begins with good stealth coordination
+- **Escalating Detection**: Gradually seen and heckled by hostile locals
+- **Surveillance Awareness**: Growing sense of being watched and observed
+- **Intelligence Risk**: Potential compromise of meeting with moderate faction
 
 ### Character Status
 - **Level 2 Capabilities**: All characters operating with enhanced abilities from Session 5 advancement
-- **Equipment Status**: Managing armor damage and gear maintenance from previous encounters
+- **Stress Management**: Aster marking stress during high-tension stealth mission
+- **Fear Integration**: Multiple characters using Fear tokens for enhanced performance
 
 ## 🔮 Looking Forward
 ### Immediate Objectives
