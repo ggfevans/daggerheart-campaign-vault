@@ -500,3 +500,18 @@ session-name: Audience with Taveni
 - **📊 POLITICAL PIVOT**: Neutral arbiter moving away from isolationist position toward threat recognition
 - **🔍 INVESTIGATION SUPPORT**: Opening for party to continue their search with community blessing
 - **⚖️ JUDICIAL WISDOM**: Mama Yata demonstrating proper evaluation of evidence vs. emotional rhetoric
+
+### **Kabuto's Counter-Attack - Bend Ears Ability**
+- **🎭 BEND EARS ACTIVATION**: Kabuto uses supernatural persuasion ability to regain crowd control
+- **👥 CROWD MANIPULATION**: Portion of townspeople swayed back toward extremist position
+- **🔄 MOMENTUM SHIFT**: Kabuto fighting against Vaerenth's critical success with magical influence
+- **🎯 DIRECT CHALLENGE**: Speaking directly to Mama Yata to undermine her threat acknowledgment
+
+### **Kabuto's Ideological Argument**
+- **👁️ CAUSATION THEORY**: "I still posit that it is them, their presence, their lack of faith in our way of life that has caused this"
+- **🛐 FAITH-BASED BLAME**: Framing crisis as spiritual/cultural contamination rather than structural failure
+- **🌍 PRESENCE AS POLLUTION**: Arguing that outsiders' mere existence in Taloom creates problems
+- **⛪ WAY OF LIFE DEFENSE**: Positioning traditional isolation as sacred practice under attack
+- **🔄 CIRCULAR LOGIC**: Maintaining that external influence corrupts internal harmony
+- **📈 ESCALATING RHETORIC**: Moving from political disagreement to spiritual/existential threat claims
+- **⚖️ MAMA YATA PRESSURE**: Directly challenging neutral adjudicator's emerging threat recognition
