@@ -4,8 +4,12 @@ tags:
   - date/2025-09-19
 session-number: 6
 date: 2025-09-19
-participants: [User/Gareth/Banjo, Andi/Vaerenth, Mike/Augustus, Luie/Aster]
-session-name: "Audience with Taveni"
+participants:
+  - Gareth/Banjo
+  - Andi/Vaerenth
+  - Mike/Augustus
+  - Luie/Aster
+session-name: Audience with Taveni
 ---
 
 # Session 6 - Audience with Taveni
@@ -39,6 +43,15 @@ session-name: "Audience with Taveni"
 - **😠 ANGRY BOSS VOICE**: Voice behind door angrily demanding work completion by specific deadlines
 - **👔 TAVENI ENCOUNTER**: Zafir opens door revealing man in overalls with slicked-back hair and patchy beard
 - **❓ OUTSIDER CONFUSION**: Taveni confused and surprised that outsiders are present at meeting
+- **👩 TAVENI REVEALED**: Meeting room contains large woman with scar, dirty overalls, clearly hands-on worker
+- **🪑 FORMAL INTRODUCTION**: "Always a pleasure to see you, Zafir. Who are your friends? Please come in, sit down"
+- **🎭 BANJO'S REVEAL**: Removes hood and sits down, Taveni's eyes immediately go to Aster
+- **😱 CORRUPTION FEAR**: Taveni glares when Zafir mentions "outsiders here for help" - suspicious of corruption
+- **😰 ASTER'S DISSOCIATION**: Aster uncomfortable, pulling back, experiencing moment of disconnection
+- **👁️ CORRUPTION INTERROGATION**: Taveni wary - "Did you bring corruption in?" with pointed stares at Zafir
+- **💪 ASTER'S DEFENSE**: "I am fine, not corrupted. I am just taken aback"
+- **❓ PURPOSE QUESTIONING**: "What brings you to Taloom? Not often we get outsiders" - suspicious interrogation
+- **🛡️ MISSION STATEMENT**: Aster - "We are here because we are trying to help people, just like you are trying to save and protect your own"
 
 ## 🎭 Character Moments
 
@@ -54,6 +67,7 @@ session-name: "Audience with Taveni"
 - **🔥 OPERATIONAL SECURITY**: Burns Taveni's acceptance message to protect mission - Zafir approves
 - **🥷 STEALTH LEADER**: Takes point on group stealth check (Finesse 19 with Fear) to navigate across town
 - **👁️ DETECTION AWARENESS**: Nightwalker skills detecting increasing surveillance and observation
+- **🎭 FORMAL REVEAL**: Removes hood upon entering Taveni's meeting room - respectful gesture
 
 ### Vaerenth (Andi)
 - **🤝 Diplomatic Engagement**: Participating in political negotiations with local factions
@@ -77,6 +91,12 @@ session-name: "Audience with Taveni"
 - **📚 CHASM EDUCATOR**: Helps explain chasmtender operations and chasm dynamics to Zafir
 - **💪 FEARLESS STRESS**: Marks Stress as Fearless during stealth mission
 - **🥷 STEALTH SUCCESS**: Presence check (12) during group stealth across town
+- **👁️ TAVENI'S FOCUS**: Becomes immediate center of Taveni's suspicious attention upon arrival
+- **😰 DISSOCIATION MOMENT**: Uncomfortable, pulling back from situation - experiencing disconnection
+- **💪 CORRUPTION DEFENSE**: "I am fine, not corrupted. I am just taken aback"
+- **🛡️ MISSION STATEMENT**: "We are here because we are trying to help people, just like you are trying to save and protect your own"
+- **🎯 DIRECT COMMUNICATION**: Takes lead in business conversation - immediately identifies "Craven" as target
+- **💔 PERSONAL PERSPECTIVE**: Describes Craven as "father of a worried child, the leader of an expedition" - humanizing approach
 
 ## 🌍 World & Story
 
@@ -104,7 +124,13 @@ session-name: "Audience with Taveni"
 - **🔗 SURFACE CONNECTION**: Chasm represents link between underground Taloom and surface world above
 - **📖 EDUCATIONAL EXCHANGE**: Party sharing outside world knowledge with isolated community
 
-### **TAVENI'S INDUSTRIAL OPERATION**
+### **CRAVEN VAKVOM PERSONAL CONTEXT**
+- **👨‍👧 FAMILY MAN**: Described as "the father of a worried child" - personal stakes beyond mission
+- **👑 EXPEDITION LEADER**: "The leader of an expedition" - confirms leadership role of disappeared group
+- **💔 EMOTIONAL STAKES**: Party's perspective emphasizes human/family impact rather than political threat
+- **❓ CHILD'S CONCERN**: Worried child suggests family awareness of danger or extended absence
+- **🗂️ PERSONAL MISSION**: Party framing search in terms of family reunion rather than criminal pursuit
+- **🎯 HUMANIZING APPROACH**: Aster's description contrasts with chasmtender "threat" narrative
 - **🏭 WAREHOUSE BASE**: Moderate faction operates from active industrial facility
 - **👥 WORKER COORDINATION**: Multiple employees moving behind shelving units during active operations
 - **📋 DEADLINE PRESSURE**: Taveni demanding work completion by specific times - stressed management
@@ -149,17 +175,22 @@ session-name: "Audience with Taveni"
 ### Key NPCs Encountered
 
 #### [[taveni-moderate-leader]]
-- **Appearance**: Man in work overalls with slicked-back hair and patchy beard - working-class aesthetic
-- **Demeanor**: Busy, stressed manager dealing with demanding deadlines and operations
-- **Leadership Style**: Angry boss voice demanding work completion by specific times
-- **Environment**: Operating from warehouse back office - industrial base of operations
-- **Initial Reaction**: Confused and surprised that outsiders are present at the meeting
-- **Political Position**: Moderate faction leader seeking "something better" for Taloom community
+- **Appearance**: Large, broad woman with prominent scar running from cheek to collarbone
+- **Working Aesthetic**: Dirty overalls/work jumper covered in stains and rips - clearly hands-on worker
+- **Leadership Position**: Sits at head of long table in meeting room - position of authority
+- **Demeanor**: Polite but wary - "Always a pleasure to see you, Zafir. Who are your friends? Please come in, sit down"
+- **Corruption Paranoia**: Immediate suspicion about outsiders - "Did you bring corruption in?" with pointed stares at Zafir
+- **Tactical Focus**: Eyes immediately go to Aster upon Banjo's hood removal - assessing threats
+- **Isolation Perspective**: "Not often we get outsiders" - reinforces community's xenophobic isolation
+- **Political Caution**: Giving Zafir repeated pointed stares during corruption questioning
+- **Environmental Context**: Operating from industrial warehouse with active worker operations
+- **Business Efficiency**: "Let's skip pleasantries. Zafir has informed me you are looking for someone"
+- **Direct Interrogation**: "Who is he to you?" - assessing party's relationship to Craven
 
-#### [[zafir-mediator]] (Continued)
-- **Guide Role**: Successfully navigated party through stealth mission to Taveni's location
-- **Access Provider**: Opens office door to introduce party to confused Taveni
-- **Operational Knowledge**: Familiar with warehouse location and security protocols
+#### [[zafir-mediator]] (Meeting Context)
+- **Relationship**: Clearly familiar and trusted by Taveni - "Always a pleasure to see you"
+- **Risk Position**: Under scrutiny for bringing outsiders - receiving pointed stares from Taveni
+- **Introduction Role**: Identifies party as "outsiders here for help" - triggers immediate suspicion
 
 ## ⚔️ Mechanics & Rules
 
@@ -217,3 +248,9 @@ session-name: "Audience with Taveni"
 *Session Date: 2025-09-19*
 *Campaign Status: Awaiting political audience, navigating faction politics*
 *Next Session Focus: Taveni meeting and mission advancement*
+- **💼 BUSINESS MODE**: Taveni - "Let's skip pleasantries. Zafir has informed me you are looking for someone"
+- **🎯 TARGET IDENTIFICATION**: Aster - "Craven"
+- **👨‍👧 RELATIONSHIP INQUIRY**: Taveni - "Who is he to you?"
+- **💔 PERSONAL STAKES**: Aster - "He is the father of a worried child, the leader of an expedition"
+- **⚖️ THREAT ASSESSMENT**: Taveni - Craven is "not a danger to this place" but party's threat level uncertain
+- **🏛️ SPIRE REFERENCE**: Taveni directs attention to "the unbroken spire state" - significant warning/observation
