@@ -700,3 +700,22 @@ session-name: Audience with Taveni
 - **🪰 AERIAL THREAT**: Winged creatures likely utilizing vertical space and mobility
 - **💔 TRAGIC COMBAT**: Fighting people who were once Taloom villagers, now horrifically mutated
 - **🔬 LABORATORY SETTING**: Battle occurring within the experimental facility that created these abominations
+
+### **ESCALATION - FLICKER FLY ENCOUNTER**
+- **💀 MAJOR THREAT**: Giant horse-sized fly creature revealed - the "Flicker Fly"
+- **🪰 BOTFLY-HORSE HYBRID**: The horrific schematic they saw earlier brought to life
+- **👥 SURROUNDED**: Party completely mobbed by multiple mutated villager creatures
+- **🦋 MASSIVE SCALE**: Horse-sized flying creature dwarfs the smaller mutated villagers
+- **⚔️ OVERWHELMING ODDS**: Party facing both swarm of smaller creatures and massive flying horror
+- **🎯 TACTICAL DISASTER**: Surrounded positioning with aerial threats from multiple directions
+- **💥 EXPERIMENT SUCCESS**: The laboratory's most successful (and terrifying) creation unleashed
+- **🔬 LIVING NIGHTMARE**: The fusion experiments reached their horrific culmination
+- **👁️ CENTRAL THREAT**: Flicker Fly positioned as primary danger among smaller creatures
+- **🚨 CRISIS ESCALATION**: What started as manageable combat now becomes survival horror
+
+### **Combat Dynamics Shift**
+- **🎯 PRIORITY TARGET**: Horse-sized fly becomes immediate primary threat
+- **🪰 AERIAL DOMINANCE**: Massive wings provide superior mobility and attack angles
+- **👥 COORDINATED ASSAULT**: Smaller creatures likely supporting the larger threat
+- **🏗️ SPACE LIMITATION**: Laboratory environment restricts party movement options
+- **💀 OVERWHELMING FORCE**: Numbers and size creating desperate combat situation
