@@ -353,3 +353,38 @@ session-name: Audience with Taveni
 - **😡 AUDIENCE OBJECTION**: "Why do we allow such an audience with these heathens"
 - **🏃 TAVENI'S PROTECTION**: Rushes party to the podium - taking control of situation
 - **🛡️ STRATEGIC ADVICE**: "Ignore him" - directing party not to engage with Kabuto's provocations
+
+## 🏛️ Political Debate in Opera Hall - CONTINUING
+
+### **Taveni's Counter-Speech**
+- **🗣️ PODIUM CONTROL**: Taveni takes her position at the podium with party support beside her
+- **🤫 CROWD MANAGEMENT**: Mama Yata raises hand to quiet the jeering crowd already swayed by Kabuto
+- **💪 FORCE DECLARATION**: "I speak of more unstoppable force" - Taveni's opening counter-argument
+- **💰 KABUTO'S INTERRUPTION**: Crowd jeers "you only want money! lies. why dont we strike you down now?"
+- **⚖️ VAERENTH'S INTERVENTION**: Demands Kabuto stand down and let Taveni have her proper turn to speak
+- **👩‍⚖️ MAMA YATA'S ACKNOWLEDGMENT**: Notes that Taveni admits responsibility for bringing the outsiders
+- **🎯 ACCOUNTABILITY MOMENT**: Taveni publicly accepting responsibility for party's presence in Taloom
+
+### **Crowd Dynamics**
+- **😡 KABUTO'S INFLUENCE**: Crowd already "swayed by Kabuto" and actively jeering against Taveni
+- **💰 CORRUPTION ACCUSATIONS**: Townspeople accusing Taveni of financial motivations rather than community welfare
+- **🔥 VIOLENT SUGGESTIONS**: Some calling for immediate violence against Taveni and outsiders
+- **⚖️ ORDER MAINTENANCE**: Mama Yata working to maintain procedural fairness despite crowd hostility
+- **🎭 PUBLIC SPECTACLE**: Full community witness to this critical leadership debate
+
+### **Political Positioning**
+- **🛡️ TAVENI'S STRATEGY**: Attempting to reframe "unstoppable force" from threat to natural reality
+- **⚔️ KABUTO'S MOMENTUM**: Successfully turning crowd sentiment against moderate position
+- **👩‍⚖️ MAMA YATA'S BALANCE**: Ensuring both sides get proper hearing despite crowd bias
+- **🎯 RESPONSIBILITY GAMBIT**: Taveni openly claiming responsibility for controversial outsider alliance
+- **🤝 PARTY SOLIDARITY**: Group standing with Taveni despite hostile environment
+
+### **Taveni's Core Argument - The Real Enemy**
+- **🏛️ SOURCE IDENTIFICATION**: "The problems (creatures, issues) are not outsider folk but it is the 'un'broken spire that is the source"
+- **🎯 BLAME REDIRECTION**: Shifting focus from xenophobic scapegoating to actual structural threat
+- **💥 CREATURE ORIGIN**: Explicitly linking monster attacks to spire's compromised state
+- **🔍 EVIDENCE-BASED ARGUMENT**: Using observable spire condition as proof of real danger
+- **🛡️ OUTSIDER DEFENSE**: Directly contradicting Kabuto's blame-the-outsiders narrative
+- **🏗️ STRUCTURAL REALITY**: Emphasizing physical infrastructure failure over cultural contamination
+- **⚖️ LOGICAL FRAMEWORK**: Presenting factual analysis versus emotional xenophobia
+- **🌊 UNSTOPPABLE FORCE**: The spire's deterioration as natural, inevitable process beyond political control
