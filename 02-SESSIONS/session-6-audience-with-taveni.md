@@ -515,3 +515,64 @@ session-name: Audience with Taveni
 - **🔄 CIRCULAR LOGIC**: Maintaining that external influence corrupts internal harmony
 - **📈 ESCALATING RHETORIC**: Moving from political disagreement to spiritual/existential threat claims
 - **⚖️ MAMA YATA PRESSURE**: Directly challenging neutral adjudicator's emerging threat recognition
+
+### **Banjo's Dramatic Demonstration**
+- **🗡️ EXECUTION**: Banjo performs the dagger demonstration exactly as planned
+- **🎯 PERFECT IMPACT**: Dagger "lands dead square" through his hand - flawless metaphorical execution
+- **🩸 VISCERAL REALITY**: Physical demonstration of inevitable consequences cuts through political rhetoric
+- **🎭 THEATRICAL MASTERY**: Powerful visual metaphor of spire (dagger) destroying Taloom (hand)
+
+### **The Persuasion Battle**
+- **🎲 BANJO'S ATTEMPT**: Presence check 16 - strong but not overwhelming performance
+- **🎭 KABUTO'S COUNTER**: Devastating retort check 17 - barely edges out Banjo's demonstration
+- **⚔️ RHETORICAL COMBAT**: Kabuto manages to maintain influence despite shocking physical display
+- **🔄 CONTESTED INFLUENCE**: Close battle between visceral reality and supernatural persuasion
+
+### **Mama Yata's Crucial Judgment**
+- **🌍 GRAVITY ACKNOWLEDGMENT**: "I am aware of gravity, and it is not only that that is causing this"
+- **🔍 COMPLEX CAUSATION**: Recognizing multiple factors beyond simple structural failure
+- **👥 FACTION TENSION**: "Both Taveni and Kabuto are edge of their seat anticipation"
+- **⚖️ SOLOMON'S SOLUTION**: Delivers unexpected third option that tests both theories
+
+### **The Trial by Ordeal Proposal**
+- **🎯 OUTSIDER MISSION**: "I say we send the outsiders to deal with this threat"
+- **⚔️ KABUTO'S TEST**: "If what Kabuto says is true then if you all die in there then the problem is solved"
+- **🛡️ TAVENI'S TEST**: "If what Taveni says is true, and you are here to help us, then maybe I will change my mind"
+- **⚖️ TRIAL BY COMBAT**: Using party's survival/success as proof of whose theory is correct
+- **🎲 PRAGMATIC SOLUTION**: Resolves political deadlock through practical action rather than continued debate
+- **🔍 EVIDENCE-BASED JUDGMENT**: Let results determine truth rather than rhetoric
+- **👥 CONDITIONAL ACCEPTANCE**: Mama Yata's mind change depends on party's actual performance
+- **⚔️ HIGH STAKES**: Party's lives become the proof of their legitimacy and intentions
+
+### **Kabuto's Final Desperate Gambit**
+- **😨 FEAR EXPENDITURE**: Kabuto spends 1 Fear to amplify his supernatural persuasion
+- **🔥 DESPERATION ESCALATION**: "You would send the cause of our corruption in to deal with this?!"
+- **💥 CONSPIRACY THEORY**: "How do we know they are not the ones to crack the spire to begin with, to release this creature?"
+- **🎯 SABOTAGE ACCUSATION**: Directly accusing party of being the original cause of the spire breaking
+- **⚔️ LAST STAND**: Using enhanced magical influence to prevent Mama Yata's trial proposal
+- **🌀 PARANOID ESCALATION**: Moving from "outsiders bring corruption" to "outsiders are deliberate saboteurs"
+- **🛡️ PREEMPTIVE BLAME**: Setting up party failure as proof they were always the enemy
+
+### **Aster's Heroic Declaration**
+- **🛡️ PROTECTIVE OATH**: "We are here to protect, and we will not stop until we can"
+- **💪 UNWAVERING RESOLVE**: Firm commitment to defensive mission regardless of personal danger
+- **🎲 PRESENCE ROLL**: Aster making crucial persuasion check to counter Kabuto's enhanced influence
+- **⚖️ MORAL AUTHORITY**: Simple, direct statement of protective intent vs. complex conspiracy theories
+- **🎯 MISSION CLARITY**: Reaffirming party's core purpose in face of escalating accusations
+- **👥 SPEAKING FOR GROUP**: Taking leadership role in crucial political moment
+
+### **Mama Yata's Final Judgment**
+- **⚖️ DECISIVE RULING**: "I have decided that the outsiders will prove they are not the problem"
+- **👁️ DIRECT THREAT TO TAVENI**: "If you die in the tower, (looks at Taveni) you will be considered an outsider yourself"
+- **🎯 POLITICAL HOSTAGE**: Taveni's status and potentially life now tied to party's success
+- **⚔️ TRIAL BY ORDEAL CONFIRMED**: Party's survival becomes proof of legitimacy
+- **👥 FACTION LEADER AT RISK**: Moderate faction's future depends on outsider mission success
+- **⚖️ CONDITIONAL ACCEPTANCE**: Mama Yata ruling against Kabuto's position but with deadly stakes
+
+### **Kabuto's Murderous Escalation**
+- **💀 DEATH THREAT**: "No, if they fail, if they prove they are the problem then Taveni should be killed"
+- **⚔️ POLITICAL ASSASSINATION**: Calling for execution of rival faction leader
+- **🔥 EXTREMIST POSITION**: Moving from exile to murder as political solution
+- **👥 TARGETING LEADERSHIP**: Attempting to eliminate moderate faction entirely
+- **💥 VIOLENCE OVER GOVERNANCE**: Abandoning democratic process for bloodshed
+- **🎯 CONDITIONAL MURDER**: Taveni's death contingent on party's failure in the spire
