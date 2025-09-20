@@ -626,3 +626,63 @@ session-name: Audience with Taveni
 - **🛡️ SECURITY CLEARANCE**: Guards respecting moderate faction leader's authority
 - **💀 ENTERING DEATH ZONE**: Moving into area where 8 scouts have already died
 - **🔍 RECONNAISSANCE PHASE**: Party now able to observe spire interior conditions firsthand
+
+### **Departure and Entry**
+- **👋 TAVENI'S DEPARTURE**: "I have much work, you know where to find me"
+- **🛡️ ZAFIR'S EXCUSE**: "I am not fighter, mind if I sit out? But hey I have always thought outsiders were a good thing" (cheekily lying)
+- **😉 VAERENTH'S RESPONSE**: Responds with cheeky nod and wink - acknowledging the diplomatic lie
+- **🎯 PARTY COMMITMENT**: Group enters the spire proper alone, beginning their trial by ordeal
+
+### **Spire Interior - Experimental Laboratory Discovery**
+- **🏗️ ASCENDING FLOORS**: Group proceeds up through multiple levels of the spire
+- **🔬 LABORATORY PURPOSE**: "This place is just like a zoo, not for observation but for study"
+- **🦎 CONTAINMENT DESIGN**: Cages designed as small habitats for observation and study
+- **⚔️ OPERATION TABLES**: Tables with straps and restraints used for surgical procedures
+- **🐕 DIVERSE SUBJECTS**: Dogs, cats, "all sorts of stuff" - wide variety of experimental subjects
+- **🧪 RESEARCH FACILITY**: Clearly a systematic experimentation center, not random monster lair
+
+### **First Pantalope Encounter - Sacred Creature Defiled**
+- **🦌 CREATURE IDENTIFICATION**: Banjo recognizes a Pantalope (antelope-like with two heads)
+- **✨ NATURAL FEATURES**: Glowing firefly-like rear, dead and restrained
+- **😠 BANJO'S DISGUST**: "They are revered by his people" - sacred creature desecrated
+- **💔 CULTURAL VIOLATION**: Experimentation on spiritually significant animals
+- **⚰️ SPECIMEN STATE**: Dead and secured for study rather than alive and natural
+
+### **Escalating Experimentation Horror**
+- **🔬 ASCENDING PERVERSITY**: "The experiments more perverse" as group climbs higher
+- **🦌 WEAPONIZED PANTALOPE**: Four heads, weaponized antlers, weaponized rear section
+- **⚔️ MILITARIZATION**: Sacred creature turned into living weapon through experimentation
+- **😡 VAERENTH'S DISGUST**: Shared revulsion at the systematic corruption of natural creatures
+- **📈 EXPERIMENT PROGRESSION**: Clear escalation from study to weaponization
+
+### **Hybrid Abomination Schematics**
+- **📋 DESIGN DOCUMENTS**: Strange schematic of botfly and horse cross-breeding
+- **🐎 SPECIES MIXING**: Attempting to combine disparate animal types
+- **👹 HORRID CREATURE**: Result described as abomination rather than natural hybrid
+- **🧪 THEORETICAL WORK**: Schematics suggest planned rather than accidental mutations
+
+### **Infrastructure and Breach Discovery**
+- **💧 WATER SYSTEM**: Large columns with watery solutions flowing through
+- **🌊 CIRCULATION NETWORK**: Functions like a river or sewer system within spire
+- **💥 STRUCTURAL DAMAGE**: Large crack in the water columns and infrastructure
+- **🕳️ MAJOR BREACH**: Large hole in the spire wall - clear structural failure
+- **🔓 CONTAINMENT FAILURE**: Breach likely responsible for creature escapes threatening Taloom
+
+### **The Horror Revealed - Mutated Villagers**
+- **🪰 BUZZING WINGS**: Ominous sound of insectoid flight echoing through the spire
+- **👥 TWISTED MUTATIONS**: Horrible transformations of Taloom villagers discovered
+- **🧬 HUMAN EXPERIMENTATION**: The laboratory's true victims - not just animals, but people
+- **💀 VILLAGER FATE**: Missing community members revealed as experimental subjects
+- **🪰 INSECTOID TRANSFORMATION**: Villagers mutated with fly/insect characteristics and wings
+- **😱 ULTIMATE HORROR**: The "creatures" threatening Taloom are their own transformed people
+- **🔬 SYSTEMATIC CORRUPTION**: Laboratory converting living villagers into monstrous hybrids
+- **👹 ABOMINATION CREATION**: Combining human intelligence with insectoid features
+- **💔 PERSONAL TRAGEDY**: Each creature was once someone's family, friend, neighbor
+- **🎯 SOURCE CONFIRMED**: The spire isn't just housing monsters - it's creating them from Taloom's population
+
+### **Encounter Setup**
+- **⚔️ IMMEDIATE THREAT**: Mutated villager-creatures now aware of party's presence
+- **🪰 AERIAL ADVANTAGE**: Wings give creatures mobility and tactical superiority
+- **🧠 RETAINED INTELLIGENCE**: Potentially still possess human cunning despite physical corruption
+- **💀 TRAGIC COMBAT**: Party may be forced to kill people they came to save
+- **🔍 INVESTIGATION HORROR**: Discovery that connects all previous mysteries - villager disappearances, creature attacks, spire experiments
