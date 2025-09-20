@@ -609,3 +609,20 @@ session-name: Audience with Taveni
 - **🔍 ARTIFACT IMPLICATIONS**: Craven successfully located mysterious object in Taloom
 - **💔 FAMILY VIOLENCE DISBELIEF**: Taveni genuinely surprised by child abuse revelation
 - **⚖️ CREDIBILITY FACTOR**: Taveni's shock suggests authentic interaction, not complicity
+
+### **Transition to the Unbroken Spire**
+- **🏛️ SPIRE ARRIVAL**: Taveni leads the group back out to within the Unbroken Spire
+- **🛡️ GUARD COOPERATION**: Taveni's guards allow party passage into dangerous area
+- **⚖️ POLITICAL ESCORT**: Moderate faction leader personally guiding party to trial location
+- **🎯 MISSION COMMENCEMENT**: Moving from political debate to actual spire infiltration
+- **🔓 ACCESS GRANTED**: Taveni's authority opens previously restricted areas
+- **👥 FACTION SUPPORT**: Moderate guards following Taveni's orders despite danger
+- **🏗️ ENTERING THE BREACH**: Party now inside the compromised structure that threatens Taloom
+- **⚔️ TRIAL BY ORDEAL BEGINS**: Political promises now face physical reality of monster-infested spire
+
+### **Spire Interior Transition**
+- **🌍 LOCATION SHIFT**: From underground Taloom politics to dangerous spire interior
+- **🎭 ESCORT MISSION**: Taveni personally ensuring party reaches trial location
+- **🛡️ SECURITY CLEARANCE**: Guards respecting moderate faction leader's authority
+- **💀 ENTERING DEATH ZONE**: Moving into area where 8 scouts have already died
+- **🔍 RECONNAISSANCE PHASE**: Party now able to observe spire interior conditions firsthand
