@@ -388,3 +388,45 @@ session-name: Audience with Taveni
 - **🏗️ STRUCTURAL REALITY**: Emphasizing physical infrastructure failure over cultural contamination
 - **⚖️ LOGICAL FRAMEWORK**: Presenting factual analysis versus emotional xenophobia
 - **🌊 UNSTOPPABLE FORCE**: The spire's deterioration as natural, inevitable process beyond political control
+
+### **Kabuto's Violent Counter-Argument**
+- **🗣️ RHETORIC DISMISSAL**: Kabuto dismisses Taveni's evidence as mere "rhetoric"
+- **⚔️ GENOCIDAL PROPOSAL**: "We (the Taloom folk) should just kill all the outsiders"
+- **💀 ESCALATION TO MURDER**: Moving from political opposition to explicit calls for mass violence
+
+### **Aster's Moral Challenge**
+- **⚖️ ETHICAL QUESTION**: "What makes this different from the outsiders trying to kill?"
+- **🔄 VIOLENCE COMPARISON**: Pointing out the hypocrisy of Kabuto's violent solution
+- **💭 PHILOSOPHICAL CONFRONTATION**: Challenging the moral foundation of extremist position
+
+### **Kabuto's Defensive Response**
+- **🏠 SOVEREIGNTY ARGUMENT**: "Your very presence here is what has caused such anguish! I don't come to your home to tell you how to live"
+- **👥 TERRITORIAL JUSTIFICATION**: Framing outsider presence as invasion of autonomy
+- **😡 CAUSATION BLAME**: Maintaining that party's mere existence is the source of all problems
+
+### **Aster's Devastating Counter**
+- **🗡️ DIRECT ACCUSATION**: "No, you come to our home to attempt to kill us!"
+- **💥 EXPOSURE OF HYPOCRISY**: Revealing Kabuto's violent actions contradict his sovereignty claims
+- **🎯 PERSONAL EXPERIENCE**: Drawing on party's direct encounters with hostile forces
+
+### **Kabuto's Evidence Gambit**
+- **🚫 DENIAL AND DEFLECTION**: "Lies, lies, lies! These individuals are the cause. Taveni is the cause!"
+- **🕵️ SURVEILLANCE REVELATION**: "I have had my spies following her - I have proof!"
+- **📜 DOCUMENTARY EVIDENCE**: Produces sheets of paper as supposed proof of Taveni's guilt
+- **🔍 INTELLIGENCE OPERATION**: Reveals active espionage against moderate faction leader
+
+### **Augustus's Strategic Intervention**
+- **📋 EXPERTISE CLAIM**: "Ah documentation, my domain!"
+- **⚖️ PROCEDURAL REQUEST**: "If you don't mind, providing it to Mama Yata please provide it so we can compare"
+- **🎲 PRESENCE ROLL**: At disadvantage - attempting to gain access to evidence through formal channels
+- **🧠 TACTICAL THINKING**: Using bureaucratic procedure to examine Kabuto's supposed proof
+
+### **Augustus's Critical Success - Evidence Examination**
+- **🎲 CRITICAL HIT**: Augustus's Presence roll at disadvantage results in a critical success!
+- **📋 MASTERFUL BUREAUCRACY**: Flawless execution of procedural protocol and evidence handling
+- **⚖️ JUDICIAL AUTHORITY**: Mama Yata compelled to accept Augustus's expertise and proper procedure
+- **🔍 EVIDENCE SECURED**: Successfully redirects Kabuto's "proof" through neutral adjudication rather than partisan presentation
+- **🧠 TACTICAL VICTORY**: Transforms potential propaganda moment into formal evidence review
+- **👩‍⚖️ MAMA YATA'S COMPLIANCE**: Neutral adjudicator accepts Augustus's procedural request due to overwhelming competence
+- **📜 DOCUMENT CONTROL**: Augustus gains access to examine Kabuto's surveillance evidence before public presentation
+- **🎯 NARRATIVE HIJACK**: Completely derails Kabuto's attempt to control the evidence revelation moment
