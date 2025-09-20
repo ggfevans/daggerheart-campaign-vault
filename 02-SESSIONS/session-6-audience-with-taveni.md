@@ -68,6 +68,7 @@ session-name: Audience with Taveni
 - **🥷 STEALTH LEADER**: Takes point on group stealth check (Finesse 19 with Fear) to navigate across town
 - **👁️ DETECTION AWARENESS**: Nightwalker skills detecting increasing surveillance and observation
 - **🎭 FORMAL REVEAL**: Removes hood upon entering Taveni's meeting room - respectful gesture
+- **🌊 PRAGMATIC REALISM**: "Sounds more like the enemy is gravity" - identifies physical threat over political enemies
 
 ### Vaerenth (Andi)
 - **🤝 Diplomatic Engagement**: Participating in political negotiations with local factions
@@ -75,6 +76,7 @@ session-name: Audience with Taveni
 - **🏛️ SPIRE PROTECTION THEORY**: Suggests the Unbroken Spire itself may help prevent corruption
 - **🗂️ MISSION DISCLOSURE**: Reveals party was tasked by the Chainlord to find sphere artifact as payment for chasm journey
 - **🥷 STEALTH EXCELLENCE**: Rolls 20 with Fear on Presence check during group stealth mission
+- **⚖️ BINARY ASSESSMENT**: "It is either this or be the enemy" - recognizes stark political choice facing party
 
 ### Augustus (Mike)
 - **⚔️ Tactical Assessment**: Evaluating the political and security situation
@@ -82,6 +84,8 @@ session-name: Audience with Taveni
 - **🏛️ UNDERGROUND CORRUPTION THEORY**: Side conversation with Vaerenth pondering if being underground prevents corruption
 - **🤔 ENVIRONMENTAL HYPOTHESIS**: Wondering if physical location affects corruption exposure
 - **🥷 STEALTH PARTICIPATION**: Presence check (19) during group stealth mission across town
+- **🎯 STRATEGIC INTELLIGENCE**: Asks "what is Kabuto's proposal?" - gathering opposition intelligence
+- **📊 TACTICAL ANALYSIS**: Seeking to understand all faction positions before commitment
 
 ### Aster (Luie)
 - **🌿 Adapting to Underground**: Druid navigating artificial cavern environment
@@ -133,7 +137,13 @@ session-name: Audience with Taveni
 - **🏃 EVACUATION DEADLOCK**: Community refuses to move without external support
 - **⚖️ POLITICAL SOLUTION**: Need to convince community through faction debate
 
-### **IMMEDIATE POLITICAL CRISIS - 10 MINUTE DEADLINE**
+### **TAVENI'S PARADIGM REVOLUTION**
+- **🛡️ OUTSIDER REFRAMING**: "Help show outsiders are not the problem but the solution" - complete narrative reversal
+- **🏃 SURVIVAL IMPERATIVE**: "The only way that Taloom can survive is to leave" - evacuation as community salvation
+- **👥 IDENTITY REDEFINITION**: "Taloom is not a place, it is a people" - revolutionary community philosophy
+- **🔄 WORLDVIEW CHALLENGE**: Directly opposing generations of isolation and xenophobia
+- **🤝 COOPERATION NECESSITY**: Survival depends on external alliance and support
+- **💡 PHILOSOPHICAL BREAKTHROUGH**: Location vs. people - preserving culture over geography
 - **👥 FACTION SUMMIT**: Taveni vs. Kabuto with Mama Yata as adjudicator
 - **🗳️ PUBLIC FORUM**: Villagers attending to witness political debate
 - **🤝 ALLIANCE PROPOSAL**: Taveni offers party protection in exchange for political support
@@ -213,6 +223,9 @@ session-name: Audience with Taveni
 - **☠️ CRISIS MANAGER**: Managing active creature threat and community deaths
 - **💥 EXISTENTIAL AWARENESS**: Recognizes tower collapse could destroy entire community
 - **⏰ POLITICAL URGENCY**: Critical faction meeting in 10 minutes requiring party support
+- **🛡️ PARADIGM SHIFT**: Asks party to prove "outsiders are not the problem but the solution"
+- **🏃 EVACUATION ADVOCATE**: "The only way that Taloom can survive is to leave"
+- **👥 PHILOSOPHICAL LEADER**: "Taloom is not a place, it is a people" - redefining community identity
 
 #### [[zafir-mediator]] (Meeting Context)
 - **Relationship**: Clearly familiar and trusted by Taveni - "Always a pleasure to see you"
@@ -294,3 +307,8 @@ session-name: Audience with Taveni
 - **🛡️ OUTSIDER SOLUTION**: Taveni asks party to "help show outsiders are not the problem but the solution"
 - **🏃 SURVIVAL IMPERATIVE**: "The only way that Taloom can survive is to leave" - evacuation as only option
 - **👥 PHILOSOPHICAL REDEFINITION**: "Taloom is not a place, it is a people" - community over location
+- **❓ KABUTO'S PLAN**: Augustus asks about Kabuto's proposal - "to be announced" but unknown
+- **⚔️ TAVENI'S THEORY**: Kabuto likely proposing "to be more proactive (really, a rampage, or war) to keep outsiders out"
+- **🤝 SUPPORT REQUEST**: Taveni asks group to "go alongside and support her"
+- **⚖️ VAERENTH'S ASSESSMENT**: "It is either this or be the enemy" - binary choice with Taveni
+- **🌊 BANJO'S REALISM**: "Sounds more like the enemy is gravity" - identifying real threat vs. political ones
