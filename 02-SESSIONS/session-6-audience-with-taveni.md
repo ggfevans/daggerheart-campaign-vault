@@ -69,6 +69,7 @@ session-name: Audience with Taveni
 - **👁️ DETECTION AWARENESS**: Nightwalker skills detecting increasing surveillance and observation
 - **🎭 FORMAL REVEAL**: Removes hood upon entering Taveni's meeting room - respectful gesture
 - **🌊 PRAGMATIC REALISM**: "Sounds more like the enemy is gravity" - identifies physical threat over political enemies
+- **🗡️ DRAMATIC DEMONSTRATION**: Flips dagger in air over hand on table, moves at last moment - "this seems like it should be clear, we have to move"
 
 ### Vaerenth (Andi)
 - **🤝 Diplomatic Engagement**: Participating in political negotiations with local factions
@@ -101,6 +102,7 @@ session-name: Audience with Taveni
 - **🛡️ MISSION STATEMENT**: "We are here because we are trying to help people, just like you are trying to save and protect your own"
 - **🎯 DIRECT COMMUNICATION**: Takes lead in business conversation - immediately identifies "Craven" as target
 - **💔 PERSONAL PERSPECTIVE**: Describes Craven as "father of a worried child, the leader of an expedition" - humanizing approach
+- **🤝 ALLIANCE COMMITMENT**: Agrees with Taveni and shakes her hand - sealing formal political alliance
 
 ## 🌍 World & Story
 
@@ -118,6 +120,9 @@ session-name: Audience with Taveni
 - **🕵️ OPERATIONAL SECURITY**: Must avoid [[kabuto-extremist-faction]] detection during transit
 - **🔥 MESSAGE DESTRUCTION**: Party burns acceptance note to prevent intelligence leaks
 - **📨 SECURE COMMUNICATIONS**: Zafir's messenger network proves effective and discreet
+- **🤝 FORMAL ALLIANCE**: Aster shakes hands with Taveni - party commits to supporting evacuation
+- **👵 MAMA YATA CHALLENGE**: Neutral adjudicator "wants to stick to the old ways" - traditional resistance
+- **⚔️ FIGHTING CHANCE**: Taveni believes outsider alliance provides survival opportunity
 
 ## 🏛️ Lore Revealed
 
@@ -312,3 +317,7 @@ session-name: Audience with Taveni
 - **🤝 SUPPORT REQUEST**: Taveni asks group to "go alongside and support her"
 - **⚖️ VAERENTH'S ASSESSMENT**: "It is either this or be the enemy" - binary choice with Taveni
 - **🌊 BANJO'S REALISM**: "Sounds more like the enemy is gravity" - identifying real threat vs. political ones
+- **🤝 ASTER'S COMMITMENT**: Agrees and shakes Taveni's hand - formal alliance sealed
+- **🗡️ BANJO'S DEMONSTRATION**: Flips dagger in air, hand on table, moves at last moment - "this seems like it should be clear, we have to move"
+- **👵 MAMA YATA'S POSITION**: "Will not see it so simply, she wants to stick to the old ways"
+- **⚔️ FIGHTING CHANCE**: Taveni believes outsiders "will give her the fighting chance" needed for survival
