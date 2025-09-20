@@ -576,3 +576,36 @@ session-name: Audience with Taveni
 - **👥 TARGETING LEADERSHIP**: Attempting to eliminate moderate faction entirely
 - **💥 VIOLENCE OVER GOVERNANCE**: Abandoning democratic process for bloodshed
 - **🎯 CONDITIONAL MURDER**: Taveni's death contingent on party's failure in the spire
+
+### **Taveni's Intelligence Report - Spire Casualties**
+- **☠️ PREVIOUS ATTEMPTS**: "The spire is dangerous - there have been attempts to send scouts, explorers in"
+- **⚔️ KABUTO'S LOSSES**: "All have been Kabuto's men. He has lost 8 so far"
+- **💀 TOTAL CASUALTIES**: "Nothing left - blood and their weapons if that"
+- **🔍 INTELLIGENCE VALUE**: Taveni revealing the true scope of spire danger to party
+- **⚖️ POLITICAL IMPLICATION**: Kabuto's faction has been taking heavy losses in reconnaissance
+- **🩸 GRIM EVIDENCE**: Only blood and abandoned weapons recovered from expeditions
+- **👥 MANPOWER DEPLETION**: Extremist faction losing experienced fighters to spire threats
+- **📊 CASUALTY RATE**: 100% fatality rate for all spire exploration attempts
+- **🎯 WARNING TO PARTY**: Clear indication of mortal danger awaiting their mission
+- **⚔️ KABUTO'S DESPERATION**: May explain his increasingly violent rhetoric - faction weakened by losses
+
+### **Taveni's Craven Bargain**
+- **🤝 CONDITIONAL OFFER**: "If we can deal with this creature, whatever it is, she can take us to Craven"
+- **🎯 MISSION LINK**: Connecting spire monster threat to party's original objective
+- **📍 CRAVEN'S LOCATION**: Taveni knows where Craven is but requires spire completion first
+- **⚖️ TRANSACTIONAL POLITICS**: Help Taloom survive = access to party's target
+
+### **Augustus's Intelligence Gathering**
+- **🔍 DIRECT QUESTIONING**: Augustus asks about Taveni's specific interactions with Craven
+- **📊 INTELLIGENCE ASSESSMENT**: Seeking details about target's behavior and activities
+- **🎯 INVESTIGATIVE APPROACH**: Professional information gathering during political crisis
+
+### **Taveni's Craven Testimony**
+- **🔍 SEARCH MISSION**: "He came here searching for something. I think he found it"
+- **❓ UNAWARE OF VIOLENCE**: "I wasn't aware though what he had done"
+- **😱 SHOCK AT REVELATION**: "It's terrifying to think how anyone would have the capability to attack their own son"
+- **👤 CHARACTER ASSESSMENT**: "It seemed far from the Craven I had met"
+- **🎭 PERSONALITY DISCONNECT**: Suggesting significant change or hidden nature in Craven
+- **🔍 ARTIFACT IMPLICATIONS**: Craven successfully located mysterious object in Taloom
+- **💔 FAMILY VIOLENCE DISBELIEF**: Taveni genuinely surprised by child abuse revelation
+- **⚖️ CREDIBILITY FACTOR**: Taveni's shock suggests authentic interaction, not complicity
