@@ -686,3 +686,17 @@ session-name: Audience with Taveni
 - **🧠 RETAINED INTELLIGENCE**: Potentially still possess human cunning despite physical corruption
 - **💀 TRAGIC COMBAT**: Party may be forced to kill people they came to save
 - **🔍 INVESTIGATION HORROR**: Discovery that connects all previous mysteries - villager disappearances, creature attacks, spire experiments
+
+### **COMBAT ENCOUNTER - Void Spire Mutated Villagers**
+- **⚔️ INITIATIVE**: Void Spire Encounter begins with multiple mutated villager creatures
+- **🎲 BANJO'S ATTACK**: Howling Banjo executes Returning Blade Attack - 16 with Hope
+- **🎯 SUCCESSFUL HIT**: Attack connects against mutated villager target
+- **🎲 AUGUSTUS'S ATTACK**: Augustus Penkallow performs Melee Attack - 16 with Fear  
+- **💀 CRITICAL SUCCESS**: Augustus achieves critical hit against creature
+- **🎲 GAMEMASTER ROLL**: Failed Experiment: Dip and Claw - rolls 16 for creature abilities
+- **🗺️ TACTICAL POSITIONING**: Multiple creatures positioned around central chamber area
+- **🏗️ SPIRE LAYOUT**: Combat taking place in multi-level chamber with stairs and platforms
+- **👥 PARTY FORMATION**: All four party members engaged in combat against transformed villagers
+- **🪰 AERIAL THREAT**: Winged creatures likely utilizing vertical space and mobility
+- **💔 TRAGIC COMBAT**: Fighting people who were once Taloom villagers, now horrifically mutated
+- **🔬 LABORATORY SETTING**: Battle occurring within the experimental facility that created these abominations
