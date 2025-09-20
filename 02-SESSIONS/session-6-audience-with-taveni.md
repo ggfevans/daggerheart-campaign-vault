@@ -87,6 +87,7 @@ session-name: Audience with Taveni
 - **🥷 STEALTH PARTICIPATION**: Presence check (19) during group stealth mission across town
 - **🎯 STRATEGIC INTELLIGENCE**: Asks "what is Kabuto's proposal?" - gathering opposition intelligence
 - **📊 TACTICAL ANALYSIS**: Seeking to understand all faction positions before commitment
+- **⚖️ STRATEGIC CAUTION**: "Difficult to have consensus without knowing all sides" - wise concern about incomplete information
 
 ### Aster (Luie)
 - **🌿 Adapting to Underground**: Druid navigating artificial cavern environment
@@ -106,12 +107,12 @@ session-name: Audience with Taveni
 
 ## 🌍 World & Story
 
-### Current Location: [[taveni-warehouse-base]] in [[spire-dweller-hidden-city]]
-- **🏭 Industrial Operation**: Warehouse-style building with active workers and shelving units
-- **👥 Background Activity**: Workers moving around behind shelving, ongoing operations
-- **🚪 Private Office**: Separate back office area for confidential meetings
-- **💼 Business Front**: Appears to be legitimate commercial operation providing cover
-- **🔒 Security Through Obscurity**: Meeting location hidden within normal business activities
+### Current Location: [[taloom-opera-hall]] - Political Debate Venue
+- **🎭 GRAND ARCHITECTURE**: Larger, opera-hall style room designed for public gatherings
+- **👥 PUBLIC VENUE**: Space accommodating townfolk attendance at political proceedings
+- **⚖️ FORMAL DEBATE SETTING**: Appropriate grandeur for crucial community decision
+- **🏛️ CIVIC CENTER**: Central location for major political announcements and trials
+- **👁️ PUBLIC SCRUTINY**: Townfolk able to observe and witness faction leadership debate
 
 ### Political Situation
 - **Taveni Contact Initiated**: Messenger sent to arrange formal audience
@@ -123,6 +124,9 @@ session-name: Audience with Taveni
 - **🤝 FORMAL ALLIANCE**: Aster shakes hands with Taveni - party commits to supporting evacuation
 - **👵 MAMA YATA CHALLENGE**: Neutral adjudicator "wants to stick to the old ways" - traditional resistance
 - **⚔️ FIGHTING CHANCE**: Taveni believes outsider alliance provides survival opportunity
+- **🏃 URGENT TRANSIT**: Rushing to formal political debate with time pressure
+- **👥 PUBLIC CURIOSITY**: Townfolk shifting from hostility to curiosity - "what are outsiders doing with Taveni"
+- **🎭 GRAND STAGE**: Moving to opera-hall venue for public political trial/debate
 
 ## 🏛️ Lore Revealed
 
@@ -142,7 +146,13 @@ session-name: Audience with Taveni
 - **🏃 EVACUATION DEADLOCK**: Community refuses to move without external support
 - **⚖️ POLITICAL SOLUTION**: Need to convince community through faction debate
 
-### **TAVENI'S PARADIGM REVOLUTION**
+### **KABUTO'S EXTREMIST IDEOLOGY REVEALED**
+- **🔥 IMMEDIATE HOSTILITY**: "Fucking outsiders coming into our town!" - explosive confrontational opening
+- **💥 CAUSATION BLAME**: "This is the exact reason the spire is broken in the first place" - outsiders caused structural failure
+- **❓ MALICIOUS INTENT ASSUMPTION**: "Do you wish to condemn us?" - assumes outsiders seek community destruction
+- **😡 RELIGIOUS EXTREMISM**: Calls outsiders "heathens" - spiritual/religious dimension to xenophobia
+- **🚫 PROCEDURAL OBJECTION**: "Why do we allow such an audience with these heathens" - questions their right to witness proceedings
+- **⚔️ MILITANT PRESENTATION**: Fully armed and armored in political meeting - intimidation and readiness for violence
 - **🛡️ OUTSIDER REFRAMING**: "Help show outsiders are not the problem but the solution" - complete narrative reversal
 - **🏃 SURVIVAL IMPERATIVE**: "The only way that Taloom can survive is to leave" - evacuation as community salvation
 - **👥 IDENTITY REDEFINITION**: "Taloom is not a place, it is a people" - revolutionary community philosophy
@@ -231,11 +241,20 @@ session-name: Audience with Taveni
 - **🛡️ PARADIGM SHIFT**: Asks party to prove "outsiders are not the problem but the solution"
 - **🏃 EVACUATION ADVOCATE**: "The only way that Taloom can survive is to leave"
 - **👥 PHILOSOPHICAL LEADER**: "Taloom is not a place, it is a people" - redefining community identity
+- **🏃 PROTECTIVE LEADERSHIP**: Rushes party to podium when Kabuto confronts them
+- **🛡️ STRATEGIC GUIDANCE**: "Ignore him" - advising party not to engage with Kabuto's provocations
 
-#### [[zafir-mediator]] (Meeting Context)
-- **Relationship**: Clearly familiar and trusted by Taveni - "Always a pleasure to see you"
-- **Risk Position**: Under scrutiny for bringing outsiders - receiving pointed stares from Taveni
-- **Introduction Role**: Identifies party as "outsiders here for help" - triggers immediate suspicion
+#### [[kabuto-extremist-faction]] Leader
+- **Appearance**: Heavily armored warrior in ornate plate armor with long dark hair
+- **Equipment**: Multiple weapons visible - sword, daggers, various tools of war
+- **Demeanor**: Immediately aggressive and confrontational toward outsiders
+- **Political Position**: Extremist isolationist blaming outsiders for all community problems
+- **⚔️ MILITANT STANCE**: Fully armored even in political meeting - prepared for violence
+- **🔥 EXPLOSIVE RHETORIC**: "Fucking outsiders coming into our town!" - immediate hostility
+- **💥 CAUSATION THEORY**: "This is the exact reason the spire is broken in the first place" - blames outsiders for structural collapse
+- **❓ INTERROGATION APPROACH**: "Why are you here, do you wish to condemn us?" - assuming malicious intent
+- **😡 RELIGIOUS EXTREMISM**: Calls outsiders "heathens" - viewing them as spiritually corrupt
+- **🚫 AUDIENCE OBJECTION**: Questions why outsiders are allowed to witness community proceedings
 
 ## ⚔️ Mechanics & Rules
 
@@ -321,3 +340,16 @@ session-name: Audience with Taveni
 - **🗡️ BANJO'S DEMONSTRATION**: Flips dagger in air, hand on table, moves at last moment - "this seems like it should be clear, we have to move"
 - **👵 MAMA YATA'S POSITION**: "Will not see it so simply, she wants to stick to the old ways"
 - **⚔️ FIGHTING CHANCE**: Taveni believes outsiders "will give her the fighting chance" needed for survival
+- **🏃 URGENT DEPARTURE**: Group departs with Taveni rushing to the meeting
+- **🤔 AUGUSTUS'S CONCERN**: "Difficult to have consensus without knowing all sides" - strategic caution about incomplete information
+- **🤝 GROUP AGREEMENT**: Party acknowledges the challenge of deciding without hearing Kabuto's proposal
+- **👥 PUBLIC ATTENTION SHIFT**: Townfolk watching with curiosity rather than hostility - "what are outsiders doing with Taveni and what are they up to"
+- **🎭 VENUE CHANGE**: Proceeding to larger, "opera-hall like" room for the formal political trial/debate
+- **🎭 TRIAL ROOM ARRIVAL**: Party enters the grand opera-hall style political venue
+- **⚔️ KABUTO REVEALED**: Armored extremist faction leader present and immediately hostile
+- **🔥 EXPLOSIVE ACCUSATION**: "You see, outsiders. Fucking outsiders coming into our town!"
+- **💥 BLAME ASSIGNMENT**: "This is the exact reason the spire is broken in the first place"
+- **❓ HOSTILE INTERROGATION**: "Why are you here, do you wish to condemn us?"
+- **😡 AUDIENCE OBJECTION**: "Why do we allow such an audience with these heathens"
+- **🏃 TAVENI'S PROTECTION**: Rushes party to the podium - taking control of situation
+- **🛡️ STRATEGIC ADVICE**: "Ignore him" - directing party not to engage with Kabuto's provocations
