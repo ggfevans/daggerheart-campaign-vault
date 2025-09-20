@@ -430,3 +430,73 @@ session-name: Audience with Taveni
 - **👩‍⚖️ MAMA YATA'S COMPLIANCE**: Neutral adjudicator accepts Augustus's procedural request due to overwhelming competence
 - **📜 DOCUMENT CONTROL**: Augustus gains access to examine Kabuto's surveillance evidence before public presentation
 - **🎯 NARRATIVE HIJACK**: Completely derails Kabuto's attempt to control the evidence revelation moment
+
+### **Mama Yata's Evidence Review - The Craven Connection**
+- **📜 FORMAL PRESENTATION**: Mama Yata calls for the surveillance papers to be properly presented
+- **⏰ DELIBERATE EXAMINATION**: Five minutes of tense silence as she reviews approximately 20 pages of scrawled notations
+- **🔍 EVIDENCE ASSESSMENT**: "The validity of some of these will be difficult to prove" - questioning document authenticity
+- **📋 JUDICIAL SKEPTICISM**: Mama Yata expressing doubt about the reliability of Kabuto's spy reports
+- **🎯 CRAVEN REVELATION**: "This isn't the first time I have heard of the name Craven"
+- **❓ DIRECT INTERROGATION**: "Who is this? What is he speaking of? Do you all have something to do with this?"
+- **👁️ FOCUSED QUESTIONING**: Mama Yata turning attention from surveillance validity to party's connection with Craven
+- **⚖️ NEUTRAL AUTHORITY**: Adjudicator now directly questioning party about their mission target
+- **🔍 PATTERN RECOGNITION**: Suggesting Craven's name has appeared in previous intelligence or community discussions
+- **📊 CREDIBILITY BALANCE**: Documents may be questionable, but Craven connection appears legitimate concern
+
+### **Political Dynamics Shift**
+- **🎭 ATTENTION REDIRECT**: Focus moves from Kabuto's accusations to party's actual mission
+- **⚖️ NEUTRAL GROUND**: Mama Yata's questioning creates space between extremist positions
+- **🎯 CORE QUESTION**: Party's presence and purpose now under direct neutral examination
+- **📋 EVIDENCE VS MISSION**: Surveillance documents less important than actual party objectives
+
+### **Vaerenth's Testimony - Mission Clarification**
+- **👤 NO PRIOR CONTACT**: "We have never even met this person"
+- **👨‍👦 FIRST ENCOUNTER**: "Our first knowledge of him is that he attacked his own son - which we saved"
+- **🔍 INVESTIGATION PURPOSE**: "We are now trying to find Craven and understand what is going on"
+- **🛡️ PROTECTIVE INTENT**: "Our intention is to find him and get him away from those he seeks to hurt"
+- **❓ TRUTH-SEEKING MISSION**: "We are simply trying to find him to figure out what is going on"
+- **💔 FAMILY VIOLENCE**: Establishes Craven as aggressor against his own child
+- **🆘 RESCUE OPERATION**: Party positioned as rescuers/protectors rather than allies of Craven
+- **⚖️ MORAL CLARITY**: Clear positioning against violence toward innocent family members
+- **🎯 INVESTIGATION FRAMING**: Presenting search as fact-finding rather than collaboration
+- **🛡️ HARM PREVENTION**: Emphasizing goal of stopping further violence rather than enabling it
+
+### **Testimony Strategy**
+- **🔍 TRANSPARENCY**: Open admission of limited knowledge about target
+- **💔 VICTIM FOCUS**: Highlighting child victim to establish moral positioning
+- **⚖️ NEUTRAL INTENT**: Framing mission as investigation rather than judgment
+- **🛡️ PROTECTIVE STANCE**: Positioning party as safeguarding potential future victims
+- **❓ INFORMATION SEEKING**: Emphasizing desire to understand rather than assume guilt or innocence
+
+### **Vaerenth's Credibility Check**
+- **🎲 PRESENCE ROLL**: Vaerenth making Presence check to gauge effectiveness of testimony
+- **⚖️ MAMA YATA'S REACTION**: Determining how the neutral adjudicator responds to the child protection narrative
+- **👥 CROWD ASSESSMENT**: Checking if the moral framing resonates with Taloom townspeople
+- **🎯 TESTIMONY IMPACT**: Measuring whether the "protecting innocents" angle changes perception
+
+### **Banjo's Dramatic Demonstration Preparation**
+- **🗡️ THEATRICAL IMPULSE**: Banjo preparing elaborate dagger demonstration for maximum impact
+- **🎭 METAPHORICAL SETUP**: "This is the spire" (dagger thrown in air) vs "This is Taloom" (hand on podium)
+- **💀 SHOCKING VISUAL**: Planning to let dagger pierce straight through his hand
+- **🏛️ SPIRE SYMBOLISM**: Using gravity and inevitable impact to represent structural collapse threat
+- **🩸 SACRIFICE METAPHOR**: Willing to take physical harm to demonstrate the danger to community
+- **🎯 DRAMATIC CLIMAX**: "Taloom must leave, for the sake of your people"
+- **⚔️ HIGH-STAKES THEATER**: Escalating from political debate to visceral demonstration of consequences
+- **🛡️ PROTECTIVE MESSAGE**: Framing evacuation as necessary sacrifice to save lives
+- **🎪 ATTENTION GRABBER**: Designed to cut through political rhetoric with undeniable physical reality
+
+### **Vaerenth's Critical Success - Testimony Impact**
+- **🎲 CRITICAL HIT**: Vaerenth's Presence roll achieves critical success!
+- **👥 CROWD SWAY**: Some townspeople visibly moved by child protection narrative
+- **💔 MORAL RESONANCE**: Family violence angle cuts through xenophobic rhetoric
+- **⚖️ CREDIBILITY ESTABLISHED**: Mama Yata begins to see party as legitimate protectors rather than threats
+- **🎯 NARRATIVE SHIFT**: Focus moves from "outsiders bad" to "protecting innocents from real danger"
+
+### **Mama Yata's Crucial Acknowledgment**
+- **✅ THREAT VALIDATION**: "Yes, something is wrong, clearly there is a threat"
+- **⚖️ NEUTRAL AUTHORITY SHIFT**: Adjudicator publicly acknowledging legitimate danger exists
+- **🎯 CRAVEN CONFIRMATION**: Mama Yata's independent knowledge suggests Craven is indeed problematic
+- **🛡️ PARTY LEGITIMACY**: Implicit acceptance that outsiders may have valid protective mission
+- **📊 POLITICAL PIVOT**: Neutral arbiter moving away from isolationist position toward threat recognition
+- **🔍 INVESTIGATION SUPPORT**: Opening for party to continue their search with community blessing
+- **⚖️ JUDICIAL WISDOM**: Mama Yata demonstrating proper evaluation of evidence vs. emotional rhetoric
