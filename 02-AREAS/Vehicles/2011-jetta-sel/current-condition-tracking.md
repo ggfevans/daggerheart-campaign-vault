@@ -18,9 +18,10 @@
   - **Expected Cost:** $[amount]
 
 - [ ] **Passenger side rocker panel rust**
-  - **Status:** Replacement part sourced
-  - **Severity:** Structural replacement needed
-  - **Parts Cost:** $[amount]
+  - **Status:** THROUGH-RUST DISCOVERED - structural damage
+  - **Severity:** MAJOR structural failure, not cosmetic as advertised
+  - **Safety Impact:** Potential structural integrity compromise
+  - **Legal Issue:** Material misrepresentation in sale
 
 - [ ] **Driver side rocker panel rust** 
   - **Status:** Likely needs replacement (pending inspection)
