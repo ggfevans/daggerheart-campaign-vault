@@ -12,9 +12,10 @@
 
 ### Active Problems
 - [ ] **Windshield wiper motor failure** 
-  - **Status:** In shop Tuesday (December 2024)
+  - **Status:** Scheduled Tuesday 11am (December 2024)
+  - **Shop:** Bunys N Bugs - https://www.bunysnbugs.com/
+  - **Work:** Wiper motor install + cowl replacement
   - **Expected Cost:** $[amount]
-  - **Shop:** [Shop name]
 
 - [ ] **Passenger side rocker panel rust**
   - **Status:** Replacement part sourced
