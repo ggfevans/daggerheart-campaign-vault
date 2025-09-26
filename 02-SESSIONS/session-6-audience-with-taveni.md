@@ -749,7 +749,7 @@ session-name: Audience with Taveni
 - **💥 CRITICAL HIT**: Juvenile Flickerfly lands devastating Wing Slash attack on Vaerenth
 - **🩸 MASSIVE DAMAGE**: 21 physical damage dealt - near maximum possible (2d10+4)
 - **⚖️ PEERLESS ACCURACY**: Likely triggered halved Evasion against Vaerenth
-- **💀 SERIOUS INJURY**: Vaerenth potentially down or critically wounded
+- **💀 CRITICAL STATUS**: Vaerenth at 1 HP remaining (5/6 HP used) and armor compromised (1/3 armor used)
 - **🎯 PARTY CRISIS**: Main archer/support severely compromised in crucial trial battle
 - **⏰ URGENT SITUATION**: Need immediate response to prevent party member loss
 - **🔄 FLICKERFLY STATUS**: Still active with Relentless (3) - can act 2 more times this turn
