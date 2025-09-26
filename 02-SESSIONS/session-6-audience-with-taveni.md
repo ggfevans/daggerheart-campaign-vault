@@ -742,3 +742,23 @@ session-name: Audience with Taveni
 - **🏘️ VILLAGE CONTEXT**: "Village elder" suggests community leader with multiple roles
 - **😰 CHILDHOOD TRAUMA**: Likely stems from painful or traumatic dental experiences
 - **👴 ELDER RESPECT/FEAR**: Complex relationship with village authority figures
+
+## ⚔️ SESSION 7 BATTLE CONTINUATION - Juvenile Flickerfly
+
+### **Combat Escalation - Devastating Attack**
+- **💥 CRITICAL HIT**: Juvenile Flickerfly lands devastating Wing Slash attack on Vaerenth
+- **🩸 MASSIVE DAMAGE**: 21 physical damage dealt - near maximum possible (2d10+4)
+- **⚖️ PEERLESS ACCURACY**: Likely triggered halved Evasion against Vaerenth
+- **💀 SERIOUS INJURY**: Vaerenth potentially down or critically wounded
+- **🎯 PARTY CRISIS**: Main archer/support severely compromised in crucial trial battle
+- **⏰ URGENT SITUATION**: Need immediate response to prevent party member loss
+- **🔄 FLICKERFLY STATUS**: Still active with Relentless (3) - can act 2 more times this turn
+- **💨 HALLUCINATORY BREATH**: Countdown still active, could trigger additional area effect
+- **🏛️ POLITICAL STAKES**: Vaerenth's injury jeopardizes entire Taloom evacuation mission
+- **🛡️ TACTICAL SHIFT**: Party must now protect wounded member while finishing combat
+
+### **Battle Context Update**
+- **🎯 FINAL ENEMY**: Only Juvenile Flickerfly remains from spire laboratory encounter
+- **🏆 TROPHY OPPORTUNITY**: Killing creature could provide Flickerfly Blade crafting materials
+- **⚖️ TRIAL BY ORDEAL**: Success needed to prove outsiders help rather than harm Taloom
+- **👥 PARTY COMMITMENT**: Must finish fight to validate political alliance with Taveni
