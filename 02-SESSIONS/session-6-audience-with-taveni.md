@@ -762,3 +762,25 @@ session-name: Audience with Taveni
 - **🏆 TROPHY OPPORTUNITY**: Killing creature could provide Flickerfly Blade crafting materials
 - **⚖️ TRIAL BY ORDEAL**: Success needed to prove outsiders help rather than harm Taloom
 - **👥 PARTY COMMITMENT**: Must finish fight to validate political alliance with Taveni
+
+
+### **Party Coordinated Counter-Attack - Vengeance Assault**
+
+#### **Banjo's Bloodthirsty Vengeance**
+- **🗡️ RETURNING BLADE STRIKE**: Banjo responds to Vaerenth's near-death with lethal precision
+- **💢 BLOODTHIRSTY EXPERIENCE**: Protective rage triggers enhanced combat ability
+- **⚔️ EMOTIONAL COMBAT**: Seeing ally nearly killed activates Banjo's deadliest instincts
+- **🎯 VENGEFUL PRECISION**: Targeting flickerfly with enhanced accuracy and damage
+
+#### **Vaerenth-Augustus Combo Attack**
+- **🏹 DESPERATE PRECISION**: Vaerenth at 1 HP still fighting - arrow strike to creature's neck
+- **💪 CONCUSSIVE GROUND STRIKE**: Augustus uses tactical disruption to distract flickerfly
+- **🎯 COORDINATED TIMING**: Perfect synchronization between ranged precision and melee distraction
+- **⚔️ WOUNDED WARRIOR**: Vaerenth refusing to retreat despite critical injury
+- **🛡️ TACTICAL SUPPORT**: Augustus providing setup for Vaerenth's vital shot
+
+#### **Combat Dynamics**
+- **🔥 PROTECTIVE FURY**: Party responding to threat against wounded member
+- **⚖️ COORDINATED DEVASTATION**: Three-person assault targeting vital areas
+- **💀 FINISH ATTEMPT**: All-out effort to end combat before flickerfly's remaining Relentless actions
+- **🏆 HEROIC MOMENT**: Classic party coordination in face of near-defeat
