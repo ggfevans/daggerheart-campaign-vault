@@ -17,6 +17,7 @@ Key events:
 - Entered ancient pre-apostasy city through tunnel network
 - Discovered active marketplace with blue sky, purchased hairpin from oracle vendor
 - Entered ancient arena, temporal shift activated, Aster stepped forward as champion to face shackled giant gladiator
+- Confronted Craven in ancient temple chamber, learned about mysterious cycle, battle initiated as he commanded undead to rise
 
 ## Character Actions
 ### Banjo (Gareth)
@@ -67,19 +68,20 @@ Key events:
 - Witnessed near-execution in temple scene, flew over to help prevent it and reach temple safety
 - Rolled exceptional success (23 with Hope) during rescue flight, carried Banjo for dramatic dropkick assault
 - Comforted Augustus after trauma, lifting his face to explain "this was the past, we did everything we could. this has already happened. its not your fault"
+- Asked Craven "what cycle?" when he mentioned breaking the cycle
 
 ## World Updates
-New locations: [[shady-rest-pub]], [[taloom-tunnel-network]], [[ancient-pre-apostasy-city]], [[ancient-arena-ruins]], [[ancient-temple-sacrifice-site]], [[ancient-temple-interior]], [[massive-ancient-doors]]
-NPCs: [[tavni]] vindicated as leader, [[mama-yata]] trial completed
-Plot: Trial by ordeal successful, party gains hero status, flickerfly head mounted as trophy with party names, Craven entered unsealed tunnel system, tunnel access cleared by work crews, ancient city discovered with old gods worship and marketplace echoes, arena temporal shift with giant gladiator combat initiated, temple sacrifice scene discovered with desperate plea to old gods, party trauma processing after bone discovery, distant battle sounds beyond massive flooded doors
+New locations: [[shady-rest-pub]], [[taloom-tunnel-network]], [[ancient-pre-apostasy-city]], [[ancient-arena-ruins]], [[ancient-temple-sacrifice-site]], [[ancient-temple-interior]], [[massive-ancient-doors]], [[temple-chamber-with-pillars]]
+NPCs: [[tavni]] vindicated as leader, [[mama-yata]] trial completed, [[craven]] discovered in ancient temple chamber
+Plot: Trial by ordeal successful, party gains hero status, flickerfly head mounted as trophy with party names, Craven entered unsealed tunnel system, tunnel access cleared by work crews, ancient city discovered with old gods worship and marketplace echoes, arena temporal shift with giant gladiator combat initiated, temple sacrifice scene discovered with desperate plea to old gods, party trauma processing after bone discovery, distant battle sounds beyond massive flooded doors, Craven confrontation revealed mysterious cycle and undead command
 
 ## Mechanics
 Rules used: Bloodthirsty ability activation, Fear rolls with narrative consequences, Short rest recovery, Presence check (Vaerenth 15 with Augustus assistance), Hope loss (party loses 1 Hope from hostile temporal scene), Critical success (Vaerenth double 4s agility), Exceptional success (Aster 23 with Hope), Successful rescue (Augustus saving children)
 XP/Rewards: Additional Hope gained from storytelling, evidence collected, reputation established, hairpin obtained from temporal mirage interaction, Hope reduction from hostile temporal interaction, successful heroic actions during cataclysmic sequence
 
 ## Next Session
-Setup: Party inside ancient temple after emotional processing, distant screams "no, no, ahhh!" echoing ahead, approaching two massive ancient doors with inches of water flooding room, sounds of battle beyond doors
-Goals: Investigate battle sounds beyond massive doors, navigate flooded temple chamber, determine if sounds are temporal phenomena or present danger, continue pursuit of Craven through temple complex
+Setup: Party confronting Craven in ancient temple chamber with six pillars, reddish orb, and large coffin, undead bodies rising around him, reddish energy line connecting him to orb
+Goals: Battle Craven and risen undead, learn about the mysterious cycle, understand connection between Craven and the reddish orb, determine if Craven can be saved or must be stopped
 
 ## Lore Updates
 
@@ -127,7 +129,11 @@ Haunting conclusion: Temporal vision faded suddenly - [[augustus]] found himself
 
 ### Temple Interior and Battle Sounds
 **Source**: Party exploration of [[ancient-temple-interior]]
-**Information**: After emotional processing of temporal trauma, party heard distant screams "no, no, ahhh!" echoing from ahead. Proceeded to two massive ancient doors in room flooded with inches of water. Sounds of battle beyond doors: clanging blades, screams, signs of active combat. Unclear if sounds represent another temporal phenomenon or present danger. Temple interior shows signs of flooding and age.
+**Information**: After emotional processing of temporal trauma, party heard distant screams "no, no, ahhh!" echoing from ahead. Proceeded to two massive ancient doors in room flooded with inches of water. Sounds of battle beyond doors: clanging blades, screams, signs of active combat. Temple interior shows signs of flooding and age. Sounds revealed to be real battle, not temporal phenomenon.
+
+### Craven's Temple Chamber Confrontation
+**Source**: Direct encounter in [[temple-chamber-with-pillars]]
+**Information**: Chamber contains six pillars (three on each side), lit torches, large reddish orb in center, and large coffin. [[craven]] discovered as large man in heavy plate armor with large sword and shield, blade through an individual. Appeared tired and stated "I have been waiting, for so, so long" followed by "have you come to end this? have you come to break the cycle?" When [[aster]] asked "what cycle?" his eyes rolled back with disappointment, erupting "no, you were supposed to end it. YOU WERE SUPPOSED TO END IT!" Reddish energy line connects him to central orb. Upon his anger, bodies around chamber began rising as undead. Declared "if you wont end it, I will devour it and leave on my own accord!" suggesting he commands undead and seeks to consume or escape some binding cycle.
 
 ## Campaign Notes
 Party achieved complete political victory through trial completion. Hero status enables future cooperation but primary mission continues. Evidence of horrific experiments provides context for expedition's purpose. Flickerfly head trophy with party names mounted at [[shady-rest-pub]] establishes permanent legacy. 
@@ -138,7 +144,9 @@ Second temporal shift in ancient arena with gladiatorial combat system. [[aster]
 
 Party collectively wanted to stop execution - [[banjo]]'s blade throw to prevent sacrifice triggered hostile crowd reaction and party Hope loss, but also caused massive environmental cataclysm. Ground crack and debris rain (possibly volcanic) forced party to seek temple shelter. Heroic rescue sequence with multiple successes: [[vaerenth]] critical agility, [[aster]] exceptional flight (23 with Hope), [[augustus]] successful child rescue, [[banjo]]'s dropkick preventing execution. However, temporal vision's end revealed devastating truth - [[augustus]] held only bones instead of children he thought he saved. 
 
-Emotional processing: [[augustus]] showed trauma signs, acknowledging "the pain is still real" despite [[aster]]'s wise comfort that "this was the past, we did everything we could. this has already happened. its not your fault." [[banjo]] provided physical comfort and recognized trauma present but inappropriate timing for deeper discussion. Temporal visions allow heroic feeling but rescue efforts may be illusory. Path sealed with rubble, party trapped in temple but discovered distant battle sounds beyond massive flooded doors - unclear if temporal phenomenon or present danger.
+Emotional processing: [[augustus]] showed trauma signs, acknowledging "the pain is still real" despite [[aster]]'s wise comfort that "this was the past, we did everything we could. this has already happened. its not your fault." [[banjo]] provided physical comfort and recognized trauma present but inappropriate timing for deeper discussion. Temporal visions allow heroic feeling but rescue efforts may be illusory. Path sealed with rubble, party trapped in temple but discovered distant battle sounds beyond massive flooded doors.
+
+Major confrontation: [[craven]] discovered in temple chamber connected to reddish orb, waiting for party to "break the cycle" but disappointed they don't understand. Suggests party was expected to fulfill specific purpose related to ending mysterious cycle. [[craven]]'s connection to orb enables undead command, and his threat to "devour it and leave" indicates he may be bound to location/cycle against his will. Combat initiated with rising undead as Craven chooses destructive path over party cooperation.
 
 ### Craven's Path Intelligence
 **Source**: [[tavni]] briefing
