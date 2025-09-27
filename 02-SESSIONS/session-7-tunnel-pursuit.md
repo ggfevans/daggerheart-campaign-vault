@@ -39,9 +39,9 @@ Key events:
 - Participated in party recovery and bonding
 
 ## World Updates
-New locations: [[taloom-moderate-faction-base]]
+New locations: [[shady-rest-pub]], [[taloom-tunnel-network]]
 NPCs: [[tavni]] vindicated as leader, [[mama-yata]] trial completed
-Plot: Trial by ordeal successful, party gains hero status, Craven entered unsealed tunnel system
+Plot: Trial by ordeal successful, party gains hero status, flickerfly head mounted as trophy with party names, Craven entered unsealed tunnel system, tunnel access cleared by work crews
 
 ## Mechanics
 Rules used: Bloodthirsty ability activation, Fear rolls with narrative consequences, Short rest recovery
