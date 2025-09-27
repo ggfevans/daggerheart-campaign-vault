@@ -15,7 +15,7 @@ Key events:
 - Learned Craven entered unsealed tunnel system
 - Party gained hero status, prepared for tunnel pursuit
 - Entered ancient pre-apostasy city through tunnel network
-- Discovered ruins with old gods worship, experienced marketplace echoes
+- Discovered active marketplace with blue sky, purchased hairpin from oracle vendor
 
 ## Character Actions
 ### Banjo (Gareth)
@@ -31,6 +31,7 @@ Key events:
 - Led party hope-building and memory sharing activity
 - Deferred when asked for group name by [[tavni]]
 - Spotted small oracle-like lady with headwrap and jeweled ornaments holding schmeckle coin in ancient bazaar, became fascinated
+- Purchased hairpin from oracle lady for 1 gold coin, performed presence check
 - Performed epic storytelling to village crowd at [[shady-rest-pub]]
 - Led party hope-building and memory sharing activity
 - Deferred when asked for group name by [[tavni]]
@@ -53,8 +54,8 @@ NPCs: [[tavni]] vindicated as leader, [[mama-yata]] trial completed
 Plot: Trial by ordeal successful, party gains hero status, flickerfly head mounted as trophy with party names, Craven entered unsealed tunnel system, tunnel access cleared by work crews, ancient city discovered with old gods worship and marketplace echoes
 
 ## Mechanics
-Rules used: Bloodthirsty ability activation, Fear rolls with narrative consequences, Short rest recovery
-XP/Rewards: Additional Hope gained from storytelling, evidence collected, reputation established
+Rules used: Bloodthirsty ability activation, Fear rolls with narrative consequences, Short rest recovery, Presence check (Vaerenth)
+XP/Rewards: Additional Hope gained from storytelling, evidence collected, reputation established, hairpin purchased from oracle vendor
 
 ## Next Session
 Setup: Party exploring ancient pre-apostasy city ruins, experiencing marketplace echoes
@@ -82,14 +83,14 @@ Goals: Continue pursuit of Craven through ancient city, investigate temple and o
 **Source**: Direct exploration, [[augustus]] and [[aster]] observations
 **Information**: Underground city with narrow streets forcing movement through buildings. Contains huge temple and ancient relics. Multiple references to old gods worship, predating the apostasy and cataclysm. Debris includes stone and cloth remnants throughout ruins. Architecture resembles massive Aztec-style civilization.
 
-### Marketplace Echoes Phenomenon
-**Source**: Party experience in ancient city
-**Information**: Auditory manifestations of past marketplace activity - footsteps, chatter, coin clinking, vendor calls. Glimpse into bustling past with 20-30 vendors selling food, trinkets, and weapons. Massive Aztec-style bazaar with temporal resonance or memory imprint. [[vaerenth]] observed small oracle-like figure with headwrap and many jeweled ornaments holding up an odd old coin called a schmeckle - the ancient currency of trade.
+### Ancient Marketplace - Active Reality
+**Source**: Party direct interaction and observation
+**Information**: Marketplace is not temporal echoes but active reality. Wide open blue sky visible above despite underground location. Physical stalls and vendors operating with real goods. Oracle lady accepts modern gold currency for hairpin purchase. Intersection of ancient civilization with present reality - unclear if time displacement, dimensional overlap, or magical preservation.
 
 ## Campaign Notes
 Party achieved complete political victory through trial completion. Hero status enables future cooperation but primary mission continues. Evidence of horrific experiments provides context for expedition's purpose. Flickerfly head trophy with party names mounted at [[shady-rest-pub]] establishes permanent legacy. 
 
-Major discovery: Ancient pre-apostasy city reveals world history before cataclysm. Old gods worship predates current religious structure. Massive Aztec-style bazaar with temporal echoes suggests sophisticated civilization. Oracle figure with jeweled ornaments specifically caught [[vaerenth]]'s attention, indicating potential mystical significance. City's narrow streets and forced building navigation indicates different architectural period. Temple and relics provide potential insight into historical religious practices.
+Major discovery: Ancient pre-apostasy city reveals world history before cataclysm. Old gods worship predates current religious structure. Massive Aztec-style bazaar is active reality, not temporal echoes - blue sky visible despite underground location. Oracle figure with jeweled ornaments accepts modern currency, suggesting intersection of ancient and present realities. Physical marketplace operation indicates time displacement, dimensional overlap, or magical preservation. [[vaerenth]]'s successful transaction establishes real interaction with ancient civilization.
 
 ### Craven's Path Intelligence
 **Source**: [[tavni]] briefing
