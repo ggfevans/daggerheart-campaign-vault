@@ -12,7 +12,7 @@ participants:
 session-name: Audience with Tavni
 ---
 
-# Session 6 - Audience with Taveni
+# Session 6 - Audience with Tavni
 
 ## 📋 Session Summary
 **Duration**: [In Progress]

@@ -82,7 +82,7 @@ session-name: "The Unbroken Spire - Outsiders Unwelcome"
 - **Market Activity**: Active trade and daily business despite isolation
 - **Xenophobic Terror**: Extreme fear of outsiders - windows slamming, people fleeing
 - **Harsh Justice**: Bodies hanging from bridges as warning to outsiders/criminals
-- **Three-Faction Politics**: Mama Yata (isolationist), Kabuto (extremist), Taveni (moderate)
+- **Three-Faction Politics**: Mama Yata (isolationist), Kabuto (extremist), Tavni (moderate)
 
 #### [[underground-tavern]]
 - **Secret Location**: Hidden down back alleys with specific knock protocols
@@ -96,7 +96,7 @@ session-name: "The Unbroken Spire - Outsiders Unwelcome"
 - **Appearance**: Joe Rogan-lookalike, well-dressed but worn
 - **Role**: Mediator with crowd control authority
 - **Risk Assessment**: "I am risking a lot to be here with you"
-- **Political Alignment**: Supports Taveni's moderate faction
+- **Political Alignment**: Supports Tavni's moderate faction
 - **Local Knowledge**: Knows secret routes, protocols, and key contacts
 - **Intelligence**: Provided crucial information about power structure and recent events
 
@@ -117,7 +117,7 @@ session-name: "The Unbroken Spire - Outsiders Unwelcome"
 - **Methods**: Organized spy networks and intelligence gathering
 - **Threat Level**: "Hatred of outsiders is clear" - dangerous to party
 
-#### Taveni (Moderate Faction)
+#### Tavni (Moderate Faction)
 - **Goals**: "Trying to do something better for this place"
 - **Support**: Zafir's faction - seeking alternatives to isolation/extremism
 - **Challenge**: Difficult to contact, requires messenger protocols
@@ -167,12 +167,12 @@ session-name: "The Unbroken Spire - Outsiders Unwelcome"
 - **🕵️ Active Pursuit**: Party hunting Kabuto's spy through underground alleyways
 - **📝 Compromised Mission**: Intelligence networks now aware of party presence and objectives
 - **⏰ Time Pressure**: Extended stay increases danger under hostile surveillance
-- **📨 Pending Contact**: Zafir needs to reach Taveni through messenger protocols
+- **📨 Pending Contact**: Zafir needs to reach Tavni through messenger protocols
 
 ### Next Session Setup
 - **Spy Hunt Resolution**: Conclusion of chase sequence through hidden city
 - **Intelligence Warfare**: Party vs. organized surveillance network
-- **Political Navigation**: Securing Taveni contact while avoiding Kabuto's faction
+- **Political Navigation**: Securing Tavni contact while avoiding Kabuto's faction
 - **Mission Advancement**: Finding Craven's trail and artifact information
 - **Faction Choice**: Party must decide which political faction to support
 
