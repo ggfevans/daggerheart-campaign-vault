@@ -23,6 +23,7 @@ Key events:
 - Delivered killing strike with returning blade
 - Rescued Augustus from water vat after creature impact
 - Cut off flickerfly head as proof, treated Aster's wounds
+- About to attempt theft when marketplace mirage suddenly ended
 
 ### Vaerenth (Andi)
 - Survived 21 damage hit at 1 HP, continued fighting with arrow strike
@@ -31,8 +32,8 @@ Key events:
 - Led party hope-building and memory sharing activity
 - Deferred when asked for group name by [[tavni]]
 - Spotted small oracle-like lady with headwrap and jeweled ornaments holding schmeckle coin in ancient bazaar, became fascinated
-- Purchased hairpin from oracle lady for 1 gold coin, performed presence check
-- Performed epic storytelling to village crowd at [[shady-rest-pub]]
+- Purchased hairpin from oracle lady for 1 gold coin, performed presence check (15 with Augustus assistance)
+- Successfully completed transaction before marketplace mirage collapsed, hairpin materialized in hair
 - Led party hope-building and memory sharing activity
 - Deferred when asked for group name by [[tavni]]
 
@@ -54,8 +55,8 @@ NPCs: [[tavni]] vindicated as leader, [[mama-yata]] trial completed
 Plot: Trial by ordeal successful, party gains hero status, flickerfly head mounted as trophy with party names, Craven entered unsealed tunnel system, tunnel access cleared by work crews, ancient city discovered with old gods worship and marketplace echoes
 
 ## Mechanics
-Rules used: Bloodthirsty ability activation, Fear rolls with narrative consequences, Short rest recovery, Presence check (Vaerenth)
-XP/Rewards: Additional Hope gained from storytelling, evidence collected, reputation established, hairpin purchased from oracle vendor
+Rules used: Bloodthirsty ability activation, Fear rolls with narrative consequences, Short rest recovery, Presence check (Vaerenth 15 with Augustus assistance)
+XP/Rewards: Additional Hope gained from storytelling, evidence collected, reputation established, hairpin obtained from temporal mirage interaction
 
 ## Next Session
 Setup: Party exploring ancient pre-apostasy city ruins, experiencing marketplace echoes
@@ -83,14 +84,14 @@ Goals: Continue pursuit of Craven through ancient city, investigate temple and o
 **Source**: Direct exploration, [[augustus]] and [[aster]] observations
 **Information**: Underground city with narrow streets forcing movement through buildings. Contains huge temple and ancient relics. Multiple references to old gods worship, predating the apostasy and cataclysm. Debris includes stone and cloth remnants throughout ruins. Architecture resembles massive Aztec-style civilization.
 
-### Ancient Marketplace - Active Reality
+### Ancient Marketplace - Temporal Mirage
 **Source**: Party direct interaction and observation
-**Information**: Marketplace is not temporal echoes but active reality. Wide open blue sky visible above despite underground location. Physical stalls and vendors operating with real goods. Oracle lady accepts modern gold currency for hairpin purchase. Intersection of ancient civilization with present reality - unclear if time displacement, dimensional overlap, or magical preservation.
+**Information**: Marketplace appeared as active reality with blue sky and physical stalls, but revealed to be temporal mirage. Oracle lady scrutinized gold coin with fear, heads turned toward party with apprehension. Transaction completed successfully with [[vaerenth]]'s presence check (15 with [[augustus]] assistance). Hairpin materialized in Vaerenth's hair as mirage collapsed, returning party to ruins. Suggests powerful temporal magic or dimensional overlay that responds to belief and interaction.
 
 ## Campaign Notes
 Party achieved complete political victory through trial completion. Hero status enables future cooperation but primary mission continues. Evidence of horrific experiments provides context for expedition's purpose. Flickerfly head trophy with party names mounted at [[shady-rest-pub]] establishes permanent legacy. 
 
-Major discovery: Ancient pre-apostasy city reveals world history before cataclysm. Old gods worship predates current religious structure. Massive Aztec-style bazaar is active reality, not temporal echoes - blue sky visible despite underground location. Oracle figure with jeweled ornaments accepts modern currency, suggesting intersection of ancient and present realities. Physical marketplace operation indicates time displacement, dimensional overlap, or magical preservation. [[vaerenth]]'s successful transaction establishes real interaction with ancient civilization.
+Major discovery: Ancient pre-apostasy city reveals world history before cataclysm. Old gods worship predates current religious structure. Massive Aztec-style bazaar manifested as temporal mirage - appeared real with blue sky and physical vendors but collapsed after transaction. Oracle figure showed fear at modern currency, heads turned with apprehension toward party. [[vaerenth]]'s successful presence check (15 with [[augustus]] assistance) completed transaction before mirage ended. Hairpin materialized as proof of interaction, suggesting powerful temporal magic responding to belief and presence.
 
 ### Craven's Path Intelligence
 **Source**: [[tavni]] briefing
