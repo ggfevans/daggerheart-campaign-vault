@@ -175,3 +175,9 @@ Session: 2025-09-26 | Next: [Date TBD]
   - Augustus: now at 4 Hope
   - Banjo: now at 6 Hope
   - Vaerenth: remains at 3 Hope
+
+
+### Rescue Attempt - Vaerenth
+- **Aster and Vaerenth** attempt to free Vaerenth from shadowchains
+- **Result**: Total roll of 9 with Fear - **FAILURE**
+- Vaerenth remains restrained
