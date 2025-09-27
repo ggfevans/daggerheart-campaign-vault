@@ -25,8 +25,12 @@ Key events:
 ### Vaerenth (Andi)
 - Survived 21 damage hit at 1 HP, continued fighting with arrow strike
 - Collected mutated villager corpse evidence with Hogpog
-- Performed epic storytelling to village crowd
+- Performed epic storytelling to village crowd at [[shady-rest-pub]]
 - Led party hope-building and memory sharing activity
+- Deferred when asked for group name by [[tavni]]
+- Performed epic storytelling to village crowd at [[shady-rest-pub]]
+- Led party hope-building and memory sharing activity
+- Deferred when asked for group name by [[tavni]]
 
 ### Augustus (Mike)
 - Delivered heroic killing blow with mace, accepting water vat collision
@@ -48,8 +52,8 @@ Rules used: Bloodthirsty ability activation, Fear rolls with narrative consequen
 XP/Rewards: Additional Hope gained from storytelling, evidence collected, reputation established
 
 ## Next Session
-Setup: Party at Taloom base, preparing for tunnel exploration
-Goals: Pursue Craven through unsealed tunnel system, navigate dangerous underground route
+Setup: Party at tunnel entrance, work crews clearing rubble, stone-laid paths leading to network
+Goals: Pursue Craven through tunnel system, navigate underground route with pickaxe sounds ahead
 
 ## Lore Updates
 
@@ -61,12 +65,21 @@ Goals: Pursue Craven through unsealed tunnel system, navigate dangerous undergro
 **Source**: Trial by ordeal completion
 **Information**: Ancient method of determining truth through demonstrated action. Party's success validates moderate faction position. Evacuation strategy now politically feasible with community support.
 
+### Shady Rest Pub Trophy
+**Source**: [[tavni]] arrangement at [[shady-rest-pub]]
+**Information**: Flickerfly head mounted on plaque with party member names as permanent commemoration. Asked for group name but [[vaerenth]] deferred decision. Trophy represents party's heroic status in Taloom community.
+
+### Tunnel Network Access
+**Source**: Direct observation at tunnel entrance
+**Information**: Stone-laid pathways leading down to tunnel network. Work crews with pickaxes clearing rubble and moving stone. One tunnel leads to longer passage. Active excavation suggests recent opening or preparation for party's pursuit.
+
+## Campaign Notes
+Party achieved complete political victory through trial completion. Hero status enables future cooperation but primary mission continues. Evidence of horrific experiments provides context for expedition's purpose. Flickerfly head trophy with party names mounted at [[shady-rest-pub]] establishes permanent legacy. Tunnel pursuit represents next phase with work crews actively clearing access. Group name question deferred, suggesting ongoing character development opportunity.
+
 ### Craven's Path Intelligence
 **Source**: [[tavni]] briefing
 **Information**: Target entered previously sealed tunnel system. High casualty rate for previous explorers. Route leads underground toward unknown destination. Access now available for pursuit.
 
-## Campaign Notes
-Party achieved complete political victory through trial completion. Hero status enables future cooperation but primary mission continues. Evidence of horrific experiments provides context for expedition's purpose. Tunnel pursuit represents next phase with higher risk profile.
 
 ---
 Session: 2025-09-26 | Next: [Date TBD]
