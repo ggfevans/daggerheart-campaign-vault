@@ -1,8 +1,14 @@
 ---
-tags: session/daggerheart, date/2025-09-26
+tags:
+  - session/daggerheart
+  - date/2025-09-26
 session-number: 7
 date: 2025-09-26
-participants: [User, Andi]
+participants:
+  - Andi
+  - Mark
+  - Luie
+  - Gareth
 ---
 
 # Session 7 - 2025-09-26
