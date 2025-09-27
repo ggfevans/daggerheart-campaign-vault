@@ -110,7 +110,7 @@ Custom interpretations and player interactions.
 
 **For lore**: Provide facts with source, campaign context, and story hooks
 **For rules**: State ruling clearly, explain interactions, note house variants
-**For logging**: Concise entries focused on trackable information
+**For logging**: Concise entries focused on trackable information, no emojis
 
 ## Tagging Strategy
 
@@ -143,6 +143,7 @@ path:02-SESSIONS content - Session content search
 - Overwhelm with excessive detail
 - Create content without player agency
 - Ignore established campaign facts
+- use emojis with bulletpoints, no emoji unless asked
 
 ## Quick Commands
 
@@ -164,5 +165,5 @@ path:02-SESSIONS content - Session content search
 
 ---
 *Version: 2.1 - Streamlined*
-*Updated: 2025-01-27*
+*Updated: 2025-09-26
 *Focus: Efficient logging and reference*
