@@ -26,6 +26,7 @@ Key events:
 - Cut off flickerfly head as proof, treated Aster's wounds
 - About to attempt theft when marketplace mirage suddenly ended
 - Recognized temporal phenomena as similar to vision quests from personal experience - find yourself or die, though notes this seems externally imposed rather than personal spiritual journey
+- Threw returning blade at priest/leader to stop execution based on party's desire to prevent sacrifice, causing entire crowd to turn hostile against party
 
 ### Vaerenth (Andi)
 - Survived 21 damage hit at 1 HP, continued fighting with arrow strike
@@ -36,6 +37,7 @@ Key events:
 - Spotted small oracle-like lady with headwrap and jeweled ornaments holding schmeckle coin in ancient bazaar, became fascinated
 - Purchased hairpin from oracle lady for 1 gold coin, performed presence check (15 with Augustus assistance)
 - Successfully completed transaction before marketplace mirage collapsed, hairpin materialized in hair
+- Screamed warning to run when massive crack opened and sky began raining debris, leading party rush to temple for safety
 - Led party hope-building and memory sharing activity
 - Deferred when asked for group name by [[tavni]]
 
@@ -62,8 +64,8 @@ NPCs: [[tavni]] vindicated as leader, [[mama-yata]] trial completed
 Plot: Trial by ordeal successful, party gains hero status, flickerfly head mounted as trophy with party names, Craven entered unsealed tunnel system, tunnel access cleared by work crews, ancient city discovered with old gods worship and marketplace echoes, arena temporal shift with giant gladiator combat initiated, temple sacrifice scene discovered with desperate plea to old gods
 
 ## Mechanics
-Rules used: Bloodthirsty ability activation, Fear rolls with narrative consequences, Short rest recovery, Presence check (Vaerenth 15 with Augustus assistance)
-XP/Rewards: Additional Hope gained from storytelling, evidence collected, reputation established, hairpin obtained from temporal mirage interaction
+Rules used: Bloodthirsty ability activation, Fear rolls with narrative consequences, Short rest recovery, Presence check (Vaerenth 15 with Augustus assistance), Hope loss (party loses 1 Hope from hostile temporal scene)
+XP/Rewards: Additional Hope gained from storytelling, evidence collected, reputation established, hairpin obtained from temporal mirage interaction, Hope reduction from hostile temporal interaction
 
 ## Next Session
 Setup: Party observing temple sacrifice scene, learning about King Othideus's divine ascension plan, temporal phenomena continuing as they approach temple entrance
@@ -103,7 +105,7 @@ Goals: Navigate temple sacrifice temporal scene, investigate King Othideus's div
 
 ### Ancient Temple Sacrifice Scene
 **Source**: Party observation approaching [[ancient-temple-sacrifice-site]]
-**Information**: Temporal scene at temple mouth showing sacrificial ritual. Crowd gathered cheering for ceremony. Priest or leader officiating at elevated position, calling directly to old gods with desperate plea: "take this sacrifice, please accept it! we are not apart of this horrid plan! please take this sacrifice!" The "horrid plan" revealed as King Othideus's ritual to make himself divine. Suggests civilization opposed to Othideus's divine ascension attempt, desperately appealing to old gods for intervention. May represent final moments before cataclysm caused by failed or successful divine transformation ritual.
+**Information**: Temporal scene at temple mouth showing sacrificial ritual. Crowd gathered cheering for ceremony. Priest or leader officiating at elevated position, calling directly to old gods with desperate plea: "take this sacrifice, please accept it! we are not apart of this horrid plan! please take this sacrifice!" The "horrid plan" revealed as King Othideus's ritual to make himself divine. Suggests civilization opposed to Othideus's divine ascension attempt, desperately appealing to old gods for intervention. Party wanted to stop execution - [[banjo]] threw returning blade at priest/leader to prevent sacrifice, causing entire crowd to turn hostile. Massive crack opened in ground, sky began raining debris (possibly volcanic), temple became only visible safe shelter. [[vaerenth]] screamed warning to run, party rushed to temple for protection.
 
 ### Vision Quest Analysis
 **Source**: [[banjo]] personal experience, [[augustus]] and [[aster]] theological analysis
@@ -116,7 +118,7 @@ Major discovery: Ancient pre-apostasy city reveals world history before cataclys
 
 Second temporal shift in ancient arena with gladiatorial combat system. [[aster]] stepped forward as champion to face 10-foot giant gladiator with massive warhammer. Party separated with champion in arena, others as spectators. Single successful hit from [[aster]]'s dodge and attack caused entire arena scene to immediately disappear. Critical discovery: Physical evidence remains after temporal shifts - weathered warhammer impact crater in dirt shows these are not mere visions but events with lasting physical consequences. Party position changed during experience, indicating spatial displacement occurs within temporal phenomena. These visions interact with physical reality and leave permanent traces.
 
-[[banjo]] recognizes similarity to vision quests but notes external imposition rather than personal spiritual journey. [[augustus]] and [[aster]] theorize connection to old gods' religious magic. Temple sacrifice scene reveals civilization under duress, desperately appealing to gods to stop King Othideus's plan to make himself divine - potentially the ritual that caused cataclysm/apostasy. Ancient religious magic remains active, triggered by exploration and requiring participant engagement for resolution. Major historical revelation: King Othideus's divine ascension attempt may be root cause of world's current state.
+[[banjo]] recognizes similarity to vision quests but notes external imposition rather than personal spiritual journey. [[augustus]] and [[aster]] theorize connection to old gods' religious magic. Temple sacrifice scene reveals civilization under duress, desperately appealing to gods to stop King Othideus's plan to make himself divine - potentially the ritual that caused cataclysm/apostasy. [[banjo]]'s impulsive attack on priest triggered hostile crowd reaction and party Hope loss, demonstrating temporal scenes respond to aggressive actions with negative consequences. Ancient religious magic remains active, with different interaction results based on party behavior - cooperation vs. aggression yields different outcomes.
 
 ### Craven's Path Intelligence
 **Source**: [[tavni]] briefing
