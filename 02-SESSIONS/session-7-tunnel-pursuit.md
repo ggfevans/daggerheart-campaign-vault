@@ -181,3 +181,53 @@ Session: 2025-09-26 | Next: [Date TBD]
 - **Aster and Vaerenth** attempt to free Vaerenth from shadowchains
 - **Result**: Total roll of 9 with Fear - **FAILURE**
 - Vaerenth remains restrained
+
+
+### Enemy Actions Continued
+- **Cultist**: Hits Aster again with **enervating blast**
+
+### Vaerenth's Orb Attack
+- **Vaerenth**: Attacks the reddish orb
+- **Result**: Orb appears to take slight damage but **absorbs/eats the attack** (disappears like black hole effect)
+- **Tether Damage**: All tethered beings (Craven & Augustus) take magic damage at 1/2 the attack value
+- **Discovery**: Orb acts as damage redistribution mechanism to tethered targets
+
+### Party Strategy Discussion
+- **Gareth/Banjo**: Initially wanted to target orb, but discovers it's "beefy and not worth hitting"
+- **New plan**: Spread out, avoid orb, focus on cultists first then Craven
+- **Priority target**: Archer cultist causing problems
+- **Orb assessment**: Functions as "tether thing" - noncombatant but redistributes damage to bound targets
+
+
+## Session End - Combat Suspended
+
+### Current Battle Status
+- **Aster**: Free from restraints, has taken multiple hits from cultist attacks (including enervating blast)
+- **Vaerenth**: Still restrained by shadowchains
+- **Augustus**: Restrained and tethered to orb (takes damage when orb is attacked)
+- **Banjo**: Restrained by shadowchains
+- **Craven**: Connected to reddish orb, commanding undead/cultists
+- **Cultists**: Active, including problematic archer
+
+### Key Tactical Discoveries
+- **Orb Mechanics**: Acts as damage redistribution system - absorbs attacks and deals half damage to tethered targets
+- **Tether Victims**: Craven and Augustus both connected to orb
+- **Strategic Implication**: Attacking orb hurts party member Augustus
+- **Party Strategy**: Shift to targeting cultists first, avoid orb, spread out formation
+
+### Mystery Elements
+- **The Cycle**: Craven's referenced "cycle" that party was supposed to break
+- **Orb's Purpose**: Apparent reasoning/logic behind the orb's function (to be explored)
+- **Tether Mechanism**: How and why Augustus became connected to the orb
+
+## Next Session Setup
+**Location**: Ancient temple chamber with six pillars, reddish orb, large coffin
+**Combat State**: Mid-battle with Craven and cultists, multiple party members restrained
+**Primary Goals**: 
+- Free restrained party members
+- Defeat cultists and Craven
+- Understand the orb's true purpose and "the cycle"
+- Determine if Craven can be saved or must be stopped
+
+---
+Session: 2025-09-26 | Next: Session 8 [Date TBD]
