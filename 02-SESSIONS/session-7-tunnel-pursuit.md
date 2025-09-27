@@ -155,3 +155,23 @@ Major confrontation: [[craven]] discovered in temple chamber connected to reddis
 
 ---
 Session: 2025-09-26 | Next: [Date TBD]
+
+## Combat with Craven - Round 1
+
+### Shadowchain Restraint
+- **Whole party restrained** by shadowchain effect from Craven/orb
+- **Aster**: Succeeds on Strength roll to break free
+  - Uses **Fearless** ability to switch from Fear to Hope
+- **Vaerenth**: Attempts to break free but fails Instinct roll, remains restrained
+
+### Enemy Actions
+- **Cultist**: Advances on freed Aster
+  - Attack roll: 14 (hits)
+  - Damage: 6 points magic damage to Aster
+
+
+### Aster's Turn
+- **Hope Distribution**: Gives 3 Hope each to Augustus and Banjo
+  - Augustus: now at 4 Hope
+  - Banjo: now at 6 Hope
+  - Vaerenth: remains at 3 Hope
