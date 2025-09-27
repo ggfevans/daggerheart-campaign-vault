@@ -9,7 +9,7 @@ participants:
   - Andi/Vaerenth
   - Mike/Augustus
   - Luie/Aster
-session-name: Audience with Taveni
+session-name: Audience with Tavni
 ---
 
 # Session 6 - Audience with Taveni
@@ -819,3 +819,31 @@ session-name: Audience with Taveni
 - **⚖️ MAMA YATA'S TEST**: Successfully demonstrated outsiders help rather than harm Taloom
 - **🛡️ EVACUATION VALIDATED**: Party's success supports moderate faction's survival plan
 - **💀 SPIRE THREAT REDUCED**: Immediate creature danger to underground city eliminated
+
+
+### **Post-Combat Cleanup and Evidence Collection**
+
+#### **Augustus Rescue and Recovery**
+- **🏊 BANJO'S EXTRACTION**: Successfully pulls Augustus from experimental water vat
+- **🤝 PARTY SOLIDARITY**: No hero left behind after sacrificial killing blow
+- **💦 CONDITION ASSESSMENT**: Augustus recovered from dramatic vat collision
+- **🛡️ TEAM COORDINATION**: Immediate response to help wounded party member
+
+#### **Strategic Evidence Gathering**
+- **🏹 VAERENTH & HOGPOG**: Collecting humanoid experiment corpse as proof of spire horrors
+- **💀 VILLAGER REVELATION**: Evidence showing creatures were actually transformed Taloom residents
+- **🗡️ BANJO'S TROPHY**: Cuts off Juvenile Flickerfly head for undeniable victory proof
+- **🎯 DUAL EVIDENCE STRATEGY**: Both creature elimination AND experimentation exposure
+- **🐷 HOGPOG PACK DUTY**: Loading evidence onto faithful mount for transport
+
+#### **Party Restoration**
+- **🌿 ASTER'S HEALING**: Restoring Banjo's condition for safe return journey
+- **💪 MEDICAL SUPPORT**: Ensuring party fitness for political confrontation ahead
+- **👥 TEAM PREPARATION**: Everyone contributing to mission completion
+
+#### **Return Journey Preparation**
+- **📦 EVIDENCE SECURED**: Flickerfly head and mutated villager corpse loaded on Hogpog
+- **⚖️ POLITICAL AMMUNITION**: Proof that will devastate Kabuto's xenophobic arguments
+- **🏆 TRIAL VICTORY**: Undeniable evidence of outsider competence and problem-solving
+- **💀 HORROR REVELATION**: Exposure of spire's systematic villager experimentation
+- **🎯 TAVENI VINDICATION**: Complete validation of moderate faction's evacuation position
