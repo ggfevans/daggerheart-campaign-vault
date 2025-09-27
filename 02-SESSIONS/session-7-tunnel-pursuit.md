@@ -16,6 +16,7 @@ Key events:
 - Party gained hero status, prepared for tunnel pursuit
 - Entered ancient pre-apostasy city through tunnel network
 - Discovered active marketplace with blue sky, purchased hairpin from oracle vendor
+- Entered ancient arena, temporal shift activated, Aster stepped forward as champion to face shackled giant gladiator
 
 ## Character Actions
 ### Banjo (Gareth)
@@ -48,19 +49,21 @@ Key events:
 - Supported coordinated assault on flickerfly
 - Participated in party recovery and bonding
 - Recognized references to old gods in ancient city ruins
+- Stepped forward as champion when crowd demanded "choose your champion" in ancient arena
+- Performed quick dodge and attack against giant gladiator, hit successfully causing entire arena scene to disappear
 
 ## World Updates
-New locations: [[shady-rest-pub]], [[taloom-tunnel-network]], [[ancient-pre-apostasy-city]]
+New locations: [[shady-rest-pub]], [[taloom-tunnel-network]], [[ancient-pre-apostasy-city]], [[ancient-arena-ruins]]
 NPCs: [[tavni]] vindicated as leader, [[mama-yata]] trial completed
-Plot: Trial by ordeal successful, party gains hero status, flickerfly head mounted as trophy with party names, Craven entered unsealed tunnel system, tunnel access cleared by work crews, ancient city discovered with old gods worship and marketplace echoes
+Plot: Trial by ordeal successful, party gains hero status, flickerfly head mounted as trophy with party names, Craven entered unsealed tunnel system, tunnel access cleared by work crews, ancient city discovered with old gods worship and marketplace echoes, arena temporal shift with giant gladiator combat initiated
 
 ## Mechanics
 Rules used: Bloodthirsty ability activation, Fear rolls with narrative consequences, Short rest recovery, Presence check (Vaerenth 15 with Augustus assistance)
 XP/Rewards: Additional Hope gained from storytelling, evidence collected, reputation established, hairpin obtained from temporal mirage interaction
 
 ## Next Session
-Setup: Party exploring ancient pre-apostasy city ruins, experiencing marketplace echoes
-Goals: Continue pursuit of Craven through ancient city, investigate temple and old gods relics, navigate narrow streets and temporal phenomena
+Setup: Party returned to ancient arena ruins after temporal scene disappeared, continuing exploration of pre-apostasy city
+Goals: Continue pursuit of Craven through ancient city, investigate remaining temporal phenomena, navigate toward tunnel exit
 
 ## Lore Updates
 
@@ -86,12 +89,20 @@ Goals: Continue pursuit of Craven through ancient city, investigate temple and o
 
 ### Ancient Marketplace - Temporal Mirage
 **Source**: Party direct interaction and observation
+### Ancient Marketplace - Temporal Mirage
+**Source**: Party direct interaction and observation
 **Information**: Marketplace appeared as active reality with blue sky and physical stalls, but revealed to be temporal mirage. Oracle lady scrutinized gold coin with fear, heads turned toward party with apprehension. Transaction completed successfully with [[vaerenth]]'s presence check (15 with [[augustus]] assistance). Hairpin materialized in Vaerenth's hair as mirage collapsed, returning party to ruins. Suggests powerful temporal magic or dimensional overlay that responds to belief and interaction.
+
+### Ancient Arena - Temporal Gladiatorial Combat
+**Source**: Party direct experience in [[ancient-arena-ruins]]
+**Information**: Large open arena with bleacher seating surrounding central combat area. Temporal shift activated by exploration, transforming ruins into active arena with hundreds of spectators. Crowd chants "choose your champion" triggering gladiatorial combat protocol. Features 10-foot tall humanoid giant gladiator in shackles carrying massive warhammer - appears to be enslaved entertainer forced into fighting. Party members except champion rushed to bleacher seating as spectators. [[aster]] performed quick dodge and attack, successful hit caused entire arena scene to immediately disappear, returning party to ruins.
 
 ## Campaign Notes
 Party achieved complete political victory through trial completion. Hero status enables future cooperation but primary mission continues. Evidence of horrific experiments provides context for expedition's purpose. Flickerfly head trophy with party names mounted at [[shady-rest-pub]] establishes permanent legacy. 
 
 Major discovery: Ancient pre-apostasy city reveals world history before cataclysm. Old gods worship predates current religious structure. Massive Aztec-style bazaar manifested as temporal mirage - appeared real with blue sky and physical vendors but collapsed after transaction. Oracle figure showed fear at modern currency, heads turned with apprehension toward party. [[vaerenth]]'s successful presence check (15 with [[augustus]] assistance) completed transaction before mirage ended. Hairpin materialized as proof of interaction, suggesting powerful temporal magic responding to belief and presence.
+
+Second temporal shift in ancient arena with gladiatorial combat system. [[aster]] stepped forward as champion to face 10-foot giant gladiator with massive warhammer. Party separated with champion in arena, others as spectators. Single successful hit from [[aster]]'s dodge and attack caused entire arena scene to immediately disappear. Suggests temporal magic requires specific completion conditions - successful combat engagement triggers scene resolution. Pattern emerging: temporal shifts respond to participant action and successful interaction rather than time duration.
 
 ### Craven's Path Intelligence
 **Source**: [[tavni]] briefing
