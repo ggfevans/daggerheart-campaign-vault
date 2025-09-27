@@ -25,6 +25,7 @@ Key events:
 - Rescued Augustus from water vat after creature impact
 - Cut off flickerfly head as proof, treated Aster's wounds
 - About to attempt theft when marketplace mirage suddenly ended
+- Recognized temporal phenomena as similar to vision quests from personal experience - find yourself or die, though notes this seems externally imposed rather than personal spiritual journey
 
 ### Vaerenth (Andi)
 - Survived 21 damage hit at 1 HP, continued fighting with arrow strike
@@ -43,6 +44,8 @@ Key events:
 - Participated in evidence gathering and political discussions
 - Engaged in hope preparation activity with Vaerenth
 - Identified huge temple and ancient relics in underground city
+- Provided assistance to Vaerenth's presence check in marketplace
+- Theorized temporal phenomena may be religious effects connected to old gods worship
 
 ### Aster (Luie)
 - Provided healing magic during and after combat
@@ -51,19 +54,20 @@ Key events:
 - Recognized references to old gods in ancient city ruins
 - Stepped forward as champion when crowd demanded "choose your champion" in ancient arena
 - Performed quick dodge and attack against giant gladiator, hit successfully causing entire arena scene to disappear
+- Agreed with Augustus that temporal effects may be connected to old gods
 
 ## World Updates
-New locations: [[shady-rest-pub]], [[taloom-tunnel-network]], [[ancient-pre-apostasy-city]], [[ancient-arena-ruins]]
+New locations: [[shady-rest-pub]], [[taloom-tunnel-network]], [[ancient-pre-apostasy-city]], [[ancient-arena-ruins]], [[ancient-temple-sacrifice-site]]
 NPCs: [[tavni]] vindicated as leader, [[mama-yata]] trial completed
-Plot: Trial by ordeal successful, party gains hero status, flickerfly head mounted as trophy with party names, Craven entered unsealed tunnel system, tunnel access cleared by work crews, ancient city discovered with old gods worship and marketplace echoes, arena temporal shift with giant gladiator combat initiated
+Plot: Trial by ordeal successful, party gains hero status, flickerfly head mounted as trophy with party names, Craven entered unsealed tunnel system, tunnel access cleared by work crews, ancient city discovered with old gods worship and marketplace echoes, arena temporal shift with giant gladiator combat initiated, temple sacrifice scene discovered with desperate plea to old gods
 
 ## Mechanics
 Rules used: Bloodthirsty ability activation, Fear rolls with narrative consequences, Short rest recovery, Presence check (Vaerenth 15 with Augustus assistance)
 XP/Rewards: Additional Hope gained from storytelling, evidence collected, reputation established, hairpin obtained from temporal mirage interaction
 
 ## Next Session
-Setup: Party returned to ancient arena ruins after temporal scene disappeared, continuing exploration of pre-apostasy city
-Goals: Continue pursuit of Craven through ancient city, investigate remaining temporal phenomena, navigate toward tunnel exit
+Setup: Party observing temple sacrifice scene, learning about King Othideus's divine ascension plan, temporal phenomena continuing as they approach temple entrance
+Goals: Navigate temple sacrifice temporal scene, investigate King Othideus's divine transformation ritual, continue pursuit of Craven through ancient city, understand connection between divine ascension attempt and world's cataclysm
 
 ## Lore Updates
 
@@ -97,12 +101,22 @@ Goals: Continue pursuit of Craven through ancient city, investigate remaining te
 **Source**: Party direct experience in [[ancient-arena-ruins]]
 **Information**: Large open arena with bleacher seating surrounding central combat area. Temporal shift activated by exploration, transforming ruins into active arena with hundreds of spectators. Crowd chants "choose your champion" triggering gladiatorial combat protocol. Features 10-foot tall humanoid giant gladiator in shackles carrying massive warhammer - appears to be enslaved entertainer forced into fighting. Party members except champion rushed to bleacher seating as spectators. [[aster]] performed quick dodge and attack, successful hit caused entire arena scene to immediately disappear, returning party to ruins. Physical evidence remains: warhammer impact crater in dirt, weathered and aged. Party position shifted during temporal experience - these are visions with real physical effects and spatial consequences.
 
+### Ancient Temple Sacrifice Scene
+**Source**: Party observation approaching [[ancient-temple-sacrifice-site]]
+**Information**: Temporal scene at temple mouth showing sacrificial ritual. Crowd gathered cheering for ceremony. Priest or leader officiating at elevated position, calling directly to old gods with desperate plea: "take this sacrifice, please accept it! we are not apart of this horrid plan! please take this sacrifice!" The "horrid plan" revealed as King Othideus's ritual to make himself divine. Suggests civilization opposed to Othideus's divine ascension attempt, desperately appealing to old gods for intervention. May represent final moments before cataclysm caused by failed or successful divine transformation ritual.
+
+### Vision Quest Analysis
+**Source**: [[banjo]] personal experience, [[augustus]] and [[aster]] theological analysis
+**Information**: [[banjo]] recognizes phenomena similar to vision quests - spiritual journeys where participants "find yourself or die" - but notes this appears externally imposed rather than personal spiritual seeking. [[augustus]] theorizes religious effects connected to old gods worship. [[aster]] agrees temporal phenomena likely connected to old gods' influence. Suggests ancient religious magic still active in ruins, possibly triggered by party's presence or exploration patterns.
+
 ## Campaign Notes
 Party achieved complete political victory through trial completion. Hero status enables future cooperation but primary mission continues. Evidence of horrific experiments provides context for expedition's purpose. Flickerfly head trophy with party names mounted at [[shady-rest-pub]] establishes permanent legacy. 
 
 Major discovery: Ancient pre-apostasy city reveals world history before cataclysm. Old gods worship predates current religious structure. Massive Aztec-style bazaar manifested as temporal mirage - appeared real with blue sky and physical vendors but collapsed after transaction. Oracle figure showed fear at modern currency, heads turned with apprehension toward party. [[vaerenth]]'s successful presence check (15 with [[augustus]] assistance) completed transaction before mirage ended. Hairpin materialized as proof of interaction, suggesting powerful temporal magic responding to belief and presence.
 
 Second temporal shift in ancient arena with gladiatorial combat system. [[aster]] stepped forward as champion to face 10-foot giant gladiator with massive warhammer. Party separated with champion in arena, others as spectators. Single successful hit from [[aster]]'s dodge and attack caused entire arena scene to immediately disappear. Critical discovery: Physical evidence remains after temporal shifts - weathered warhammer impact crater in dirt shows these are not mere visions but events with lasting physical consequences. Party position changed during experience, indicating spatial displacement occurs within temporal phenomena. These visions interact with physical reality and leave permanent traces.
+
+[[banjo]] recognizes similarity to vision quests but notes external imposition rather than personal spiritual journey. [[augustus]] and [[aster]] theorize connection to old gods' religious magic. Temple sacrifice scene reveals civilization under duress, desperately appealing to gods to stop King Othideus's plan to make himself divine - potentially the ritual that caused cataclysm/apostasy. Ancient religious magic remains active, triggered by exploration and requiring participant engagement for resolution. Major historical revelation: King Othideus's divine ascension attempt may be root cause of world's current state.
 
 ### Craven's Path Intelligence
 **Source**: [[tavni]] briefing
