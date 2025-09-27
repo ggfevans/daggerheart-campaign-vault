@@ -28,6 +28,8 @@ Key events:
 - Recognized temporal phenomena as similar to vision quests from personal experience - find yourself or die, though notes this seems externally imposed rather than personal spiritual journey
 - Threw returning blade at priest/leader to stop execution based on party's desire to prevent sacrifice, causing entire crowd to turn hostile against party
 - Grabbed onto Aster's leg during flight, shouted "shake and bake!" and executed two-footed dropkick into executioner leader's chest, successfully preventing execution while leader screamed "no, no!"
+- Wrapped arm around Augustus in comfort after traumatic bone discovery
+- Recognized Augustus's trauma but noted this wasn't the time to discuss it further
 
 ### Vaerenth (Andi)
 - Survived 21 damage hit at 1 HP, continued fighting with arrow strike
@@ -52,6 +54,7 @@ Key events:
 - Theorized temporal phenomena may be religious effects connected to old gods worship
 - Successfully scrambled to save two children from falling debris during cataclysmic sequence
 - When temporal vision faded, found himself holding only bones instead of saved children
+- Showed signs of trauma from bone discovery, acknowledged "the pain is still real" despite Aster's comfort, took moment to process the psychological impact
 
 ### Aster (Luie)
 - Provided healing magic during and after combat
@@ -63,6 +66,7 @@ Key events:
 - Agreed with Augustus that temporal effects may be connected to old gods
 - Witnessed near-execution in temple scene, flew over to help prevent it and reach temple safety
 - Rolled exceptional success (23 with Hope) during rescue flight, carried Banjo for dramatic dropkick assault
+- Comforted Augustus after trauma, lifting his face to explain "this was the past, we did everything we could. this has already happened. its not your fault"
 
 ## World Updates
 New locations: [[shady-rest-pub]], [[taloom-tunnel-network]], [[ancient-pre-apostasy-city]], [[ancient-arena-ruins]], [[ancient-temple-sacrifice-site]]
