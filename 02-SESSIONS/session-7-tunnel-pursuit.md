@@ -68,8 +68,8 @@ Rules used: Bloodthirsty ability activation, Fear rolls with narrative consequen
 XP/Rewards: Additional Hope gained from storytelling, evidence collected, reputation established, hairpin obtained from temporal mirage interaction, Hope reduction from hostile temporal interaction
 
 ## Next Session
-Setup: Party observing temple sacrifice scene, learning about King Othideus's divine ascension plan, temporal phenomena continuing as they approach temple entrance
-Goals: Navigate temple sacrifice temporal scene, investigate King Othideus's divine transformation ritual, continue pursuit of Craven through ancient city, understand connection between divine ascension attempt and world's cataclysm
+Setup: Party rushing into temple for shelter as massive crack opens and sky rains debris, hostile crowd behind them, cataclysmic event unfolding
+Goals: Seek shelter in temple, survive cataclysmic event (possible volcanic eruption), navigate temple interior, continue pursuit of Craven after environmental crisis resolves
 
 ## Lore Updates
 
@@ -118,7 +118,7 @@ Major discovery: Ancient pre-apostasy city reveals world history before cataclys
 
 Second temporal shift in ancient arena with gladiatorial combat system. [[aster]] stepped forward as champion to face 10-foot giant gladiator with massive warhammer. Party separated with champion in arena, others as spectators. Single successful hit from [[aster]]'s dodge and attack caused entire arena scene to immediately disappear. Critical discovery: Physical evidence remains after temporal shifts - weathered warhammer impact crater in dirt shows these are not mere visions but events with lasting physical consequences. Party position changed during experience, indicating spatial displacement occurs within temporal phenomena. These visions interact with physical reality and leave permanent traces.
 
-[[banjo]] recognizes similarity to vision quests but notes external imposition rather than personal spiritual journey. [[augustus]] and [[aster]] theorize connection to old gods' religious magic. Temple sacrifice scene reveals civilization under duress, desperately appealing to gods to stop King Othideus's plan to make himself divine - potentially the ritual that caused cataclysm/apostasy. [[banjo]]'s impulsive attack on priest triggered hostile crowd reaction and party Hope loss, demonstrating temporal scenes respond to aggressive actions with negative consequences. Ancient religious magic remains active, with different interaction results based on party behavior - cooperation vs. aggression yields different outcomes.
+[[banjo]] recognizes similarity to vision quests but notes external imposition rather than personal spiritual journey. [[augustus]] and [[aster]] theorize connection to old gods' religious magic. Temple sacrifice scene reveals civilization under duress, desperately appealing to gods to stop King Othideus's plan to make himself divine - potentially the ritual that caused cataclysm/apostasy. Party collectively wanted to stop execution - [[banjo]]'s blade throw to prevent sacrifice triggered hostile crowd reaction and party Hope loss, but also caused massive environmental cataclysm. Ground crack and debris rain (possibly volcanic) forced party to seek temple shelter. Temporal scenes respond to party interference with dramatic escalation - stopping sacrifice may have triggered the very cataclysm this civilization feared.
 
 ### Craven's Path Intelligence
 **Source**: [[tavni]] briefing
