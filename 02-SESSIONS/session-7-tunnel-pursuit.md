@@ -69,17 +69,17 @@ Key events:
 - Comforted Augustus after trauma, lifting his face to explain "this was the past, we did everything we could. this has already happened. its not your fault"
 
 ## World Updates
-New locations: [[shady-rest-pub]], [[taloom-tunnel-network]], [[ancient-pre-apostasy-city]], [[ancient-arena-ruins]], [[ancient-temple-sacrifice-site]]
+New locations: [[shady-rest-pub]], [[taloom-tunnel-network]], [[ancient-pre-apostasy-city]], [[ancient-arena-ruins]], [[ancient-temple-sacrifice-site]], [[ancient-temple-interior]], [[massive-ancient-doors]]
 NPCs: [[tavni]] vindicated as leader, [[mama-yata]] trial completed
-Plot: Trial by ordeal successful, party gains hero status, flickerfly head mounted as trophy with party names, Craven entered unsealed tunnel system, tunnel access cleared by work crews, ancient city discovered with old gods worship and marketplace echoes, arena temporal shift with giant gladiator combat initiated, temple sacrifice scene discovered with desperate plea to old gods
+Plot: Trial by ordeal successful, party gains hero status, flickerfly head mounted as trophy with party names, Craven entered unsealed tunnel system, tunnel access cleared by work crews, ancient city discovered with old gods worship and marketplace echoes, arena temporal shift with giant gladiator combat initiated, temple sacrifice scene discovered with desperate plea to old gods, party trauma processing after bone discovery, distant battle sounds beyond massive flooded doors
 
 ## Mechanics
 Rules used: Bloodthirsty ability activation, Fear rolls with narrative consequences, Short rest recovery, Presence check (Vaerenth 15 with Augustus assistance), Hope loss (party loses 1 Hope from hostile temporal scene), Critical success (Vaerenth double 4s agility), Exceptional success (Aster 23 with Hope), Successful rescue (Augustus saving children)
 XP/Rewards: Additional Hope gained from storytelling, evidence collected, reputation established, hairpin obtained from temporal mirage interaction, Hope reduction from hostile temporal interaction, successful heroic actions during cataclysmic sequence
 
 ## Next Session
-Setup: Party inside ancient temple after temporal vision ended, path behind sealed with rubble, Augustus holding bones instead of saved children, complete silence
-Goals: Explore temple interior, process traumatic revelation about temporal vision limitations, find way forward through temple, continue pursuit of Craven, understand implications of failed rescue attempts
+Setup: Party inside ancient temple after emotional processing, distant screams "no, no, ahhh!" echoing ahead, approaching two massive ancient doors with inches of water flooding room, sounds of battle beyond doors
+Goals: Investigate battle sounds beyond massive doors, navigate flooded temple chamber, determine if sounds are temporal phenomena or present danger, continue pursuit of Craven through temple complex
 
 ## Lore Updates
 
@@ -125,6 +125,10 @@ Haunting conclusion: Temporal vision faded suddenly - [[augustus]] found himself
 **Source**: [[banjo]] personal experience, [[augustus]] and [[aster]] theological analysis
 **Information**: [[banjo]] recognizes phenomena similar to vision quests - spiritual journeys where participants "find yourself or die" - but notes this appears externally imposed rather than personal spiritual seeking. [[augustus]] theorizes religious effects connected to old gods worship. [[aster]] agrees temporal phenomena likely connected to old gods' influence. Suggests ancient religious magic still active in ruins, possibly triggered by party's presence or exploration patterns.
 
+### Temple Interior and Battle Sounds
+**Source**: Party exploration of [[ancient-temple-interior]]
+**Information**: After emotional processing of temporal trauma, party heard distant screams "no, no, ahhh!" echoing from ahead. Proceeded to two massive ancient doors in room flooded with inches of water. Sounds of battle beyond doors: clanging blades, screams, signs of active combat. Unclear if sounds represent another temporal phenomenon or present danger. Temple interior shows signs of flooding and age.
+
 ## Campaign Notes
 Party achieved complete political victory through trial completion. Hero status enables future cooperation but primary mission continues. Evidence of horrific experiments provides context for expedition's purpose. Flickerfly head trophy with party names mounted at [[shady-rest-pub]] establishes permanent legacy. 
 
@@ -132,7 +136,9 @@ Major discovery: Ancient pre-apostasy city reveals world history before cataclys
 
 Second temporal shift in ancient arena with gladiatorial combat system. [[aster]] stepped forward as champion to face 10-foot giant gladiator with massive warhammer. Party separated with champion in arena, others as spectators. Single successful hit from [[aster]]'s dodge and attack caused entire arena scene to immediately disappear. Critical discovery: Physical evidence remains after temporal shifts - weathered warhammer impact crater in dirt shows these are not mere visions but events with lasting physical consequences. Party position changed during experience, indicating spatial displacement occurs within temporal phenomena. These visions interact with physical reality and leave permanent traces.
 
-Party collectively wanted to stop execution - [[banjo]]'s blade throw to prevent sacrifice triggered hostile crowd reaction and party Hope loss, but also caused massive environmental cataclysm. Ground crack and debris rain (possibly volcanic) forced party to seek temple shelter. Heroic rescue sequence with multiple successes: [[vaerenth]] critical agility, [[aster]] exceptional flight (23 with Hope), [[augustus]] successful child rescue, [[banjo]]'s dropkick preventing execution. However, temporal vision's end revealed devastating truth - [[augustus]] held only bones instead of children he thought he saved. Temporal visions allow heroic feeling but救援efforts may be illusory. Path sealed with rubble, party trapped in temple with haunting silence and knowledge that their rescue attempts in temporal scenes may not translate to actual salvation.
+Party collectively wanted to stop execution - [[banjo]]'s blade throw to prevent sacrifice triggered hostile crowd reaction and party Hope loss, but also caused massive environmental cataclysm. Ground crack and debris rain (possibly volcanic) forced party to seek temple shelter. Heroic rescue sequence with multiple successes: [[vaerenth]] critical agility, [[aster]] exceptional flight (23 with Hope), [[augustus]] successful child rescue, [[banjo]]'s dropkick preventing execution. However, temporal vision's end revealed devastating truth - [[augustus]] held only bones instead of children he thought he saved. 
+
+Emotional processing: [[augustus]] showed trauma signs, acknowledging "the pain is still real" despite [[aster]]'s wise comfort that "this was the past, we did everything we could. this has already happened. its not your fault." [[banjo]] provided physical comfort and recognized trauma present but inappropriate timing for deeper discussion. Temporal visions allow heroic feeling but rescue efforts may be illusory. Path sealed with rubble, party trapped in temple but discovered distant battle sounds beyond massive flooded doors - unclear if temporal phenomenon or present danger.
 
 ### Craven's Path Intelligence
 **Source**: [[tavni]] briefing
