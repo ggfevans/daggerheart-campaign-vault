@@ -53,7 +53,7 @@ Key events:
 - Deferred when asked for group name by [[tavni]]
 
 ### Augustus (Mike)
-- Delivered heroic killing blow with mace, accepting water vat collision
+- Delivered heroic killing blow on flickerfly with mace, accepting water vat collision
 - Participated in evidence gathering and political discussions
 - Engaged in hope preparation activity with Vaerenth
 - Identified huge temple and ancient relics in underground city
@@ -220,6 +220,7 @@ Session: 2025-09-26 | Next: [Date TBD]
 - **Tether Victims**: Craven and Augustus both connected to orb
 - **Strategic Implication**: Attacking orb hurts party member Augustus
 - **Party Strategy**: Shift to targeting cultists first, avoid orb, spread out formation
+- **GM Tactical Advice**: Best strategy is to scatter/spread out
 
 ### Mystery Elements
 - **The Cycle**: Craven's referenced "cycle" that party was supposed to break
