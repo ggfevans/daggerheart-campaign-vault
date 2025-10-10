@@ -43,13 +43,16 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 
 ---
 
-### Round [Number] - [Timestamp]
+### Round 1 - Opening Actions
 
-#### [Character Name]'s Turn
-- **Action**: 
-- **Roll**: 
-- **Result**: 
-- **Effect**: 
+#### Vaerenth's Escape Attempt (with Aster assist)
+- **Action**: Attempt to break free from shadowshackle restraints
+- **Aster's Assist Roll**: 4
+- **Vaerenth's Roll**: 9  
+- **Prayer Dice Bonus**: +1 (from Aster)
+- **Final Total**: 14 with Fear
+- **Result**: SUCCESS - Vaerenth breaks free!
+- **Effect**: Vaerenth escapes shadowshackle restraints 
 
 ---
 
