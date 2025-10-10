@@ -62,7 +62,39 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - **Effect**: Banjo restrained by shadowshackles
 - **Additional Loss**: Rogue's Dodge ability consumed
 - **Cultist Movement**: Retreated further away from party
-- **Tactical Note**: Aggressive play backfired - Banjo now restrained and cultist repositioned defensively 
+- **Tactical Note**: Aggressive play backfired - Banjo now restrained and cultist repositioned defensively
+
+#### Coordinated Cultist Elimination (Aster + Vaerenth)
+- **Aster's Action**: Light-enhanced arrow assist
+- **Vaerenth's Action**: Archery shot on shadowshackle cultist
+- **Result**: KILL - Shadowshackle cultist eliminated
+- **Effect**: Banjo and Hogpog automatically freed from restraints
+
+#### Banjo's Liberation and Counter-Strike
+- **Instinct Roll**: SUCCESS - Banjo breaks free from restraints
+- **Action**: Shadowstep behind remaining cultist
+- **Position**: Hidden in shadows behind target
+- **Attack**: Sneak attack from Hidden
+- **Result**: GOOD HIT on cultist
+
+#### Craven's Pursuit
+- **Action**: Followed Banjo's shadowstep
+- **Attack**: Umbral Strike on Banjo
+- **Result**: HARD HIT - significant damage to Banjo
+- **Tactical Note**: Craven tracking Banjo's movements, applying direct pressure
+
+#### Spectral Guardian Engagement
+- **Targets**: Aster, Vaerenth, and Hogpog
+- **Enemy Count**: 2x Spectral Guardians active
+- **Additional Threats**: Archer cultists still in combat
+- **Combat Status**: Multi-front battle developing
+
+#### Augustus's Tethered Dilemma
+- **Current State**: Retreated into shell (defensive stance)
+- **Primary Action**: Mitigating tether damage from orb
+- **Observation**: Witnessed Banjo take heavy hit from Craven
+- **Tactical Assessment**: Unable to provide effective help while tethered to orb
+- **Strategic Problem**: Tether prevents full party support capability 
 
 ---
 
