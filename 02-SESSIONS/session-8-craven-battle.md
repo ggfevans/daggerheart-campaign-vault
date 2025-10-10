@@ -52,7 +52,17 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - **Prayer Dice Bonus**: +1 (from Aster)
 - **Final Total**: 14 with Fear
 - **Result**: SUCCESS - Vaerenth breaks free!
-- **Effect**: Vaerenth escapes shadowshackle restraints 
+- **Effect**: Vaerenth escapes shadowshackle restraints
+
+#### Banjo's Aggressive Push
+- **Action 1**: Shadowstep behind cultist (teleport ability)
+- **Action 2**: Sneak attack attempt
+- **Roll**: MISS
+- **Cultist Counter**: Shadowshackle attack on Banjo - HIT
+- **Effect**: Banjo restrained by shadowshackles
+- **Additional Loss**: Rogue's Dodge ability consumed
+- **Cultist Movement**: Retreated further away from party
+- **Tactical Note**: Aggressive play backfired - Banjo now restrained and cultist repositioned defensively 
 
 ---
 
