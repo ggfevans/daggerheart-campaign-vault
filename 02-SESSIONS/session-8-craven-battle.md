@@ -525,6 +525,63 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - **Dramatic Moment**: Showing Tavni what they actually found
 
 ---
+
+
+
+#### Tavni's Response to the Orb
+- **Statement**: "We have no need for the orb"
+- **Dismissal**: Not interested in the artifact despite its appearance
+- **Unaware**: Doesn't realize the cosmic significance of what they're rejecting
+- **Irony**: The most dangerous object in the region dismissed as unneeded
+
+#### Changes in Taloom
+- **Tavni's Revelation**: "A few things have changed, some for the good"
+- **Timeline Context**: 5 days have passed in town during party's absence
+- **Mystery**: What happened while the party was in temporal distortion?
+- **Tone**: Some changes positive, implying others may not be
+- **Setup**: Significant events occurred in the missing time
+
+---
+
+
+
+#### Mama Yada's Transformation
+- **Development**: [[mama-yada]] has agreed to trade with outsiders
+- **Consideration**: Possibly moving/relocating
+- **Cause**: Party's earlier intervention and help
+- **Tavni's Response**: Thanks the party for spurring this positive change
+- **Impact**: Opens new trade opportunities for Taloom
+- **Character Growth**: Mama Yada overcoming isolation/distrust
+- **Party Achievement**: Diplomatic success with long-term benefits
+- **Timeline Note**: This development occurred during the 5-day absence
+
+---
+
+
+
+#### Sealing the Ruins
+- **Tavni's Question**: "Should we still collapse the shaft?"
+- **Aster's Response**: "Collapse that bitch, immediately"
+- **Decision**: Unanimous agreement to seal the ancient ruins
+- **Urgency**: No hesitation after experiencing temporal distortion and cosmic horror
+- **Protective Measure**: Preventing future access to the dangerous site
+- **Character Moment**: Aster's normally composed demeanour replaced with absolute certainty
+- **Implication**: Party knows firsthand why the ruins must remain sealed
+- **Final Action**: The shaft to the ancient city will be collapsed
+
+---
+
+
+
+#### Party Name Established
+- **Vaerenth's Declaration**: The group's name is **TSAS - TSA Slayers**
+- **Tavni's Response**: Notes the name for their plaque
+- **Recognition**: Party officially commemorated at the Shady Rest
+- **Identity Established**: First formal declaration of the adventuring party's name
+- **TSA Reference**: Name calls back to their conflicts with Taloom Security Authority
+- **Legacy**: Party's deeds will be remembered and recorded
+
+---
 ## Character Actions
 ### Banjo (Gareth)
 - Broke free from shadowchain restraints with Instinct roll
