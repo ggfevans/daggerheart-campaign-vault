@@ -582,6 +582,20 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - **Legacy**: Party's deeds will be remembered and recorded
 
 ---
+
+
+
+#### Evidence of New Trade
+- **Food Presented**: Meal served to the party
+- **Observation**: "Outside food" - not locally sourced
+- **Implication**: Active trade with outsiders now occurring
+- **Source**: Likely from [[void-spire]]
+- **Significance**: Tangible proof of opened trade routes
+- **Party Impact**: Their diplomatic efforts bearing immediate, practical fruit
+- **Economic Change**: Taloom's isolation breaking down in real-time
+- **Character Moment**: Party experiencing the direct results of their earlier work with Mama Yada
+
+---
 ## Character Actions
 ### Banjo (Gareth)
 - Broke free from shadowchain restraints with Instinct roll
