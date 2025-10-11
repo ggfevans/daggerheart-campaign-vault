@@ -14,7 +14,7 @@ participants:
 # Session 8 - 2025-10-10
 
 ## Summary
-Duration: [TBD] hours
+Duration: ~4 hours
 Key events:
 - Continued combat with Craven in ancient temple chamber
 - Vaerenth sacrificed herself (17 damage) to break Augustus's orb tether, freeing the healer
@@ -27,6 +27,12 @@ Key events:
 - Cosmic horror revealed: Orb breach caused sky to crack, tentacles from beyond reached through
 - Vaerenth concealed orb in robe, stopping reality breach
 - Party escaped carrying mortally wounded Augustus, possessing world-ending artifact
+- Temporal distortion: 5 days passed in Taloom during party's 6-12 hour absence
+- Mama Yada agreed to trade with outsiders, possibly relocating (positive change from party's help)
+- Tavni provided useful equipment: potion recipe, jump root, gecko gloves
+- Party departed Taloom as honored allies, heading "elsewhere" - NOT to Void Spire
+- **Critical Choice**: Party broke contract with Chainlord, refusing to deliver cosmic horror artifact
+- **Level Up**: All characters advanced with powerful new abilities
 
 ## Previous Session Recap
 From Session 7: Party confronted [[craven]] in temple chamber with six pillars, reddish orb, and large coffin. Combat initiated with shadowchain restraints affecting whole party. [[aster]] broke free using Fearless ability, distributed Hope. [[vaerenth]] attempted but failed to break free. Orb revealed as damage redistribution mechanism - attacks absorbed and dealt half damage to tethered targets ([[craven]] and [[augustus]]). Cultists attacking, including problematic archer. Party strategy: target cultists first, avoid orb, spread out.
@@ -640,24 +646,81 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 ## World Updates
 New locations: [[temple-chamber-with-pillars]] (battle site), cosmic breach point
 NPCs: [[craven]] (deceased - guardian/prisoner of the cycle)
-Plot: Craven defeated after brutal battle, revealed to be guardian/prisoner maintaining seal on cosmic horror. Reddish orb revealed as containment device - when exposed causes reality breach with tentacles from beyond. Vaerenth now possesses wrapped orb, only concealment prevents apocalypse. Augustus critically wounded, evacuated by party. "The Cycle" was Craven's duty binding someone to orb to maintain seal. Party victory may have doomed world by breaking guardian cycle. 
+Plot: Craven defeated after brutal battle, revealed to be guardian/prisoner maintaining seal on cosmic horror. Reddish orb revealed as containment device - when exposed causes reality breach with tentacles from beyond. Vaerenth now possesses wrapped orb, only concealment prevents apocalypse. Augustus critically wounded, evacuated by party. "The Cycle" was Craven's duty binding someone to orb to maintain seal. Party victory may have doomed world by breaking guardian cycle. Temporal distortion discovered - 5 days passed in Taloom during party's perceived 6-12 hours. Mama Yada opened to outsider trade (positive change from party's intervention). Party received equipment from Kabuto's scavenging efforts. Departed Taloom as honored allies but broke Chainlord contract by refusing to deliver orb to Void Spire. Now rogue agents carrying world-ending artifact, heading "elsewhere" with no clear destruction plan. 
 
 ## Mechanics
 Rules used: 
+- Tether breaking mechanics (17 damage to Vaerenth, 23 damage to Aster)
+- "Get Over Here" reactive ability (triggered by 2+ HP damage)
+- Vicious Entangle restraint spell
+- Orb exposure/concealment mechanics (reality breach phenomenon)
+- Temporal distortion (5 days passed in town vs 6-12 hours for party)
+
 XP/Rewards: 
+- **Level Up**: All characters advanced
+- **Loot**: Reddish orb (cosmic horror containment device)
+- **Taloom Resources**: Minor stamina potion recipe, instant jump root, gecko gloves
+- **Alliance**: Secured standing as honored allies of Taloom
 
 ## Next Session
-Setup: 
+Setup: Party has departed Taloom, heading "elsewhere" (not to Void Spire), carrying the world-ending orb. They have broken their contract with the Chainlord by refusing to deliver the artifact. Augustus still recovering from near-death experience. Party now possesses powerful new abilities and equipment.
+
 Goals: 
+- Determine destination and plan for the orb
+- Deal with consequences of breaking Chainlord contract
+- Find way to destroy or permanently secure cosmic horror artifact
+- Navigate as rogue agents with world-ending responsibility 
 
 ## Lore Updates
 
-### [Topic]
-**Source**: 
+### The Cycle & Cosmic Horror
+**Source**: Craven's final moments, orb exposure phenomenon
 **Information**: 
+- "The Cycle" was Craven's duty maintaining seal on cosmic horror using the orb
+- Breaking the cycle (Craven's death) allows reality breach when orb exposed
+- Someone must be tethered to orb to maintain seal
+- Craven's last words: "Noooo I was so close!!!" - implies he was trying to complete/transfer the duty
+- Physical concealment of orb prevents breach - discovered by Vaerenth wrapping it
+
+### Temporal Distortion in Ancient Ruins
+**Source**: Party return to Taloom, Tavni's reaction
+**Information**:
+- Party experienced 6-12 hours in ancient temple ruins
+- 5 days passed in normal time (Taloom/surface)
+- Aster's theory: "Time flows differently in there"
+- Ruins contain severe temporal anomalies
+- Effect ceased after leaving the area
+
+### The Chainlord Contract (Broken)
+**Source**: Session 4 contract, Session 8 decision
+**Information**:
+- Original mission: Retrieve sphere artifact for Chainlord as payment for chasm expedition
+- Reddish orb may be the requested artifact
+- Party chose to keep orb rather than deliver to Void Spire authorities
+- Moral decision: Cannot hand cosmic horror containment to anyone
+- Consequences unknown but likely severe - contract breach with major authority 
 
 ## Campaign Notes
-[Notes to be added]
+
+### Major Story Implications
+1. **Broken Contract**: Party has defaulted on official agreement with the Chainlord - consequences likely severe
+2. **World-Ending Artifact**: Carrying cosmic horror containment device with no destruction method known
+3. **Rogue Agents**: No longer working within established authority structure
+4. **Taloom Alliance**: Secured safe haven and honored ally status in underground city
+5. **Power Increase**: Significant combat capabilities gained through level advancement
+
+### Unresolved Questions
+- How to destroy the orb permanently?
+- What will the Chainlord do about the broken contract?
+- What was Craven's true role in "The Cycle"?
+- Can the cosmic horror be permanently sealed another way?
+- Where is the party heading?
+
+### Character Development
+- Augustus: Nearly died protecting Banjo, demonstrated ultimate tank loyalty
+- Aster: Took massive damage to free Banjo, received divine reassurance ("everything will be ok")
+- Vaerenth: Freed Augustus despite severe cost, delivered killing blow to Craven, now bears responsibility for containing orb
+- Banjo: Ultimate disrespect to boss (mooning Craven), survived being used as hostage
 
 ---
 Session: 2025-10-10 | Previous: [[session-7-tunnel-pursuit]] | Next: [Date TBD]
@@ -736,3 +799,81 @@ Session: 2025-10-10 | Previous: [[session-7-tunnel-pursuit]] | Next: [Date TBD]
 - **New Path**: Party striking out on their own with world-ending artifact in possession
 
 **Critical Choice**: Party explicitly avoiding return to Void Spire/Anchorpoint despite original mission
+
+
+---
+
+## Session End & Level Up
+
+### Character Advancement
+
+#### Vaerenth (Andi) - Level Up
+**Domain Cards Acquired (2):**
+
+1. **Towering Stalk**
+   - **Base Effect**: Once per rest, conjure thick twisting stalk within Close range, climbable up to Far range height
+   - **Attack Option**: Mark Stress to use as attack - Spellcast Roll against adversary/group in Close range
+   - **Damage**: Erupting stalk lifts targets and drops them for d8 physical damage (Proficiency)
+   - **Tactical Use**: Battlefield control, elevation advantage, or area damage
+
+2. **Corrosive Projectile**
+   - **Attack**: Spellcast Roll against target within Far range
+   - **Damage**: d6+4 magic damage (Proficiency)
+   - **Debuff Option**: Mark 2+ Stress to make target permanently Corroded
+   - **Corroded Effect**: −1 penalty to Difficulty for every 2 Stress spent
+   - **Stacking**: Condition can stack for cumulative effect
+   - **Strategic Value**: Long-term debuff investment for boss fights
+
+#### Augustus (Mike) - Level Up
+**Domain Cards Acquired (2):**
+
+1. **Forceful Push**
+   - **Attack**: Primary weapon attack against Melee target
+   - **Base Effect**: Deal damage and knock back to Close range
+   - **Hope Bonus**: Success with Hope adds d6 to damage
+   - **Hope Spend**: Can spend Hope to make target temporarily Vulnerable
+   - **Tank Utility**: Creates space while dealing damage
+
+2. **Bold Presence**
+   - **Presence Enhancement**: Spend Hope to add Strength to Presence Roll
+   - **Condition Immunity**: Once per rest, avoid gaining condition by describing how bold presence aids
+   - **Character Synergy**: Leverages Augustus's intimidating tank presence
+
+#### Aster (Luie) - Level Up
+**Improvements:**
+- **Increased Stress Threshold**: Enhanced capacity for more healing
+- **Healing Support**: Greater sustainability for party support role
+
+**Domain Card Acquired (1):**
+
+1. **Forceful Push** (same as Augustus)
+   - **Attack**: Primary weapon attack against Melee target
+   - **Base Effect**: Deal damage and knock back to Close range
+   - **Hope Bonus**: Success with Hope adds d6 to damage
+   - **Hope Spend**: Can spend Hope to make target temporarily Vulnerable
+   - **Note**: Both Aster and Augustus now have battlefield control with knockback
+
+#### Banjo (Gareth) - Level Up
+**Attribute Increases:**
+- **Agility**: +1 (now **+2**)
+- **Finesse**: +1 (now **+3**)
+- **Impact**: Enhanced mobility and precision for Nightwalker rogue
+
+**Domain Card Acquired (1):**
+
+1. **Chokehold**
+   - **Activation**: Position behind creature of similar size, mark Stress
+   - **Effect**: Pull into chokehold, make temporarily Vulnerable
+   - **Synergy Bonus**: When creature attacks Vulnerable target, deal extra **2d6 damage**
+   - **Assassin Combo**: Perfect setup for massive sneak attack damage
+   - **Team Play**: Enables allied focus fire with bonus damage
+
+### Party Power Analysis
+- **Battlefield Control**: Multiple knockback options (Augustus, Aster)
+- **Debuff Stacking**: Corrosive Projectile for long boss fights (Vaerenth)
+- **Burst Damage**: Chokehold setup for devastating focused attacks (Banjo)
+- **Mobility**: Towering Stalk for vertical advantage (Vaerenth)
+- **Sustainability**: Increased healing capacity (Aster)
+- **Rogue Enhancement**: Higher Finesse for critical stealth/attack rolls (Banjo)
+
+---
