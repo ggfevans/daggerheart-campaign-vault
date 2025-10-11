@@ -72,6 +72,7 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 
 #### Banjo's Liberation and Counter-Strike
 - **Instinct Roll**: SUCCESS - Banjo breaks free from restraints
+- **Potion Use**: Drank health potion, cleared 3 HP
 - **Action**: Shadowstep behind remaining cultist
 - **Position**: Hidden in shadows behind target
 - **Attack**: Sneak attack from Hidden
@@ -80,8 +81,12 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 #### Craven's Pursuit
 - **Action**: Followed Banjo's shadowstep
 - **Attack**: Umbral Strike on Banjo
-- **Result**: HARD HIT - significant damage to Banjo
-- **Tactical Note**: Craven tracking Banjo's movements, applying direct pressure
+- **Damage**: SEVERE HIT
+- **HP Impact**: Banjo reduced to 2/6 HP
+- **Armor**: Last armor slot used
+- **Resources Expended**: Health potion already consumed
+- **Critical Status**: Banjo at critically low HP, no armor, no healing items
+- **Tactical Note**: Craven tracking Banjo's movements, applying direct pressure to most vulnerable target
 
 #### Spectral Guardian Engagement
 - **Targets**: Aster, Vaerenth, and Hogpog
@@ -94,7 +99,43 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - **Primary Action**: Mitigating tether damage from orb
 - **Observation**: Witnessed Banjo take heavy hit from Craven
 - **Tactical Assessment**: Unable to provide effective help while tethered to orb
-- **Strategic Problem**: Tether prevents full party support capability 
+- **Strategic Problem**: Tether prevents full party support capability
+
+### Round 2 - Heroic Sacrifice
+
+#### Vaerenth's Desperate Gambit
+- **Observation**: Banjo at 2/6 HP, Augustus tethered and unable to help
+- **Decision**: Rush to Augustus to break the tether
+- **Movement**: Rushed over to Augustus's position
+- **Acrobatic Maneuver**: Flipped over nearby enemies
+- **Action**: Grabbed the tether connecting Augustus to the orb
+- **Execution**: SNAPPED the tether
+- **Damage Taken**: 17 damage from breaking the tether connection
+- **Effect**: Shockwave emitted from broken tether
+- **Result**: Augustus FREED from orb tether
+- **Heroic Sacrifice**: Vaerenth took massive damage to liberate party's healer
+- **Tactical Implication**: Augustus can now act freely and potentially save Banjo
+
+#### Craven's Rage
+- **Reaction**: "Nooo, he was mine!"
+- **Emotional State**: Angry at losing control of Augustus
+- **Implication**: Augustus being tethered was intentional, part of Craven's plan
+- **Tactical Note**: Craven had specific purpose for keeping Augustus bound
+
+#### Vaerenth's Defiance
+- **Response to Craven**: Mocking laughter - "hehe"
+- **Action**: Casually quaffed health potion despite taking 17 damage
+- **HP Recovery**: Regained 2 HP from potion
+- **Attitude**: Defiant mockery in face of massive damage
+- **Character Moment**: Laughing at the boss while bleeding out - absolute badass energy
+
+#### Craven's Desperate Consumption
+- **Action**: Consumed last remaining cultist
+- **HP Recovery**: Regained 1 HP from consuming ally
+- **Tactical Implication**: No more cultist minions remain
+- **Character Reveal**: Craven will sacrifice his own forces to sustain himself
+- **Dark Magic**: Demonstrates life-draining/vampiric abilities tied to the orb
+- **Strategic Note**: Craven treating cultists as disposable HP resources 
 
 ---
 
