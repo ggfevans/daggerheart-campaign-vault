@@ -17,7 +17,16 @@ participants:
 Duration: [TBD] hours
 Key events:
 - Continued combat with Craven in ancient temple chamber
-- [Events to be tracked]
+- Vaerenth sacrificed herself (17 damage) to break Augustus's orb tether, freeing the healer
+- Aster heroically saved Banjo with potion and broke his tether (23 damage taken, divine vision "everything will be ok")
+- Party systematically eliminated all cultists, archers, and spectral guardians
+- Craven consumed his own allies for HP sustain, revealed vampiric abilities
+- Craven tethered Banjo with devastating 36 damage hit, using him as hostage
+- Augustus intercepted damage for Banjo and was downed by Craven's execution strike
+- Banjo mooned Craven as distraction, Vaerenth delivered killing blow using Augustus as platform
+- Cosmic horror revealed: Orb breach caused sky to crack, tentacles from beyond reached through
+- Vaerenth concealed orb in robe, stopping reality breach
+- Party escaped carrying mortally wounded Augustus, possessing world-ending artifact
 
 ## Previous Session Recap
 From Session 7: Party confronted [[craven]] in temple chamber with six pillars, reddish orb, and large coffin. Combat initiated with shadowchain restraints affecting whole party. [[aster]] broke free using Fearless ability, distributed Hope. [[vaerenth]] attempted but failed to break free. Orb revealed as damage redistribution mechanism - attacks absorbed and dealt half damage to tethered targets ([[craven]] and [[augustus]]). Cultists attacking, including problematic archer. Party strategy: target cultists first, avoid orb, spread out.
@@ -437,21 +446,49 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 
 ## Character Actions
 ### Banjo (Gareth)
-- [Actions to be tracked]
+- Broke free from shadowchain restraints with Instinct roll
+- Drank health potion recovering 3 HP during escape
+- Shadowstepped behind cultist for successful sneak attack
+- Escaped Craven's pursuit via shadowstep
+- Struck Craven for 14 damage with hope, quipped "Have you tried therapy?!"
+- Pulled back by Craven's "Get Over Here" reactive ability
+- Later struck Craven for major hit
+- Ultimate tactical distraction: mooned Craven creating opening for killing blow
 
 ### Vaerenth (Andi)
-- [Actions to be tracked]
+- Escaped shadowchain restraints with Aster's assist (14 total with prayer dice)
+- Coordinated with Aster to eliminate shadowshackle cultist, freeing allies
+- Heroic sacrifice: Rushed to Augustus, broke orb tether taking 17 damage
+- Mocked Craven with "hehe" while bleeding, drank health potion (+2 HP)
+- Attempted vicious entangle on Craven (failed at 12)
+- Second vicious entangle with Aster assist: SUCCESS, restrained Craven (6 damage after reduction)
+- Delivered killing blow: arrow through Craven using Augustus as platform
+- Quick thinking saved world: grabbed orb, wrapped in robe to stop cosmic breach
+- Evacuated carrying Augustus while possessing world-ending artifact
 
 ### Augustus (Mike)
-- [Actions to be tracked]
+- Freed from orb tether by Vaerenth's sacrifice
+- Furious vengeance: CRIT obliterated archer with 26 damage seeing friends attacked
+- Intercepted "Get Over Here" damage meant for Banjo, nearly died
+- Execution strike from Craven: went unconscious
+- Final thought: "Confidence in friends" - chose life over death
+- Evacuated by party, bleeding and near mortally wounded
 
 ### Aster (Luie)
-- [Actions to be tracked]
+- Assisted Vaerenth's escape with prayer dice bonus
+- Coordinated cultist elimination with light-enhanced arrow
+- Heroic intervention Part 1: Gave Banjo health potion (cleared 4 HP)
+- Heroic intervention Part 2: CRIT broke Banjo's tether using soldier strength (23 damage taken, divine vision "everything will be ok")
+- Stood alone against Craven while party scattered
+- Devastating counterattack: 23 with hope, burned hope for 1d8, dealt 30 SEVERE damage to Craven
+- Took 25 damage from Craven's retaliatory strike (48 total damage this fight)
+- Assisted Vaerenth's successful vicious entangle
+- Survived to help evacuate Augustus
 
 ## World Updates
-New locations: 
-NPCs: 
-Plot: 
+New locations: [[temple-chamber-with-pillars]] (battle site), cosmic breach point
+NPCs: [[craven]] (deceased - guardian/prisoner of the cycle)
+Plot: Craven defeated after brutal battle, revealed to be guardian/prisoner maintaining seal on cosmic horror. Reddish orb revealed as containment device - when exposed causes reality breach with tentacles from beyond. Vaerenth now possesses wrapped orb, only concealment prevents apocalypse. Augustus critically wounded, evacuated by party. "The Cycle" was Craven's duty binding someone to orb to maintain seal. Party victory may have doomed world by breaking guardian cycle. 
 
 ## Mechanics
 Rules used: 
