@@ -317,7 +317,51 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - **Cumulative Damage**: Aster has now taken 48 damage this fight (23 from tether break + 25 from this hit)
 - **Critical Status**: Aster severely wounded after standing alone
 - **Tactical Pattern**: Craven's reactive ability punishing those who damage him
-- **Price of Heroism**: Aster's brave stand comes at devastating cost 
+- **Price of Heroism**: Aster's brave stand comes at devastating cost
+
+### Round 5 - Critical Turn
+
+#### Banjo's Major Strike
+- **Attack**: Strike on restrained Craven
+- **Result**: MAJOR HIT on Craven
+- **Damage**: [Amount not specified]
+- **Trigger**: Activated Craven's "Get Over Here" ability (2+ HP damage)
+
+#### Augustus's Heroic Interception
+- **"Get Over Here" Triggered**: Craven's reactive pull on Banjo
+- **Augustus's Choice**: Intercepts the damage meant for Banjo
+- **Damage Taken**: Near-death levels from interception
+- **Heroic Sacrifice**: Tank protecting the rogue
+- **Critical Status**: Augustus nearly dying from intercepted attack
+
+#### Craven Breaks Free
+- **Action**: Spent Fear to break Vicious Entangle restraint
+- **Result**: Craven NO LONGER RESTRAINED
+- **Tactical Shift**: Boss regains mobility
+- **Escalation**: Craven using resources to free himself
+
+#### Craven's Execution Strike on Augustus
+- **Target**: Augustus (nearly dead from interception)
+- **Attack**: Direct strike on downed tank
+- **Augustus's Defense**: Cannot reduce damage
+- **Result**: HIT - Augustus goes DOWN
+- **Critical Moment**: Party's healer/tank eliminated
+- **Player Choice**: Mark (Augustus's player) must determine what happens next
+- **Narrative Weight**: First party member downed in this fight
+
+#### Party HP Status Check (Before Augustus's Decision)
+- **Vaerenth**: 2/6 HP (critically wounded)
+- **Banjo**: 4/6 HP (wounded)
+- **Aster**: 6/8 HP (wounded)
+- **Augustus**: DOWN
+
+#### Augustus's Final Moment - Choosing Life
+- **Mark's Decision**: Augustus goes unconscious, avoids death
+- **Final Thought**: "Confidence in his friends" - faith in party's ability to finish this
+- **Status**: UNCONSCIOUS but ALIVE
+- **Character Moment**: Tank's last act is trust in his companions
+- **Symbolic Weight**: Augustus protected everyone all fight, now must trust them to protect him
+- **Hope Given**: Augustus believes they can win without him 
 
 ---
 
