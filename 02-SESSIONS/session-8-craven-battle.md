@@ -212,7 +212,45 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - **Battlefield Clear**: ALL minions now eliminated (guardian consumed)
 - **Craven's Pattern**: Consistently sacrificing allies for sustain
 - **Strategic State**: Craven now COMPLETELY alone - no more minions to consume
-- **Desperation Sign**: Consuming own forces to maintain HP 
+- **Desperation Sign**: Consuming own forces to maintain HP
+
+#### Craven's Hostage Control
+- **Position**: Using shield to pin Banjo against nearby pillar
+- **Tactical Control**: Physically restraining Banjo (1 HP, already tethered)
+- **Multi-Threat**: Holding Banjo while still able to attack others
+- **Attack on Hogpog**: Slashed with upward strike
+- **Result**: HIT - Hogpog takes damage
+- **Strategic Note**: Craven using Banjo as shield/hostage while fighting
+- **Hostage Situation**: Banjo pinned, tethered, and at death's door
+
+#### Aster's Rescue Attempt
+- **Action**: Moving to Banjo's aid
+- **Tactical Goal**: Save/free Banjo from Craven's control
+- **Challenge**: Banjo pinned by shield, tethered to orb, at 1 HP
+
+#### Aster's Heroic Intervention - Part 1: Emergency Healing
+- **Action**: Gave Banjo a health potion
+- **HP Recovery**: Cleared 4 HP
+- **Banjo's Status**: Now at 1/6 HP marked (5 HP available)
+- **Critical Save**: Pulled Banjo back from death's door
+- **Tactical Benefit**: Banjo can now survive potential hits
+
+#### Aster's Heroic Intervention - Part 2: Tether Breaking
+- **Ability Used**: Soldier experience and strength
+- **Action**: Attempted to physically break the orb tether
+- **Roll**: 12 - CRITICAL SUCCESS!
+- **Result**: TETHER BROKEN - Banjo freed from orb!
+- **Damage Cost**: 23 damage from breaking tether
+- **Armor Used**: Last armor slot consumed
+- **HP Marked**: 1 HP marked
+- **Serene Vision**: "Everything will be ok" - divine/prophetic reassurance
+- **Critical Benefits**: 
+  - Automatically succeeds at breaking tether
+- **Shockwave Effect**: Tether destruction releases energy
+- **Sacrificial Heroism**: Aster willingly took massive damage to save Banjo
+- **Game Changer**: Banjo no longer bound to orb, Craven's plan disrupted AGAIN
+- **Spiritual Moment**: Despite pain, Aster feels certainty that sacrifice was right
+- **Tactical Shift**: Banjo healed AND freed, but Aster now wounded 
 
 ---
 
