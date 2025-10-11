@@ -624,7 +624,7 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - Quick thinking saved world: grabbed orb, wrapped in robe to stop cosmic breach
 - Evacuated carrying Augustus while possessing world-ending artifact
 
-### Augustus (Mike)
+### Augustus (Mark)
 - Freed from orb tether by Vaerenth's sacrifice
 - Furious vengeance: CRIT obliterated archer with 26 damage seeing friends attacked
 - Intercepted "Get Over Here" damage meant for Banjo, nearly died

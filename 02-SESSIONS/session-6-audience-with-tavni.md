@@ -79,7 +79,7 @@ session-name: Audience with Tavni
 - **🥷 STEALTH EXCELLENCE**: Rolls 20 with Fear on Presence check during group stealth mission
 - **⚖️ BINARY ASSESSMENT**: "It is either this or be the enemy" - recognizes stark political choice facing party
 
-### Augustus (Mike)
+### Augustus (Mark)
 - **⚔️ Tactical Assessment**: Evaluating the political and security situation
 - **🛡️ Party Protection**: Maintaining security awareness in hostile territory
 - **🏛️ UNDERGROUND CORRUPTION THEORY**: Side conversation with Vaerenth pondering if being underground prevents corruption
