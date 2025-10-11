@@ -669,7 +669,9 @@ Goals:
 - Determine destination and plan for the orb
 - Deal with consequences of breaking Chainlord contract
 - Find way to destroy or permanently secure cosmic horror artifact
-- Navigate as rogue agents with world-ending responsibility 
+- Navigate as rogue agents with world-ending responsibility
+
+**GM Prompt for Players** (Geoff): "Where would you like to go? Think of places you would like to go" - players should consider potential destinations before next session 
 
 ## Lore Updates
 
