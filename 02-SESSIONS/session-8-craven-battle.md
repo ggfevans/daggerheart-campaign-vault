@@ -361,7 +361,77 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - **Status**: UNCONSCIOUS but ALIVE
 - **Character Moment**: Tank's last act is trust in his companions
 - **Symbolic Weight**: Augustus protected everyone all fight, now must trust them to protect him
-- **Hope Given**: Augustus believes they can win without him 
+- **Hope Given**: Augustus believes they can win without him
+
+### Round 6 - The Killing Blow
+
+#### Craven's Threatening Stance
+- **Action**: Points sword at Aster
+- **Eyes**: Locked on Banjo
+- **Tactic**: Threatening multiple targets, dividing attention
+- **Intimidation**: Attempting to control battlefield through fear
+
+#### Banjo's Ultimate Disrespect
+- **Action**: Turns around, exposes ass, MOONS Craven
+- **Tactical Purpose**: Create distraction through mockery
+- **Character Moment**: Peak Banjo energy - disrespect even facing death
+- **Effect**: Craven's attention drawn by outrageous display
+- **Psychological Warfare**: Treating deadly boss fight as joke
+
+#### Vaerenth's Finishing Shot - THE KILL
+- **Distraction Used**: Banjo mooning Craven creates opening
+- **Movement**: Boosts forward at full speed
+- **Platform**: Jumps OFF unconscious Augustus's body as launching pad
+- **Attack**: Arrow shot THROUGH Craven
+- **Result**: KILLING BLOW
+- **Craven's Last Words**: "Noooo I was so close!!!"
+- **Final Moment**: Craven dies mid-sentence, plan unfulfilled
+- **Victory**: Vaerenth (at 2/6 HP) delivers the execution
+- **Epic Finish**: Wounded archer using fallen tank to kill the boss
+- **Character Arc**: From taking 17 damage to free Augustus → landing killing blow
+- **The Cycle**: Broken by arrow through the heart
+
+### Post-Battle - The Orb's True Nature
+
+#### The Orb Falls
+- **Craven's Death**: Body collapses, reddish orb falls from his possession
+- **Movement**: Orb rolls across temple floor
+- **Vaerenth's Action**: Quickly retrieves the fallen orb
+
+#### Reality Breach - Cosmic Horror Revealed
+- **Trigger**: Orb exposed and uncontained after Craven's death
+- **Phenomenon**: Sky CRACKS OPEN into endless expanse beyond
+- **Horror Manifests**: TENTACLES reaching through from beyond reality
+- **Cosmic Scale**: Something vast and terrible attempting to enter this world
+- **The Truth**: Orb was containing/controlling something far worse than Craven
+- **Implication**: "The Cycle" involved keeping this cosmic horror sealed
+
+#### Vaerenth's Quick Thinking
+- **Action**: Wraps orb in robe to CONCEAL it
+- **Result**: Concealment STOPS the phenomenon
+- **Effect**: Sky crack closes, tentacles withdraw
+- **Discovery**: Physical concealment of orb prevents breach
+- **Consequence**: Vaerenth now possesses object of cosmic significance
+- **New Mystery**: What is this orb really? What was Craven protecting/containing?
+- **Party Status**: Victory achieved, but new threat discovered
+
+### Desperate Escape
+
+#### Augustus's Critical Condition
+- **Status**: Bleeding, near mortally wounded
+- **Condition**: Unconscious but alive (Mark's choice to avoid death)
+- **Severity**: Critical injuries requiring immediate evacuation
+- **Last Conscious Moment**: Faith in friends to finish the fight
+
+#### Party Evacuation
+- **Action**: Carrying Augustus out of temple chamber
+- **Vaerenth**: Possessing wrapped cosmic orb, 2/6 HP
+- **Banjo**: 4/6 HP, helping carry Augustus
+- **Aster**: 6/8 HP, supporting evacuation
+- **Hogpog**: Assisting with Augustus
+- **Escape Route**: Leaving ancient temple with cosmic secret
+- **Victory Cost**: Tank down, everyone wounded, world-ending artifact acquired
+- **Unspoken Truth**: They may have saved their friend but doomed something far greater 
 
 ---
 
