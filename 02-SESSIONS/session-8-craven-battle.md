@@ -661,3 +661,25 @@ Goals:
 
 ---
 Session: 2025-10-10 | Previous: [[session-7-tunnel-pursuit]] | Next: [Date TBD]
+
+
+---
+
+## Post-Battle Discussion: The Orb Dilemma
+
+#### The Problem
+- **Orb Possession**: Party has the reddish orb (cosmic horror containment device)
+- **Original Mission**: Chainlord contracted party in Session 4 to find sphere artifact
+- **Realization**: This orb may be the sphere artifact the Chainlord wanted
+- **Moral Conflict**: Cannot give world-ending artifact to Void Spire authority
+- **Imperative**: Need to destroy the orb, not deliver it
+
+#### Party Debate: What's Next?
+**The Stakes:**
+- Orb revealed as containment device for cosmic horror
+- Exposure causes reality breach with tentacles from beyond
+- Only concealment (wrapped in Vaerenth's robe) prevents apocalypse
+- Original contract with Chainlord now morally impossible to fulfill
+
+**Options Under Discussion:**
+[GM Note: Document player discussion and decision here]
