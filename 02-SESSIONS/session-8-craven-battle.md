@@ -444,6 +444,87 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 
 ---
 
+
+
+
+### Augustus's Final Moments
+
+#### Aster's Respectful Care
+- **Action**: Wrapped Augustus in their arcane cloak
+- **Manner**: Regal, honourable, and respectful presentation
+- **Effect**: Augustus still looks dignified despite critical wounds
+- **Character Moment**: Aster ensuring fallen companion maintains honour
+
+#### Augustus's Brief Awakening
+- **Consciousness**: Woke briefly during evacuation
+- **Last Memory**: "The last thing I saw was Banjo taking a heavy hit"
+- **Concern**: Worried about Banjo's wellbeing even while dying
+- **Character Trait**: Tank's protective instinct persists to the end
+
+#### Banjo's Comfort
+- **Response**: Reassured Augustus "I'm ok"
+- **Emotional Beat**: Comforting the one who saved him
+- **Role Reversal**: Rogue supporting the tank after interception sacrifice
+- **Connection**: Final exchange between saviour and saved
+
+### Return Journey
+
+#### The Sparse Loot
+- **Acquired**: Only the reddish orb (world-ending artifact)
+- **Temple Remains**: Nothing else of value
+- **Discovery**: All other remains are centuries old
+- **Implication**: Craven and the cycle predated recent history
+- **Weight**: Greatest treasure is greatest threat
+
+#### Journey Through Ruins
+- **Path**: Slow, exhausting trek through rubbled city
+- **Party Condition**: Fucking exhausted
+- **Phenomenon**: NO flashbacks this time
+- **Change**: Things have calmed down (only a little)
+- **Atmospheric Shift**: Temporal disturbances lessening after Craven's death
+- **Progress**: Making way back into [[taloom]]
+- **Destination**: Returning to [[shady-rest]]
+- **Burden**: Carrying Augustus and cosmic secret home
+
+---
+
+
+
+### Return to the Shady Rest
+
+#### Temporal Anomaly Revealed
+- **Town's Perspective**: Party has been gone for **5 DAYS**
+- **Party's Perspective**: Journey felt like only 6-12 hours
+- **Time Dilation**: Massive temporal distortion in the ancient ruins
+- **Shock Factor**: Tavni stunned by their prolonged absence
+- **Implication**: Time flows radically differently within the cursed ruins
+
+#### Tavni's Reaction
+- **Question**: "Where have you been?"
+- **Emotional State**: Shocked and concerned by 5-day absence
+- **Worry**: Party missing far longer than expected
+
+#### Party Responses
+- **Vaerenth**: "Told you we'd be back" (casual confidence despite temporal weirdness)
+- **Aster**: "I think time flows differently in there" (piecing together the temporal mechanics)
+- **Realization**: Understanding dawning about the nature of the ruins
+- **Character Beat**: Aster the analytical one solving the puzzle
+
+#### Tavni's Practical Concern
+- **Question**: "We should reseal it, did you get what you needed?"
+- **Priority**: Securing the dangerous ruins again
+- **Assumption**: Party's mission accomplished, time to close it up
+- **Unaware**: Doesn't yet know about cosmic horror implications
+
+#### Vaerenth's Revelation
+- **Response**: "Yes, there was some interesting celestial magic... and we did bring something with us"
+- **Presentation**: Reveals the orb
+- **Size Detail**: Orb is **quite large** compared to Vaerenth
+- **Understatement**: "Interesting celestial magic" doesn't begin to cover reality-breaching cosmic horror
+- **Casual Display**: Presenting world-ending artifact like a souvenir
+- **Dramatic Moment**: Showing Tavni what they actually found
+
+---
 ## Character Actions
 ### Banjo (Gareth)
 - Broke free from shadowchain restraints with Instinct roll
