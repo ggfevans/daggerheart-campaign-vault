@@ -238,7 +238,7 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 #### Aster's Heroic Intervention - Part 2: Tether Breaking
 - **Ability Used**: Soldier experience and strength
 - **Action**: Attempted to physically break the orb tether
-- **Roll**: 12 - CRITICAL SUCCESS!
+- **Roll**: 12 - CRITICAL SUCCESS WITH HOPE!
 - **Result**: TETHER BROKEN - Banjo freed from orb!
 - **Damage Cost**: 23 damage from breaking tether
 - **Armor Used**: Last armor slot consumed
@@ -246,11 +246,37 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - **Serene Vision**: "Everything will be ok" - divine/prophetic reassurance
 - **Critical Benefits**: 
   - Automatically succeeds at breaking tether
+  - Gains Hope from critical
 - **Shockwave Effect**: Tether destruction releases energy
 - **Sacrificial Heroism**: Aster willingly took massive damage to save Banjo
 - **Game Changer**: Banjo no longer bound to orb, Craven's plan disrupted AGAIN
 - **Spiritual Moment**: Despite pain, Aster feels certainty that sacrifice was right
-- **Tactical Shift**: Banjo healed AND freed, but Aster now wounded 
+- **Tactical Shift**: Banjo healed AND freed, but Aster now wounded
+
+#### Banjo's Counterattack with Hope
+- **Attack**: Strike on Craven
+- **Damage**: 14 physical damage
+- **Result**: SUCCESS WITH HOPE
+- **Quip**: "Have you tried therapy?!" (delivered while sliding by)
+- **Movement**: Attempted to slide past/away from Craven
+
+#### Craven's "Get Over Here" Response
+- **Trigger**: Losing 2+ HP from Banjo's attack
+- **Ability**: "Get Over Here" - pull/grapple ability
+- **Effect**: Yanked Banjo back into close range
+- **Tactical Note**: Craven has reactive ability that prevents escape when damaged
+- **Result**: Banjo pulled back into melee with Craven
+
+#### Vaerenth's Successful Vicious Entangle (with Aster assist)
+- **Target**: Craven
+- **Ability**: Vicious Entangle (restraint spell)
+- **Aster's Assistance**: Provided crucial support despite being wounded
+- **Result**: SUCCESS - Craven restrained!
+- **Damage Roll**: 1d8+1 = 9 total damage
+- **Damage Reduction**: Reduced to 6 physical damage (3 damage mitigated)
+- **Primary Effect**: Craven now RESTRAINED
+- **Tactical Victory**: Boss immobilized and taking damage
+- **Strategic Shift**: Craven can't move, party has opening 
 
 ---
 
