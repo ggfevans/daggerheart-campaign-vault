@@ -148,7 +148,25 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - **Weapon**: Mace/hammer ("hammers the shit out of him")
 - **Character Moment**: Gentle healer transformed into avenging force
 - **Pent-Up Rage**: All frustration from being tethered released in single devastating blow
-- **Tactical Impact**: One archer eliminated, Augustus fully operational 
+- **Tactical Impact**: One archer eliminated, Augustus fully operational
+
+#### Banjo's Tactical Escape
+- **Decision**: Disengage from Craven (at 2/6 HP, critical danger)
+- **Action**: Shadowstep away from Craven
+- **Repositioning**: Appeared behind last remaining archer
+- **Attack**: Sneak attack from Hidden position
+- **Result**: KILL - Last archer eliminated ("mercs him")
+- **Tactical Success**: Escaped Craven's reach AND eliminated ranged threat
+- **Strategic Note**: Used mobility to turn defensive retreat into offensive elimination
+
+#### Aster's Blazing Assault
+- **Target**: Spectral Guardians
+- **Ability**: Emblazoned Body (holy/fire enhancement)
+- **Attack Style**: "Goes to town" - aggressive, sustained assault
+- **Combat Description**: Maniacal attacks on spirit guardians
+- **Character Moment**: Unleashing divine fury against undead threats
+- **Tactical Role**: Pushing hard on spectral guardian front
+- **Energy**: High-intensity offensive pressure 
 
 ---
 
