@@ -173,9 +173,9 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 #### Battlefield Status
 - **All Cultists**: ELIMINATED
 - **All Archers**: ELIMINATED  
-- **All Spectral Guardians**: ELIMINATED
-- **Remaining Threats**: Craven and the Reddish Orb only
-- **Strategic Situation**: Boss completely isolated, no reinforcements
+- **Spectral Guardians**: 1 remaining active
+- **Remaining Threats**: Craven, 1 Spectral Guardian, and the Reddish Orb
+- **Strategic Situation**: Boss isolated but one guardian still active
 
 #### Vaerenth's Control Attempt
 - **Target**: Craven
@@ -190,11 +190,29 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - **Target**: Banjo (at 2/6 HP - most vulnerable target)
 - **Movement**: Rushed over to Banjo's position
 - **Attack**: Tether strike (similar to Augustus's previous tether)
-- **Result**: HIT - Banjo now tethered to reddish orb
+- **Damage**: 36 damage - DEVASTATING HIT
+- **HP Impact**: Banjo now at 5/6 HP marked (marked 3 additional HP)
+- **Result**: Banjo now tethered to reddish orb AND near death
 - **Tactical Shift**: Craven replacing lost Augustus tether with Banjo tether
 - **Strategic Implication**: Craven needs someone bound to the orb for his plan
-- **Critical Danger**: Banjo at 2/6 HP AND tethered to orb
-- **Pattern Recognition**: First Augustus "was mine", now Banjo becomes replacement binding 
+- **Critical Danger**: Banjo has only 1 HP remaining AND tethered to orb
+- **Pattern Recognition**: First Augustus "was mine", now Banjo becomes replacement binding
+- **Severity**: Banjo one hit away from being downed
+
+#### Vaerenth & Hogpog's Guardian Assault
+- **Vaerenth's Action**: Moving to engage remaining spectral guardian
+- **Hogpog's Action**: Changed target to Craven instead of guardian
+- **Attack Result**: Hit Craven for 1 HP damage
+- **Tactical Note**: Hogpog dealing chip damage to boss while Banjo critical
+
+#### Craven's Consumption Response
+- **Action**: Consumed spectral guardian (last remaining minion)
+- **HP Recovery**: Regained 1 HP from consuming guardian
+- **Net Effect**: Hogpog's 1 damage negated by consumption healing
+- **Battlefield Clear**: ALL minions now eliminated (guardian consumed)
+- **Craven's Pattern**: Consistently sacrificing allies for sustain
+- **Strategic State**: Craven now COMPLETELY alone - no more minions to consume
+- **Desperation Sign**: Consuming own forces to maintain HP 
 
 ---
 
