@@ -135,7 +135,20 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - **Tactical Implication**: No more cultist minions remain
 - **Character Reveal**: Craven will sacrifice his own forces to sustain himself
 - **Dark Magic**: Demonstrates life-draining/vampiric abilities tied to the orb
-- **Strategic Note**: Craven treating cultists as disposable HP resources 
+- **Strategic Note**: Craven treating cultists as disposable HP resources
+
+#### Augustus's Furious Vengeance
+- **Emotional State**: Enraged after watching friends suffer while helplessly tethered
+- **Target**: Nearby archer cultist
+- **Attack Roll**: CRITICAL SUCCESS
+- **Motivation**: "Seeing his friends being attacked" - protective fury unleashed
+- **Damage**: 26 damage total
+- **Hit Severity**: SEVERE HIT - threshold exceeded
+- **Result**: Archer **INSTANTLY OBLITERATED**
+- **Weapon**: Mace/hammer ("hammers the shit out of him")
+- **Character Moment**: Gentle healer transformed into avenging force
+- **Pent-Up Rage**: All frustration from being tethered released in single devastating blow
+- **Tactical Impact**: One archer eliminated, Augustus fully operational 
 
 ---
 
