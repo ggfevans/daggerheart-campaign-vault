@@ -15,7 +15,7 @@ system-notes: First session using foundryborne system - excellent UX!
 # Session 4 - Five Hours to Hell
 
 ## 📋 Session Summary
-**Duration**: ~4 hours
+**Duration**: ~3 hours
 **Location**: Online  
 **Players**: User, Andi
 **System Note**: **First session using foundryborne system - excellent UX improvement!**
