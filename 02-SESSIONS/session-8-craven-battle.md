@@ -165,8 +165,36 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - **Attack Style**: "Goes to town" - aggressive, sustained assault
 - **Combat Description**: Maniacal attacks on spirit guardians
 - **Character Moment**: Unleashing divine fury against undead threats
-- **Tactical Role**: Pushing hard on spectral guardian front
-- **Energy**: High-intensity offensive pressure 
+- **Result**: Spectral Guardians ELIMINATED
+- **Tactical Impact**: All minions cleared from battlefield
+
+### Round 3 - Boss Isolation
+
+#### Battlefield Status
+- **All Cultists**: ELIMINATED
+- **All Archers**: ELIMINATED  
+- **All Spectral Guardians**: ELIMINATED
+- **Remaining Threats**: Craven and the Reddish Orb only
+- **Strategic Situation**: Boss completely isolated, no reinforcements
+
+#### Vaerenth's Control Attempt
+- **Target**: Craven
+- **Ability**: Vicious Entangle (restraint/control spell)
+- **Tactical Goal**: Immobilize the boss
+- **Roll**: 12
+- **Result**: FAILURE - Craven resists the entangle
+- **Effect**: Craven remains mobile and dangerous
+- **Tactical Note**: Control attempt unsuccessful, Craven still free to act
+
+#### Craven's Aggressive Response
+- **Target**: Banjo (at 2/6 HP - most vulnerable target)
+- **Movement**: Rushed over to Banjo's position
+- **Attack**: Tether strike (similar to Augustus's previous tether)
+- **Result**: HIT - Banjo now tethered to reddish orb
+- **Tactical Shift**: Craven replacing lost Augustus tether with Banjo tether
+- **Strategic Implication**: Craven needs someone bound to the orb for his plan
+- **Critical Danger**: Banjo at 2/6 HP AND tethered to orb
+- **Pattern Recognition**: First Augustus "was mine", now Banjo becomes replacement binding 
 
 ---
 
