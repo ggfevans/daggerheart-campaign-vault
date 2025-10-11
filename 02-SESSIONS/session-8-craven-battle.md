@@ -276,7 +276,48 @@ From Session 7: Party confronted [[craven]] in temple chamber with six pillars, 
 - **Damage Reduction**: Reduced to 6 physical damage (3 damage mitigated)
 - **Primary Effect**: Craven now RESTRAINED
 - **Tactical Victory**: Boss immobilized and taking damage
-- **Strategic Shift**: Craven can't move, party has opening 
+- **Strategic Shift**: Craven can't move, party has opening
+
+### Round 4 - Tactical Repositioning
+
+#### Party Scatter Maneuver
+- **Banjo**: Runs away to comfortable distance (disengaging from Craven)
+- **Augustus**: Also retreats to safer distance
+- **Aster**: Stays in close range with restrained Craven
+- **Tactical Split**: Party creating distance except Aster
+- **Risk Assessment**: Leaving Aster alone with boss
+
+#### Craven's Restrained Attack
+- **Condition**: Restrained (can't move but can attack from position)
+- **Target**: Aster (only PC remaining in melee)
+- **Attack**: Heavy swing
+- **Result**: MISS
+- **Impact**: Strike hits pillar between Aster and Craven instead
+- **Cinematic Moment**: Weapon impacts stone, sparks/debris flying
+- **Aster's Luck**: Narrowly avoided hit while wounded
+- **Tactical Note**: Craven frustrated, restrained, and missing attacks
+
+#### Aster's Devastating Counterattack
+- **Attack Roll**: 23 WITH HOPE - major success
+- **Position**: Standing firm alone against restrained Craven
+- **Hope Expenditure**: Burned 1 Hope for 1d8 additional damage
+- **Total Damage**: 30 damage
+- **Hit Severity**: SEVERE HIT to Craven
+- **Tactical Context**: Punishing Craven for missing attack
+- **Character Moment**: Wounded but relentless - Aster refusing to yield
+- **Strategic Impact**: Massive damage to boss while restrained
+- **Symbolic Victory**: Standing alone against darkness and winning
+
+#### Craven's Retaliatory Strike
+- **Ability**: "Get Over Here" (triggered by Aster's 30 damage)
+- **Target**: Aster (who just dealt severe damage)
+- **Attack**: Retaliatory strike
+- **Result**: HIT - 25 damage
+- **Hit Severity**: MAJOR HIT to Aster
+- **Cumulative Damage**: Aster has now taken 48 damage this fight (23 from tether break + 25 from this hit)
+- **Critical Status**: Aster severely wounded after standing alone
+- **Tactical Pattern**: Craven's reactive ability punishing those who damage him
+- **Price of Heroism**: Aster's brave stand comes at devastating cost 
 
 ---
 
