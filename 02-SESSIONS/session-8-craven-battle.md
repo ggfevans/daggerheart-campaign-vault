@@ -683,3 +683,56 @@ Session: 2025-10-10 | Previous: [[session-7-tunnel-pursuit]] | Next: [Date TBD]
 
 **Options Under Discussion:**
 [GM Note: Document player discussion and decision here]
+
+
+#### Travel Option: The Climb
+- **GM Note**: Party could climb up the chasm
+- **Time Cost**: Would take **days and days** to ascend
+- **Implication**: Long journey with the orb in possession
+
+### Taloom Resource Distribution
+
+#### Kabuto's Productive Anger
+- **Context**: Kabuto has been pushing to keep busy, fueled by anger
+- **Discovery**: Found several items inside the spire during party's absence
+- **Items Available**: Three useful pieces of equipment
+
+#### Items Distributed:
+
+**1. Minor Stamina Potion Recipe (Scroll)**
+- **Description**: Recipe requiring bone to create stamina potions
+- **Use**: During long rest, attempt to create potions
+- **Recipient**: **Vaerenth**
+- **Benefit**: Self-sufficiency for stamina restoration
+
+**2. Instant Jump Root**
+- **Description**: Root that can be consumed for instant jump to far range
+- **Effect**: One-time use for dramatic repositioning
+- **Recipient**: **Augustus**
+- **Tactical Use**: Emergency mobility/escape option
+
+**3. Gecko Gloves**
+- **Description**: Gloves enabling wall and ceiling walking
+- **Effect**: Spider-like movement capabilities
+- **Recipient**: **Banjo**
+- **Synergy**: Perfect for Nightwalker rogue's stealth approach
+
+
+---
+
+## Departure from Taloom
+
+### Tavni's Farewell
+- **Parting Words**: "You are always welcome back"
+- **Recognition**: Acknowledged how much the party has helped Taloom
+- **Standing**: Party leaves as honored allies of the underground city
+- **Achievement**: Transformed from suspicious outsiders to valued friends
+
+### Strategic Decision: Avoiding the Void Spire
+- **Destination**: Group departs Taloom heading **elsewhere** (not to Void Spire)
+- **Broken Contract**: Choosing not to deliver orb to the Chainlord
+- **Moral Stand**: Refusing to hand cosmic horror containment device to authorities
+- **Consequences Unknown**: Breaking official contract with Void Spire leadership
+- **New Path**: Party striking out on their own with world-ending artifact in possession
+
+**Critical Choice**: Party explicitly avoiding return to Void Spire/Anchorpoint despite original mission
