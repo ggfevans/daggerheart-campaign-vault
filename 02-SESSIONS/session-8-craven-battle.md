@@ -14,7 +14,7 @@ participants:
 # Session 8 - 2025-10-10
 
 ## Summary
-Duration: ~4 hours
+Duration: 3 hours
 Key events:
 - Continued combat with Craven in ancient temple chamber
 - Vaerenth sacrificed herself (17 damage) to break Augustus's orb tether, freeing the healer
