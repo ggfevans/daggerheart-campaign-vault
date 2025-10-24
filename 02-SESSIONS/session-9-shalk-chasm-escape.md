@@ -27,16 +27,13 @@ Key events:
 - **Augustus**: Badly wounded, conscious
 - **Aster**: Operational
 
-## Mountain Pass Discovery
-- **Banjo notices**: Runes carved into walls (CRIT knowledge roll)
-- **Effect**: Runes amplifying downpour and cold weather
-- **Confirmation**: Runes are **hostile to party** (origin unknown)
-- **Strength save vs cold**:
-  - **Vaerenth**: SUCCEEDS - resists bitter cold
-  - **Banjo**: FAILS - weather taking toll
-  - **Augustus**: FAILS - weakened, already wounded
-  - **Aster**: FAILS - cold penetrating
-- **Threat**: Escalating—exhaustion/hypothermia risk if passage continues
+## Mountain Pass - Survival & Hunting
+- **Cold escalating**: Party searching for food/shelter
+- **Discovery**: "Crimpers" spotted by Aster & Banjo
+  - Creature type: Centipede-rat hybrid, many legs, fish-like eyes, elongated torso
+  - Habitat: Mountain pass fauna
+- **Hunting plan**: Vaerenth deploying net from bag of holding to trap
+- **Mechanic**: [Pending - hunt roll/combat?]
 
 ## World Updates
 - Artifact is unstable (cosmic breach risk)
