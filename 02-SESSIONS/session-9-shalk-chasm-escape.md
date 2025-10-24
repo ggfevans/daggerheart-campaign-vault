@@ -107,3 +107,24 @@ Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: TBD
 - **Vaerenth**: Takes armor hit + 1 HP loss
 - **Aster**: Takes 2 HP damage
 - **Party vulnerable**: Tank at stress threshold, separated from rogue
+
+#### Escape from Ledge
+- **Aster action**: Produces combined 3x50ft ropes (150ft total)
+- **Bridge**: Spans ~100ft gap between ledge and upper passage
+- **Climb sequence**: Party ascends one by one
+  - Vaerenth: SUCCESS
+  - Aster: SUCCESS
+  - Banjo: Assists from above
+- **Final climb - Hogpog + Augustus**:
+  - Hogpog climbing, chewing on branch (distracted/stressed)
+  - **Snag**: Hogpog catches on rope/debris midway
+  - **Augustus moment**: At MAX STRESS, pulls Hogpog up manually
+  - **Result**: SUCCESS - all reunited above ledge
+- **Party regrouped**: Battered but cohesive
+
+#### Escape Route Revealed
+- **Banjo**: "Rock on, everyone?" (morale check)
+- **Aster**: Instinct roll (16 WITH FEAR) - keen observation
+- **Discovery**: Creeping light through fog/clouds above
+- **Significance**: Sky visible—passage leads OUT
+- **Party status**: Clear exit route identified, morale boosting
