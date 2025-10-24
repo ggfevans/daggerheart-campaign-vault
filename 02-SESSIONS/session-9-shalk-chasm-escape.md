@@ -28,10 +28,15 @@ Key events:
 - **Aster**: Operational
 
 ## Mountain Pass Discovery
-- **Banjo notices**: Runes carved into walls
+- **Banjo notices**: Runes carved into walls (CRIT knowledge roll)
 - **Effect**: Runes amplifying downpour and cold weather
-- **Origin**: [Unknown - Chainlord seal? Ancient? Craven's work?]
-- **Threat Level**: Amplified storm = hazardous navigation
+- **Confirmation**: Runes are **hostile to party** (origin unknown)
+- **Strength save vs cold**:
+  - **Vaerenth**: SUCCEEDS - resists bitter cold
+  - **Banjo**: FAILS - weather taking toll
+  - **Augustus**: FAILS - weakened, already wounded
+  - **Aster**: FAILS - cold penetrating
+- **Threat**: Escalating—exhaustion/hypothermia risk if passage continues
 
 ## World Updates
 - Artifact is unstable (cosmic breach risk)
