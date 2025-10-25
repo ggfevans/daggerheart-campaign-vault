@@ -8,7 +8,7 @@ participants: [Andi, Mark, Luie, Gareth]
 # Session 9 - 2025-10-24
 
 ## Summary
-Duration: In progress
+Duration: 3h
 Key events:
 - **Craven defeated**, orb in party possession
 - **Contract broken**: Refusing to deliver artifact to Chainlord
