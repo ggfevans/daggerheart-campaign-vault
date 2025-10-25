@@ -44,7 +44,7 @@ Key events:
 [Pending session development]
 
 ---
-Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: TBD
+Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: Session 10 (Blackjaw Harbour investigation)
 
 ## Mountain Pass - Hostile Runes & Survival
 
