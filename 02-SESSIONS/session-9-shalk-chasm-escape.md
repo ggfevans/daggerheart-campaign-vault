@@ -128,3 +128,23 @@ Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: TBD
 - **Discovery**: Creeping light through fog/clouds above
 - **Significance**: Sky visible—passage leads OUT
 - **Party status**: Clear exit route identified, morale boosting
+
+#### Giant Eagles - New Threat
+- **Vaerenth spots**: Massive nest above/distant
+- **Two giant eagles**: Screeching loudly
+- **Approach**: Moving toward party position
+- **Intent**: Unknown - territorial defense or hunting?
+- **Party status**: Battered, exhausted, now facing potential combat
+- **Critical factor**: Augustus at MAX STRESS already
+
+## Combat - Giant Eagles
+
+### Pre-Combat Status
+- **Party HP/Stress**: 
+  - Augustus: MAX STRESS (critical)
+  - Vaerenth: Damaged
+  - Aster: Damaged
+  - Banjo: Operational
+- **Terrain**: Mountain pass/ledge area near nest
+- **Enemies**: 2 giant eagles approaching
+- **Opening**: [Awaiting first round actions]
