@@ -242,3 +242,61 @@ Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: TBD
 - **Question 4**: Who made the runes?
 - **Implication**: Runes were NOT Chainlord work (eagles suggest older, separate magic)
 - **Mystery**: Ancient Void Spire defenses? Craven's predecessor? Unknown faction?
+
+## Orb Revelation - Vision of the Breach
+
+#### Banjo's Test
+- **Action**: Requests orb from Vaerenth
+- **Behavior**: Shakes it like magic 8-ball
+- **Response**: Unaffected - continues swirling counter-clockwise
+- **Observation**: Orb's own momentum, independent will
+
+#### Augustus's Warning & Vision
+- **Warning**: "Don't play with it"
+- **Banjo's action**: Rolls orb to Augustus (like bowling ball)
+- **Augustus picks up**: Direct contact with artifact
+- **VISION**: Massive tentacle structures descending from sky
+  - Sky cracking open
+  - Reality breach imminent
+  - Cosmic horror reaching through
+- **Duration**: Vision snaps away suddenly
+- **Augustus reaction**: Pops up flustered, "By my shell!"
+- **Effect**: Party confirmation - orb IS the world-ending threat
+
+#### Significance
+- Orb shows true nature only on contact
+- Vision reinforces: Cannot deliver to Chainlord
+- Party's choice is existential - artifact must be contained/destroyed
+
+#### Containment - Vaerenth
+- **Action**: Picks up orb immediately
+- **Response**: Wraps it quickly, securing it
+- **Message**: Non-verbal consensus - artifact sealed, no more contact
+- **Party mood**: Resolved - artifact is danger, must be protected/destroyed
+
+---
+
+## Session 9 Summary
+**Duration**: [3+ hours]
+**Key Achievements**:
+- Escaped Void Spire via Shalk Chasm and mountain pass
+- Broke contract with Chainlord (refused artifact delivery)
+- Survived avalanche, rope escape
+- Defeated 2 giant eagles
+- Harvested resources (bones, meat, feathers)
+- Confirmed orb's cosmic horror nature (Augustus's vision)
+- Party unified on refusal to deliver artifact
+
+**Unanswered Lore**:
+- Who created the runes? What were they protecting?
+- Why were eagles untouched by Umbra?
+- What is the orb's true origin/purpose?
+
+**Party Status**:
+- Battered but cohesive
+- Augustus: Max stress (critical)
+- Artifact secured but dangerous
+- **Next**: Navigate to exit, find safe haven, plan future
+
+---
+Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: TBD
