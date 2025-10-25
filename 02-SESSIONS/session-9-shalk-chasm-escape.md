@@ -410,3 +410,48 @@ Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: TBD
   - Relief at Craven's absence
   - Blackwood as authority figure
   - Safe harbor offered
+
+#### Blackwood's Provision
+
+##### Gear Distribution
+- **Source**: Blackwood provides equipment
+- **Banjo's reward**: Dagger of Parrying
+  - **Rename**: "Harry Parry" (Banjo's choice)
+  - **Function**: Parry/defense utility
+- **Others**: [Additional gear distributed]
+
+##### Augustus's Recognition
+- **Vendor observation**: Recognizes vendor from Blackjaw Harbour
+- **Connection**: Supply chain/prior dealings
+- **Implication**: Blackwood has far-reaching network
+
+#### Blackwood Briefing - Craven Analysis
+
+##### Death Confirmation
+- **Status**: Craven eliminated
+- **Assessment**: Beyond corrupt—was only Umbra (complete transformation)
+- **Significance**: No redemption possible, full entity takeover
+
+##### Final Communication - CRITICAL
+- **Craven's message to Nicholas**: "I will be free of the cycle"
+- **Party recall**: Matches earlier communication
+- **Blackwood concern**: Visible worry at message's implications
+- **Interpretation**: 
+  - Not just corruption/possession
+  - Intentional escape attempt from cycle
+  - Breaking chains of containment
+  - Suggests pre-planned liberation
+
+##### Lore Implications
+- **Cycle reference**: Craven imprisoned in repeating pattern?
+- **Umbra role**: Was Umbra the jailer or co-prisoner?
+- **Nicholas connection**: Son left in dark about father's true nature
+- **Party danger**: If Craven escaped cycle via death, others may follow
+
+##### Supply Chain Crisis
+- **Augustus's insight**: Blackjaw Harbour vendor = untrustworthy
+- **Blackwood realization**: Supplier operations are nefarious
+- **Critical problem**: Cannot operate without this trade
+- **Consequence**: Blackwood's entire supply network tainted
+- **Trust breakdown**: Unknown how deep corruption runs
+- **Immediate impact**: Gear quality/source now questionable
