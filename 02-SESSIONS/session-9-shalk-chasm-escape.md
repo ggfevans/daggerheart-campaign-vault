@@ -296,7 +296,47 @@ Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: TBD
 - Battered but cohesive
 - Augustus: Max stress (critical)
 - Artifact secured but dangerous
-- **Next**: Navigate to exit, find safe haven, plan future
+
+## Post-Session Planning
+
+#### Strategic Discussion
+- **Thornhaven Reach**: Council potentially helpful (lore resource)
+- **Last Light Inn**: Equidistant from current position (neutral ground)
+- **Blackwood concern**: Neutral at best, must keep artifact hidden
+- **Decision**: Travel NE through Slithermrash (away from Chainlord reach)
+
+#### Next Session Setup
+- **Direction**: Northeast via Slithermrash
+- **Objective**: Reach Thornhaven Reach, seek council aid
+- **Risk**: Slithermrash terrain, Chainlord pursuit potential
+- **Artifact**: Hidden, must remain secret
+- **Party morale**: Resolved, unified on refusal
 
 ---
 Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: TBD
+
+## Continuation - Mires End Observation
+
+#### Passage Through Mires End
+- **Previous state**: Spire fire burning, settlement active
+- **Current state**: ABANDONED
+- **Spire fire**: EXTINGUISHED (no longer burning)
+- **Inhabitants**: GONE (evacuated or fled)
+- **Remnants**: Few boats scattered
+- **Implication**: Craven's death destabilized entire region
+- **Cascading consequence**: Settlement dependent on Spire's presence/power
+
+#### Significance
+- Party's actions have visible, immediate world impact
+- Mires End collapse suggests deeper Void Spire entanglement
+- Population displacement/refugee crisis potential
+
+## Arrival at Last Light Inn
+
+#### Town Approach
+- **State**: Quiet, eerily calm
+- **Spire fire**: STILL BURNING (visible in distance)
+- **Illumination**: Walls backlit by spire glow
+- **Atmosphere**: Ominous - contrast to Mires End abandonment
+- **Implication**: Last Light unaffected by Craven's death (different Spire?)
+- **Party status**: Cautious entry, artifact concealed, Blackwood presence unknown
