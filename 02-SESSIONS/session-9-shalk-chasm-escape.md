@@ -212,3 +212,33 @@ Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: TBD
 - **Result**: Eagle 1 FORCED TO GROUND (20ft altitude max)
 - **Status**: Grounded, vulnerable, severely wounded
 - **Tactical shift**: Aerial advantage eliminated
+
+### Combat Resolution - Eagles Defeated
+
+#### Final Action - Banjo
+- **Finishing strike**: Followed up on grounded Eagle 1
+- **Result**: Both eagles killed
+
+#### Harvest & Reflection
+- **Resources collected**: Eagle bones, meat, feathers
+- **Banjo's moment**: Honors lost animals - untouched by Umbra (pure creatures)
+  - **Emotion**: Guilt over necessity of killing innocent
+  - **Significance**: Regret for disrupting natural order
+- **Augustus's moment**: Shares guilt
+  - **Perspective**: Had not experienced hardship before
+  - **Realization**: Knows many face this regularly
+  - **Growth**: Confronting privilege vs. survival necessity
+- **Party mood**: Somber, reflective despite victory
+
+#### Resources Gained
+- Eagle bones, meat, feathers (utility/crafting potential)
+
+## End of Session - Unanswered Questions
+
+#### Banjo's Reflection (by fire)
+- **Question 1**: Why were the runes there?
+- **Question 2**: What were they protecting?
+- **Question 3**: How did eagles remain untouched by Umbra?
+- **Question 4**: Who made the runes?
+- **Implication**: Runes were NOT Chainlord work (eagles suggest older, separate magic)
+- **Mystery**: Ancient Void Spire defenses? Craven's predecessor? Unknown faction?
