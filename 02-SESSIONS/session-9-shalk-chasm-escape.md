@@ -340,3 +340,47 @@ Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: TBD
 - **Atmosphere**: Ominous - contrast to Mires End abandonment
 - **Implication**: Last Light unaffected by Craven's death (different Spire?)
 - **Party status**: Cautious entry, artifact concealed, Blackwood presence unknown
+
+#### Slithermrash Crossing - Character Beat
+- **Guide**: Banjo leading party through marsh
+- **Tactical suggestion**: Cover selves in mud
+- **Party action**: Complied without question
+- **Aster question**: "How does this help?"
+- **Banjo answer**: "I dunno, I just think it's funny"
+- **Outcome**: Accidental camouflage / pure chaos energy
+- **Group dynamic**: Bonding through absurdity mid-crisis
+
+#### Last Light Inn - Arrival & Observation
+
+##### Guard Activity
+- **Action**: Guards stopping traders at gates
+- **Pattern**: Questioning + systematic bribery (coins exchanged)
+- **Scale**: Organized extortion, not random harassment
+- **Implication**: New control structure in place
+
+##### Augustus's Assessment
+- **Observation**: "Ruling party getting too controlled"
+- **Recognition**: Authoritarian shift since party's departure
+- **Concern**: Power consolidation/oppression infrastructure
+- **Implication**: Chainlord influence expanding? Blackwood strengthening grip?
+
+##### Party Status
+- **Distance**: Seen from afar by guards
+- **Recognition**: No acknowledgment yet
+- **Decision point**: Approach openly, avoid guards, scout first?
+- **Risk**: Artifact discovery if searched
+
+#### Entry to Last Light Inn
+
+##### Context Shift
+- **Time elapsed**: Nearly a month since departure
+- **Conditions**: Lightless, cold world outside
+- **Spire fire**: Draw of warmth, familiar light
+- **Party state**: Muddy, exhausted, but recognizable
+
+##### Guard Recognition
+- **Initial reaction**: Wariness (muddy strangers approaching)
+- **Recognition**: "Hey, you're back! I'll be! Cmon in!"
+- **Tone**: Welcoming despite month-long absence
+- **Implication**: Party has standing/reputation here
+- **Entry**: Granted freely, no bribery needed (status shields them)
