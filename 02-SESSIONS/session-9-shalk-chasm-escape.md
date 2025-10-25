@@ -148,3 +148,35 @@ Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: TBD
 - **Terrain**: Mountain pass/ledge area near nest
 - **Enemies**: 2 giant eagles approaching
 - **Opening**: [Awaiting first round actions]
+
+### Round 1 - Eagle Assault
+
+#### Eagle Attacks
+- **Both eagles**: Deadly dive on Augustus & Aster
+- **Impact**: Severe threat to both targets
+
+#### Banjo's Defense
+- **Action**: Rogue's Dodge activated
+- **Eagle counter**: Picks up Banjo mid-dodge
+- **Reaction roll**: Banjo SUCCESS - breaks free
+- **Cost**: Dodge nullified by grab attempt (no protection benefit)
+- **Result**: Banjo escapes talons but nearly captured
+
+#### Varik (NPC) - Blood Thirsty Experience
+- **Target**: Eagle 1
+- **Attack**: SEVERE HIT
+- **Status**: Eagle 1 damaged
+- **Position**: Still flying
+
+#### Aster vs Eagle 2
+- **Attack**: MISS
+- **Eagle counter-attack**: MISS
+- **Exchange**: Mutual whiffs, eagle airborne
+
+#### Combat Status
+- **Eagle 1**: Wounded (Varik's severe hit)
+- **Eagle 2**: Full health, airborne
+- **Augustus**: Terrified, no ranged options, grounded
+- **Vaerenth**: Absent (GM controlled, not in combat)
+- **Banjo**: Dodge spent, escaped capture
+- **Aster**: Engaged, missing attacks
