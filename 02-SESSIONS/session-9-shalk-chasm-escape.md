@@ -180,3 +180,35 @@ Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: TBD
 - **Vaerenth**: Absent (GM controlled, not in combat)
 - **Banjo**: Dodge spent, escaped capture
 - **Aster**: Engaged, missing attacks
+
+### Round 2 - Turtle Fury
+
+#### Eagle 2 vs Banjo
+- **Attack**: MAJOR HIT on Banjo
+- **Damage**: Significant
+- **Status**: Banjo wounded
+
+#### Augustus - Turtle Power Experience
+- **Trigger**: Bird phobia + defending party
+- **Ability**: Turtle shell power activated
+- **Attack roll**: 22 WITH HOPE - major success
+- **Effect**: Forceful push into trees
+- **Damage**: 4 damage (all 1s rolled)
+- **Result**: Eagle 2 FLUNG INTO TREE
+- **Outcome**: Eagle KO'd by impact, DOWNED
+- **Character moment**: Galapa's terror becomes unstoppable force
+
+#### Combat Status
+- **Eagle 1**: Wounded, still airborne
+- **Eagle 2**: DOWNED (KO'd by tree impact)
+- **Party**: One threat eliminated, focus narrows
+
+### Round 3 - Final Strike
+
+#### Aster vs Eagle 1
+- **Attack**: CRIT
+- **Damage**: 31 total
+- **Ability combo**: Emblazoned Body attack + Forceful Push
+- **Result**: Eagle 1 FORCED TO GROUND (20ft altitude max)
+- **Status**: Grounded, vulnerable, severely wounded
+- **Tactical shift**: Aerial advantage eliminated
