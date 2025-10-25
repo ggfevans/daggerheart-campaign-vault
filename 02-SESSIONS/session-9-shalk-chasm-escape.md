@@ -455,3 +455,21 @@ Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: TBD
 - **Consequence**: Blackwood's entire supply network tainted
 - **Trust breakdown**: Unknown how deep corruption runs
 - **Immediate impact**: Gear quality/source now questionable
+
+#### Party Response - Strategic Plan
+
+##### Augustus's Proposal
+- **Step 1**: Trade with Valeria (alternative supplier)
+- **Augustus role**: Lead negotiations on party's behalf
+- **Goal**: Establish new supply source, reduce Blackwood dependency
+
+##### Investigation Plan
+- **Step 2**: Party approaches Blackjaw Harbour directly
+- **Objective**: Discover what's happening with vendor
+- **Method**: First-hand investigation, direct confrontation/negotiation
+- **Intent**: Understand nefarious operations, determine scope
+
+##### Strategic Thinking
+- **Diversification**: Reduce single-point-of-failure with Blackwood
+- **Transparency**: Uncover corruption network
+- **Agency**: Party controls narrative rather than Blackwood deciding for them
