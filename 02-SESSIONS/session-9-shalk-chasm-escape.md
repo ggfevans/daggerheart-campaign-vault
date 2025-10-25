@@ -370,17 +370,43 @@ Session: 2025-10-24 | Previous: [[session-8-craven-battle]] | Next: TBD
 - **Decision point**: Approach openly, avoid guards, scout first?
 - **Risk**: Artifact discovery if searched
 
-#### Entry to Last Light Inn
+#### Entry to Last Light (Town)
 
 ##### Context Shift
 - **Time elapsed**: Nearly a month since departure
 - **Conditions**: Lightless, cold world outside
-- **Spire fire**: Draw of warmth, familiar light
+- **Spire fire**: Draw of warmth, familiar light visible from distance
 - **Party state**: Muddy, exhausted, but recognizable
 
 ##### Guard Recognition
+- **Location**: Town gates/entry point
 - **Initial reaction**: Wariness (muddy strangers approaching)
 - **Recognition**: "Hey, you're back! I'll be! Cmon in!"
 - **Tone**: Welcoming despite month-long absence
-- **Implication**: Party has standing/reputation here
+- **Implication**: Party has standing/reputation in town
 - **Entry**: Granted freely, no bribery needed (status shields them)
+
+#### Town Entry - Guard Exchange
+
+##### Supply Request
+- **Guard expectation**: Party returning with supplies/progress
+- **Party reality**: No supplies to offer
+- **Banjo's response**: Gives eagle feather as consolation ("You're welcome")
+- **Aster clarification**: "We don't have much"
+
+##### Craven Status Report
+- **Guard question**: "I don't see Craven with you..."
+- **Aster response**: "He is... unfortunately corrupted. He is gone."
+- **Guard reaction**: Expectant silence (processing death)
+- **Guard admission**: "We've been doing what we can to help Nicholas. We didn't think Craven was still around. I'm glad I'm not the one to deliver the news."
+- **Guard suggestion**: "Maybe you can get Blackwood to deliver it"
+
+##### Rest & Information
+- **Aster request**: Need rest first, briefing later
+- **Aster statement**: "We have a lot of information for Blackwood"
+- **Guard response**: "Hope's Call is always available! Glad to see you back safe"
+- **Implications**: 
+  - Guards supporting Nicholas (not Craven)
+  - Relief at Craven's absence
+  - Blackwood as authority figure
+  - Safe harbor offered
