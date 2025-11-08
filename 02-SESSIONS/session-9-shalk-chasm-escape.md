@@ -1,8 +1,12 @@
 ---
-tags: session/daggerheart, date/2025-10-24
+tags:
+  - session/daggerheart
 session-number: 9
 date: 2025-10-24
-participants: [Andi, Mark, Luie, Gareth]
+participants:
+  - Mark
+  - Luie
+  - Gareth
 ---
 
 # Session 9 - The Shalk Chasm Escape

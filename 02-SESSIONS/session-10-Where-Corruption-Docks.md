@@ -1,8 +1,13 @@
 ---
-tags: session/daggerheart, date/2025-11-07
+tags:
+  - session/daggerheart
+  - date/2025-11-07
 session-number: 10
 date: 2025-11-07
-participants: [Andi, Luie, Gareth]
+participants:
+  - Andi
+  - Luie
+  - Gareth
 ---
 
 # Session 10 - 2025-11-07
@@ -287,7 +292,7 @@ Plot:
 ---
 
 ## Next Session
-**Previous:** [[session-9-shalk-chasm-escape-clean]] | **Next:** TBD
+**Previous:** [[session-9-shalk-chasm-escape]] | **Next:** TBD
 
 ---
 
@@ -1250,6 +1255,5 @@ Plot:
 
 ---
 
-**Previous:** [[session-9-shalk-chasm-escape-clean]] | **Next:** Session 11 (Crooked Keel Investigation)
+**Previous:** [[session-9-shalk-chasm-escape]] | **Next:** Session 11 (Crooked Keel Investigation)
 
-*Session 10 Duration: 3+ hours | Participants: Andi, Luie, Gareth | GM: Geoff*
