@@ -13,7 +13,7 @@ participants:
 # Session 10 - 2025-11-07
 
 ## Overview
-Blackjaw Harbour investigation. Supply chain corruption. Augustus absent (MAX STRESS recovery). Party without healer.
+Blackjaw Harbour investigation. Supply chain corruption. Augustus absent (MAX STRESS recovery). Party without tank.
 
 ---
 
