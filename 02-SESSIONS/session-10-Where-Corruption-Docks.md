@@ -1158,7 +1158,6 @@ Plot:
 - One Eye (fake captain, uncertain reliability)
 - Ship still anchored/damaged
 - Only one safe place visible (Crooked Keel)
-- Vane possibly inside waiting
 ---
 
 ## THE CROOKED KEEL - LONG REST
@@ -1169,13 +1168,13 @@ Plot:
 **Duration**: Full recovery cycle
 
 ### Banjo's Recovery Stats
-- **HP**: 2/7 (still wounded, low)
-- **Armor**: 0/3 (completely lost, vulnerable)
+- **HP**: 2/7 (still wounded)
+- **Armor**: 0/3
 - **Stress**: 0/7 (FULLY RECOVERED—psychologically grounded)
-- **Hope**: 5/6 (mostly restored, some reserves remaining)
+- **Hope**: 5/6 
 
 ### Party Recovery Status
-**Banjo**: Stress gone, but physically fragile (low HP, no armor)
+**Banjo**: Stress gone, physically fragile
 **Aster**: 1 HP → [recovered to full?] (confirmation needed)
 **Vaerenth**: Wounds tended, ready
 **All**: Prepared for next confrontation
@@ -1215,22 +1214,9 @@ Plot:
 - Connection to supply chain corruption revealed
 ---
 
-## SESSION 10 SUMMARY
-
-| Element | Status |
-|---------|--------|
-| **Party** | Recovered (barely), rest taken at Crooked Keel |
-| **Banjo** | 2/7 HP, 0/3 armor, 0/7 stress, 5/6 hope |
-| **Aster** | HP recovered to full (from long rest) |
-| **Vaerenth** | Wounds tended, recovered |
-| **Ship** | The Wet Rat—docked, hull damaged, cargo intact |
-| **Enemy** | Vane escaped (phantom shift), Bubba dead, pirates eliminated |
-| **Location** | Blackjaw Harbour—corrupted, zombielike population, Okros spire visible north |
-| **Next Mystery** | Hole in Crooked Keel running to water (investigation pending) |
-
 ### Key Discoveries
 - Blackjaw Harbour is corruption epicenter (Umbra territory)
-- Supply chain corruption originates HERE
+- Supply chain corruption perhaps originates here
 - Vane's home port—likely underground infrastructure
 - Crooked Keel = ship repurposed as pub with hidden water access
 - Population completely corrupted/enslaved
@@ -1251,4 +1237,3 @@ Plot:
 ---
 
 **Previous:** [[session-9-shalk-chasm-escape]] | **Next:** Session 11 (Crooked Keel Investigation)
-
