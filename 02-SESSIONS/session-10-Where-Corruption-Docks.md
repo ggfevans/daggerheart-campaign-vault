@@ -62,9 +62,6 @@ Banjo creeps around examining cargo while party engages captain.
 
 **Banjo's Remark** (to party):
 "There is some significant cargo. It would be a shame to go into the wrong hands."
-
-**Implication**: Cargo + control of ship + fugitive status = tactical opportunity. Destination/intended recipient = critical unknown.
-
 ### Departure - Playing Along
 Party integrates as crew with Captain One Eye. Ship sets sail from Blackjaw Harbour.
 
@@ -72,9 +69,7 @@ Party integrates as crew with Captain One Eye. Ship sets sail from Blackjaw Harb
 - Party controls ship (effectively 3 crew + captain)
 - Valuable cargo secured below
 - Gathering intel underway
-- Destination: Unknown to party (learning en route)
-- Cover: Acting as legitimate crew
-
+- Destination: Blackjaw Harbour
 ### At Sea - Black Glass Lake
 **Current Conditions**
 - Location: Black Glass Lake (Michigan-scale, vast)
@@ -1030,7 +1025,7 @@ Plot:
 
 ---
 
-## SESSION 9 ENDING - THE WET RAT SECURED
+## SESSION 10 ENDING - THE WET RAT SECURED
 
 ### Party Status - BARELY ALIVE
 - **Banjo**: 7/7 STRESS (completely broken, cannot take more), 1 HP damaged, stamina potion spent
